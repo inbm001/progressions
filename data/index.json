@@ -1,8 +1,8 @@
 {
-  "count": 328,
+  "count": 368,
   "ok": 196,
-  "failed": 132,
-  "updated": "2026-09-03 21:20:53",
+  "failed": 172,
+  "updated": "2026-09-03 21:21:02",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -180,11 +180,25 @@
       "status": "ok"
     },
     {
+      "id": "4LIl7WXQK_I",
+      "title": "Jamiroquai “Butterfly” Chords 🔥🎹🔥 Pure Acid Jazz Magic #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "4RhVV4DYLm8",
       "title": "Pharrell Williams and Jay-Z “Frontin'” Bridge Chords 🔥🎹🔥 Happy Birthday, Pharrell April 5.2026",
       "n_chords": 21,
       "duration_sec": 9.5,
       "status": "ok"
+    },
+    {
+      "id": "4uo1NuGc40s",
+      "title": "Magdalena Bay “Secrets (Your Fire)” Chords 🔥🎹🔥 (Blast From The Not Too Distant Past)",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "4YbM--AoOsY",
@@ -234,6 +248,13 @@
       "n_chords": 14,
       "duration_sec": 10.5,
       "status": "ok"
+    },
+    {
+      "id": "5uKz3g9jOvA",
+      "title": "Tyler, The Creator “Mother” Chords Part 2 - Guitar Part Included! 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "5vk9_aQMMJA",
@@ -327,6 +348,13 @@
       "status": "ok"
     },
     {
+      "id": "8-MJZ6i2NJs",
+      "title": "Jamiroquai “Spend A Lifetime” Chords 🔥🎹🔥 29.10 Toby Smith Birthday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "8F9yc0U4A4Y",
       "title": "Gran Turismo 5 “Night Birds” Chords 🔥🎹🔥 Composer - Yudai Satoh #musicianparadise",
       "n_chords": 47,
@@ -360,6 +388,20 @@
       "n_chords": 17,
       "duration_sec": 21.0,
       "status": "ok"
+    },
+    {
+      "id": "8TNLi7Z1UHI",
+      "title": "Flying Lotus “Heave(n)” Chords 🔥🎹🔥 MIDI Breakdown",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "8xfQ7Wl81oM",
+      "title": "Street Fighter EX Plus @ OST “Strange Sunset” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "8Ya3aU0NFHs",
@@ -481,6 +523,20 @@
       "status": "ok"
     },
     {
+      "id": "abGDvFro7C0",
+      "title": "Tyler, The Creator “Mother” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "AhAOTVTOn9Y",
+      "title": "Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Ak3UFyizDGM",
       "title": "J Dilla’s Hidden Gem: “Dewitt To Do It” Chords Unlocked 🔥🎹🔥",
       "n_chords": 0,
@@ -572,6 +628,13 @@
       "status": "ok"
     },
     {
+      "id": "bKBn9BW6Mxg",
+      "title": "The Neptunes - Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "bmLQjADGpm0",
       "title": "Paul McCartney “Wonderful Christmastime” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -616,6 +679,13 @@
     {
       "id": "bzxWSE6_u_M",
       "title": "Simple Presets - Complex Chords - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "c5lIzFDfPc4",
+      "title": "Patrice Rushen “Settle For My Love” Chords 🔥🎹🔥Masterclass in Soulful Harmony",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -705,6 +775,13 @@
       "status": "ok"
     },
     {
+      "id": "D60oiS2Wmp4",
+      "title": "Jamiroquai “Blow Your Mind” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "D6KNm7LzUKk",
       "title": "Jill Scott “I Think It's Better” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 41,
@@ -740,11 +817,25 @@
       "status": "ok"
     },
     {
+      "id": "dJttZI5yrmg",
+      "title": "The Sims Soundtrack - Neighborhood 7 Chords 🔥🎹🔥 Gaming Sunday 🎮 Jerry Martin & Marc Russo",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "DKnyHa8yplM",
       "title": "Stevie Wonder “Golden Lady” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
       "duration_sec": 21.75,
       "status": "ok"
+    },
+    {
+      "id": "DQ6WKblH_xE",
+      "title": "Natasha Ramos “Midnight Hour” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "DsSnWXikHq0",
@@ -766,6 +857,13 @@
       "n_chords": 4,
       "duration_sec": 19.5,
       "status": "ok"
+    },
+    {
+      "id": "DYqHmF0U_Ao",
+      "title": "Jay Z “Allure” Chords 🔥🎹🔥 The Neptunes production #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "DyrvncHciQU",
@@ -801,6 +899,13 @@
       "n_chords": 14,
       "duration_sec": 13.5,
       "status": "ok"
+    },
+    {
+      "id": "eMNuP4nTwoc",
+      "title": "Jill Scott “Gettin In The Way” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "ePsUt7EG5UM",
@@ -943,6 +1048,13 @@
       "status": "ok"
     },
     {
+      "id": "GGH-7RCYdRU",
+      "title": "Rare Tyler, The Creator Chords You’ve Never Heard - Unreleased 🔥🎹🔥 WOLF Documentary Era 🎧",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Ggnq80BOWOQ",
       "title": "Jamiroquai “Shoot The Moon” Chords | Rare Montreux 2003 Jam 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -955,6 +1067,13 @@
       "n_chords": 49,
       "duration_sec": 56.5,
       "status": "ok"
+    },
+    {
+      "id": "gi-Zttn4bFw",
+      "title": "Don Carlos “Alone” (Paradise) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "GISgumdJ45k",
@@ -1118,6 +1237,13 @@
       "status": "ok"
     },
     {
+      "id": "IFnbEB2JhhA",
+      "title": "Weldon Irvine “Music Is the Key” Intro Chords 🔥🎹🔥 Sampling Heaven",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "ilVIMsTEfLI",
       "title": "Kendrick Lamar’s “Complexion” Final Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -1223,8 +1349,22 @@
       "status": "ok"
     },
     {
+      "id": "JRtX0_B-Ti8",
+      "title": "Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "JVR02jzAnJI",
       "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "K1K-ThOx_Wk",
+      "title": "Persona 3 Reload Lotus Ju \"Color Your Night” Chords 🔥🎹🔥 Gaming Sunday 🎮 Author -Atsushi Kitajoh",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1307,6 +1447,13 @@
       "status": "ok"
     },
     {
+      "id": "l6eyqAOOM_4",
+      "title": "“Mission Complete” Final Fantasy X-2 Chords 🔥🎹🔥 Composers - Noriko Matsueda, Takahito Eguchi",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "LAIXD_fgBeU",
       "title": "I'm learning to play a new chord progression every day 🔥🎹🔥",
       "n_chords": 0,
@@ -1358,6 +1505,13 @@
     {
       "id": "Lxov5PWLau4",
       "title": "Louis Cole “Laughing in Her Sleep” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "lXP-2nrqM7U",
+      "title": "Johnny Hammond “Los Conquistadores Chocolates” Chords 🔥🎹🔥 The Chords Jamiroquai Loved… From 1975!",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1496,6 +1650,13 @@
       "status": "ok"
     },
     {
+      "id": "N9rDpVINEAY",
+      "title": "Jamiroquai “When You Gonna Learn” Chords 🔥🎹🔥 Acid Jazz Classic MIDI Breakdown!",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "nbVk_i9qeso",
       "title": "Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -1508,6 +1669,13 @@
       "n_chords": 2,
       "duration_sec": 16.25,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "ng_8yeRe9lw",
+      "title": "Kanye West & Pharrell “Diamonds & Dollars” Chords 🔥🎹🔥Chad Hugo Chords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "nK0ZJYSmnCU",
@@ -1550,6 +1718,13 @@
       "n_chords": 64,
       "duration_sec": 64.0,
       "status": "ok"
+    },
+    {
+      "id": "nzLIa_8Ga3w",
+      "title": "Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "ObN0iqdRVU0",
@@ -1664,8 +1839,22 @@
       "status": "ok"
     },
     {
+      "id": "Pt4WSA_Xh1A",
+      "title": "2Pac Ft. Nate Dogg “Skandalouz” Chords 🔥🎹🔥 Rhodes part was played by Sean \"Barney Rubble\"",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "PwAe6PiFXh0",
       "title": "Adriana Evans “Reality” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "pYUDfyh4j-Y",
+      "title": "Weldon Irvine “Morning Sunrise” Soulful Chords Secrets 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1755,6 +1944,13 @@
       "status": "no_frames"
     },
     {
+      "id": "qZURWjXK354",
+      "title": "Imagine A House Beat Along With These Chords 🔥🎹🔥 Steal These Chords 31 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "RaQLGBi6gEQ",
       "title": "Street Fighter III 3rd Strike “Twilight” (Ibuki's Stage) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -1783,6 +1979,13 @@
       "status": "no_frames"
     },
     {
+      "id": "RnE-wbeSZnk",
+      "title": "MF DOOM “Red And Gold” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "RQhFxAaIuEQ",
       "title": "J Dilla “Unreleased 1996 Beat” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -1792,6 +1995,13 @@
     {
       "id": "RqOaZtn9sq8",
       "title": "Ripchord Chord Presets + Sustain Pedal + Pitch FX - Chord Presets for Ripchord VST",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "rTBwcxd-LGw",
+      "title": "J.Cole “False Prophets” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1830,6 +2040,13 @@
       "n_chords": 24,
       "duration_sec": 32.0,
       "status": "ok"
+    },
+    {
+      "id": "s_0t1qcbkrE",
+      "title": "Jamiroquai “Love Foolosophy” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "s_lwX93sPtY",
@@ -1972,6 +2189,13 @@
       "status": "ok"
     },
     {
+      "id": "TPNKblPlO_Y",
+      "title": "Westside Gunn “Shootouts In Soho” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "TSO9Ca8z9Ao",
       "title": "Gran Turismo 3 A-Spec “Light Velocity” Chords 🔥🎹🔥 Gaming Sunday. Composer Isamu Ohira",
       "n_chords": 29,
@@ -2028,6 +2252,13 @@
       "status": "ok"
     },
     {
+      "id": "u3hMzmmG9E0",
+      "title": "Westside Gunn Ft. Wale & Joyce Wrice “French Toast” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "U688UyqOLCQ",
       "title": "Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -2077,11 +2308,25 @@
       "status": "ok"
     },
     {
+      "id": "uZ04zvhw2iQ",
+      "title": "Lori Vornoy - Dungeons of Blood and Dream OST - “Slime Chorus” Final Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "V1Znb9e_7CY",
       "title": "Frogger Advance “The Great Quest” Chords 🎮🎹🎮 Gaming Sunday (On Monday)",
       "n_chords": 29,
       "duration_sec": 16.0,
       "status": "ok"
+    },
+    {
+      "id": "V3V-p9-1uyQ",
+      "title": "Natasha Ramos “Midnight Hour” Chords 🔥🎹🔥 The Neptunes’ Secrets Revealed!",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "V_XvTM4gtmg",
@@ -2147,6 +2392,13 @@
       "status": "ok"
     },
     {
+      "id": "X8HioHTYoH0",
+      "title": "“Loop Demo Racing Lagoon OST” Chords 🔥🎹🔥 Takahito Eguchi & Noriko Matsueda",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "X99h9OROu-g",
       "title": "Custom Scaler Chord Presets - Scaler, Ripchord VST, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -2196,6 +2448,13 @@
       "status": "no_frames"
     },
     {
+      "id": "XN9A8Rx-djk",
+      "title": "Rah-o “HawT” (Mr. Church Piano Scene) Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "xO1ZNriqOcw",
       "title": "Jamiroquai “Virtual Insanity” Final 🔥🎹🔥 The final bit—parts nobody wants to teach.",
       "n_chords": 17,
@@ -2236,6 +2495,27 @@
       "n_chords": 22,
       "duration_sec": 42.25,
       "status": "ok"
+    },
+    {
+      "id": "YUUiEzJ7kzQ",
+      "title": "Patrice Rushen “Remind Me” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "YWFUlvI7FS8",
+      "title": "Freddie Gibbs & Madlib \"Crime Pays\" Chords 🔥🎹🔥 Sample - Walt Barr “Free Spirit”",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "z0OtYxNUVZ4",
+      "title": "Level 42 Chord Secrets Revealed - Stunning Bridge in “It’s Over” 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "Z1qD9WGbTNg",
