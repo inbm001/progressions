@@ -214,6 +214,27 @@ def fetch(e):
     return vid
 
 
+def join_boxes(r):
+    """판독된 글자 조각을 화면상 왼쪽에서 오른쪽 순으로 이어 붙인다.
+
+    글자가 크면 한 코드가 여러 조각으로 쪼개지는데, 판독기가 돌려주는
+    순서는 화면 순서가 아니다. 그대로 붙이면 'B min9(11)' 이
+    '9 (11) B mins' 로 뒤집힌다. 조각의 좌표로 다시 세운다.
+    """
+    if not r:
+        return ""
+    items = []
+    for x in r:
+        box, txt = x[0], x[1]
+        try:
+            xs = [p[0] for p in box]
+            items.append((min(xs), txt))
+        except Exception:
+            items.append((0.0, txt))          # 좌표가 없으면 원래 순서 유지
+    items.sort(key=lambda t: t[0])
+    return " ".join(t for _, t in items)
+
+
 # ---------- 2. 한 곡 OCR -> 구간 ----------
 def process(entry):
     """워커 프로세스. 한 곡을 통째로 처리하고 done/<vid>.json 을 쓴다."""
@@ -253,7 +274,7 @@ def process(entry):
     text, n_ok, n_bad, bad, n_slow = {}, 0, 0, [], 0
     for f in todo:
         r, _ = eng(str(f))
-        raw = " ".join(x[1] for x in r) if r else ""
+        raw = join_boxes(r)
         c = normalize(raw)
         text[f.name] = c
         if raw.strip():

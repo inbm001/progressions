@@ -1,8 +1,8 @@
 {
-  "count": 48,
-  "ok": 46,
-  "failed": 2,
-  "updated": "2026-09-03 17:52:17",
+  "count": 88,
+  "ok": 84,
+  "failed": 4,
+  "updated": "2026-09-03 18:27:03",
   "songs": [
     {
       "id": "-gDI19p8oq0",
@@ -16,6 +16,20 @@
       "title": "Isabelle Antena “The French Riviera” Chords Intro 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
       "duration_sec": 15.5,
+      "status": "ok"
+    },
+    {
+      "id": "-Nj7d_saf_o",
+      "title": "Stevie Wonder, Minnie Riperton “Take A Little Trip” Pt.2 Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 29,
+      "duration_sec": 34.0,
+      "status": "ok"
+    },
+    {
+      "id": "-nwhSnCpGoE",
+      "title": "Kendrick Lamar “The Art Of Peer Pressure” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 22.75,
       "status": "ok"
     },
     {
@@ -40,6 +54,13 @@
       "status": "ok"
     },
     {
+      "id": "3yZorBC9-_8",
+      "title": "Slave “Steal Your Heart” Chords 🔥🎹🔥 Funk Soul Classic #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 35.0,
+      "status": "ok"
+    },
+    {
       "id": "4KUvNNpuecE",
       "title": "JPEGMAFIA “1539 N. Calvert” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -54,10 +75,59 @@
       "status": "ok"
     },
     {
+      "id": "77PZfk_krlE",
+      "title": "Michael Jackson “The Toy” (Demo) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 29,
+      "duration_sec": 46.25,
+      "status": "ok"
+    },
+    {
+      "id": "7UXM4kDswRw",
+      "title": "The Neptunes Ft. Common “Punch Drunk Love” Remix Bridge Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 25.0,
+      "status": "ok"
+    },
+    {
+      "id": "8F9yc0U4A4Y",
+      "title": "Gran Turismo 5 “Night Birds” Chords 🔥🎹🔥 Composer - Yudai Satoh #musicianparadise",
+      "n_chords": 47,
+      "duration_sec": 53.5,
+      "status": "ok"
+    },
+    {
+      "id": "8Jq1njxvgTg",
+      "title": "Pharrell Williams Pusha T Malice “E.B.I.T.D.A” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 19.25,
+      "status": "ok"
+    },
+    {
+      "id": "_y6CR_p7udY",
+      "title": "Behind the scenes! This is what recording these videos actually looks like. 😄 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 14.5,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "AQXigfksP-I",
       "title": "The Neptunes Star Trak “Website Background Music” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
       "duration_sec": 21.25,
+      "status": "ok"
+    },
+    {
+      "id": "aTmnSIIqKVU",
+      "title": "Slakah the Beatchild Ft. Glenn Lewis “Number 1” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 10.25,
+      "status": "ok"
+    },
+    {
+      "id": "BevUEp2Eemo",
+      "title": "Roy Ayers Style Exercise 👌🎹🔥 Soulful 70s style chords #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 12.0,
       "status": "ok"
     },
     {
@@ -75,10 +145,52 @@
       "status": "ok"
     },
     {
+      "id": "CCHrR4d12go",
+      "title": "Steely Dan “The Royal Scam” Chords 🔥🎹🔥 Jazz Rock Masterpiece #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 11.0,
+      "status": "ok"
+    },
+    {
+      "id": "cjYEA3uAnsY",
+      "title": "The Isley Brothers “Footsteps In The Dark” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 41.25,
+      "status": "ok"
+    },
+    {
+      "id": "csq6DKSnfY0",
+      "title": "Lyves Ft. Jalen Santoy “Certain Things” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 24.0,
+      "status": "ok"
+    },
+    {
+      "id": "d1omfVvcZUc",
+      "title": "Devin Morrison “No” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 10.75,
+      "status": "ok"
+    },
+    {
+      "id": "d8dW7ZCs0Ug",
+      "title": "Michael Jackson “The Lady In My Life” Chords Pt.1 🔥🎹🔥 After countless requests, it’s finally here!",
+      "n_chords": 41,
+      "duration_sec": 59.0,
+      "status": "ok"
+    },
+    {
       "id": "dIBYB3RRzs0",
       "title": "Roberta Flack “I Can See The Sun In Late December” Chords 🔥🎹🔥 Stevie Wonder Song #musicianparadise",
       "n_chords": 50,
       "duration_sec": 52.5,
+      "status": "ok"
+    },
+    {
+      "id": "dWvFVr3M2Bs",
+      "title": "Sade “I Couldn't Love You More” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 4,
+      "duration_sec": 19.5,
       "status": "ok"
     },
     {
@@ -138,10 +250,31 @@
       "status": "ok"
     },
     {
+      "id": "GqnLu9EsCdc",
+      "title": "The Isley Brothers “Sensuality” Chords 🔥🎹🔥 80s Soul Masterpiece #musicianparadise",
+      "n_chords": 44,
+      "duration_sec": 60.0,
+      "status": "ok"
+    },
+    {
       "id": "gyl2NM906-Y",
       "title": "Michael Jackson “That’s What You Get (For Being Polite)” Chords 🔥🎹🔥 Greg Phillinganes Harmony",
       "n_chords": 37,
       "duration_sec": 42.5,
+      "status": "ok"
+    },
+    {
+      "id": "hDQibtYTXuk",
+      "title": "Roland Garros 2005 Smash Court Tennis “Opening” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 30.25,
+      "status": "ok"
+    },
+    {
+      "id": "HKf4KMcHoEw",
+      "title": "Ledisi “Alright” Chords 🔥🎹🔥The Gorgeous Chords Behind Ledisi's Soul Classic #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 22.0,
       "status": "ok"
     },
     {
@@ -159,6 +292,27 @@
       "status": "ok"
     },
     {
+      "id": "HvE4cO1gAL0",
+      "title": "Gran Turismo 5 “The Power Of GT” Chords 🔥🎹🔥 Gaming Sunday - Composer Yudai Satoh",
+      "n_chords": 51,
+      "duration_sec": 57.0,
+      "status": "ok"
+    },
+    {
+      "id": "IDGAVohlAIo",
+      "title": "Justin Timberlake “Take It From Here” Chords 🔥🎹🔥 The Neptunes Production - Chad Hugo Chords",
+      "n_chords": 25,
+      "duration_sec": 35.25,
+      "status": "ok"
+    },
+    {
+      "id": "ixQSlNPZmjY",
+      "title": "You Asked For It…Herbie Hancock “Paradise” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 59,
+      "duration_sec": 59.75,
+      "status": "ok"
+    },
+    {
       "id": "J3i60fBLKpc",
       "title": "Pharrell “Bad Day”(Despicable Me) Chords 🔥🎹🔥 Original Motion Picture Soundtrack #musicianparadise",
       "n_chords": 26,
@@ -166,10 +320,66 @@
       "status": "ok"
     },
     {
+      "id": "j7DAO7_RUGc",
+      "title": "Michael Jackson “The Lady In My Life” Chords Pt.2 🔥🎹🔥 #musicianparadise",
+      "n_chords": 39,
+      "duration_sec": 59.25,
+      "status": "ok"
+    },
+    {
+      "id": "kfQTqNBF8M8",
+      "title": "Gran Turismo 4 “Arcade Mode” Chords 🔥🎹🔥 \"Light Velocity Ver.II\"  Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": 30.75,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "KkVGDdGIZ8c",
+      "title": "Tom Browne “Thighs High” (Grip Your Hips and Move) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 30.25,
+      "status": "ok"
+    },
+    {
+      "id": "kkvotaPYgnA",
+      "title": "Toni Braxton “Hit The Freeway” Chords 🔥🎹🔥 2000s R&B Classic - Chad Hugo Chords",
+      "n_chords": 8,
+      "duration_sec": 20.25,
+      "status": "ok"
+    },
+    {
+      "id": "M9Gw0r-lu5o",
+      "title": "Daft Punk “Short Circuit” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 34.5,
+      "status": "ok"
+    },
+    {
+      "id": "Mgi3HmHxi8Y",
+      "title": "Bobby Hutcherson “Procession” Chords 🔥🎹🔥 Spiritual Jazz Harmony #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 48.0,
+      "status": "ok"
+    },
+    {
+      "id": "MhYJwwW_pvE",
+      "title": "Nas “The World Is Yours” Chords 🔥🎹🔥 Happy Birthday to Ahmad Jamal (July 2, 1930) 🎹",
+      "n_chords": 14,
+      "duration_sec": 11.0,
+      "status": "ok"
+    },
+    {
       "id": "MvvyfiTMxPY",
       "title": "Mr. Fingers “What About This Love” Chords 🔥🎹🔥 Deep House Classic #MusicianParadise",
       "n_chords": 16,
       "duration_sec": 34.0,
+      "status": "ok"
+    },
+    {
+      "id": "N6K8G8pItUE",
+      "title": "Stevie Wonder “My Cherie Amour” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 31,
+      "duration_sec": 47.75,
       "status": "ok"
     },
     {
@@ -222,10 +432,31 @@
       "status": "ok"
     },
     {
+      "id": "qop5gSMofn0",
+      "title": "Donald Fagen (Steely Dan) “Maxine” Intro Chords 🔥🎹🔥 Jazz Rock Perfection #MusicianParadise",
+      "n_chords": 17,
+      "duration_sec": 18.25,
+      "status": "ok"
+    },
+    {
       "id": "Rd9_ukWZ0Zk",
       "title": "The Black Eyed Peas “Imma Be” Bridge Chords 🔥🎹🔥 Futuristic Harmony #musicianparadise",
       "n_chords": 9,
       "duration_sec": 15.75,
+      "status": "ok"
+    },
+    {
+      "id": "rwOkWTNL_Vo",
+      "title": "Gran Turismo 5 Prologue “Current Of The Times” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Yudai Satoh",
+      "n_chords": 15,
+      "duration_sec": 12.5,
+      "status": "ok"
+    },
+    {
+      "id": "RWRuQeXQZd4",
+      "title": "2Pac “I Get Around” Chords 🔥🎹🔥 June 16 - Tupac Shakur Birthday",
+      "n_chords": 9,
+      "duration_sec": 10.0,
       "status": "ok"
     },
     {
@@ -250,6 +481,20 @@
       "status": "ok"
     },
     {
+      "id": "SVElq2JGY0A",
+      "title": "World Renown “How Nice I Am” Dark Chords 🔥🎹🔥  Sample: Chick Corea \"Tones for Joan's Bones\" (1968)",
+      "n_chords": 8,
+      "duration_sec": 10.25,
+      "status": "ok"
+    },
+    {
+      "id": "sZXQmgLKZYE",
+      "title": "August Greene Aya Chords 🔥🎹🔥 Jazz Hip Hop Masterpiece: Time Signature?",
+      "n_chords": 16,
+      "duration_sec": 10.5,
+      "status": "ok"
+    },
+    {
       "id": "TBA4xWJz69w",
       "title": "D’Angelo “Ex to the Next” chords 🔥🎹🔥 I can sing Benny Golson’s “Killer Joe” over them!",
       "n_chords": 12,
@@ -261,6 +506,20 @@
       "title": "DOMi & JD BECK “SMiLE” chords 🔥🎹🔥 I had to heavily edit the track to fit the chords into this video.",
       "n_chords": 55,
       "duration_sec": 48.25,
+      "status": "ok"
+    },
+    {
+      "id": "thsqCCNb3vM",
+      "title": "Amp Fiddler Ft. Neco Redd, Andrés & Bubz Fiddler “No Politics” Chords 🔥🎹🔥#MusicianParadise",
+      "n_chords": 12,
+      "duration_sec": 20.0,
+      "status": "ok"
+    },
+    {
+      "id": "tMQ_rjOWrN0",
+      "title": "Casiopea “Tears Of The Star” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 29.75,
       "status": "ok"
     },
     {
@@ -292,10 +551,24 @@
       "status": "ok"
     },
     {
+      "id": "VHXaqEG3xJ4",
+      "title": "Stevie Wonder, Minnie Riperton “Take A Little Trip” Pt.1 Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 25,
+      "duration_sec": 31.5,
+      "status": "ok"
+    },
+    {
       "id": "Vloi0u62MQM",
       "title": "Don Blackman “Heart’s Desire” Chords 🔥🎹🔥 01.09.1953 Don Blackman Birthday 🎉 New York jazz-funk",
       "n_chords": 11,
       "duration_sec": 19.25,
+      "status": "ok"
+    },
+    {
+      "id": "x07AuHc3RBY",
+      "title": "2Pac “Do For Love” Chords 🔥🎹🔥 Chords - Bobby Caldwell's 1978 hit \"What You Won't Do For Love\"",
+      "n_chords": 17,
+      "duration_sec": 20.25,
       "status": "ok"
     },
     {
@@ -331,6 +604,13 @@
       "title": "Marcos Valle Ft. Leon Ware “Feels So Good” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
       "duration_sec": 39.75,
+      "status": "ok"
+    },
+    {
+      "id": "zwwOKrpv98U",
+      "title": "J Dilla “Alien Family” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 22,
+      "duration_sec": 11.25,
       "status": "ok"
     },
     {
