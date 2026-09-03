@@ -39,6 +39,7 @@ OUT    = ROOT / "out"
 DATA   = ROOT / "data"          # 저장소에 올라가는 결과물
 PUBLISH = os.environ.get("NO_PUBLISH") != "1"   # 배치마다 저장소에 반영
 MIN_EXPECTED = 200      # 전체 실행 시 이 이하면 목록이 잘린 것으로 본다
+BAD_ABORT    = 0.5      # 한 배치 실패율이 이 이상이면 경고, 두 번 연속이면 중단
 FFMPEG = r"C:\Users\inbm\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
 
@@ -192,13 +193,18 @@ def fetch(e):
     d.mkdir(parents=True, exist_ok=True)
     if list(d.glob("f_*.jpg")):
         return vid
-    subprocess.run(
+    r = subprocess.run(
         YTDLP + ["-f", "bv*/b", "-S", "res:720", "--no-warnings", "-q",
                  "--ffmpeg-location", FFMPEG,
                  "-o", str(d / "v.%(ext)s"), f"https://www.youtube.com/watch?v={vid}"],
-        capture_output=True)
+        capture_output=True, text=True, encoding="utf-8", errors="replace",
+        env=ENV_UTF8)
     vf = next((p for p in d.glob("v.*")), None)
     if vf is None:
+        # 실패 이유를 남긴다. 조용히 넘어가면 도구가 깨져도 알 수 없다.
+        err = (r.stderr or r.stdout or "").strip()[:300]
+        (d / "dl_error.txt").write_text(
+            f"rc={r.returncode}\n{err}\n", encoding="utf-8")
         return vid
 
     top, bh, how = detect_band(vf, d)
@@ -256,8 +262,10 @@ def process(entry):
             pass
     frames = sorted(d.glob("f_*.jpg"))
     if not frames:
+        ep = d / "dl_error.txt"
+        why = ep.read_text(encoding="utf-8").strip() if ep.exists() else ""
         rec = {"id": vid, "title": title, "url": f"https://www.youtube.com/watch?v={vid}",
-               "status": "no_frames", "progression": []}
+               "status": "no_frames", "error": why[:300], "progression": []}
         (DONE / f"{vid}.json").write_text(json.dumps(rec, ensure_ascii=False), encoding="utf-8")
         return rec
 
@@ -409,6 +417,7 @@ def main():
     # --- 배치로 나눠 처리: 다운로드와 OCR을 겹쳐 돌린다 ---
     BATCH = 40
     n_done = 0
+    n_streak = 0
     for i in range(0, len(todo), BATCH):
         chunk = todo[i:i + BATCH]
         t = time.perf_counter()
@@ -417,16 +426,36 @@ def main():
         t_dl = time.perf_counter() - t
 
         t = time.perf_counter()
+        n_bad = 0
         with cf.ProcessPoolExecutor(max_workers=oc_w) as ex:
-            for _ in ex.map(process, chunk):
+            for rec in ex.map(process, chunk):
                 n_done += 1
+                if rec.get("status") != "ok":
+                    n_bad += 1
         t_oc = time.perf_counter() - t
 
         el = time.perf_counter() - T0
         rate = el / max(n_done, 1)
         left = (len(todo) - n_done) * rate / 60
+        bad_rate = n_bad / len(chunk)
         print(f"[{n_done}/{len(todo)}] dl={t_dl:.0f}s ocr={t_oc:.0f}s "
-              f"| {rate:.1f}s/video | ETA {left:.0f}min", flush=True)
+              f"| {rate:.1f}s/video | 실패 {n_bad}/{len(chunk)} "
+              f"| ETA {left:.0f}min", flush=True)
+
+        # 도구가 깨지면 다운로드가 조용히 실패하며 빈 결과만 쌓인다.
+        # 한 배치가 통째로 무너지면 그 뒤는 전부 낭비이므로 즉시 멈춘다.
+        if bad_rate >= BAD_ABORT:
+            n_streak += 1
+            print(f"[warn] 실패율 {bad_rate:.0%} ({n_streak}회 연속)", flush=True)
+            if n_streak >= 2:
+                print(f"[ABORT] 두 배치 연속 실패율 {BAD_ABORT:.0%} 이상.\n"
+                      f"        다운로드 도구가 깨졌을 수 있습니다.\n"
+                      f"        확인: uvx yt-dlp --version", flush=True)
+                write_outputs()
+                publish()
+                return
+        else:
+            n_streak = 0
 
         # 중간 집계 저장 + 저장소 반영
         write_outputs()
