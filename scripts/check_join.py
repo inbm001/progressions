@@ -19,6 +19,7 @@ def main(vid):
         print(f"{vid}: no crops — run dump_crop.py first")
         return
 
+    from PIL import Image
     from rapidocr_onnxruntime import RapidOCR
     eng = RapidOCR()
 
@@ -26,7 +27,7 @@ def main(vid):
     for f in frames:
         r, _ = eng(str(f))
         old = " ".join(x[1] for x in r) if r else ""
-        new = collect.join_boxes(r)
+        new = collect.join_boxes(r, Image.open(f).size[1])
         o = collect.normalize(old)
         n = collect.normalize(new)
         n_old += 1 if o else 0

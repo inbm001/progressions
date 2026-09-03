@@ -220,25 +220,43 @@ def fetch(e):
     return vid
 
 
-def join_boxes(r):
-    """판독된 글자 조각을 화면상 왼쪽에서 오른쪽 순으로 이어 붙인다.
+def join_boxes(r, img_h=None):
+    """판독된 글자 조각을 코드 심볼만 골라 왼쪽→오른쪽 순으로 붙인다.
 
-    글자가 크면 한 코드가 여러 조각으로 쪼개지는데, 판독기가 돌려주는
-    순서는 화면 순서가 아니다. 그대로 붙이면 'B min9(11)' 이
-    '9 (11) B mins' 로 뒤집힌다. 조각의 좌표로 다시 세운다.
+    두 가지를 바로잡는다.
+
+    1. 순서 — 글자가 크면 한 코드가 여러 조각으로 쪼개지는데, 판독기가
+       돌려주는 순서는 화면 순서가 아니다. 그대로 붙이면 'B min9(11)' 이
+       '9 (11) B mins' 로 뒤집힌다.
+
+    2. 잡음 — 크롭이 위로 조금 넘치면 영상 제목 자막이 함께 들어온다.
+       코드 심볼은 크롭 하단에 붙어 있고 자막은 위쪽에 뜨므로,
+       아래끝이 하단에 닿는 조각만 남긴다.
     """
     if not r:
         return ""
+
     items = []
     for x in r:
         box, txt = x[0], x[1]
         try:
             xs = [p[0] for p in box]
-            items.append((min(xs), txt))
+            ys = [p[1] for p in box]
+            items.append((min(xs), max(ys), txt))
         except Exception:
-            items.append((0.0, txt))          # 좌표가 없으면 원래 순서 유지
+            items.append((0.0, None, txt))
+
+    # 아래끝이 가장 낮은 조각을 기준으로, 그와 비슷한 높이의 것만 쓴다.
+    bottoms = [b for _, b, _ in items if b is not None]
+    if bottoms:
+        base = max(bottoms)
+        h = img_h or base
+        tol = max(h * 0.25, 8)
+        items = [it for it in items
+                 if it[1] is None or (base - it[1]) <= tol]
+
     items.sort(key=lambda t: t[0])
-    return " ".join(t for _, t in items)
+    return " ".join(t for _, _, t in items)
 
 
 # ---------- 2. 한 곡 OCR -> 구간 ----------
@@ -279,10 +297,11 @@ def process(entry):
 
     # ocr — 검출 생략(rec-only)은 30배 빠르나 여백을 글자로 오독해 정확도가 무너진다.
     # 세 방식(축소·rec-only·rec으로 변화감지)을 재봤고 모두 실패해, 전체 파이프라인을 쓴다.
+    frame_h = Image.open(frames[0]).size[1]
     text, n_ok, n_bad, bad, n_slow = {}, 0, 0, [], 0
     for f in todo:
         r, _ = eng(str(f))
-        raw = join_boxes(r)
+        raw = join_boxes(r, frame_h)
         c = normalize(raw)
         text[f.name] = c
         if raw.strip():

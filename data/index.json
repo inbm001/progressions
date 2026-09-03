@@ -1,8 +1,8 @@
 {
-  "count": 236,
-  "ok": 197,
-  "failed": 39,
-  "updated": "2026-09-03 22:16:25",
+  "count": 237,
+  "ok": 199,
+  "failed": 38,
+  "updated": "2026-09-03 23:00:17",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -182,9 +182,9 @@
     {
       "id": "7LzwuXhSagM",
       "title": "Sade “Keep Looking” Quiet Storm Chords 🔥🎹🔥 #musicianparadise",
-      "n_chords": 2,
+      "n_chords": 16,
       "duration_sec": 36.0,
-      "status": "failed_low_ocr"
+      "status": "ok"
     },
     {
       "id": "7mLYoiK-PbQ",
@@ -469,9 +469,9 @@
     {
       "id": "Dc3W_tvvHO0",
       "title": "Earth, Wind & Fire “Earth, Wind & Fire” Chords 🔥🎹🔥 #musicianparadise",
-      "n_chords": 0,
+      "n_chords": 32,
       "duration_sec": 61.25,
-      "status": "failed_no_chords"
+      "status": "failed_low_ocr"
     },
     {
       "id": "dIBYB3RRzs0",
@@ -546,9 +546,9 @@
     {
       "id": "EvdCT78aKN8",
       "title": "Level 42 “Sirens” (John Morales Mix) Chords 🔥🎹🔥 Jazz-Funk Masterpiece 🎁",
-      "n_chords": 4,
+      "n_chords": 11,
       "duration_sec": 18.25,
-      "status": "failed_low_ocr"
+      "status": "ok"
     },
     {
       "id": "eWTZQ4sSGgI",
@@ -665,7 +665,7 @@
     {
       "id": "gj4sGGD6Cwg",
       "title": "Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianparadise",
-      "n_chords": 1,
+      "n_chords": 2,
       "duration_sec": 17.0,
       "status": "failed_low_ocr"
     },
@@ -1410,6 +1410,13 @@
       "n_chords": 29,
       "duration_sec": 43.5,
       "status": "ok"
+    },
+    {
+      "id": "Tt5DRmLbLiA",
+      "title": "Advanced Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 21.0,
+      "status": "failed_no_chords"
     },
     {
       "id": "TThBOARafl8",
