@@ -1,8 +1,8 @@
 {
-  "count": 1128,
+  "count": 1168,
   "ok": 196,
-  "failed": 932,
-  "updated": "2026-09-03 21:23:37",
+  "failed": 972,
+  "updated": "2026-09-03 21:23:42",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -10,6 +10,13 @@
       "n_chords": 24,
       "duration_sec": 33.5,
       "status": "ok"
+    },
+    {
+      "id": "-bPUqkk0GDE",
+      "title": "Michael Jackson “Time Waits For No One” Chords 🎹👌 #MichaelJackson #TheJacksons #TimeWaitsForNoOne",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "-gDI19p8oq0",
@@ -327,6 +334,13 @@
       "status": "no_frames"
     },
     {
+      "id": "1vTVOweJq1A",
+      "title": "The Most Soulful Chords Michael Jackson “I Can’t Help It” 🎹👌 #StevieWonder #ICantHelpItChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "1WQs8EXJ86s",
       "title": "WTF is Bb n.c.? Hidden Parallel Harmony 🔥🎹🔥 Due to multiple requests, here is the chord diagram.",
       "n_chords": 0,
@@ -467,11 +481,25 @@
       "status": "no_frames"
     },
     {
+      "id": "2XiTwos3SFs",
+      "title": "Jamiroquai Space Cowboy Chords 110 bpm 🎹🚀 #musicianparadise #spacecowboychords #jamiroquai",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "2XmWmrFn0Kw",
       "title": "Peabo Bryson “Feel The Fire” Intro Chords 🔥🎹🔥 RIP Legend!",
       "n_chords": 20,
       "duration_sec": 30.25,
       "status": "ok"
+    },
+    {
+      "id": "2XTVwS8Ztn0",
+      "title": "Dark Deep House Chords  #musicianparadise #deephousechords #deephouse",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "2Z0V5KPP3tQ",
@@ -504,6 +532,13 @@
     {
       "id": "35Sgz0laY18",
       "title": "Erykah Badu “Back In The Day” Chords 🔥🎹🔥 Corrected—thanks to horace__phillips!",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "37cQfyCzl7Y",
+      "title": "Kendrick Lamar You Ain’t Gotta Lie (Momma Said) Chords 🎹👌#KendrickLamar #topimpabutterfly",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -810,6 +845,13 @@
       "status": "no_frames"
     },
     {
+      "id": "5j79MxpWE7I",
+      "title": "Floetry “If I Was A Bird” Verse Chords 🎹👌 #musicianparadise #floetrychords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "5jfNtGvJk6w",
       "title": "Mndsgn “Davibe” Chords 🎹🔥 #DavibeChords #Mndsgn #musicianparadise",
       "n_chords": 0,
@@ -924,6 +966,13 @@
     {
       "id": "6jhFKteZwZ4",
       "title": "lla J “Timeless” Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "6NsYVsFIUY0",
+      "title": "The Isley Brothers “Between The Sheets” Bridge Chords 🎹👌 #musicianparadise  #theisleybrothers",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1246,6 +1295,13 @@
     {
       "id": "8xfQ7Wl81oM",
       "title": "Street Fighter EX Plus @ OST “Strange Sunset” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "8y51Wau89uQ",
+      "title": "Daft Punk Night Vision Chords Tutorial 🎹👌 #NightVisionChords #DaftPunk #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1587,6 +1643,13 @@
       "status": "no_frames"
     },
     {
+      "id": "AKd_snhZFSk",
+      "title": "Dr. Dre Still D.R.E. ft. Snoop Dogg Chords #musicianparadise #stilldrechords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "alCsAAsafgA",
       "title": "Kendrick Lamar \"For Sale\" (Interlude) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -1713,6 +1776,13 @@
       "status": "no_frames"
     },
     {
+      "id": "AvfvJ74tYlw",
+      "title": "702 “I Still Love You“ Bridge Chords 🎹👌 #702  #IStillLoveYouChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "avRq-wzEBpc",
       "title": "The Foreign Exchange “Come Around” Chords 🎹🔥 #TheForeignExchange #ComeAroundChords",
       "n_chords": 0,
@@ -1792,6 +1862,20 @@
     {
       "id": "B2hqgOdmGfU",
       "title": "J Dilla “La La La” Chords 🔥🎹🔥 #jdilla #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "B7kKswM0Kxc",
+      "title": "Snoop Dogg, Pharrell Williams “Let's Get Blown” Chords 🎹👌 #LetsGetBlownChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "b7nak1rKH5I",
+      "title": "The Isley Brothers \"Between The Sheets\" Chorus Chords #musicianparadise #theiselybrotherschords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1974,6 +2058,13 @@
     {
       "id": "BSc8dmJ1AOg",
       "title": "Steal These Chords (14) Deep House Vibes 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "bSlFTOFdxCY",
+      "title": "Deep House Warm Chords 🎹👌 #musicianparadise #deephousechords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -2224,8 +2315,22 @@
       "status": "no_frames"
     },
     {
+      "id": "cnlEs3EzbBU",
+      "title": "Insanely Beautiful Chords 🤯🎹 Patrice Rushen “Settle for My Love”  #SettleForMyLoveChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "CnumGoLd464",
       "title": "The Secret Behind Behind Kendrick Lamar ‘These Walls’ Chords🔥🎹🔥 Rod Temperton ‘Sweet Freedom’",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "coy0NYJTnq0",
+      "title": "Adriana Evans “Reality” Chords 🎹👌#AdrianaEvans #Reality #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -2616,6 +2721,13 @@
       "status": "no_frames"
     },
     {
+      "id": "e13zYZn5oIQ",
+      "title": "Floetry “If I Was A Bird” Bridge Chords 🎹👌 #musicianparadise #floetrycnords #ifIwasabirdchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "E8aCADQtTBI",
       "title": "Tyler, The Creator “I Don’t Love You Anymore” Bridge Chords 🔥🎹🔥",
       "n_chords": 0,
@@ -2775,6 +2887,13 @@
       "n_chords": 4,
       "duration_sec": 18.25,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "EwJUPWv658I",
+      "title": "Justin Timberlake Señorita Bridge Chords  🎹👌 #JustinTimberlakeSeñorita #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "eWTZQ4sSGgI",
@@ -2947,6 +3066,13 @@
     {
       "id": "fKrrNYMKrXA",
       "title": "How Steely Dan Crafted Perfection: The ‘Black Cow’ Chord Story🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "fkvMnZXBiZc",
+      "title": "Erykah Badu “On & On” Chords 🎹👌 #ErykahBadu #OnAndOnChords #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3127,6 +3253,13 @@
       "status": "no_frames"
     },
     {
+      "id": "gCrOXErzc_4",
+      "title": "Mary J. Blige “Your Child” Chords 👌🎹 #MaryJBlige #YourChildChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "gEEj8CY9lUc",
       "title": "Neo Soul Quest 🔥🎹🔥 Free MIDI/Chord Preset Pack on my Patreon page. Link in the description",
       "n_chords": 0,
@@ -3251,6 +3384,20 @@
       "n_chords": 0,
       "duration_sec": 7.5,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "gnoDCIL75Ao",
+      "title": "Floetry Getting Late Bridge Chords 🎹👌 #Floetry #GettingLateChords  #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "GnWnvhaTswg",
+      "title": "Patrice Rushen \"Where There Is Love\" Chords 🎹👍 #musicianparadise #patricerushen #wherethereislove",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "gOg67Z5RS6o",
@@ -3547,6 +3694,13 @@
       "status": "no_frames"
     },
     {
+      "id": "HXVoLbZktkE",
+      "title": "Roy Ryers Style Chords Free Roy Ayers Style Chord Preset Pack Coming Soon. Link On My Channel Page.",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "HyfIKp95iRI",
       "title": "Erykah Badu's Secret Chord Recipe in “Rim Shot” 🔥🎹🔥 #musicianparadise #chordprogressions",
       "n_chords": 0,
@@ -3682,6 +3836,13 @@
     {
       "id": "Ima_BB6pz08",
       "title": "Hyper Extended Chords - N.E.R.D ‘Run To The Sun’ Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "iMh37TCb5hw",
+      "title": "Tyler The Creator “Wharf Talk”🎹👌 Chords 96 bpm #WharfTalk #WharfTalkChords #TylerTheCreator",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4116,6 +4277,13 @@
     {
       "id": "jZGoPeVtKAg",
       "title": "Michael Jackson “Rock With You” Chords 🔥🎹🔥  #MichaelJackson #RockWithYouChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "Jzzk0xkU97Y",
+      "title": "N.E.R.D “Tape You” Bridge Chords 🎹👌 #musicianparadise #tapeyouchords #NERD",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4751,6 +4919,13 @@
       "status": "ok"
     },
     {
+      "id": "MqgEPSWHr5Q",
+      "title": "Jamiroquai Travelling Without Moving Chords 🎹👌 #musicianparadise #travellingwithoutmovingchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "mrXrYjq7o8Q",
       "title": "The Weeknd’s “I Can’t Wait To Get There” – These R&B Chords SLAP 💥🎹💥 #musicianparadise",
       "n_chords": 0,
@@ -5017,6 +5192,13 @@
       "status": "no_frames"
     },
     {
+      "id": "nrfg0-La-y8",
+      "title": "Justin Timberlake Señorita Chords Verse #musicianparadise #senoritachords #justintimberlake",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "nrwcqnDX0dE",
       "title": "Jamiroquai “Revolution 1993” Chords 🔥🎹🔥 The Ultimate Acid Jazz Groove #musicianparadise",
       "n_chords": 11,
@@ -5187,6 +5369,13 @@
     {
       "id": "OC0xj-WyXJ8",
       "title": "CHIC \"My Forbidden Lover\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "OcBqcDbYMdg",
+      "title": "The Isley Brothers Between The Sheets Chords Part A #musicianparadise #betweenthesheetschords #rnb",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5493,6 +5682,13 @@
       "status": "no_frames"
     },
     {
+      "id": "pcJBkeDuyAo",
+      "title": "Floetry Getting Late Cm7 DbMaj Bbm7 🎹👌 #Floetry #GettingLateChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "pcog2BhKLs0",
       "title": "Jamiroquai “Half The Man” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -5572,6 +5768,13 @@
     {
       "id": "Pq2uJ6fNI7g",
       "title": "D’Angelo “Lady” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "psELXYjmmBI",
+      "title": "2Pac “I Get Around” Chords Dm7(9),Bb7(13), Am7(9), Eb7(13) #musicianparadise #2pacshakur",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5719,6 +5922,13 @@
     {
       "id": "qe80SvmVRv4",
       "title": "R&B Quest 🔥🎹🔥 A free Chord Preset Pack is available on my Patreon page. #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "QHvNTRu2tps",
+      "title": "Neo Soul Chords Exercise 🎹👌Ebm7(11); Gm7(9,11); Cm7(11); Em7(9,11); Am7(11); Dbm7(9,11)",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5997,6 +6207,13 @@
       "status": "no_frames"
     },
     {
+      "id": "Resy_ACnKxA",
+      "title": "Common “Questions“ Chords 91 bom 🎹👌 #musicianparadise #commonquestoinschords #jdilla",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "rgeWNRI320A",
       "title": "Bruno Mars & Cardi B – Finesse Intro Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -6146,6 +6363,13 @@
     {
       "id": "s-schzKZejw",
       "title": "Get Creative With Chord Presets - Ripchord VST, Expressive Chords M4L, Scaler, MPC, Cthulhu",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "s2_A-XP098k",
+      "title": "Freddie Gibbs and The Alchemist “Babies & Fools” Chords  🎹 👌 #BabiesAndFools #BabiesAndFoolsChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -6445,6 +6669,13 @@
       "status": "no_frames"
     },
     {
+      "id": "T6JcS5YwFTE",
+      "title": "Kendrick Lamar Institutionalized Intro Chords #musicianparadise #kendricklamar",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "t6oYHSLSKGc",
       "title": "Steely Dan \"Any World (That I’m Welcome To)\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 61,
@@ -6578,6 +6809,13 @@
       "status": "no_frames"
     },
     {
+      "id": "tmdWY5vT4lI",
+      "title": "Igor's Theme Chords by Tyler, The Creator #musicianparadise #tylerthecreatorchords #igor",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "tMQ_rjOWrN0",
       "title": "Casiopea “Tears Of The Star” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
@@ -6676,6 +6914,13 @@
       "status": "no_frames"
     },
     {
+      "id": "tUWhadTACTg",
+      "title": "Jamiroquai Little L Chords 🎹🎸 #Jamiroquai #LittleLChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "tVOe0MXenpI",
       "title": "Rochelle Jordan “Doing It Too” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 64,
@@ -6769,6 +7014,13 @@
     {
       "id": "U688UyqOLCQ",
       "title": "Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "U7BzT_rscGs",
+      "title": "Daft Punk “Something About Us” Chords #musicianparadise  #daftpunk #somethingaboutuschords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7007,6 +7259,13 @@
     {
       "id": "VJsSWGkVChQ",
       "title": "Chord Progression Analysis: ‘Searchin’ by J.Dilla, Proof 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "vlmfS0bFySQ",
+      "title": "Around the Way Girl - LL Cool J Chords🎹👌 #musicianparadise #aroundthewaygirlchords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7649,6 +7908,13 @@
       "status": "no_frames"
     },
     {
+      "id": "YlKA4y0eB9k",
+      "title": "Pastime Paradise Latin Version Ray Barretto 🎹👌 #musicianparadise #pastimeparadise #latinmusic",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "yNbkz7nLVe8",
       "title": "Patrice Rushen \"Settle For My Love\" Soulful Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -7803,6 +8069,13 @@
       "status": "no_frames"
     },
     {
+      "id": "zDitxkrLnnc",
+      "title": "N.E.R.D “Spaz” Bridge Chords 🎹👌 Fm7, Cm7, Ebm7(9), Bbm7 #musicianparadise #nerdmusic",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "ZdNJfuKLeZA",
       "title": "Chord Progression That Made Jodeci “Love U 4 Life” A 90s R&B Classic🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -7878,6 +8151,13 @@
       "n_chords": 22,
       "duration_sec": 11.25,
       "status": "ok"
+    },
+    {
+      "id": "ZY4X1vNfCwg",
+      "title": "Jet Black (feat. Brandy) Chords #musicianparadise #jetblack #jetblackchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "zYxIewftOcw",
