@@ -1,0 +1,25 @@
+# 영상·프레임 — 용량이 크고 언제든 다시 받을 수 있다
+probe/
+crop_out/
+work_frames/
+work_test/
+work/
+run/
+run2/
+bench/
+
+# 곡별 원본 결과 — 재개 판단용 중간 산물. 최종물은 out/ 에 모인다
+done/
+done_test/
+
+# 재생목록 캐시
+out/playlist_*.json
+out/*.bak
+
+# 로컬 개인 설정
+.claude/settings.local.json
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
