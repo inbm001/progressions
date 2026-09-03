@@ -1,8 +1,8 @@
 {
-  "count": 168,
-  "ok": 159,
-  "failed": 9,
-  "updated": "2026-09-03 19:53:38",
+  "count": 208,
+  "ok": 179,
+  "failed": 29,
+  "updated": "2026-09-03 20:36:55",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -117,6 +117,13 @@
       "status": "ok"
     },
     {
+      "id": "5vk9_aQMMJA",
+      "title": "Chord Presets On Pads - Free Ripchord VST🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "617bPh0tXHY",
       "title": "Jamiroquai “Music Of The Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -152,6 +159,13 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "7mLYoiK-PbQ",
+      "title": "Chord Preset Heaven 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 20.0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "7UXM4kDswRw",
       "title": "The Neptunes Ft. Common “Punch Drunk Love” Remix Bridge Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
@@ -173,6 +187,13 @@
       "status": "ok"
     },
     {
+      "id": "8nwlkT8z2Tk",
+      "title": "Chord Presets That Feel Human 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 15.75,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "8oikM2Y_h94",
       "title": "Midnight Chords 🔥🎹🔥#musiciaparadise",
       "n_chords": 0,
@@ -191,6 +212,13 @@
       "title": "Jeru the Damaja “Ya Playin Yaself” Funky DL Remix Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 27,
       "duration_sec": 20.25,
+      "status": "ok"
+    },
+    {
+      "id": "9C8NIA5t-WY",
+      "title": "Common Feat. Kanye West & John Legend “They Say” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 30.25,
       "status": "ok"
     },
     {
@@ -264,6 +292,13 @@
       "status": "ok"
     },
     {
+      "id": "AzPjRYRrjic",
+      "title": "Earth, Wind & Fire “Spirit” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 15.25,
+      "status": "ok"
+    },
+    {
       "id": "Bar3uTGyH2U",
       "title": "Streets Of Rage “Ending Theme” Chords 🔥🎹🔥 Gaming Sunday #MusicianParadise",
       "n_chords": 17,
@@ -282,6 +317,13 @@
       "title": "Super Play Action Football Music 10 “Final Score” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
       "duration_sec": 5.0,
+      "status": "ok"
+    },
+    {
+      "id": "BVjdFcVSmIA",
+      "title": "Stevie Wonder “Overjoyed” Chords 🔥🎹🔥 Testing Rhodes Pianology Plugin #musicianparadise",
+      "n_chords": 61,
+      "duration_sec": 58.75,
       "status": "ok"
     },
     {
@@ -362,10 +404,31 @@
       "status": "ok"
     },
     {
+      "id": "d8EwWj83xvY",
+      "title": "Steal These Chords 90s Neo Soul Vibes 🔥🎹🔥#musiciaparadise",
+      "n_chords": 0,
+      "duration_sec": 12.5,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "Dc3W_tvvHO0",
+      "title": "Earth, Wind & Fire “Earth, Wind & Fire” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 61.25,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "dIBYB3RRzs0",
       "title": "Roberta Flack “I Can See The Sun In Late December” Chords 🔥🎹🔥 Stevie Wonder Song #musicianparadise",
       "n_chords": 50,
       "duration_sec": 52.5,
+      "status": "ok"
+    },
+    {
+      "id": "DKnyHa8yplM",
+      "title": "Stevie Wonder “Golden Lady” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 21.75,
       "status": "ok"
     },
     {
@@ -397,6 +460,13 @@
       "status": "ok"
     },
     {
+      "id": "eHU9nB7fSOw",
+      "title": "Steal These Chords Dark Neo Soul Vibes 🔥🎹🔥#musiciaparadise",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "EIVLAlifKkQ",
       "title": "Dexter Wansel “Voyager” Chords 🔥🎹🔥 Cosmic Soul #musicianparadise",
       "n_chords": 14,
@@ -425,6 +495,13 @@
       "status": "ok"
     },
     {
+      "id": "f2sPCVLvYRs",
+      "title": "Common \"The Questions” Chords 🔥🎹🔥 👇 Common - Lonnie Rashid Lynn Birthday 13.03.1972",
+      "n_chords": 14,
+      "duration_sec": 10.75,
+      "status": "ok"
+    },
+    {
       "id": "f64kt28Y6Dw",
       "title": "Jamiroquai “Scam” Outro Chords 🔥🎹🔥 Pure Acid-Jazz Fire. #musicianparadise",
       "n_chords": 13,
@@ -439,11 +516,25 @@
       "status": "ok"
     },
     {
+      "id": "F_3svKe0DdU",
+      "title": "Gospel Scripts Chord Presets 🔥🎹🔥 Ripchord, Scaler, Cthulhu, MPC #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "FBMxc8gPdZc",
       "title": "Michael Jackson “Leave Me Alone” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 31,
       "duration_sec": 31.0,
       "status": "ok"
+    },
+    {
+      "id": "fDmQ5yupf7E",
+      "title": "Dark Neo Soul - Robert Glasper Inspired Chords🔥🎹🔥#musiciaparadise",
+      "n_chords": 0,
+      "duration_sec": 16.25,
+      "status": "failed_no_chords"
     },
     {
       "id": "FGA_-TJYX2A",
@@ -464,6 +555,20 @@
       "title": "Les McCann “Go On And Cry” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 44,
       "duration_sec": 40.75,
+      "status": "ok"
+    },
+    {
+      "id": "FRA7TNpaixs",
+      "title": "Rage Racer Soundtrack - #8 “Silver Stream” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 23.75,
+      "status": "ok"
+    },
+    {
+      "id": "g_gGlfOxsoA",
+      "title": "Latrelle “Infatuated” Chords The Neptunes Production 🔥🎹🔥 #musicianparadise",
+      "n_chords": 49,
+      "duration_sec": 40.0,
       "status": "ok"
     },
     {
@@ -488,11 +593,32 @@
       "status": "ok"
     },
     {
+      "id": "gj4sGGD6Cwg",
+      "title": "Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianparadise",
+      "n_chords": 1,
+      "duration_sec": 17.0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "gKbUbTCgpDw",
+      "title": "Your Keyboard Player Will Hate You for This—Hyper-Realistic Chord Presets 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "GLaICH5muYc",
       "title": "J Dilla “Track 7“(Circa '98) Chords 🔥🎹🔥 Rare Beat Masterpiece #musicianparadise",
       "n_chords": 14,
       "duration_sec": 15.0,
       "status": "ok"
+    },
+    {
+      "id": "gnEInqXSnRg",
+      "title": "Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 7.5,
+      "status": "failed_no_chords"
     },
     {
       "id": "GqnLu9EsCdc",
@@ -548,6 +674,13 @@
       "title": "Gran Turismo 5 “The Power Of GT” Chords 🔥🎹🔥 Gaming Sunday - Composer Yudai Satoh",
       "n_chords": 51,
       "duration_sec": 57.0,
+      "status": "ok"
+    },
+    {
+      "id": "i9RJbHBscI0",
+      "title": "Steely Dan “Your Gold Teeth II” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 37.75,
       "status": "ok"
     },
     {
@@ -621,6 +754,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "kHeubpf4GQs",
+      "title": "Stevie Wonder “Golden Lady” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 43,
+      "duration_sec": 57.25,
+      "status": "ok"
+    },
+    {
       "id": "KI9P-KtPiF0",
       "title": "Deniece Williams “Free” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 31,
@@ -653,6 +793,20 @@
       "title": "Stevie Wonder “You've Got It Bad Girl” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 51,
       "duration_sec": 51.0,
+      "status": "ok"
+    },
+    {
+      "id": "Ld2_Eug7krI",
+      "title": "Neo Gospel Chord Presets Demo Test 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "lWRSp0iKSks",
+      "title": "Usher Ft Pharrell “Certified” Chords 🔥🎹🔥 Chad Hugo Chords #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 41.75,
       "status": "ok"
     },
     {
@@ -705,11 +859,25 @@
       "status": "ok"
     },
     {
+      "id": "mK_bSwRtijc",
+      "title": "Chord Presets - Major And Minor Run - Barry Harris Style 🔥🎹🔥 #musicianparadise",
+      "n_chords": 2,
+      "duration_sec": 17.75,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "mnhwOYn4NY0",
       "title": "Dexter Wansel “The Sweetest Pain” Chords 🔥🎹🔥 RIP Legend!",
       "n_chords": 28,
       "duration_sec": 29.25,
       "status": "ok"
+    },
+    {
+      "id": "mvsFfQ5XRUQ",
+      "title": "Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 21.5,
+      "status": "failed_no_chords"
     },
     {
       "id": "MvvyfiTMxPY",
@@ -723,6 +891,13 @@
       "title": "Scar “What Is This” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
       "duration_sec": 11.5,
+      "status": "ok"
+    },
+    {
+      "id": "n3RYxqhuK3k",
+      "title": "Erykah Badu “20 Feet Tall” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 24.25,
       "status": "ok"
     },
     {
@@ -754,10 +929,31 @@
       "status": "ok"
     },
     {
+      "id": "NKYOv7zjxrA",
+      "title": "Warm-Sounding Chord Presets on a Cold Day 🔥🎹🔥 #musicianaradise",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "nP27BzeYmXc",
+      "title": "Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 16.0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "nrwcqnDX0dE",
       "title": "Jamiroquai “Revolution 1993” Chords 🔥🎹🔥 The Ultimate Acid Jazz Groove #musicianparadise",
       "n_chords": 11,
       "duration_sec": 15.0,
+      "status": "ok"
+    },
+    {
+      "id": "nyLSKMOuaEM",
+      "title": "Casiopea “Midnight Rendezvous” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 64,
+      "duration_sec": 64.0,
       "status": "ok"
     },
     {
@@ -824,11 +1020,32 @@
       "status": "ok"
     },
     {
+      "id": "PSml1GACGu0",
+      "title": "Jamiroquai “Too Young To Die” Chords 🔥🎹🔥The Acid Jazz Chords That Defined Jamiroquai",
+      "n_chords": 25,
+      "duration_sec": 37.75,
+      "status": "ok"
+    },
+    {
       "id": "qA2aVlpE05U",
       "title": "RoBKTA ft. Tudd R4cin' “All Night” Chords 🔥🎹🔥 Gaming Sunday - Ridge Racer 🎁 #musicianparadise",
       "n_chords": 48,
       "duration_sec": 41.25,
       "status": "ok"
+    },
+    {
+      "id": "QbBphHT64ME",
+      "title": "Chord Presets Test - Free VST Ripchord 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 11.0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "QmHilfMjX50",
+      "title": "Simple Way To Play Complex Chords Free Ripchord VST 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 7.0,
+      "status": "failed_no_chords"
     },
     {
       "id": "qop5gSMofn0",
@@ -901,6 +1118,20 @@
       "status": "ok"
     },
     {
+      "id": "s_lwX93sPtY",
+      "title": "Usher ft Pharrell “Wifey” Chords 🔥🎹🔥 The Neptunes Production #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 22.75,
+      "status": "ok"
+    },
+    {
+      "id": "Slsjps88hlY",
+      "title": "PaRappa The Rapper 2 “Come A Long Way” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 44.0,
+      "status": "ok"
+    },
+    {
       "id": "sNyHgETeIBk",
       "title": "Jamiroquai “Talullah” Chords Part 1 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
@@ -912,6 +1143,13 @@
       "title": "DeBarge “A Dream” Chords 🔥🎹🔥 You know who sampled this!",
       "n_chords": 66,
       "duration_sec": 53.25,
+      "status": "ok"
+    },
+    {
+      "id": "Ss6FxCpWfts",
+      "title": "Aaliyah “Age Ain't Nothing But A Number” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 23.0,
       "status": "ok"
     },
     {
@@ -992,6 +1230,13 @@
       "status": "ok"
     },
     {
+      "id": "TThBOARafl8",
+      "title": "Street Fighter III 3rd Strike OST “Ending 1” Game Soundtrack Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 35.5,
+      "status": "ok"
+    },
+    {
       "id": "TtVID10Xr2s",
       "title": "Jill Scott “Cross My Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
@@ -1013,6 +1258,13 @@
       "status": "ok"
     },
     {
+      "id": "TyqTq6exhMY",
+      "title": "Dark Neo Soul Chords🔥🎹🔥 \"Soul Dust\" Samples Sample -DarkMatter_F#m_70_bpm #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 20.75,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "TZcM1-vXNgY",
       "title": "CHIC “Good Times” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
@@ -1032,6 +1284,13 @@
       "n_chords": 16,
       "duration_sec": 31.0,
       "status": "ok"
+    },
+    {
+      "id": "uNCdW8fP9TA",
+      "title": "Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 8.5,
+      "status": "failed_no_chords"
     },
     {
       "id": "UsufumBShEA",
@@ -1104,6 +1363,20 @@
       "status": "ok"
     },
     {
+      "id": "XcZNZXPGMGk",
+      "title": "Kendrick Lamar “Sing About Me, I'm Dying Of Thirst” 🔥🎹🔥 Sample - Grant Green \"Maybe Tomorrow\" 1971",
+      "n_chords": 24,
+      "duration_sec": 23.25,
+      "status": "ok"
+    },
+    {
+      "id": "Xdsv0bj_t70",
+      "title": "Metro Boomin & ASAP Rocky Ft. Takeoff “Feel The Fiyaaaah” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 16.25,
+      "status": "ok"
+    },
+    {
       "id": "xEKnW8RWCQw",
       "title": "Donald Byrd “You And The Music” Chords 🔥🎹🔥 Soulful Harmony #musicianparadise",
       "n_chords": 16,
@@ -1136,6 +1409,13 @@
       "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 57,
       "duration_sec": 36.5,
+      "status": "ok"
+    },
+    {
+      "id": "YnmuD7Mz7jM",
+      "title": "Kelis “Mr. U.F.O. Man” Chords 🔥🎹🔥 The Neptunes Production #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 42.25,
       "status": "ok"
     },
     {
