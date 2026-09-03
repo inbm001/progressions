@@ -1,8 +1,8 @@
 {
-  "count": 88,
-  "ok": 84,
+  "count": 128,
+  "ok": 124,
   "failed": 4,
-  "updated": "2026-09-03 18:27:03",
+  "updated": "2026-09-03 19:05:16",
   "songs": [
     {
       "id": "-gDI19p8oq0",
@@ -54,6 +54,20 @@
       "status": "ok"
     },
     {
+      "id": "2XmWmrFn0Kw",
+      "title": "Peabo Bryson “Feel The Fire” Intro Chords 🔥🎹🔥 RIP Legend!",
+      "n_chords": 20,
+      "duration_sec": 30.25,
+      "status": "ok"
+    },
+    {
+      "id": "2Z0V5KPP3tQ",
+      "title": "Alexander O'Neal “Sunshine” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 31.0,
+      "status": "ok"
+    },
+    {
       "id": "3yZorBC9-_8",
       "title": "Slave “Steal Your Heart” Chords 🔥🎹🔥 Funk Soul Classic #musicianparadise",
       "n_chords": 23,
@@ -68,6 +82,13 @@
       "status": "ok"
     },
     {
+      "id": "5pOpEx0OurM",
+      "title": "A Tribe Called Quest – “Bonita Applebum” Chords 🔥🎹🔥 Sample source: Roy Ayers / RAMP – “Daylight”",
+      "n_chords": 14,
+      "duration_sec": 10.5,
+      "status": "ok"
+    },
+    {
       "id": "617bPh0tXHY",
       "title": "Jamiroquai “Music Of The Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -79,6 +100,20 @@
       "title": "Michael Jackson “The Toy” (Demo) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
       "duration_sec": 46.25,
+      "status": "ok"
+    },
+    {
+      "id": "78fSs1rajPo",
+      "title": "J Dilla “One For Lauryn” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.0,
+      "status": "ok"
+    },
+    {
+      "id": "7BFHgVQpwIs",
+      "title": "Somethin’ For The People \"All I Do\" (J Dilla Remix) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 28.25,
       "status": "ok"
     },
     {
@@ -103,6 +138,34 @@
       "status": "ok"
     },
     {
+      "id": "8Ya3aU0NFHs",
+      "title": "Jeru the Damaja “Ya Playin Yaself” Funky DL Remix Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 27,
+      "duration_sec": 20.25,
+      "status": "ok"
+    },
+    {
+      "id": "9W3iY9MAjt4",
+      "title": "Les McCann “Sometimes I Cry” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 25,
+      "duration_sec": 45.25,
+      "status": "ok"
+    },
+    {
+      "id": "_ezbuq8Ng0M",
+      "title": "Sonic R “Can You Feel The Sunshine” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 41,
+      "duration_sec": 50.25,
+      "status": "ok"
+    },
+    {
+      "id": "_vClZEK_ywo",
+      "title": "J Dilla “Real Fine” (Track 19) Chords 🔥🎹🔥 Sampled - “Speak Your Mind” Kevin Moore #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 20.75,
+      "status": "ok"
+    },
+    {
       "id": "_y6CR_p7udY",
       "title": "Behind the scenes! This is what recording these videos actually looks like. 😄 #musicianparadise",
       "n_chords": 0,
@@ -121,6 +184,13 @@
       "title": "Slakah the Beatchild Ft. Glenn Lewis “Number 1” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
       "duration_sec": 10.25,
+      "status": "ok"
+    },
+    {
+      "id": "Bar3uTGyH2U",
+      "title": "Streets Of Rage “Ending Theme” Chords 🔥🎹🔥 Gaming Sunday #MusicianParadise",
+      "n_chords": 17,
+      "duration_sec": 41.75,
       "status": "ok"
     },
     {
@@ -159,10 +229,31 @@
       "status": "ok"
     },
     {
+      "id": "crUuGUL2wag",
+      "title": "Diane Tell “Tes Yeux” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 18.75,
+      "status": "ok"
+    },
+    {
       "id": "csq6DKSnfY0",
       "title": "Lyves Ft. Jalen Santoy “Certain Things” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
       "duration_sec": 24.0,
+      "status": "ok"
+    },
+    {
+      "id": "CTR2MSr3g5M",
+      "title": "Ivan Lins (George Benson) “Dinorah Dinorah” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 24.25,
+      "status": "ok"
+    },
+    {
+      "id": "cXBgmbhD0bw",
+      "title": "Sonic R “Options Screen” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 15.0,
       "status": "ok"
     },
     {
@@ -201,6 +292,20 @@
       "status": "ok"
     },
     {
+      "id": "eG9zGTeG-m0",
+      "title": "Enthusia “Allegiance” Chords 🔥🎹🔥 Gaming Sunday Racing OST.",
+      "n_chords": 35,
+      "duration_sec": 37.25,
+      "status": "ok"
+    },
+    {
+      "id": "EIVLAlifKkQ",
+      "title": "Dexter Wansel “Voyager” Chords 🔥🎹🔥 Cosmic Soul #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 13.5,
+      "status": "ok"
+    },
+    {
       "id": "EvdCT78aKN8",
       "title": "Level 42 “Sirens” (John Morales Mix) Chords 🔥🎹🔥 Jazz-Funk Masterpiece 🎁",
       "n_chords": 4,
@@ -222,6 +327,13 @@
       "status": "ok"
     },
     {
+      "id": "FBMxc8gPdZc",
+      "title": "Michael Jackson “Leave Me Alone” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 31,
+      "duration_sec": 31.0,
+      "status": "ok"
+    },
+    {
       "id": "FGA_-TJYX2A",
       "title": "Jamiroquai “Virtual Insanity” Intro Chords 🔥🎹🔥 Hard to believe this song turns 30!",
       "n_chords": 8,
@@ -236,10 +348,31 @@
       "status": "ok"
     },
     {
+      "id": "foBpu8xS9ro",
+      "title": "Les McCann “Go On And Cry” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 44,
+      "duration_sec": 40.75,
+      "status": "ok"
+    },
+    {
+      "id": "GEYl92AtbCU",
+      "title": "Kendrick Lamar “Sing About Me Im Dying Of Thirst” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 11.5,
+      "status": "ok"
+    },
+    {
       "id": "Ggnq80BOWOQ",
       "title": "Jamiroquai “Shoot The Moon” Chords | Rare Montreux 2003 Jam 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
       "duration_sec": 59.25,
+      "status": "ok"
+    },
+    {
+      "id": "gHTyBYA7ULg",
+      "title": "Casiopea “Swallow” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 49,
+      "duration_sec": 56.5,
       "status": "ok"
     },
     {
@@ -306,6 +439,13 @@
       "status": "ok"
     },
     {
+      "id": "InSxlsr5JEs",
+      "title": "Stevie Wonder “Isn't She Lovely” Chords 🔥🎹🔥 Happy Birthday, Stevie! 🎉",
+      "n_chords": 23,
+      "duration_sec": 32.25,
+      "status": "ok"
+    },
+    {
       "id": "ixQSlNPZmjY",
       "title": "You Asked For It…Herbie Hancock “Paradise” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 59,
@@ -334,6 +474,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "KI9P-KtPiF0",
+      "title": "Deniece Williams “Free” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 31,
+      "duration_sec": 42.5,
+      "status": "ok"
+    },
+    {
       "id": "KkVGDdGIZ8c",
       "title": "Tom Browne “Thighs High” (Grip Your Hips and Move) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -348,10 +495,38 @@
       "status": "ok"
     },
     {
+      "id": "KUA6OCt6uxw",
+      "title": "Stevie Wonder “You've Got It Bad Girl” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 51,
+      "duration_sec": 51.0,
+      "status": "ok"
+    },
+    {
+      "id": "Lwxa-rsvwFw",
+      "title": "Herbie Hancock “Butterfly” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 46,
+      "duration_sec": 45.75,
+      "status": "ok"
+    },
+    {
+      "id": "m3i0_caMQRE",
+      "title": "Sherrick “Just Call” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 43.0,
+      "status": "ok"
+    },
+    {
       "id": "M9Gw0r-lu5o",
       "title": "Daft Punk “Short Circuit” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 22,
       "duration_sec": 34.5,
+      "status": "ok"
+    },
+    {
+      "id": "MECzMcNvm24",
+      "title": "Pharrell Williams Remix - A Tribe Called Quest “Bonita Applebum” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 35,
+      "duration_sec": 41.75,
       "status": "ok"
     },
     {
@@ -369,10 +544,24 @@
       "status": "ok"
     },
     {
+      "id": "mnhwOYn4NY0",
+      "title": "Dexter Wansel “The Sweetest Pain” Chords 🔥🎹🔥 RIP Legend!",
+      "n_chords": 28,
+      "duration_sec": 29.25,
+      "status": "ok"
+    },
+    {
       "id": "MvvyfiTMxPY",
       "title": "Mr. Fingers “What About This Love” Chords 🔥🎹🔥 Deep House Classic #MusicianParadise",
       "n_chords": 16,
       "duration_sec": 34.0,
+      "status": "ok"
+    },
+    {
+      "id": "N1fz10rKYz4",
+      "title": "Scar “What Is This” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 11.5,
       "status": "ok"
     },
     {
@@ -387,6 +576,13 @@
       "title": "Jamiroquai “Space Clav” Chords 🔥🎹🔥 1990s British acid jazz and jazz-funk movement",
       "n_chords": 12,
       "duration_sec": 9.0,
+      "status": "ok"
+    },
+    {
+      "id": "nK0ZJYSmnCU",
+      "title": "Chris Brown “Yo (Excuse Me Miss)” Chords 🔥🎹🔥 Keyboards - Jazze Pha",
+      "n_chords": 11,
+      "duration_sec": 32.75,
       "status": "ok"
     },
     {
@@ -411,6 +607,13 @@
       "status": "ok"
     },
     {
+      "id": "oxlMPkAKAf0",
+      "title": "Labi Siffre “I Got The…” No Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 1,
+      "duration_sec": 11.25,
+      "status": "ok"
+    },
+    {
       "id": "P0kTLr3fn3Y",
       "title": "Erykah Badu & The Alchemist “Witch Doctor” Chords 🔥🎹🔥  #musicianparadise",
       "n_chords": 14,
@@ -422,6 +625,27 @@
       "title": "Robert Glasper Ft. Yebba “Over” Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 29,
       "duration_sec": 36.75,
+      "status": "ok"
+    },
+    {
+      "id": "PhaFfpMl6JY",
+      "title": "Ghost-Note Ft. Marcus Miller “Yellow Dan” Bridge Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 42,
+      "duration_sec": 29.5,
+      "status": "ok"
+    },
+    {
+      "id": "PlxrPOycn9o",
+      "title": "Grace Jones “Slave To The Rhythm“ Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 20.5,
+      "status": "ok"
+    },
+    {
+      "id": "PM5z17uObTU",
+      "title": "2Pac “Check Out Time” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 28.75,
       "status": "ok"
     },
     {
@@ -439,10 +663,31 @@
       "status": "ok"
     },
     {
+      "id": "QqFF_piuT84",
+      "title": "Kazumi Watanabe “Poppy's Walk” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 25,
+      "duration_sec": 23.75,
+      "status": "ok"
+    },
+    {
+      "id": "Rd8blB65rZ4",
+      "title": "Metropolis Street Racer “You Can Love Me” Chords 🔥🎹🔥 Composer - Richard Jacques #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 27.5,
+      "status": "ok"
+    },
+    {
       "id": "Rd9_ukWZ0Zk",
       "title": "The Black Eyed Peas “Imma Be” Bridge Chords 🔥🎹🔥 Futuristic Harmony #musicianparadise",
       "n_chords": 9,
       "duration_sec": 15.75,
+      "status": "ok"
+    },
+    {
+      "id": "RQhFxAaIuEQ",
+      "title": "J Dilla “Unreleased 1996 Beat” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.75,
       "status": "ok"
     },
     {
@@ -474,6 +719,13 @@
       "status": "ok"
     },
     {
+      "id": "sNyHgETeIBk",
+      "title": "Jamiroquai “Talullah” Chords Part 1 🔥🎹🔥 #musicianparadise",
+      "n_chords": 29,
+      "duration_sec": 49.75,
+      "status": "ok"
+    },
+    {
       "id": "SSoqIfN0uzg",
       "title": "Dom Kennedy “Thank You Biggie” Chords 🔥🎹🔥 Jake One and Darius Willrich Production #musicianparadise",
       "n_chords": 11,
@@ -492,6 +744,13 @@
       "title": "August Greene Aya Chords 🔥🎹🔥 Jazz Hip Hop Masterpiece: Time Signature?",
       "n_chords": 16,
       "duration_sec": 10.5,
+      "status": "ok"
+    },
+    {
+      "id": "t1pCX73hbtw",
+      "title": "Jamiroquai “Talullah” Chords Part 2 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 37.25,
       "status": "ok"
     },
     {
@@ -565,6 +824,13 @@
       "status": "ok"
     },
     {
+      "id": "w8SQMHmgxe0",
+      "title": "DJ Cam “Love Junkee” feat Cameo Dilla Remix Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 22.75,
+      "status": "ok"
+    },
+    {
       "id": "x07AuHc3RBY",
       "title": "2Pac “Do For Love” Chords 🔥🎹🔥 Chords - Bobby Caldwell's 1978 hit \"What You Won't Do For Love\"",
       "n_chords": 17,
@@ -597,6 +863,20 @@
       "title": "J Dilla “This Is It” Chords 🔥🎹🔥 Samples “Wait for Me” (live) by Daryl Hall & John Oates",
       "n_chords": 8,
       "duration_sec": 35.75,
+      "status": "ok"
+    },
+    {
+      "id": "xog0puqU-Xg",
+      "title": "Rotary Connection “I Am the Black Gold of the Sun” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 16.25,
+      "status": "ok"
+    },
+    {
+      "id": "XwC-7uYwxGw",
+      "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
+      "n_chords": 57,
+      "duration_sec": 36.5,
       "status": "ok"
     },
     {
