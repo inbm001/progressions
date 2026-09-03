@@ -1,8 +1,8 @@
 {
-  "count": 248,
+  "count": 288,
   "ok": 196,
-  "failed": 52,
-  "updated": "2026-09-03 21:20:37",
+  "failed": 92,
+  "updated": "2026-09-03 21:20:45",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -24,6 +24,13 @@
       "n_chords": 18,
       "duration_sec": 15.5,
       "status": "ok"
+    },
+    {
+      "id": "-m9J4_bOg_Y",
+      "title": "Incognito Ft. Chicco Allotta “1993” Chords 🔥🎹🔥 Pure 90s Groove",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "-Nj7d_saf_o",
@@ -68,6 +75,20 @@
       "status": "ok"
     },
     {
+      "id": "1ZDhRT1VUVY",
+      "title": "Hiatus Kaiyote “Building A Ladder” Nai Palm’s Lush Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "2h2hMqD36lo",
+      "title": "Slum Village Ft. Kanye West & John Legend “Selfish” Chords 🔥🎹🔥 Sample -\"Call Me\" by Aretha Franklin",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "2tg2ZkVQ9zU",
       "title": "PHONY PPL “End Of The Night” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -87,6 +108,20 @@
       "n_chords": 18,
       "duration_sec": 31.0,
       "status": "ok"
+    },
+    {
+      "id": "35Sgz0laY18",
+      "title": "Erykah Badu “Back In The Day” Chords 🔥🎹🔥 Corrected—thanks to horace__phillips!",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "3ave58rfmv8",
+      "title": "Neptunes Ft. Common “Punch Drunk Love” Remix Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "3yZorBC9-_8",
@@ -271,6 +306,13 @@
       "status": "ok"
     },
     {
+      "id": "9iQptlTGodg",
+      "title": "QWERTYllion Of Free Chord Presets Under Your Fingertips Free VST Ripchord  🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "9kjGAAuBQbY",
       "title": "Flying Lotus Ft. Kendrick Lamar “Never Catch Me” Final Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
@@ -285,11 +327,25 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "9tiIR4cPZf8",
+      "title": "Usher “I Don’t Know” Chords 🔥🎹🔥 The Neptunes’ Darkest Chords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "9W3iY9MAjt4",
       "title": "Les McCann “Sometimes I Cry” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
       "duration_sec": 45.25,
       "status": "ok"
+    },
+    {
+      "id": "_A11q929imc",
+      "title": "Jamiroquai “Light Years” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "_ezbuq8Ng0M",
@@ -404,6 +460,13 @@
       "status": "ok"
     },
     {
+      "id": "BU2pEJlwmwQ",
+      "title": "Testing Soulful Chord Presets for Ripchord VST, Expressive Chords M4L, Scaler, MPC, Xfer Cthulhu",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "BVjdFcVSmIA",
       "title": "Stevie Wonder “Overjoyed” Chords 🔥🎹🔥 Testing Rhodes Pianology Plugin #musicianparadise",
       "n_chords": 61,
@@ -467,6 +530,13 @@
       "status": "ok"
     },
     {
+      "id": "CW99MgMkMuo",
+      "title": "Soulful Chord Presets 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "cXBgmbhD0bw",
       "title": "Sonic R “Options Screen” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -523,6 +593,13 @@
       "status": "ok"
     },
     {
+      "id": "DsSnWXikHq0",
+      "title": "A New Breed of Chord Presets—Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "dvpPX_I_j0s",
       "title": "Alicia Keys “Feeling U, Feeling Me” (Interlude) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 32,
@@ -572,6 +649,13 @@
       "status": "ok"
     },
     {
+      "id": "EqwSQdV0Bc8",
+      "title": "Kendrick Lamar “Complexion” (A Zulu Love) Thundercat Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "eSuaHM3-4dk",
       "title": "Patrice Rushen “Didn't You Know” Chords Part 1 🔥🎹🔥 #musicianparadise",
       "n_chords": 26,
@@ -591,6 +675,13 @@
       "n_chords": 8,
       "duration_sec": 9.25,
       "status": "ok"
+    },
+    {
+      "id": "ExrmdoXeVqI",
+      "title": "Chord Presets With Inner Tension - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "f2sPCVLvYRs",
@@ -670,6 +761,13 @@
       "status": "ok"
     },
     {
+      "id": "fu3iP7l1QW8",
+      "title": "Street Fighter III 2nd Impact “Sao Paulo”(Sean’s Theme) Chords Composers Yuki Iwai, Hideki Okugawa",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "g_gGlfOxsoA",
       "title": "Latrelle “Infatuated” Chords The Neptunes Production 🔥🎹🔥 #musicianparadise",
       "n_chords": 49,
@@ -698,6 +796,13 @@
       "status": "ok"
     },
     {
+      "id": "GISgumdJ45k",
+      "title": "Black Moon “Who Got Da Props” Chords 🔥🎹🔥 Who Knows the Sample Source?",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "gj4sGGD6Cwg",
       "title": "Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianparadise",
       "n_chords": 1,
@@ -719,6 +824,13 @@
       "status": "ok"
     },
     {
+      "id": "gLOTzhxx5jQ",
+      "title": "JAY-Z “Regrets” Chords (Guitar Chords?) 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "gnEInqXSnRg",
       "title": "Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise",
       "n_chords": 0,
@@ -731,6 +843,13 @@
       "n_chords": 44,
       "duration_sec": 60.0,
       "status": "ok"
+    },
+    {
+      "id": "GqWCKBumQAw",
+      "title": "Bernard Wright “Music Is The Key” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "GtQkgclGido",
@@ -752,6 +871,13 @@
       "n_chords": 12,
       "duration_sec": 22.0,
       "status": "ok"
+    },
+    {
+      "id": "H41xWUiypnA",
+      "title": "Steely Dan “Deacon Blues” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "hDQibtYTXuk",
@@ -810,6 +936,13 @@
       "status": "ok"
     },
     {
+      "id": "i5Lv8QhLgNU",
+      "title": "MF DOOM “Lavender Buds” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "i9RJbHBscI0",
       "title": "Steely Dan “Your Gold Teeth II” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -824,11 +957,25 @@
       "status": "ok"
     },
     {
+      "id": "ilVIMsTEfLI",
+      "title": "Kendrick Lamar’s “Complexion” Final Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "InSxlsr5JEs",
       "title": "Stevie Wonder “Isn't She Lovely” Chords 🔥🎹🔥 Happy Birthday, Stevie! 🎉",
       "n_chords": 23,
       "duration_sec": 32.25,
       "status": "ok"
+    },
+    {
+      "id": "IwPsRGadHGc",
+      "title": "J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥 J Dilla Birthday 07.02.1974",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "IwUPtaQfY4w",
@@ -859,6 +1006,13 @@
       "status": "ok"
     },
     {
+      "id": "j3ZlckBsHiU",
+      "title": "The Neptunes’ Secret Sauce on Beyoncé’s  “Kitty Kat” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "J6YHEaCuezk",
       "title": "Chords That Matters - Chord Presets For Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu",
       "n_chords": 0,
@@ -885,6 +1039,20 @@
       "n_chords": 37,
       "duration_sec": 35.25,
       "status": "ok"
+    },
+    {
+      "id": "JVR02jzAnJI",
+      "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "K3-s5RTY6tg",
+      "title": "Chord Presets on QWERTY + Free Ripchord VST 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "k6gdl8xu2sQ",
@@ -964,6 +1132,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "LThARgYqQaA",
+      "title": "Soulful Chord Presets for Ripchord VST, Expressive Chords M4L, Scaler, MPC Pad Perform, Cthulhu 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "lWRSp0iKSks",
       "title": "Usher Ft Pharrell “Certified” Chords 🔥🎹🔥 Chad Hugo Chords #musicianparadise",
       "n_chords": 28,
@@ -976,6 +1151,13 @@
       "n_chords": 46,
       "duration_sec": 45.75,
       "status": "ok"
+    },
+    {
+      "id": "Lxov5PWLau4",
+      "title": "Louis Cole “Laughing in Her Sleep” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "m0hC_mOxow0",
@@ -1069,6 +1251,13 @@
       "status": "ok"
     },
     {
+      "id": "n10LZZ18lp0",
+      "title": "A New Breed of Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "N1fz10rKYz4",
       "title": "Scar “What Is This” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -1160,6 +1349,20 @@
       "status": "ok"
     },
     {
+      "id": "OJmZ3j27IvM",
+      "title": "George Duke “Someday” - Soulful Jazz-Funk Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "Oqv6XdatQEM",
+      "title": "Chord Presets—I assigned Sustain Pedal CC64 and Pitch MIDI FX to the \"R\" key. #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "oR0dvv-6tSg",
       "title": "Jamiroquai “Emergency on Planet Earth” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -1186,6 +1389,13 @@
       "n_chords": 1,
       "duration_sec": 11.25,
       "status": "ok"
+    },
+    {
+      "id": "oZAbN9V97sY",
+      "title": "Lupe Fiasco “Paris, Tokyo” Chords 🔥🎹🔥 Sample Source: Eumir Deodato “San Juan Sunset”",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "P0kTLr3fn3Y",
@@ -1251,6 +1461,20 @@
       "status": "ok"
     },
     {
+      "id": "QIrh0bB6fuk",
+      "title": "Thundercat Ft. Lil Yachty “I Did This To Myself” Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "qjaC7omkKG4",
+      "title": "South Yokohama “Racing Lagoon” Chords 🔥🎹🔥Gaming Sunday #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "QmHilfMjX50",
       "title": "Simple Way To Play Complex Chords Free Ripchord VST 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -1286,6 +1510,20 @@
       "status": "ok"
     },
     {
+      "id": "QWSlRcoRM6g",
+      "title": "Chord Presets - Just Add The Sustain Pedal - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "QYHA1IE_-oU",
+      "title": "Amy Winehouse “Fool's Gold” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "RaQLGBi6gEQ",
       "title": "Street Fighter III 3rd Strike “Twilight” (Ibuki's Stage) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -1307,11 +1545,25 @@
       "status": "ok"
     },
     {
+      "id": "RdyTKZxT84Y",
+      "title": "Rihanna “James Joint ” Chords 🔥🎹🔥 Robert Shea Taylor's Keyboard Magic Explained #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "RQhFxAaIuEQ",
       "title": "J Dilla “Unreleased 1996 Beat” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
       "duration_sec": 10.75,
       "status": "ok"
+    },
+    {
+      "id": "RqOaZtn9sq8",
+      "title": "Ripchord Chord Presets + Sustain Pedal + Pitch FX - Chord Presets for Ripchord VST",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "rwOkWTNL_Vo",
@@ -1333,6 +1585,13 @@
       "n_chords": 38,
       "duration_sec": 38.0,
       "status": "ok"
+    },
+    {
+      "id": "s-schzKZejw",
+      "title": "Get Creative With Chord Presets - Ripchord VST, Expressive Chords M4L, Scaler, MPC, Cthulhu",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "S3DZ4TE2JPo",
@@ -1538,6 +1797,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "UDdnyg-Cag4",
+      "title": "Chord Presets Magic #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "UjiClsw_dSg",
       "title": "Idris Muhammad “Could Heaven Ever Be Like This” Chords 🔥🎹🔥 Acid Jazz Predecessor",
       "n_chords": 16,
@@ -1657,6 +1923,13 @@
       "status": "ok"
     },
     {
+      "id": "xI-ioTC1Sig",
+      "title": "R4 Ridge Racer Type 4 “Garage Talk” Chords 🔥🎹🔥 Gaming Sunday - Composer Asuka Sakai",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "xO1ZNriqOcw",
       "title": "Jamiroquai “Virtual Insanity” Final 🔥🎹🔥 The final bit—parts nobody wants to teach.",
       "n_chords": 17,
@@ -1697,6 +1970,13 @@
       "n_chords": 30,
       "duration_sec": 46.0,
       "status": "ok"
+    },
+    {
+      "id": "Z4ifRkuaL2k",
+      "title": "A New Kind Of Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "z5YFXGtczDg",
