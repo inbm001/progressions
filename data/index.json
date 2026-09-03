@@ -1,9 +1,16 @@
 {
-  "count": 128,
-  "ok": 124,
-  "failed": 4,
-  "updated": "2026-09-03 19:05:16",
+  "count": 168,
+  "ok": 159,
+  "failed": 9,
+  "updated": "2026-09-03 19:53:38",
   "songs": [
+    {
+      "id": "-2P0EdYcU-c",
+      "title": "Varnish La Piscine “Face To Face” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 33.5,
+      "status": "ok"
+    },
     {
       "id": "-gDI19p8oq0",
       "title": "Gran Turismo 5 “Mesmerium” Part 1 Chords 🔥🎹🔥 Composer - Satoshi Bando.Gaming Sunday",
@@ -75,10 +82,31 @@
       "status": "ok"
     },
     {
+      "id": "4DZyC6R5WvU",
+      "title": "Jill Scott “Me 4” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 20.5,
+      "status": "ok"
+    },
+    {
       "id": "4KUvNNpuecE",
       "title": "JPEGMAFIA “1539 N. Calvert” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
       "duration_sec": 44.25,
+      "status": "ok"
+    },
+    {
+      "id": "4RhVV4DYLm8",
+      "title": "Pharrell Williams and Jay-Z “Frontin'” Bridge Chords 🔥🎹🔥 Happy Birthday, Pharrell April 5.2026",
+      "n_chords": 21,
+      "duration_sec": 9.5,
+      "status": "ok"
+    },
+    {
+      "id": "4YbM--AoOsY",
+      "title": "PaRappa The Rapper 2 “Big” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
+      "n_chords": 54,
+      "duration_sec": 58.25,
       "status": "ok"
     },
     {
@@ -117,6 +145,13 @@
       "status": "ok"
     },
     {
+      "id": "7LzwuXhSagM",
+      "title": "Sade “Keep Looking” Quiet Storm Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 2,
+      "duration_sec": 36.0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "7UXM4kDswRw",
       "title": "The Neptunes Ft. Common “Punch Drunk Love” Remix Bridge Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
@@ -138,10 +173,38 @@
       "status": "ok"
     },
     {
+      "id": "8oikM2Y_h94",
+      "title": "Midnight Chords 🔥🎹🔥#musiciaparadise",
+      "n_chords": 0,
+      "duration_sec": 8.5,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "8swjvs6s1cA",
+      "title": "Kendrick Lamar “Untitled 05” LoVibe Remix Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 21.0,
+      "status": "ok"
+    },
+    {
       "id": "8Ya3aU0NFHs",
       "title": "Jeru the Damaja “Ya Playin Yaself” Funky DL Remix Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 27,
       "duration_sec": 20.25,
+      "status": "ok"
+    },
+    {
+      "id": "9CAxbr3NmoI",
+      "title": "J Dilla, Busta Rhymes & Q-Tip “Ill Vibe“ (The Ummah Remix) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 39.5,
+      "status": "ok"
+    },
+    {
+      "id": "9kjGAAuBQbY",
+      "title": "Flying Lotus Ft. Kendrick Lamar “Never Catch Me” Final Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 11.5,
       "status": "ok"
     },
     {
@@ -173,6 +236,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "A830iwJ_bbA",
+      "title": "Randy Jackson & The Gypsys “Not Because Of Me” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 22.0,
+      "status": "ok"
+    },
+    {
       "id": "AQXigfksP-I",
       "title": "The Neptunes Star Trak “Website Background Music” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
@@ -187,6 +257,13 @@
       "status": "ok"
     },
     {
+      "id": "AUFN-BvLjo0",
+      "title": "Tyler, The Creator “BOYFRIEND, GIRLFRIEND” (2020 Demo) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 26.25,
+      "status": "ok"
+    },
+    {
       "id": "Bar3uTGyH2U",
       "title": "Streets Of Rage “Ending Theme” Chords 🔥🎹🔥 Gaming Sunday #MusicianParadise",
       "n_chords": 17,
@@ -198,6 +275,13 @@
       "title": "Roy Ayers Style Exercise 👌🎹🔥 Soulful 70s style chords #musicianparadise",
       "n_chords": 10,
       "duration_sec": 12.0,
+      "status": "ok"
+    },
+    {
+      "id": "BnG9SBo7DXg",
+      "title": "Super Play Action Football Music 10 “Final Score” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 5.0,
       "status": "ok"
     },
     {
@@ -264,6 +348,13 @@
       "status": "ok"
     },
     {
+      "id": "D6KNm7LzUKk",
+      "title": "Jill Scott “I Think It's Better” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 41,
+      "duration_sec": 57.25,
+      "status": "ok"
+    },
+    {
       "id": "d8dW7ZCs0Ug",
       "title": "Michael Jackson “The Lady In My Life” Chords Pt.1 🔥🎹🔥 After countless requests, it’s finally here!",
       "n_chords": 41,
@@ -275,6 +366,13 @@
       "title": "Roberta Flack “I Can See The Sun In Late December” Chords 🔥🎹🔥 Stevie Wonder Song #musicianparadise",
       "n_chords": 50,
       "duration_sec": 52.5,
+      "status": "ok"
+    },
+    {
+      "id": "dvpPX_I_j0s",
+      "title": "Alicia Keys “Feeling U, Feeling Me” (Interlude) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 32,
+      "duration_sec": 32.0,
       "status": "ok"
     },
     {
@@ -306,6 +404,13 @@
       "status": "ok"
     },
     {
+      "id": "eSuaHM3-4dk",
+      "title": "Patrice Rushen “Didn't You Know” Chords Part 1 🔥🎹🔥 #musicianparadise",
+      "n_chords": 26,
+      "duration_sec": 53.25,
+      "status": "ok"
+    },
+    {
       "id": "EvdCT78aKN8",
       "title": "Level 42 “Sirens” (John Morales Mix) Chords 🔥🎹🔥 Jazz-Funk Masterpiece 🎁",
       "n_chords": 4,
@@ -324,6 +429,13 @@
       "title": "Jamiroquai “Scam” Outro Chords 🔥🎹🔥 Pure Acid-Jazz Fire. #musicianparadise",
       "n_chords": 13,
       "duration_sec": 16.75,
+      "status": "ok"
+    },
+    {
+      "id": "f8RJUbadb88",
+      "title": "Patrice Rushen “Didn't You Know” Chords Part 2 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 46.0,
       "status": "ok"
     },
     {
@@ -418,6 +530,13 @@
       "status": "ok"
     },
     {
+      "id": "HTLggGQzAG4",
+      "title": "Blast from The Past - Patra “Worker Man” Chords 🔥🎹🔥",
+      "n_chords": 9,
+      "duration_sec": 11.25,
+      "status": "ok"
+    },
+    {
       "id": "hudSigIZXOc",
       "title": "Jamiroquai — “Virtual Insanity” Chords 🔥🎹🔥 The chorus and more—the parts nobody wants to teach!",
       "n_chords": 22,
@@ -453,6 +572,13 @@
       "status": "ok"
     },
     {
+      "id": "IzIesm6FwKk",
+      "title": "Wait—Scaler was ported to iPad? I can use my Scaler presets on iOS? 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 14.25,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "J3i60fBLKpc",
       "title": "Pharrell “Bad Day”(Despicable Me) Chords 🔥🎹🔥 Original Motion Picture Soundtrack #musicianparadise",
       "n_chords": 26,
@@ -464,6 +590,27 @@
       "title": "Michael Jackson “The Lady In My Life” Chords Pt.2 🔥🎹🔥 #musicianparadise",
       "n_chords": 39,
       "duration_sec": 59.25,
+      "status": "ok"
+    },
+    {
+      "id": "JhX01vU9fqQ",
+      "title": "Steely Dan “Aja” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 65,
+      "duration_sec": 60.0,
+      "status": "ok"
+    },
+    {
+      "id": "jQLCuk9PO-k",
+      "title": "Super Play Action Football “Season Ended, Lose” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
+      "n_chords": 37,
+      "duration_sec": 35.25,
+      "status": "ok"
+    },
+    {
+      "id": "k6gdl8xu2sQ",
+      "title": "Varnish La Piscine “Ring Island” Chords 🔥🎹🔥  Underground Gem 💎 #musicianparadise",
+      "n_chords": 45,
+      "duration_sec": 48.5,
       "status": "ok"
     },
     {
@@ -493,6 +640,13 @@
       "n_chords": 8,
       "duration_sec": 20.25,
       "status": "ok"
+    },
+    {
+      "id": "KLidzF8j8AM",
+      "title": "Complex Chords 🔥🎹🔥#musiciaparadise",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "status": "failed_no_chords"
     },
     {
       "id": "KUA6OCt6uxw",
@@ -537,6 +691,13 @@
       "status": "ok"
     },
     {
+      "id": "MGyEO7Kzt5w",
+      "title": "Patrice Rushen “Music Of The Earth” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 53,
+      "duration_sec": 37.0,
+      "status": "ok"
+    },
+    {
       "id": "MhYJwwW_pvE",
       "title": "Nas “The World Is Yours” Chords 🔥🎹🔥 Happy Birthday to Ahmad Jamal (July 2, 1930) 🎹",
       "n_chords": 14,
@@ -562,6 +723,13 @@
       "title": "Scar “What Is This” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
       "duration_sec": 11.5,
+      "status": "ok"
+    },
+    {
+      "id": "n6eYnu9cPaQ",
+      "title": "Brandy “Always On My Mind” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 58,
+      "duration_sec": 69.0,
       "status": "ok"
     },
     {
@@ -604,6 +772,13 @@
       "title": "Jamiroquai “Emergency on Planet Earth” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
       "duration_sec": 32.5,
+      "status": "ok"
+    },
+    {
+      "id": "OW_U9gT5BMk",
+      "title": "D'Angelo “Mariah” (Unreleased Demo) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 22.5,
       "status": "ok"
     },
     {
@@ -670,6 +845,13 @@
       "status": "ok"
     },
     {
+      "id": "QQPYWbC0pO8",
+      "title": "Peabo Bryson “Feel The Fire” Intro Chords 🔥🎹🔥 Best Intros Series #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 30.25,
+      "status": "ok"
+    },
+    {
       "id": "Rd8blB65rZ4",
       "title": "Metropolis Street Racer “You Can Love Me” Chords 🔥🎹🔥 Composer - Richard Jacques #musicianparadise",
       "n_chords": 22,
@@ -726,6 +908,13 @@
       "status": "ok"
     },
     {
+      "id": "SRQZlPlo0co",
+      "title": "DeBarge “A Dream” Chords 🔥🎹🔥 You know who sampled this!",
+      "n_chords": 66,
+      "duration_sec": 53.25,
+      "status": "ok"
+    },
+    {
       "id": "SSoqIfN0uzg",
       "title": "Dom Kennedy “Thank You Biggie” Chords 🔥🎹🔥 Jake One and Darius Willrich Production #musicianparadise",
       "n_chords": 11,
@@ -754,10 +943,24 @@
       "status": "ok"
     },
     {
+      "id": "T2TTHwcClhc",
+      "title": "Chaka Khan “I Know You, I Live You” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 45,
+      "duration_sec": 42.75,
+      "status": "ok"
+    },
+    {
       "id": "TBA4xWJz69w",
       "title": "D’Angelo “Ex to the Next” chords 🔥🎹🔥 I can sing Benny Golson’s “Killer Joe” over them!",
       "n_chords": 12,
       "duration_sec": 22.5,
+      "status": "ok"
+    },
+    {
+      "id": "tEEg9uc71aE",
+      "title": "Pharrell “Dirty” The Neptunes Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 37.25,
       "status": "ok"
     },
     {
@@ -789,10 +992,38 @@
       "status": "ok"
     },
     {
+      "id": "TtVID10Xr2s",
+      "title": "Jill Scott “Cross My Mind” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 13.25,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "tVOe0MXenpI",
+      "title": "Rochelle Jordan “Doing It Too” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 64,
+      "duration_sec": 64.75,
+      "status": "ok"
+    },
+    {
       "id": "TW4nFJvOECk",
       "title": "Patrice Scott “Remember When” Chords 🔥🎹🔥 Dark Detroit Harmony #musicianparadise",
       "n_chords": 24,
       "duration_sec": 33.5,
+      "status": "ok"
+    },
+    {
+      "id": "TZcM1-vXNgY",
+      "title": "CHIC “Good Times” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 34.75,
+      "status": "ok"
+    },
+    {
+      "id": "UArJ2Hq80B4",
+      "title": "Bobby Caldwell “What You Won't Do for Love” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 37,
+      "duration_sec": 33.75,
       "status": "ok"
     },
     {
@@ -810,6 +1041,13 @@
       "status": "ok"
     },
     {
+      "id": "V1Znb9e_7CY",
+      "title": "Frogger Advance “The Great Quest” Chords 🎮🎹🎮 Gaming Sunday (On Monday)",
+      "n_chords": 29,
+      "duration_sec": 16.0,
+      "status": "ok"
+    },
+    {
       "id": "VHXaqEG3xJ4",
       "title": "Stevie Wonder, Minnie Riperton “Take A Little Trip” Pt.1 Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 25,
@@ -824,10 +1062,31 @@
       "status": "ok"
     },
     {
+      "id": "vqDjdJZ4Is8",
+      "title": "Jill Scott “Offadaback” Neo Soul Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 50,
+      "duration_sec": 48.75,
+      "status": "ok"
+    },
+    {
       "id": "w8SQMHmgxe0",
       "title": "DJ Cam “Love Junkee” feat Cameo Dilla Remix Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
       "duration_sec": 22.75,
+      "status": "ok"
+    },
+    {
+      "id": "wntQUx3n7KM",
+      "title": "Wood Brass & Steel “My Darling Baby” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 61,
+      "duration_sec": 67.25,
+      "status": "ok"
+    },
+    {
+      "id": "wnvchjEx_Hg",
+      "title": "Flying Lotus Ft. Kendrick Lamar “Never Catch Me” Part 1 Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 23.5,
       "status": "ok"
     },
     {
@@ -880,10 +1139,31 @@
       "status": "ok"
     },
     {
+      "id": "Z1qD9WGbTNg",
+      "title": "Luther Vandross \"You're the Sweetest One\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 46.0,
+      "status": "ok"
+    },
+    {
       "id": "z5YFXGtczDg",
       "title": "Marcos Valle Ft. Leon Ware “Feels So Good” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
       "duration_sec": 39.75,
+      "status": "ok"
+    },
+    {
+      "id": "Z6wFgcJorvM",
+      "title": "The Neptunes Production - Kelis “Star Wars” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 51,
+      "duration_sec": 42.75,
+      "status": "ok"
+    },
+    {
+      "id": "zAD0804Qjao",
+      "title": "Street Fighter III 3rd Strike OST “Ending 1” Game Soundtrack Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 47.0,
       "status": "ok"
     },
     {
