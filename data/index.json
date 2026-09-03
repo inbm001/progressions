@@ -1,8 +1,8 @@
 {
-  "count": 1168,
+  "count": 1208,
   "ok": 196,
-  "failed": 972,
-  "updated": "2026-09-03 21:23:42",
+  "failed": 1012,
+  "updated": "2026-09-03 21:23:49",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -80,6 +80,13 @@
       "n_chords": 20,
       "duration_sec": 22.75,
       "status": "ok"
+    },
+    {
+      "id": "-o0IRgiB-XI",
+      "title": "Cool Neo Soul Turnaround #musicianparadise #royayers #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "-PoQexEwMj8",
@@ -523,6 +530,13 @@
       "status": "no_frames"
     },
     {
+      "id": "3-tiksIRt_c",
+      "title": "N.E.R.D Run To The Sun Chords 🎹👌 #musicianparadise #90smusic #NERDmusic",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "32gfz6noFsI",
       "title": "Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥🎹🔥 Gaming Sunday",
       "n_chords": 0,
@@ -605,6 +619,13 @@
       "n_chords": 23,
       "duration_sec": 35.0,
       "status": "ok"
+    },
+    {
+      "id": "4-x5pPDg_tE",
+      "title": "R&B Chords 2000s Style #musicianparadise #ClassicRnBChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "43lDrzFb-64",
@@ -712,6 +733,13 @@
       "status": "no_frames"
     },
     {
+      "id": "4PSynYym8S4",
+      "title": "Flight Facilities “Crave You” Chords 🎹🛫 #musicianparadise #FlightFacilities #craveyouchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "4rCtIE4i314",
       "title": "Jamiroquai “Alright” Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -766,6 +794,13 @@
       "n_chords": 54,
       "duration_sec": 58.25,
       "status": "ok"
+    },
+    {
+      "id": "526HSIZ7ZVc",
+      "title": "R&B Diminished Cadence 🎹👌 #RnBChords #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "55gKXtBCT1A",
@@ -866,6 +901,13 @@
       "status": "no_frames"
     },
     {
+      "id": "5Ot6CGr7OWc",
+      "title": "Bewitching Deep House Chords 🧙‍♂️ #musicianparadise #deephousechords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "5pOpEx0OurM",
       "title": "A Tribe Called Quest – “Bonita Applebum” Chords 🔥🎹🔥 Sample source: Roy Ayers / RAMP – “Daylight”",
       "n_chords": 14,
@@ -943,6 +985,13 @@
       "status": "no_frames"
     },
     {
+      "id": "6ejCAvLtdCE",
+      "title": "Roy Ayers Liquid Love Chords 🎹👌 #royayers #neosoul #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "6ErJ_dWpEsM",
       "title": "Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀",
       "n_chords": 0,
@@ -973,6 +1022,13 @@
     {
       "id": "6NsYVsFIUY0",
       "title": "The Isley Brothers “Between The Sheets” Bridge Chords 🎹👌 #musicianparadise  #theisleybrothers",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "6OY04l4_0Mw",
+      "title": "Deep Chords Deep House 🎹 #musicianparadise #deephousechords #neosoulchords #pianochords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1088,6 +1144,13 @@
       "n_chords": 1,
       "duration_sec": 14.5,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "7eEs5K3_jSQ",
+      "title": "Everybody Loves The Sunshine 🌞 Chords  🎹 Roy Ayers #musicianparadise #royayerschords #royayers",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "7gZhB2bAoEw",
@@ -1503,6 +1566,13 @@
       "status": "no_frames"
     },
     {
+      "id": "_jmnY6c9E-s",
+      "title": "Soulful Fender Rhodes Chords 70s Style #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "_mCoy0Zbs1M",
       "title": "Sade \"Maureen\" Chords 🔥🎹🔥 #SadeMaureen #MaureenChords",
       "n_chords": 0,
@@ -1543,6 +1613,13 @@
       "n_chords": 0,
       "duration_sec": 14.5,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "A-31FMi3C2A",
+      "title": "Kendrick Lamar These Walls Amazing Chords #KendrickLamar #TheseWallsChords #ToPimpAButterfly",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "a2pISJgmpzs",
@@ -1631,6 +1708,13 @@
     {
       "id": "aj6hR5TTdrQ",
       "title": "D’Angelo’s “Go Back 2 The Thing” Chords 🎹🔥 #DAngelo #GoBack2TheThingChords  #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "AJZlHXvV5Vk",
+      "title": "Lotus Flower Bomb Chords #MusicianParadise #Wale #WaleftMiguel",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -1895,6 +1979,13 @@
       "status": "no_frames"
     },
     {
+      "id": "BAEop9FQ3Fk",
+      "title": "Daniel Caesar Best Part ft. H.E.R. Chords 🎹👌 #musicianparadise #RnBchords #NeoSoulChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "BanEyqty4sM",
       "title": "Justin Timberlake “Nothin’ Else” Chords 🎹👌 117 bpm Fm  #NothinElseChords #JustinTimberlake",
       "n_chords": 0,
@@ -1967,6 +2058,13 @@
     {
       "id": "bKBn9BW6Mxg",
       "title": "The Neptunes - Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "BlVlKebCvzQ",
+      "title": "Classic Deep House Chords 🎹 #DeepHouseChords #DeepHouseTutorial #MusicProduction",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -2777,6 +2875,13 @@
       "status": "no_frames"
     },
     {
+      "id": "ee_u2eEvwlQ",
+      "title": "Classic RnB Chords - Floetry “Say Yes” #musicianparadise #ClassicRnBChords #FloetrySayYesChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "eFnMDbtN5qI",
       "title": "H.E.R “Could’ve Been” Part B Chords 🔥🎹🔥#musicianparadise",
       "n_chords": 0,
@@ -3010,6 +3115,13 @@
     {
       "id": "FEEs-s26pHI",
       "title": "The Neptunes Futuristic 2000s Chords - Lupe Fiasco \"I Gotcha\"Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "FFjHQrz9smQ",
+      "title": "J Dilla The Look Of Love Chords 🎹🎸 #musicianparadise #jdillachords #jdilla",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3402,6 +3514,13 @@
     {
       "id": "gOg67Z5RS6o",
       "title": "Roddy Ricch “High Fashion” Chords 🎹👌 98 bpm B minor #HighFashionChords #RoddyRicch",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "Gp386Ij778A",
+      "title": "Roy Ayers “The Third Eye” Chords #musicianparadise #RoyAyers #NeoSoul",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3890,6 +4009,13 @@
       "status": "no_frames"
     },
     {
+      "id": "iTtaFXnnt2g",
+      "title": "Healing Deep House Chords 🎹🧙‍♂️ #musicianparadise #deephousechords #rhodespiano",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "IucS--S77M8",
       "title": "The Future Soul Formula Hiatus Kaiyote “Red Room” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -3913,6 +4039,13 @@
     {
       "id": "ivfgN27qENc",
       "title": "Michael McDonald ‘Sweet Freedom’ Chords 🔥🎹🔥 Does it sound as Kendrick Lamar's 'These Walls'?",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "iW5qlsH-stw",
+      "title": "Hypnotic Deep House Chords #musicianparadise #deephousechords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3960,6 +4093,13 @@
       "status": "no_frames"
     },
     {
+      "id": "IXOrbe5GnPY",
+      "title": "Don't Stop Beanie Sigel Chords #musicianparadise #BeanieSigel #BeanieSigelDon’tStopChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "ixQSlNPZmjY",
       "title": "You Asked For It…Herbie Hancock “Paradise” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 59,
@@ -3972,6 +4112,13 @@
       "n_chords": 0,
       "duration_sec": 14.25,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "J-nNJ7pSWcM",
+      "title": "Cool Turnarounds Roy Ayers Style #musicianparadise #royayers #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "j-UO4h5chFU",
@@ -4338,6 +4485,13 @@
       "status": "no_frames"
     },
     {
+      "id": "k_C63XyVEU0",
+      "title": "Roy Ayers Inspired Chords 🎹 #musicianparadise #neosoulchords #royayers",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Ka9MmWrgCrg",
       "title": "This Chord Progression Made Fabe 'Quand J'serai Grand' a French Rap Classic!🔥🎹🔥#musisianparadise",
       "n_chords": 0,
@@ -4520,6 +4674,13 @@
       "status": "no_frames"
     },
     {
+      "id": "L-8Le9EZxfo",
+      "title": "ALLINANITE ft Sophia Duncan Outro Chords 🎹👌 #AllinaniteOutroChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "L-H_Bhd5SbM",
       "title": "Tyler, The Creator “Sweet, I Thought You Wanted To Dance” – Chord Progression Breakdown! 🔥🎹🔥",
       "n_chords": 0,
@@ -4611,6 +4772,13 @@
       "status": "no_frames"
     },
     {
+      "id": "LEfH9k2iH3Y",
+      "title": "Whole Lot Of SUS Chords 🤔🎹 Roy Ayers Style #musicianparadise #royayerschords #neosoul",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "lemv1izk-Hk",
       "title": "Kendrick Lamar “These Walls” Chords 🔥🎹🔥 Rhodes 73 MK 1 Rod Temperton ‘Sweet Freedom’ chords",
       "n_chords": 0,
@@ -4662,6 +4830,13 @@
     {
       "id": "LJyRtDGXrRM",
       "title": "Lupe Fiasco “I'm Beamin” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "LNAYjxf7TZc",
+      "title": "Roy Ayers Together Forever Chords  #musicianparadise #royayers #TogetherForeverChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4746,6 +4921,13 @@
     {
       "id": "LyXTAdQ5DEM",
       "title": "Don Blackman “Holding You, Loving You” chords 🎹🤯",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "lzQa-KubX3w",
+      "title": "Deep House Turnaround 🤯🎹 Tracklights, Michael De Hey #musicianparadise #deephousechords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5008,6 +5190,13 @@
       "n_chords": 11,
       "duration_sec": 11.5,
       "status": "ok"
+    },
+    {
+      "id": "N1WWVhGFOcA",
+      "title": "How To Play D7b9#9 Into EbMaj7 🧐 #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "n3RYxqhuK3k",
@@ -5332,6 +5521,13 @@
       "status": "no_frames"
     },
     {
+      "id": "o8P0EYd4cgQ",
+      "title": "Kendrick Lamar Institutionalized Chords 🎹👌 #KendrickLamarInstitutionalizedChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "o8yIAoZs0cw",
       "title": "Eddie Kendricks “Intimate Friends” I could play those chords all day long! 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -5348,6 +5544,13 @@
     {
       "id": "O_Otg7zWRoc",
       "title": "Michael Jackson “Rock With You” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "o_ZxqDrG41E",
+      "title": "How Much A Dollar Cost 🎹👌 #HowMuchADollarCostchords #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5976,6 +6179,13 @@
       "status": "no_frames"
     },
     {
+      "id": "qJl2Pnkmea4",
+      "title": "ALLINANITE ft Sophia Duncan Outro Chords 🎹👌#allinanitechords #allinanite #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "qjOUE_sSQnM",
       "title": "The Smoothest Neo-Soul Chords? Robert Glasper’s “Heaven’s Here” 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -6489,6 +6699,13 @@
     {
       "id": "SLekZj1aOhw",
       "title": "From Acid Jazz To Classical: How Jamiroquai Crafted 'King For A Day' 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "SligUeYCRNg",
+      "title": "Roy Ayers Coffy Is The Color Chords 🎹👌#royayers #musicianparadise #royayerschords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7026,6 +7243,13 @@
       "status": "no_frames"
     },
     {
+      "id": "U8E99VOH-ZY",
+      "title": "Soulful Roy Ayers Style Chords #musicianparadise #royayers #royayerschords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "uAm38PY1QyY",
       "title": "Roy Ayers “Brand New Feeling” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -7077,6 +7301,13 @@
     {
       "id": "uEY4ny8nNDA",
       "title": "N.C. Stands For “No Chords” LOL - Don Blackman “You Ain't Hip” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "Ui4rYvpQFZg",
+      "title": "Chords Begs For A Groove! #musicianparadise #neosoulchords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7147,6 +7378,13 @@
     {
       "id": "uXPoqsuph4s",
       "title": "Jill Scott “Cross My Mind” chords 👌🎹👌 #JillScott #CrossMyMindChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "UxT2qBfdFvg",
+      "title": "Deep House Classic Warm Chords 🎹👌 #musicianparadise #deephousechords #deephouse",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7320,6 +7558,20 @@
       "status": "no_frames"
     },
     {
+      "id": "vQOnuD4qrfc",
+      "title": "J Dilla The Look Of Love Chords  🎹🎸 #JDilla #musicianparadise #jdillachords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "VqVYVRWxUvk",
+      "title": "Jill Scott “Golden”Chords #musicianparadise #JillScottGoldenChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "VR-UBHvG3sI",
       "title": "2Pac “Do For Love” Chords 🔥🎹🔥 #2Pac #DoForLove #DoForLoveChords #musicianparadise",
       "n_chords": 0,
@@ -7434,6 +7686,13 @@
     {
       "id": "WbIPt8y2QNY",
       "title": "Level 42 “Sirens” Chords (John Morales Mix) 🔥🎹🔥 Em 106 bpm #MarkKing #Level42Sirens",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "WF0n_SmV0ts",
+      "title": "Jamiroquai Virtual Insanity Intro Chords #musicianparadise #jamiroquaichords #virtualinsanitychords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -7894,6 +8153,13 @@
       "status": "no_frames"
     },
     {
+      "id": "YDUvsItDTpI",
+      "title": "Frontin' Pharrell Williams and Jay-Z Outro Chords #musicianparadise #frontinchords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "YfooqDQeOxI",
       "title": "Bob James \"Angela\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -7987,6 +8253,13 @@
     {
       "id": "yzOzDmlEpVo",
       "title": "Musiq Soulchild “So Beautiful” Chords 🔥🎹🔥 #SoBeautifulChords #MusiqSoulchild",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "Z-WzhhIf1uw",
+      "title": "Toni Braxton Hit The Freeway Bridge Chords #90sRnB #90sRnBChords #90sRnBTrowback #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -8106,6 +8379,13 @@
     {
       "id": "zjx6q0lMkLg",
       "title": "Unlock the Soul of \"Gangsta\" 🔓 Free Nationals x ASAP Rocky x Anderson .Paak Chords  Exposed! 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "zMahIYKhEWY",
+      "title": "Minor Chords Exercise 🎹👌#musicianparadise #neosoulchords #fenderrhodes",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"

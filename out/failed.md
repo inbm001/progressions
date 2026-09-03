@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 1168곡 중 972곡 실패
+총 1208곡 중 1012곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -10,6 +10,7 @@
 | [-IG6ZbcBYEE](https://www.youtube.com/watch?v=-IG6ZbcBYEE) | no_frames | 0% | How Ted Moses Inspired J Dilla’s Genius “Spectrum” Chords Br |
 | [-K-dBWcZXKM](https://www.youtube.com/watch?v=-K-dBWcZXKM) | no_frames | 0% | Danny Brown’s “Party All The Time” – The Hidden N.E.R.D. Int |
 | [-m9J4_bOg_Y](https://www.youtube.com/watch?v=-m9J4_bOg_Y) | no_frames | 0% | Incognito Ft. Chicco Allotta “1993” Chords 🔥🎹🔥 Pure 90s Groo |
+| [-o0IRgiB-XI](https://www.youtube.com/watch?v=-o0IRgiB-XI) | no_frames | 0% | Cool Neo Soul Turnaround #musicianparadise #royayers #neosou |
 | [-PoQexEwMj8](https://www.youtube.com/watch?v=-PoQexEwMj8) | no_frames | 0% | Sade "Maureen" Chords 🔥🎹🔥 #musicianparadise #sade |
 | [-QOr0kfihWU](https://www.youtube.com/watch?v=-QOr0kfihWU) | no_frames | 0% | Daft Punk "One More Time" Chords 🔥🎹🔥 Happy 2026! #musicianpa |
 | [-XY5AsSGdx8](https://www.youtube.com/watch?v=-XY5AsSGdx8) | no_frames | 0% | Deep House Abstract Chords 🎹 🎛 #DeepHouseChords #HouseMusic  |
@@ -69,6 +70,7 @@
 | [2XTVwS8Ztn0](https://www.youtube.com/watch?v=2XTVwS8Ztn0) | no_frames | 0% | Dark Deep House Chords  #musicianparadise #deephousechords # |
 | [2Z5-HFyplSw](https://www.youtube.com/watch?v=2Z5-HFyplSw) | no_frames | 0% | D’Angelo “Go Back 2 The Thing” Chords 🔥🎹🔥 #MusicianParadise |
 | [2ZA-dhSBg14](https://www.youtube.com/watch?v=2ZA-dhSBg14) | no_frames | 0% | Decoding Yung Lean “Gatorade” Chords: Lido Remix 🔥🎹🔥 #musici |
+| [3-tiksIRt_c](https://www.youtube.com/watch?v=3-tiksIRt_c) | no_frames | 0% | N.E.R.D Run To The Sun Chords 🎹👌 #musicianparadise #90smusic |
 | [32gfz6noFsI](https://www.youtube.com/watch?v=32gfz6noFsI) | no_frames | 0% | Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥 |
 | [35Sgz0laY18](https://www.youtube.com/watch?v=35Sgz0laY18) | no_frames | 0% | Erykah Badu “Back In The Day” Chords 🔥🎹🔥 Corrected—thanks to |
 | [37cQfyCzl7Y](https://www.youtube.com/watch?v=37cQfyCzl7Y) | no_frames | 0% | Kendrick Lamar You Ain’t Gotta Lie (Momma Said) Chords 🎹👌#Ke |
@@ -80,6 +82,7 @@
 | [3nmfHAc7mvw](https://www.youtube.com/watch?v=3nmfHAc7mvw) | no_frames | 0% | The J Dilla Sample Comes Alive: Glasper & Mos Def “Stakes Is |
 | [3O92Pac156U](https://www.youtube.com/watch?v=3O92Pac156U) | no_frames | 0% | Digging Into SWV 'Rain' Chords to find a Jaco Pastorius tune |
 | [3PeOSKBe0hs](https://www.youtube.com/watch?v=3PeOSKBe0hs) | no_frames | 0% | Nujabes “Feather” Chords 🔥🎹🔥 (feat. Cise Starr & Akin from C |
+| [4-x5pPDg_tE](https://www.youtube.com/watch?v=4-x5pPDg_tE) | no_frames | 0% | R&B Chords 2000s Style #musicianparadise #ClassicRnBChords |
 | [43lDrzFb-64](https://www.youtube.com/watch?v=43lDrzFb-64) | failed_no_chords | 0% | Chord Presets - Sustain Pedal Triggering MIDI Pitch FX ? Yes |
 | [45a_CoQ2Wnw](https://www.youtube.com/watch?v=45a_CoQ2Wnw) | no_frames | 0% | Daft Punk “Digital Love” Chords - George Duke’s “I Love You  |
 | [45kpdFQ5YvQ](https://www.youtube.com/watch?v=45kpdFQ5YvQ) | no_frames | 0% | Griselda & 50 Cent “City On The Map” Breakdown 🔥🎹🔥 #musician |
@@ -93,12 +96,14 @@
 | [4MSAS5Ieo1M](https://www.youtube.com/watch?v=4MSAS5Ieo1M) | no_frames | 0% | Mtume “Love Lock” Chords 🎹🎸🔥 #LoveLock #Mtume #MtumeLoveLock |
 | [4nDkwaLOKP0](https://www.youtube.com/watch?v=4nDkwaLOKP0) | no_frames | 0% | Ed Motta "Guezagui" Chords 🔥🎹🔥 76 bpm. #EdMotta #GuezaguiCho |
 | [4PE5-2nbag8](https://www.youtube.com/watch?v=4PE5-2nbag8) | no_frames | 0% | Quelle Chris & Chris Keys ‘Living Happy’ Chords 🔥🎹🔥 #QuelleC |
+| [4PSynYym8S4](https://www.youtube.com/watch?v=4PSynYym8S4) | no_frames | 0% | Flight Facilities “Crave You” Chords 🎹🛫 #musicianparadise #F |
 | [4rCtIE4i314](https://www.youtube.com/watch?v=4rCtIE4i314) | no_frames | 0% | Jamiroquai “Alright” Chords 🔥🎹🔥 #MusicianParadise |
 | [4rvaPEMpQGA](https://www.youtube.com/watch?v=4rvaPEMpQGA) | no_frames | 0% | Moonchild - “Voyager“ Intro Chords 🔥🎹🔥 #musicianparadise |
 | [4TfklHAc1RM](https://www.youtube.com/watch?v=4TfklHAc1RM) | no_frames | 0% | Robert Glasper + Lupe + Bilal = Perfection 🔥🎹🔥 | “Always Shi |
 | [4uo1NuGc40s](https://www.youtube.com/watch?v=4uo1NuGc40s) | no_frames | 0% | Magdalena Bay “Secrets (Your Fire)” Chords 🔥🎹🔥 (Blast From T |
 | [4v5EWIQGGvQ](https://www.youtube.com/watch?v=4v5EWIQGGvQ) | no_frames | 0% | J Dilla ‘Swagger’ Extra Hot Chords 🔥🎹🔥 #JDilla #SwaggerChord |
 | [4YbhquSEqzk](https://www.youtube.com/watch?v=4YbhquSEqzk) | no_frames | 0% | Tyler, The Creator “Tell Me What It Is” Chords (Final Part)🔥 |
+| [526HSIZ7ZVc](https://www.youtube.com/watch?v=526HSIZ7ZVc) | no_frames | 0% | R&B Diminished Cadence 🎹👌 #RnBChords #MusicianParadise |
 | [55gKXtBCT1A](https://www.youtube.com/watch?v=55gKXtBCT1A) | no_frames | 0% | Freddie Gibbs & The Alchemist Ft. Larry June “Feeling” Chord |
 | [59elnBNLrEA](https://www.youtube.com/watch?v=59elnBNLrEA) | no_frames | 0% | A Tribe Called Quest “Find a Way” Chords 🔥🎹🔥 94 bpm Detroit’ |
 | [5_jb8GPZzI0](https://www.youtube.com/watch?v=5_jb8GPZzI0) | no_frames | 0% | Linda Clifford "Runaway Love" Intro chords 🔥🎹🔥 |
@@ -112,6 +117,7 @@
 | [5j79MxpWE7I](https://www.youtube.com/watch?v=5j79MxpWE7I) | no_frames | 0% | Floetry “If I Was A Bird” Verse Chords 🎹👌 #musicianparadise  |
 | [5jfNtGvJk6w](https://www.youtube.com/watch?v=5jfNtGvJk6w) | no_frames | 0% | Mndsgn “Davibe” Chords 🎹🔥 #DavibeChords #Mndsgn #musicianpar |
 | [5Lky5buDurk](https://www.youtube.com/watch?v=5Lky5buDurk) | no_frames | 0% | Title Tyler, The Creator & Roy Ayers “Find Your Wings” Chord |
+| [5Ot6CGr7OWc](https://www.youtube.com/watch?v=5Ot6CGr7OWc) | no_frames | 0% | Bewitching Deep House Chords 🧙‍♂️ #musicianparadise #deephou |
 | [5R8XbKsGZuQ](https://www.youtube.com/watch?v=5R8XbKsGZuQ) | no_frames | 0% | Soulful Chords - Jeru Tha Damaja “Ya’ Playin Yaself” 🔥🎹🔥 #Je |
 | [5RKlsR8pG8g](https://www.youtube.com/watch?v=5RKlsR8pG8g) | no_frames | 0% | Unlock Kiefer's “What A Day” Chords 🔥🎹🔥 #musicianparadise |
 | [5sET9YMXmbg](https://www.youtube.com/watch?v=5sET9YMXmbg) | no_frames | 0% | J Dilla Flipped These Ahmad Jamal Chords 🔥🎹 🔥 “Swahililand”  |
@@ -121,10 +127,12 @@
 | [63qFFHAZ7H0](https://www.youtube.com/watch?v=63qFFHAZ7H0) | no_frames | 0% | Funk Master: Luther Vandross “Never Too Much” Chords 🔥🎹🔥 |
 | [68F1pgWA8sM](https://www.youtube.com/watch?v=68F1pgWA8sM) | no_frames | 0% | 70s Style Chord Progression 🔥🎹🔥 ”70s Style” - Free MIDI & Ch |
 | [6e_jXQBZccs](https://www.youtube.com/watch?v=6e_jXQBZccs) | no_frames | 0% | N.E.R.D “You Know What” 🎹🔥 Verse Chords #NERD #YouKnowWhat # |
+| [6ejCAvLtdCE](https://www.youtube.com/watch?v=6ejCAvLtdCE) | no_frames | 0% | Roy Ayers Liquid Love Chords 🎹👌 #royayers #neosoul #musician |
 | [6ErJ_dWpEsM](https://www.youtube.com/watch?v=6ErJ_dWpEsM) | no_frames | 0% | Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀 |
 | [6iLce3mQ7nI](https://www.youtube.com/watch?v=6iLce3mQ7nI) | no_frames | 0% | N.E.R.D “You Know What” 🎹🔥 Bridge Chords #NERD #musicianpara |
 | [6jhFKteZwZ4](https://www.youtube.com/watch?v=6jhFKteZwZ4) | no_frames | 0% | lla J “Timeless” Chords 🔥🎹🔥 |
 | [6NsYVsFIUY0](https://www.youtube.com/watch?v=6NsYVsFIUY0) | no_frames | 0% | The Isley Brothers “Between The Sheets” Bridge Chords 🎹👌 #mu |
+| [6OY04l4_0Mw](https://www.youtube.com/watch?v=6OY04l4_0Mw) | no_frames | 0% | Deep Chords Deep House 🎹 #musicianparadise #deephousechords  |
 | [6Q6utfPu7Rk](https://www.youtube.com/watch?v=6Q6utfPu7Rk) | no_frames | 0% | Michael Jackson P.Y.T. Greg Phillinganes Version Chords 🔥🎹🔥  |
 | [6tNsUDvnFUk](https://www.youtube.com/watch?v=6tNsUDvnFUk) | no_frames | 0% | Final Fantasy X-2  Eternity “Memory of Lightwaves” Chords 🔥🎹 |
 | [6UT80QSzOL8](https://www.youtube.com/watch?v=6UT80QSzOL8) | no_frames | 0% | Neo-Soul Harmony Erykah's Badu “Other Side Of The Game” 🔥🎹🔥  |
@@ -138,6 +146,7 @@
 | [7BiW7xbCqBw](https://www.youtube.com/watch?v=7BiW7xbCqBw) | no_frames | 0% | Hip Hop Chords You Need to Hear - Grizelda “Old Groove” Chor |
 | [7btyvGaRYc0](https://www.youtube.com/watch?v=7btyvGaRYc0) | no_frames | 0% | Erykah Badu “On & On” Chords 🔥🎹🔥 #musicianparadise #chordpro |
 | [7d88SSSAiTw](https://www.youtube.com/watch?v=7d88SSSAiTw) | failed_low_ocr | 2% | Chord Presets Work Anywhere You Can Take Your Notebook 🔥🎹🔥 # |
+| [7eEs5K3_jSQ](https://www.youtube.com/watch?v=7eEs5K3_jSQ) | no_frames | 0% | Everybody Loves The Sunshine 🌞 Chords  🎹 Roy Ayers #musician |
 | [7gZhB2bAoEw](https://www.youtube.com/watch?v=7gZhB2bAoEw) | no_frames | 0% | MF DOOM “Benzoin Gum” Chords 🔥🎹🔥 #musicianparadise |
 | [7hsA8wtHHC4](https://www.youtube.com/watch?v=7hsA8wtHHC4) | no_frames | 0% | Incognito “Love, Joy, Understanding” Intro Chords 🔥🎹🔥 #music |
 | [7INjEzXy3is](https://www.youtube.com/watch?v=7INjEzXy3is) | no_frames | 0% | Labi Siffre “I Got The…” 🔥🎹🔥 94.90 bpm F #LabiSiffre #IGotTh |
@@ -187,10 +196,12 @@
 | [_gdSVrlSsIk](https://www.youtube.com/watch?v=_gdSVrlSsIk) | no_frames | 0% | Steal These Chords 15 Soulful House Vibes 🔥🎹🔥 #musicianparad |
 | [_gJktY1MImw](https://www.youtube.com/watch?v=_gJktY1MImw) | no_frames | 0% | Freddie Gibbs and The Alchemist “Babies & Fools” Chords 🔥🎹🔥  |
 | [_HXvEwL5K4w](https://www.youtube.com/watch?v=_HXvEwL5K4w) | no_frames | 0% | The Clever Jazz Chords Behind Erykah Badu's “Cleva” 🔥🎹🔥 #mus |
+| [_jmnY6c9E-s](https://www.youtube.com/watch?v=_jmnY6c9E-s) | no_frames | 0% | Soulful Fender Rhodes Chords 70s Style #musicianparadise #ne |
 | [_mCoy0Zbs1M](https://www.youtube.com/watch?v=_mCoy0Zbs1M) | no_frames | 0% | Sade "Maureen" Chords 🔥🎹🔥 #SadeMaureen #MaureenChords |
 | [_N6hOF9aIH4](https://www.youtube.com/watch?v=_N6hOF9aIH4) | no_frames | 0% | Breakbot “Be Mine Tonight” Chords 🔥🎹🔥 #musicianparadise |
 | [_UxYmivirco](https://www.youtube.com/watch?v=_UxYmivirco) | no_frames | 0% | Patrice Rushen “Where There Is Love” Chords 🔥🎹🔥 #PatriceRush |
 | [_y6CR_p7udY](https://www.youtube.com/watch?v=_y6CR_p7udY) | failed_no_chords | 0% | Behind the scenes! This is what recording these videos actua |
+| [A-31FMi3C2A](https://www.youtube.com/watch?v=A-31FMi3C2A) | no_frames | 0% | Kendrick Lamar These Walls Amazing Chords #KendrickLamar #Th |
 | [a2pISJgmpzs](https://www.youtube.com/watch?v=a2pISJgmpzs) | no_frames | 0% | J Dilla “Track 18” Chords 🔥🎹🔥 |
 | [A5iN8yOszRI](https://www.youtube.com/watch?v=A5iN8yOszRI) | no_frames | 0% | Turnaround Roy Ayers Style 🔥🎹👌 #RoyAyersChords #musicianpara |
 | [A_gLvT3gTPc](https://www.youtube.com/watch?v=A_gLvT3gTPc) | no_frames | 0% | Daft Punk Inspired Chords 🔥🎹🔥 #musicianparadise #DaftPunkCho |
@@ -202,6 +213,7 @@
 | [aggKMaNa5qM](https://www.youtube.com/watch?v=aggKMaNa5qM) | no_frames | 0% | Roy Ayers Style Chords 🔥🎹🔥 #musicianparadise #chordpresetpac |
 | [AhAOTVTOn9Y](https://www.youtube.com/watch?v=AhAOTVTOn9Y) | no_frames | 0% | Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #music |
 | [aj6hR5TTdrQ](https://www.youtube.com/watch?v=aj6hR5TTdrQ) | no_frames | 0% | D’Angelo’s “Go Back 2 The Thing” Chords 🎹🔥 #DAngelo #GoBack2 |
+| [AJZlHXvV5Vk](https://www.youtube.com/watch?v=AJZlHXvV5Vk) | no_frames | 0% | Lotus Flower Bomb Chords #MusicianParadise #Wale #WaleftMigu |
 | [Ak3UFyizDGM](https://www.youtube.com/watch?v=Ak3UFyizDGM) | no_frames | 0% | J Dilla’s Hidden Gem: “Dewitt To Do It” Chords Unlocked 🔥🎹🔥 |
 | [AKd_snhZFSk](https://www.youtube.com/watch?v=AKd_snhZFSk) | no_frames | 0% | Dr. Dre Still D.R.E. ft. Snoop Dogg Chords #musicianparadise |
 | [alCsAAsafgA](https://www.youtube.com/watch?v=alCsAAsafgA) | no_frames | 0% | Kendrick Lamar "For Sale" (Interlude) Chords 🔥🎹🔥 #musicianpa |
@@ -234,6 +246,7 @@
 | [b7nak1rKH5I](https://www.youtube.com/watch?v=b7nak1rKH5I) | no_frames | 0% | The Isley Brothers "Between The Sheets" Chorus Chords #music |
 | [B8grgTEX1ew](https://www.youtube.com/watch?v=B8grgTEX1ew) | no_frames | 0% | Deep House Chords 🔥🎹 🎛  #DeepHouseChords #HouseMusic #musici |
 | [B8qGP3XTJzY](https://www.youtube.com/watch?v=B8qGP3XTJzY) | no_frames | 0% | Unlock the Soul: Erykah Badu "Telephone" Chords 🔥🎹🔥 |
+| [BAEop9FQ3Fk](https://www.youtube.com/watch?v=BAEop9FQ3Fk) | no_frames | 0% | Daniel Caesar Best Part ft. H.E.R. Chords 🎹👌 #musicianparadi |
 | [BanEyqty4sM](https://www.youtube.com/watch?v=BanEyqty4sM) | no_frames | 0% | Justin Timberlake “Nothin’ Else” Chords 🎹👌 117 bpm Fm  #Noth |
 | [Bb9NDqX7uZw](https://www.youtube.com/watch?v=Bb9NDqX7uZw) | no_frames | 0% | Jamiroquai  “High Times” Chords 🔥🎹🔥 Em 112.70 bpm #Jamiroqua |
 | [bcyJD3h0Czw](https://www.youtube.com/watch?v=bcyJD3h0Czw) | no_frames | 0% | Mastering the Magic of '70s Style Modal Interchange Chords 🔥 |
@@ -243,6 +256,7 @@
 | [BiB3PBFkidM](https://www.youtube.com/watch?v=BiB3PBFkidM) | no_frames | 0% | Floetry ‘Say Yes’ Chords Decoded 🔥🎹🔥 #FloetrySayYes #musicia |
 | [Bimvyzk34OI](https://www.youtube.com/watch?v=Bimvyzk34OI) | no_frames | 0% | Laid-Back Soulful R&B Chords 🔥🎹🔥 #MusicianParadise |
 | [bKBn9BW6Mxg](https://www.youtube.com/watch?v=bKBn9BW6Mxg) | no_frames | 0% | The Neptunes - Intro Chords 🔥🎹🔥 #musicianparadise |
+| [BlVlKebCvzQ](https://www.youtube.com/watch?v=BlVlKebCvzQ) | no_frames | 0% | Classic Deep House Chords 🎹 #DeepHouseChords #DeepHouseTutor |
 | [bmLQjADGpm0](https://www.youtube.com/watch?v=bmLQjADGpm0) | no_frames | 0% | Paul McCartney “Wonderful Christmastime” Chords 🔥🎹🔥 #musicia |
 | [BmUbNFs_1uY](https://www.youtube.com/watch?v=BmUbNFs_1uY) | no_frames | 0% | This Chord Progression Will Give You Chills 😱 Norah Jones &  |
 | [BNQlMOMQbX0](https://www.youtube.com/watch?v=BNQlMOMQbX0) | no_frames | 0% | Quantum Chord Mechanics Rhodes 73 MK I 🔥🎹🔥 #musicianparadise |
@@ -340,6 +354,7 @@
 | [EBnBde1I8tw](https://www.youtube.com/watch?v=EBnBde1I8tw) | no_frames | 0% | DeVante Swing’s Gospel Magic: Jodeci’s ‘Stay’ Intro (MTV Unp |
 | [EDfk6bl58Io](https://www.youtube.com/watch?v=EDfk6bl58Io) | no_frames | 0% | Mighty Bop “Freestyle Linguistique” Chords 🔥🎹🔥 Classic 90s F |
 | [Ee3IoofmidU](https://www.youtube.com/watch?v=Ee3IoofmidU) | no_frames | 0% | H.E.R “Could’ve Been” Part B Smoothest R&B Chords In The Bus |
+| [ee_u2eEvwlQ](https://www.youtube.com/watch?v=ee_u2eEvwlQ) | no_frames | 0% | Classic RnB Chords - Floetry “Say Yes” #musicianparadise #Cl |
 | [eFnMDbtN5qI](https://www.youtube.com/watch?v=eFnMDbtN5qI) | no_frames | 0% | H.E.R “Could’ve Been” Part B Chords 🔥🎹🔥#musicianparadise |
 | [eHU9nB7fSOw](https://www.youtube.com/watch?v=eHU9nB7fSOw) | failed_no_chords | 0% | Steal These Chords Dark Neo Soul Vibes 🔥🎹🔥#musiciaparadise |
 | [ElFWvYcDA_0](https://www.youtube.com/watch?v=ElFWvYcDA_0) | no_frames | 0% | 70s Groove Mastery: Faze-O "Riding High" Chords🔥🎹🔥 Were MJ's |
@@ -365,6 +380,7 @@
 | [fdR2wHuT8x4](https://www.youtube.com/watch?v=fdR2wHuT8x4) | no_frames | 0% | Steal These Chords (28) Soulful Vibes 🔥🎹🔥 #MusicianParadise |
 | [FeDw4GBnYfk](https://www.youtube.com/watch?v=FeDw4GBnYfk) | no_frames | 0% | Big shoutout to @Hola.M.A.R.S who spotted some rhythm errors |
 | [FEEs-s26pHI](https://www.youtube.com/watch?v=FEEs-s26pHI) | no_frames | 0% | The Neptunes Futuristic 2000s Chords - Lupe Fiasco "I Gotcha |
+| [FFjHQrz9smQ](https://www.youtube.com/watch?v=FFjHQrz9smQ) | no_frames | 0% | J Dilla The Look Of Love Chords 🎹🎸 #musicianparadise #jdilla |
 | [fhGNGlAfFmI](https://www.youtube.com/watch?v=fhGNGlAfFmI) | no_frames | 0% | Who needs a chord diagram for this? #musicianparadise #chord |
 | [FHMU0D4nQEk](https://www.youtube.com/watch?v=FHMU0D4nQEk) | no_frames | 0% | Eddie Kendricks “Intimate Friends” I could play those chords |
 | [FI7mjWsa77U](https://www.youtube.com/watch?v=FI7mjWsa77U) | no_frames | 0% | Happy Birthday Pharrell ! 🎉🎹 🎉 Pharrell Williams and Jay-Z F |
@@ -411,6 +427,7 @@
 | [gnoDCIL75Ao](https://www.youtube.com/watch?v=gnoDCIL75Ao) | no_frames | 0% | Floetry Getting Late Bridge Chords 🎹👌 #Floetry #GettingLateC |
 | [GnWnvhaTswg](https://www.youtube.com/watch?v=GnWnvhaTswg) | no_frames | 0% | Patrice Rushen "Where There Is Love" Chords 🎹👍 #musicianpara |
 | [gOg67Z5RS6o](https://www.youtube.com/watch?v=gOg67Z5RS6o) | no_frames | 0% | Roddy Ricch “High Fashion” Chords 🎹👌 98 bpm B minor #HighFas |
+| [Gp386Ij778A](https://www.youtube.com/watch?v=Gp386Ij778A) | no_frames | 0% | Roy Ayers “The Third Eye” Chords #musicianparadise #RoyAyers |
 | [GPfetp8burc](https://www.youtube.com/watch?v=GPfetp8burc) | no_frames | 0% | The "Frontin' ” Bridge On A Real Rhodes 🔥🎹🔥 Rhodes 73 MKI Ch |
 | [GqWCKBumQAw](https://www.youtube.com/watch?v=GqWCKBumQAw) | no_frames | 0% | Bernard Wright “Music Is The Key” Chords 🔥🎹🔥 #musicianparadi |
 | [GRPnL98Sk7Q](https://www.youtube.com/watch?v=GRPnL98Sk7Q) | no_frames | 0% | Daft Punk “Something About Us” Chords 🔥🎹🔥 #musicianparadise |
@@ -467,17 +484,21 @@
 | [IoQmHSj3rHg](https://www.youtube.com/watch?v=IoQmHSj3rHg) | no_frames | 0% | NPhase “Spend the Night” Chords 🔥🎹🔥 #musicianparadise |
 | [iRdn_yQzNDI](https://www.youtube.com/watch?v=iRdn_yQzNDI) | no_frames | 0% | Lone “Airglow Fires” Proto-House Chords 🔥🎹🔥 #musicianparadis |
 | [IrqIyZhS5SY](https://www.youtube.com/watch?v=IrqIyZhS5SY) | no_frames | 0% | Jill Scott “I Think It’s Better” Chords 🔥🎹🔥 #IThinkItsBetter |
+| [iTtaFXnnt2g](https://www.youtube.com/watch?v=iTtaFXnnt2g) | no_frames | 0% | Healing Deep House Chords 🎹🧙‍♂️ #musicianparadise #deephouse |
 | [IucS--S77M8](https://www.youtube.com/watch?v=IucS--S77M8) | no_frames | 0% | The Future Soul Formula Hiatus Kaiyote “Red Room” Chords 🔥🎹🔥 |
 | [iuSFONehNe4](https://www.youtube.com/watch?v=iuSFONehNe4) | no_frames | 0% | Unlock the Groove: Roy Ayers 'I Am Your Mind' Chords 🔥🎹🔥 #mu |
 | [ivdS_s_bCIo](https://www.youtube.com/watch?v=ivdS_s_bCIo) | no_frames | 0% | Unlock the Groove: "Love Never Felt So Good" Chord Breakdown |
 | [ivfgN27qENc](https://www.youtube.com/watch?v=ivfgN27qENc) | no_frames | 0% | Michael McDonald ‘Sweet Freedom’ Chords 🔥🎹🔥 Does it sound as |
+| [iW5qlsH-stw](https://www.youtube.com/watch?v=iW5qlsH-stw) | no_frames | 0% | Hypnotic Deep House Chords #musicianparadise #deephousechord |
 | [IWEnXaPqs68](https://www.youtube.com/watch?v=IWEnXaPqs68) | no_frames | 0% | Bob James “Feel Like Making Love” Intro Chords 🔥🎹🔥 Ab #music |
 | [IwPsRGadHGc](https://www.youtube.com/watch?v=IwPsRGadHGc) | no_frames | 0% | J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥 J Dilla  |
 | [iWS36DISxus](https://www.youtube.com/watch?v=iWS36DISxus) | no_frames | 0% | Charlie Wilson “I’m Blessed” chords 🎹👌 #CharlieWilson #ImBle |
 | [iWS8cosqH28](https://www.youtube.com/watch?v=iWS8cosqH28) | no_frames | 0% | Daniel Caesar “Blessed” Chords 🔥🎹🔥 #MusicianParadise #HowToP |
 | [IwUPtaQfY4w](https://www.youtube.com/watch?v=IwUPtaQfY4w) | no_frames | 0% | Joe Sample “Black Is The Color” Final Vamp Chords (J Dilla “ |
 | [ix7IEehYnDk](https://www.youtube.com/watch?v=ix7IEehYnDk) | no_frames | 0% | The Roots “A Peace Of Light” Chords 🔥🎹🔥 #musicianparadise |
+| [IXOrbe5GnPY](https://www.youtube.com/watch?v=IXOrbe5GnPY) | no_frames | 0% | Don't Stop Beanie Sigel Chords #musicianparadise #BeanieSige |
 | [IzIesm6FwKk](https://www.youtube.com/watch?v=IzIesm6FwKk) | failed_no_chords | 0% | Wait—Scaler was ported to iPad? I can use my Scaler presets  |
+| [J-nNJ7pSWcM](https://www.youtube.com/watch?v=J-nNJ7pSWcM) | no_frames | 0% | Cool Turnarounds Roy Ayers Style #musicianparadise #royayers |
 | [j-UO4h5chFU](https://www.youtube.com/watch?v=j-UO4h5chFU) | no_frames | 0% | N.E.R.D “Tape You” Bridge Chords 🔥🎹🔥 #musicianparadise #musi |
 | [J29olqzUt7g](https://www.youtube.com/watch?v=J29olqzUt7g) | no_frames | 0% | Composing Soulful Chord Progressions 🔥🎹🔥 #musicianparadise |
 | [j2O2ePqlDuc](https://www.youtube.com/watch?v=j2O2ePqlDuc) | no_frames | 0% | Tyler, The Creator “STChroma” Chords 🔥🎹🔥 #musicianparadise # |
@@ -525,6 +546,7 @@
 | [K4uVW_50DxU](https://www.youtube.com/watch?v=K4uVW_50DxU) | no_frames | 0% | J. Dilla “Two Lips” 🔥🎹🔥 F 101.20 bpm #musicianparadise |
 | [k5tIT0SWTfA](https://www.youtube.com/watch?v=k5tIT0SWTfA) | no_frames | 0% | 70s Bliss - Brenda Russell “In The Thick Of It” Chords  🔥🎹🔥  |
 | [K9DpFAoi4Qc](https://www.youtube.com/watch?v=K9DpFAoi4Qc) | no_frames | 0% | Soulful 70s Style Chords 👌🎹🔥 #neosoul #70smusic #musicianpar |
+| [k_C63XyVEU0](https://www.youtube.com/watch?v=k_C63XyVEU0) | no_frames | 0% | Roy Ayers Inspired Chords 🎹 #musicianparadise #neosoulchords |
 | [Ka9MmWrgCrg](https://www.youtube.com/watch?v=Ka9MmWrgCrg) | no_frames | 0% | This Chord Progression Made Fabe 'Quand J'serai Grand' a Fre |
 | [KAtsTOdqvWA](https://www.youtube.com/watch?v=KAtsTOdqvWA) | no_frames | 0% | RoBKTA ft. Tudd “R4cin’ All Night” Chords 🔥🎹🔥 #R4cinAllNight |
 | [kCQftIBOJjs](https://www.youtube.com/watch?v=kCQftIBOJjs) | no_frames | 0% | CHIC's Hidden Gem: “A Warm Summer Night” Chord Breakdown 🔥🎹🔥 |
@@ -545,6 +567,7 @@
 | [KxYLWtSkIA0](https://www.youtube.com/watch?v=KxYLWtSkIA0) | no_frames | 0% | Kool & the Gang “Celebration” Chords 🔥🎹🔥 #musicianparadise |
 | [KXz44vWGmb4](https://www.youtube.com/watch?v=KXz44vWGmb4) | no_frames | 0% | Hardsoul Chords “Back Together” Bridge - Classic House Chord |
 | [KzLKRzdTaXY](https://www.youtube.com/watch?v=KzLKRzdTaXY) | no_frames | 0% | Kendrick Lamar “How Much A Dollar Cost” Chords 🔥🎹🔥 #musician |
+| [L-8Le9EZxfo](https://www.youtube.com/watch?v=L-8Le9EZxfo) | no_frames | 0% | ALLINANITE ft Sophia Duncan Outro Chords 🎹👌 #AllinaniteOutro |
 | [L-H_Bhd5SbM](https://www.youtube.com/watch?v=L-H_Bhd5SbM) | no_frames | 0% | Tyler, The Creator “Sweet, I Thought You Wanted To Dance” –  |
 | [L4S3dkmIg_c](https://www.youtube.com/watch?v=L4S3dkmIg_c) | no_frames | 0% | Soulful Chord Progression - The Jones Girls ‘Nights Over Egy |
 | [l6eyqAOOM_4](https://www.youtube.com/watch?v=l6eyqAOOM_4) | no_frames | 0% | “Mission Complete” Final Fantasy X-2 Chords 🔥🎹🔥 Composers -  |
@@ -558,6 +581,7 @@
 | [Ld2_Eug7krI](https://www.youtube.com/watch?v=Ld2_Eug7krI) | failed_no_chords | 0% | Neo Gospel Chord Presets Demo Test 🔥🎹🔥 #musicianparadise |
 | [lD7dAv4HPaM](https://www.youtube.com/watch?v=lD7dAv4HPaM) | no_frames | 0% | Roy Ayers Style Exercise 👌🎹🔥 #royayerschords #neosoul #70smu |
 | [LDogyZwYoCg](https://www.youtube.com/watch?v=LDogyZwYoCg) | no_frames | 0% | 2Pac “Run Tha Streetz” Chords 🎹👌 #2Pac #RunThaStreetzChords  |
+| [LEfH9k2iH3Y](https://www.youtube.com/watch?v=LEfH9k2iH3Y) | no_frames | 0% | Whole Lot Of SUS Chords 🤔🎹 Roy Ayers Style #musicianparadise |
 | [lemv1izk-Hk](https://www.youtube.com/watch?v=lemv1izk-Hk) | no_frames | 0% | Kendrick Lamar “These Walls” Chords 🔥🎹🔥 Rhodes 73 MK 1 Rod T |
 | [lfvv66RkEGU](https://www.youtube.com/watch?v=lfvv66RkEGU) | no_frames | 0% | Stunning R&B chords Summer Walker “Unloyal” 🎹🎹 128 bpm Em #U |
 | [LglzyIFxYU8](https://www.youtube.com/watch?v=LglzyIFxYU8) | no_frames | 0% | Westside Gunn “No Vacancy” Chords 🔥🎹🔥 These Boom Bap Chords  |
@@ -566,6 +590,7 @@
 | [Li7wfK3T6vY](https://www.youtube.com/watch?v=Li7wfK3T6vY) | no_frames | 0% | MF DOOM “Arrow Root” Chord Breakdown 🔥🎹🔥 #MusicianParadise |
 | [LJ-vjiVJ984](https://www.youtube.com/watch?v=LJ-vjiVJ984) | no_frames | 0% | Ronnie Laws “Tidal Wave” Chords 🔥🎹🔥 #musicianparadise |
 | [LJyRtDGXrRM](https://www.youtube.com/watch?v=LJyRtDGXrRM) | no_frames | 0% | Lupe Fiasco “I'm Beamin” Chords 🔥🎹🔥 #musicianparadise |
+| [LNAYjxf7TZc](https://www.youtube.com/watch?v=LNAYjxf7TZc) | no_frames | 0% | Roy Ayers Together Forever Chords  #musicianparadise #royaye |
 | [lNgrOWuIxjg](https://www.youtube.com/watch?v=lNgrOWuIxjg) | no_frames | 0% | Daft Punk's “One More Time” Magic Chords 🔥🎹🔥 Happy 2025! #mu |
 | [lPQG_XSlv-o](https://www.youtube.com/watch?v=lPQG_XSlv-o) | no_frames | 0% | J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look |
 | [LThARgYqQaA](https://www.youtube.com/watch?v=LThARgYqQaA) | no_frames | 0% | Soulful Chord Presets for Ripchord VST, Expressive Chords M4 |
@@ -576,6 +601,7 @@
 | [lxPRdZ5iUQ0](https://www.youtube.com/watch?v=lxPRdZ5iUQ0) | no_frames | 0% | I couldn't resist learning these chords from the demo of Swe |
 | [Lyf2Gx5XoMo](https://www.youtube.com/watch?v=Lyf2Gx5XoMo) | no_frames | 0% | Stephanie Mills “Something In The Way” Chords 🔥🎹🔥 = Freddie  |
 | [LyXTAdQ5DEM](https://www.youtube.com/watch?v=LyXTAdQ5DEM) | no_frames | 0% | Don Blackman “Holding You, Loving You” chords 🎹🤯 |
+| [lzQa-KubX3w](https://www.youtube.com/watch?v=lzQa-KubX3w) | no_frames | 0% | Deep House Turnaround 🤯🎹 Tracklights, Michael De Hey #musici |
 | [M-MrsmCNV4k](https://www.youtube.com/watch?v=M-MrsmCNV4k) | no_frames | 0% | Conscious Rap Inspired Chords 🔥🎹🔥 #musicianparadise #chordpr |
 | [m0hC_mOxow0](https://www.youtube.com/watch?v=m0hC_mOxow0) | failed_no_chords | 0% | Chord Presets For Advanced Taste 🔥🎹🔥 #musicianparadise |
 | [M2u1sLQZOhs](https://www.youtube.com/watch?v=M2u1sLQZOhs) | no_frames | 0% | Michael Jackson “Carousel” Chords 🔥🎹🔥 #musicianparadise |
@@ -602,6 +628,7 @@
 | [N-zrVhS0uXI](https://www.youtube.com/watch?v=N-zrVhS0uXI) | no_frames | 0% | Rare! 🔎 Pharrell & Justin Timberlake “Second Chance”  “Tape  |
 | [N0WGzNYGYcw](https://www.youtube.com/watch?v=N0WGzNYGYcw) | no_frames | 0% | The Neptunes - Art Of Remix - Sade "By Your Side" Chords (Th |
 | [n10LZZ18lp0](https://www.youtube.com/watch?v=n10LZZ18lp0) | no_frames | 0% | A New Breed of Chord Presets - Ripchord VST, Scaler, MPC Pad |
+| [N1WWVhGFOcA](https://www.youtube.com/watch?v=N1WWVhGFOcA) | no_frames | 0% | How To Play D7b9#9 Into EbMaj7 🧐 #musicianparadise #neosoulc |
 | [N9rDpVINEAY](https://www.youtube.com/watch?v=N9rDpVINEAY) | no_frames | 0% | Jamiroquai “When You Gonna Learn” Chords 🔥🎹🔥 Acid Jazz Class |
 | [nbVk_i9qeso](https://www.youtube.com/watch?v=nbVk_i9qeso) | no_frames | 0% | Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise |
 | [NethsQytWt0](https://www.youtube.com/watch?v=NethsQytWt0) | no_frames | 0% | Illa J “Timeless” Chords 🔥🎹🔥 Dbm 87 bpm #Timeless #TimelessC |
@@ -640,9 +667,11 @@
 | [o6qayhRTWcU](https://www.youtube.com/watch?v=o6qayhRTWcU) | no_frames | 0% | CHIC "Everybody Dance" Chords 🔥🎹🔥 #musicianparadise |
 | [O7aIZUAfUk8](https://www.youtube.com/watch?v=O7aIZUAfUk8) | no_frames | 0% | Mndsgn “Slowdance” Chords ❤️🎹🔥 138 bpm #Mndsgn #SlowdanceCho |
 | [O8LRp5tiYPI](https://www.youtube.com/watch?v=O8LRp5tiYPI) | no_frames | 0% | Jeff Lorber Fusion “Rain Dance” VS Ariana Grande “Right Ther |
+| [o8P0EYd4cgQ](https://www.youtube.com/watch?v=o8P0EYd4cgQ) | no_frames | 0% | Kendrick Lamar Institutionalized Chords 🎹👌 #KendrickLamarIns |
 | [o8yIAoZs0cw](https://www.youtube.com/watch?v=o8yIAoZs0cw) | no_frames | 0% | Eddie Kendricks “Intimate Friends” I could play those chords |
 | [o9JjF46_CQ8](https://www.youtube.com/watch?v=o9JjF46_CQ8) | no_frames | 0% | Randy Jackson & The Gypsys “Not Because Of Me” Chords 👌🎹👌 #N |
 | [O_Otg7zWRoc](https://www.youtube.com/watch?v=O_Otg7zWRoc) | no_frames | 0% | Michael Jackson “Rock With You” Chords 🔥🎹🔥 #musicianparadise |
+| [o_ZxqDrG41E](https://www.youtube.com/watch?v=o_ZxqDrG41E) | no_frames | 0% | How Much A Dollar Cost 🎹👌 #HowMuchADollarCostchords #musicia |
 | [Obt9cYxwa0s](https://www.youtube.com/watch?v=Obt9cYxwa0s) | no_frames | 0% | Tyler, The Creator – Rare, Unreleased “Supreme” (2007 Instru |
 | [OC0xj-WyXJ8](https://www.youtube.com/watch?v=OC0xj-WyXJ8) | no_frames | 0% | CHIC "My Forbidden Lover" Chords 🔥🎹🔥 #musicianparadise |
 | [OcBqcDbYMdg](https://www.youtube.com/watch?v=OcBqcDbYMdg) | no_frames | 0% | The Isley Brothers Between The Sheets Chords Part A #musicia |
@@ -720,6 +749,7 @@
 | [QiS3yNA9Jc0](https://www.youtube.com/watch?v=QiS3yNA9Jc0) | no_frames | 0% | Jamiroquai ‘Where Do We Go From Here’ Chords Part 2 🔥🎹🔥 #cho |
 | [Qj3dHMOIE9c](https://www.youtube.com/watch?v=Qj3dHMOIE9c) | no_frames | 0% | 90s R&B Mastery: Decoding Mary J Blidge “Mary's Joint” Chord |
 | [qjaC7omkKG4](https://www.youtube.com/watch?v=qjaC7omkKG4) | no_frames | 0% | South Yokohama “Racing Lagoon” Chords 🔥🎹🔥Gaming Sunday #musi |
+| [qJl2Pnkmea4](https://www.youtube.com/watch?v=qJl2Pnkmea4) | no_frames | 0% | ALLINANITE ft Sophia Duncan Outro Chords 🎹👌#allinanitechords |
 | [qjOUE_sSQnM](https://www.youtube.com/watch?v=qjOUE_sSQnM) | no_frames | 0% | The Smoothest Neo-Soul Chords? Robert Glasper’s “Heaven’s He |
 | [qjp_1bjLhWo](https://www.youtube.com/watch?v=qjp_1bjLhWo) | no_frames | 0% | Happy Birthday, Patrice 🎉 30.09. Patrice Rushen “Settle for  |
 | [QKYfnEGSIps](https://www.youtube.com/watch?v=QKYfnEGSIps) | no_frames | 0% | Mos Def "Umi Says" Will.i.am and Weldon Irvine Chords 🔥🎹🔥 #m |
@@ -781,6 +811,7 @@
 | [SgYqjF8IgVk](https://www.youtube.com/watch?v=SgYqjF8IgVk) | no_frames | 0% | Deep House Smooth Rhodes Chords 🎹👍 #DeepHouseChords #HouseMu |
 | [shvgWv3of_c](https://www.youtube.com/watch?v=shvgWv3of_c) | no_frames | 0% | Neo-Soul Science 🔥🎹🔥 MIDI, Chord Presets - Patreon #musician |
 | [SLekZj1aOhw](https://www.youtube.com/watch?v=SLekZj1aOhw) | no_frames | 0% | From Acid Jazz To Classical: How Jamiroquai Crafted 'King Fo |
+| [SligUeYCRNg](https://www.youtube.com/watch?v=SligUeYCRNg) | no_frames | 0% | Roy Ayers Coffy Is The Color Chords 🎹👌#royayers #musicianpar |
 | [SMMb151FsY0](https://www.youtube.com/watch?v=SMMb151FsY0) | no_frames | 0% | The Secret Neo-Soul Chords Behind Ledisi's “Alright” 🔥🎹🔥| Ch |
 | [snvoRs05-HM](https://www.youtube.com/watch?v=snvoRs05-HM) | no_frames | 0% | Q-Tip “You” Chords 🔥🎹🔥 #MusicianParadise #chordprogressions |
 | [sNVq3XH8ucg](https://www.youtube.com/watch?v=sNVq3XH8ucg) | no_frames | 0% | Tyler, The Creator “48”Chords Unlocked 🔥🎹🔥 #musicianparadise |
@@ -837,6 +868,7 @@
 | [U5tCYffvL3s](https://www.youtube.com/watch?v=U5tCYffvL3s) | no_frames | 0% | Sunny Sunday RnB Chords 🌞🎹🌞 #90sRnBChordPresets #90sRnBMIDI  |
 | [U688UyqOLCQ](https://www.youtube.com/watch?v=U688UyqOLCQ) | no_frames | 0% | Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise |
 | [U7BzT_rscGs](https://www.youtube.com/watch?v=U7BzT_rscGs) | no_frames | 0% | Daft Punk “Something About Us” Chords #musicianparadise  #da |
+| [U8E99VOH-ZY](https://www.youtube.com/watch?v=U8E99VOH-ZY) | no_frames | 0% | Soulful Roy Ayers Style Chords #musicianparadise #royayers # |
 | [uAm38PY1QyY](https://www.youtube.com/watch?v=uAm38PY1QyY) | no_frames | 0% | Roy Ayers “Brand New Feeling” Chords 🔥🎹🔥 #musicianparadise |
 | [ubhOh6SRiWo](https://www.youtube.com/watch?v=ubhOh6SRiWo) | no_frames | 0% | N.E.R.D.'s 'She Wants To Move': The Hidden Chord Progression |
 | [uBNQxJDN_LU](https://www.youtube.com/watch?v=uBNQxJDN_LU) | failed_no_chords | 0% | Chord Presets—Playing a Chromatic Scale - Ripchord VST, Scal |
@@ -844,6 +876,7 @@
 | [udMwuwgJNo8](https://www.youtube.com/watch?v=udMwuwgJNo8) | no_frames | 0% | Mtume “Love Lock” Chords 🔥🎹🔥 #musicianparadise #musictheory  |
 | [UERu7Sxy6O4](https://www.youtube.com/watch?v=UERu7Sxy6O4) | no_frames | 0% | Dark Chords - Kendrick Lamar “You Ain’t Gotta Lie” (Momma Sa |
 | [uEY4ny8nNDA](https://www.youtube.com/watch?v=uEY4ny8nNDA) | no_frames | 0% | N.C. Stands For “No Chords” LOL - Don Blackman “You Ain't Hi |
+| [Ui4rYvpQFZg](https://www.youtube.com/watch?v=Ui4rYvpQFZg) | no_frames | 0% | Chords Begs For A Groove! #musicianparadise #neosoulchords |
 | [UIxrchTaTj0](https://www.youtube.com/watch?v=UIxrchTaTj0) | no_frames | 0% | A Tribe Called Quest “Bonita Applebum” Chords 🔥🎹🔥 #musicianp |
 | [UJv3q3pxHy8](https://www.youtube.com/watch?v=UJv3q3pxHy8) | no_frames | 0% | J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look |
 | [uNCdW8fP9TA](https://www.youtube.com/watch?v=uNCdW8fP9TA) | failed_no_chords | 0% | Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise |
@@ -852,6 +885,7 @@
 | [uSaT93zaim8](https://www.youtube.com/watch?v=uSaT93zaim8) | no_frames | 0% | The Chillest Chords in Gaming: Jerry Martin’s “The Sims – Ne |
 | [utEWst1Exqs](https://www.youtube.com/watch?v=utEWst1Exqs) | no_frames | 0% | How Jamiroquai Made "Space Cowboy" a Timeless Groove 🎶 Jamir |
 | [uXPoqsuph4s](https://www.youtube.com/watch?v=uXPoqsuph4s) | no_frames | 0% | Jill Scott “Cross My Mind” chords 👌🎹👌 #JillScott #CrossMyMin |
+| [UxT2qBfdFvg](https://www.youtube.com/watch?v=UxT2qBfdFvg) | no_frames | 0% | Deep House Classic Warm Chords 🎹👌 #musicianparadise #deephou |
 | [uZ04zvhw2iQ](https://www.youtube.com/watch?v=uZ04zvhw2iQ) | no_frames | 0% | Lori Vornoy - Dungeons of Blood and Dream OST - “Slime Choru |
 | [UZnhxuiw5pw](https://www.youtube.com/watch?v=UZnhxuiw5pw) | no_frames | 0% | A Tribe Called Quest “Jazz (We’ve Got)” Chords 🎹🔥 #JazzWeveG |
 | [v0g-svRT_nY](https://www.youtube.com/watch?v=v0g-svRT_nY) | no_frames | 0% | Liquid Chords Behind Roy Ayers' "Liquid Love" 🔥🎹🔥 #musicianp |
@@ -872,6 +906,8 @@
 | [Vot7Xzsn4Ag](https://www.youtube.com/watch?v=Vot7Xzsn4Ag) | no_frames | 0% | Jodeci Meets SWV - Intense R&B Chords - E Will “Crazy For Yo |
 | [Vpbzf2ns4U4](https://www.youtube.com/watch?v=Vpbzf2ns4U4) | no_frames | 0% | Can’t Get Enough Of Roy Ayers Style Chords 🎹 ☀️ #musicianpar |
 | [VqMbmznrMgI](https://www.youtube.com/watch?v=VqMbmznrMgI) | no_frames | 0% | Kool & the Gang “Celebration” 🎉🎹🎉 chords #KoolNTheGang #Cele |
+| [vQOnuD4qrfc](https://www.youtube.com/watch?v=vQOnuD4qrfc) | no_frames | 0% | J Dilla The Look Of Love Chords  🎹🎸 #JDilla #musicianparadis |
+| [VqVYVRWxUvk](https://www.youtube.com/watch?v=VqVYVRWxUvk) | no_frames | 0% | Jill Scott “Golden”Chords #musicianparadise #JillScottGolden |
 | [VR-UBHvG3sI](https://www.youtube.com/watch?v=VR-UBHvG3sI) | no_frames | 0% | 2Pac “Do For Love” Chords 🔥🎹🔥 #2Pac #DoForLove #DoForLoveCho |
 | [VrZBixJd2XA](https://www.youtube.com/watch?v=VrZBixJd2XA) | no_frames | 0% | Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #Soulfu |
 | [vSPPe1QYpLE](https://www.youtube.com/watch?v=vSPPe1QYpLE) | no_frames | 0% | N.E.R.D. “Everyone Nose” Bridge (Chords Breakdown) 🔥🎹🔥 |
@@ -888,6 +924,7 @@
 | [WaQqlaW-WiA](https://www.youtube.com/watch?v=WaQqlaW-WiA) | no_frames | 0% | Building Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #R |
 | [WBCJihgzkyQ](https://www.youtube.com/watch?v=WBCJihgzkyQ) | no_frames | 0% | This bridge deserves to be a song -The Isley Brothers “Betwe |
 | [WbIPt8y2QNY](https://www.youtube.com/watch?v=WbIPt8y2QNY) | no_frames | 0% | Level 42 “Sirens” Chords (John Morales Mix) 🔥🎹🔥 Em 106 bpm # |
+| [WF0n_SmV0ts](https://www.youtube.com/watch?v=WF0n_SmV0ts) | no_frames | 0% | Jamiroquai Virtual Insanity Intro Chords #musicianparadise # |
 | [WFMXDDG_Am0](https://www.youtube.com/watch?v=WFMXDDG_Am0) | no_frames | 0% | How Kendrick Lamar & Terrace Martin Made ‘Untitled 05’ Sound |
 | [WfrhY8_pLnQ](https://www.youtube.com/watch?v=WfrhY8_pLnQ) | no_frames | 0% | Tyler’s “Whoville” Chords Sound Like Jazz From Another Plane |
 | [WGaU254w-Fk](https://www.youtube.com/watch?v=WGaU254w-Fk) | no_frames | 0% | Flight Facilities “Crave You” Chords 🔥🎹🔥 #musicianparadise # |
@@ -942,6 +979,7 @@
 | [ycUzX7QBDT0](https://www.youtube.com/watch?v=ycUzX7QBDT0) | no_frames | 0% | Roy Ayers “Everybody Loves The Sunshine” Chords 👌🎹🌞  #RoyAye |
 | [yDlABN53h0s](https://www.youtube.com/watch?v=yDlABN53h0s) | no_frames | 0% | From Basic to Brilliant: How Tyler, The Creator, Composed 'B |
 | [yDuU_09wtrs](https://www.youtube.com/watch?v=yDuU_09wtrs) | no_frames | 0% | Jamiroquai “Soul Education” Chords 🔥🎹🔥 #musicianparadise |
+| [YDUvsItDTpI](https://www.youtube.com/watch?v=YDUvsItDTpI) | no_frames | 0% | Frontin' Pharrell Williams and Jay-Z Outro Chords #musicianp |
 | [YfooqDQeOxI](https://www.youtube.com/watch?v=YfooqDQeOxI) | no_frames | 0% | Bob James "Angela" Chord Breakdown 🔥🎹🔥 #musicianparadise |
 | [YGW9Npbwc0M](https://www.youtube.com/watch?v=YGW9Npbwc0M) | no_frames | 0% | Healing Deep House Chords 🎛 🎹🔥 #DeepHouseChords #HouseMusic  |
 | [YlKA4y0eB9k](https://www.youtube.com/watch?v=YlKA4y0eB9k) | no_frames | 0% | Pastime Paradise Latin Version Ray Barretto 🎹👌 #musicianpara |
@@ -955,6 +993,7 @@
 | [YWFUlvI7FS8](https://www.youtube.com/watch?v=YWFUlvI7FS8) | no_frames | 0% | Freddie Gibbs & Madlib "Crime Pays" Chords 🔥🎹🔥 Sample - Walt |
 | [yZDoSJoMEkU](https://www.youtube.com/watch?v=yZDoSJoMEkU) | no_frames | 0% | Jamiroquai “Smile” Chords part A 102.85 bpm #JamiroquaiSmile |
 | [yzOzDmlEpVo](https://www.youtube.com/watch?v=yzOzDmlEpVo) | no_frames | 0% | Musiq Soulchild “So Beautiful” Chords 🔥🎹🔥 #SoBeautifulChords |
+| [Z-WzhhIf1uw](https://www.youtube.com/watch?v=Z-WzhhIf1uw) | no_frames | 0% | Toni Braxton Hit The Freeway Bridge Chords #90sRnB #90sRnBCh |
 | [z0OtYxNUVZ4](https://www.youtube.com/watch?v=z0OtYxNUVZ4) | no_frames | 0% | Level 42 Chord Secrets Revealed - Stunning Bridge in “It’s O |
 | [Z0S0KWmWZxo](https://www.youtube.com/watch?v=Z0S0KWmWZxo) | no_frames | 0% | Why “III. Urn” Chords Still Sound Like the Future 🔥🎹🔥 Childi |
 | [Z4ifRkuaL2k](https://www.youtube.com/watch?v=Z4ifRkuaL2k) | no_frames | 0% | A New Kind Of Chord Presets - Ripchord VST, Scaler, MPC Pad  |
@@ -968,6 +1007,7 @@
 | [zf031AKk_fg](https://www.youtube.com/watch?v=zf031AKk_fg) | no_frames | 0% | Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise #m |
 | [Zh4uI8Elr-w](https://www.youtube.com/watch?v=Zh4uI8Elr-w) | no_frames | 0% | Erykah Badu “Back In The Day” Chords 🔥🎹🔥 James Poyser Produc |
 | [zjx6q0lMkLg](https://www.youtube.com/watch?v=zjx6q0lMkLg) | no_frames | 0% | Unlock the Soul of "Gangsta" 🔓 Free Nationals x ASAP Rocky x |
+| [zMahIYKhEWY](https://www.youtube.com/watch?v=zMahIYKhEWY) | no_frames | 0% | Minor Chords Exercise 🎹👌#musicianparadise #neosoulchords #fe |
 | [ZOn2R9DszVQ](https://www.youtube.com/watch?v=ZOn2R9DszVQ) | no_frames | 0% | Learn Rob Araujo’s “Hike” 🔥🎹🔥 #MusicianParadise |
 | [zr3D1K0RuyE](https://www.youtube.com/watch?v=zr3D1K0RuyE) | no_frames | 0% | Common ft. Mary J. Blige “Come Close” Chords 🎹👌 #ComeClose # |
 | [zSKjMXlb_Wc](https://www.youtube.com/watch?v=zSKjMXlb_Wc) | no_frames | 0% | Bob James “Feel Like Making Love” Intro Chords 🔥🎹🔥 #BobJames |
