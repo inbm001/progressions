@@ -1,8 +1,8 @@
 {
-  "count": 288,
+  "count": 328,
   "ok": 196,
-  "failed": 92,
-  "updated": "2026-09-03 21:20:45",
+  "failed": 132,
+  "updated": "2026-09-03 21:20:53",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -17,6 +17,13 @@
       "n_chords": 37,
       "duration_sec": 58.75,
       "status": "ok"
+    },
+    {
+      "id": "-IETUH1DwUQ",
+      "title": "Gucci Mane (Ft. Pharrell) “Have It All” Chords 🔥🎹🔥 Chad Hugo on the guitar? #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "-LfOA4o0Pgk",
@@ -47,6 +54,13 @@
       "status": "ok"
     },
     {
+      "id": "-QOr0kfihWU",
+      "title": "Daft Punk \"One More Time\" Chords 🔥🎹🔥 Happy 2026! #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "0tFkriFzg2U",
       "title": "Chord Presets That Spark Inspiration - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -66,6 +80,13 @@
       "n_chords": 3,
       "duration_sec": 15.75,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "1fccDQiMByk",
+      "title": "Bob's Burgers “The Spirits of Christmas” Kevin Kline Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "1pQwmROTgpY",
@@ -108,6 +129,13 @@
       "n_chords": 18,
       "duration_sec": 31.0,
       "status": "ok"
+    },
+    {
+      "id": "32gfz6noFsI",
+      "title": "Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "35Sgz0laY18",
@@ -166,11 +194,39 @@
       "status": "ok"
     },
     {
+      "id": "5AGlHNB5QdI",
+      "title": "“Alex & Ken’s Theme” Chords: Jazzy NYC ’99 Street Fighter Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "5Bn2N8jSE8M",
       "title": "Soulful Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🎁",
       "n_chords": 3,
       "duration_sec": 10.0,
       "status": "ok"
+    },
+    {
+      "id": "5IJXbBnf4mU",
+      "title": "Tyler, The Creator “SMUCKERS” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "5IRBnsZCRfg",
+      "title": "Boyz II Men “Let It Snow” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "5Lky5buDurk",
+      "title": "Title Tyler, The Creator & Roy Ayers “Find Your Wings” Chords 🔥🎹🔥 Piano part by Jameel Bruner.",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "5pOpEx0OurM",
@@ -201,6 +257,20 @@
       "status": "ok"
     },
     {
+      "id": "6tNsUDvnFUk",
+      "title": "Final Fantasy X-2  Eternity “Memory of Lightwaves” Chords 🔥🎹🔥 Composer Noriko Matsueda",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "73A8Rf-dUNc",
+      "title": "Donny Hathaway \"This Christmas\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "77PZfk_krlE",
       "title": "Michael Jackson “The Toy” (Demo) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
@@ -213,6 +283,13 @@
       "n_chords": 8,
       "duration_sec": 10.0,
       "status": "ok"
+    },
+    {
+      "id": "79yu4B7n9LY",
+      "title": "Musiq Soulchild “Just Friends” (Sunny) Chords 🔥🎹🔥 Sampled “Sunny” Pat Martino #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "7BFHgVQpwIs",
@@ -313,6 +390,13 @@
       "status": "no_frames"
     },
     {
+      "id": "9JuC9hqOmhE",
+      "title": "“Street Fighter Alpha Guy Ending Theme” Chords 🔥🎹🔥 Composer Syun Nishigak - Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "9kjGAAuBQbY",
       "title": "Flying Lotus Ft. Kendrick Lamar “Never Catch Me” Final Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
@@ -325,6 +409,13 @@
       "n_chords": 0,
       "duration_sec": 11.0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "9RpdzF50614",
+      "title": "Michael Jackson \"Someone Put Your Hand Out\" Chords 🔥🎹🔥 Pepsi Is Too Sweet For My Taste But...",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "9tiIR4cPZf8",
@@ -390,6 +481,13 @@
       "status": "ok"
     },
     {
+      "id": "Ak3UFyizDGM",
+      "title": "J Dilla’s Hidden Gem: “Dewitt To Do It” Chords Unlocked 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "aotSjXGBvDY",
       "title": "PaRappa the Rapper 2 “Romantic Love” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 5,
@@ -432,11 +530,32 @@
       "status": "ok"
     },
     {
+      "id": "AvAnAzIz19I",
+      "title": "Hitaus Kaiyote “Molasses” Chords 🔥🎹🔥  #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "AYKM5RSLKyQ",
+      "title": "Jill Scott “A Long Walk” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "AzPjRYRrjic",
       "title": "Earth, Wind & Fire “Spirit” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
       "duration_sec": 15.25,
       "status": "ok"
+    },
+    {
+      "id": "b-vslwmBIqM",
+      "title": "Jay-Z “Who You Wit” 🔥🎹🔥 Sample - \"Night Love\" by The Jeff Lorber Fusion",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "Bar3uTGyH2U",
@@ -453,11 +572,25 @@
       "status": "ok"
     },
     {
+      "id": "bmLQjADGpm0",
+      "title": "Paul McCartney “Wonderful Christmastime” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "BnG9SBo7DXg",
       "title": "Super Play Action Football Music 10 “Final Score” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
       "duration_sec": 5.0,
       "status": "ok"
+    },
+    {
+      "id": "bRKLpMSi4sk",
+      "title": "Final Fantasy - XIII-2 OST “Starting Over” Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "BU2pEJlwmwQ",
@@ -502,11 +635,25 @@
       "status": "ok"
     },
     {
+      "id": "cFIvA3IxnTo",
+      "title": "Jamiroquai “Do It Like We Used To Do” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "cjYEA3uAnsY",
       "title": "The Isley Brothers “Footsteps In The Dark” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
       "duration_sec": 41.25,
       "status": "ok"
+    },
+    {
+      "id": "cmXdzi8pO6M",
+      "title": "Jamiroquai “Love Foolosophy” Piano Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "crUuGUL2wag",
@@ -521,6 +668,13 @@
       "n_chords": 11,
       "duration_sec": 24.0,
       "status": "ok"
+    },
+    {
+      "id": "Ct-IfQY9tYk",
+      "title": "44th Move (Alfa Mist and Richard Spaven) ft. Quelle Chris “The Move” Chords 🔥🎹🔥  Hip Hop + UK Jazz",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "CTR2MSr3g5M",
@@ -619,6 +773,13 @@
       "n_chords": 16,
       "duration_sec": 18.0,
       "status": "ok"
+    },
+    {
+      "id": "EDfk6bl58Io",
+      "title": "Mighty Bop “Freestyle Linguistique” Chords 🔥🎹🔥 Classic 90s French Downtempo Chords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "eG9zGTeG-m0",
@@ -971,6 +1132,20 @@
       "status": "ok"
     },
     {
+      "id": "IoQmHSj3rHg",
+      "title": "NPhase “Spend the Night” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "iRdn_yQzNDI",
+      "title": "Lone “Airglow Fires” Proto-House Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "IwPsRGadHGc",
       "title": "J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥 J Dilla Birthday 07.02.1974",
       "n_chords": 0,
@@ -1025,6 +1200,13 @@
       "n_chords": 39,
       "duration_sec": 59.25,
       "status": "ok"
+    },
+    {
+      "id": "JbJ2NBQ5fwc",
+      "title": "Crystal Waters \"Gypsy Woman\" Chords 🔥🎹🔥  I know it's been done before, but requests keep coming…",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "JhX01vU9fqQ",
@@ -1104,6 +1286,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "klvYH0tcjqI",
+      "title": "Jamiroquai “Shadow In The Night” (Rare) Acid Jazz Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "KUA6OCt6uxw",
       "title": "Stevie Wonder “You've Got It Bad Girl” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 51,
@@ -1130,6 +1319,20 @@
       "n_chords": 0,
       "duration_sec": 11.75,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "LJ-vjiVJ984",
+      "title": "Ronnie Laws “Tidal Wave” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "LJyRtDGXrRM",
+      "title": "Lupe Fiasco “I'm Beamin” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "LThARgYqQaA",
@@ -1293,6 +1496,13 @@
       "status": "ok"
     },
     {
+      "id": "nbVk_i9qeso",
+      "title": "Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "NFsee8D_NcM",
       "title": "Soulful Lo Fi Chord Presets 🔥🎹🔥 #musicianparadise",
       "n_chords": 2,
@@ -1398,6 +1608,13 @@
       "status": "no_frames"
     },
     {
+      "id": "ozHiWLy4PhE",
+      "title": "Sade “War of the Hearts” Chords 🔥🎹🔥 Happy Birthday Sade! #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "P0kTLr3fn3Y",
       "title": "Erykah Badu & The Alchemist “Witch Doctor” Chords 🔥🎹🔥  #musicianparadise",
       "n_chords": 14,
@@ -1433,11 +1650,25 @@
       "status": "ok"
     },
     {
+      "id": "PmmcOxEBmQc",
+      "title": "The Isley Brothers “Let's Make Love Tonight” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "PSml1GACGu0",
       "title": "Jamiroquai “Too Young To Die” Chords 🔥🎹🔥The Acid Jazz Chords That Defined Jamiroquai",
       "n_chords": 25,
       "duration_sec": 37.75,
       "status": "ok"
+    },
+    {
+      "id": "PwAe6PiFXh0",
+      "title": "Adriana Evans “Reality” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "qA2aVlpE05U",
@@ -1608,6 +1839,13 @@
       "status": "ok"
     },
     {
+      "id": "SeG37Y2ELcI",
+      "title": "Hiatus Kaiyote “Fingerprints” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Slsjps88hlY",
       "title": "PaRappa The Rapper 2 “Come A Long Way” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -1720,6 +1958,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "tKdzRhe7Ss8",
+      "title": "Jamiroquai “Main Vein” Final Vamp Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "tMQ_rjOWrN0",
       "title": "Casiopea “Tears Of The Star” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
@@ -1783,6 +2028,13 @@
       "status": "ok"
     },
     {
+      "id": "U688UyqOLCQ",
+      "title": "Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "UArJ2Hq80B4",
       "title": "Bobby Caldwell “What You Won't Do for Love” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 37,
@@ -1830,6 +2082,20 @@
       "n_chords": 29,
       "duration_sec": 16.0,
       "status": "ok"
+    },
+    {
+      "id": "V_XvTM4gtmg",
+      "title": "Static Major “Deeper” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "VCCpDFsVoRU",
+      "title": "Monty Alexander ft. Joe Sample, George Benson and Ramsey Lewis “Love Notes” Jazz Fusion Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "VHXaqEG3xJ4",
@@ -1958,6 +2224,13 @@
       "status": "ok"
     },
     {
+      "id": "xxMLpSi2qU0",
+      "title": "Jamiroquai “Revolution 1993” Bridge Chords 🔥🎹🔥 #musicianparadise Jamiroquai’s Early Sound",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "YnmuD7Mz7jM",
       "title": "Kelis “Mr. U.F.O. Man” Chords 🔥🎹🔥 The Neptunes Production #musicianparadise",
       "n_chords": 22,
@@ -2005,6 +2278,13 @@
       "n_chords": 36,
       "duration_sec": 47.0,
       "status": "ok"
+    },
+    {
+      "id": "Zh4uI8Elr-w",
+      "title": "Erykah Badu “Back In The Day” Chords 🔥🎹🔥 James Poyser Production 🎁",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "zwwOKrpv98U",
