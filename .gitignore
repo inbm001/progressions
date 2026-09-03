@@ -12,9 +12,12 @@ bench/
 done/
 done_test/
 
-# 재생목록 캐시
+# out/ 은 이제 작업용이다. 결과물은 data/ 에 모인다.
 out/playlist_*.json
 out/*.bak
+out/chords*.json
+out/failed.json
+out/unparsed.json
 
 # 로컬 개인 설정
 .claude/settings.local.json

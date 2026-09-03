@@ -36,8 +36,15 @@ ROOT   = Path(r"D:\claude\chord-progression-collecting")
 WORK   = ROOT / "work_frames"
 DONE   = ROOT / "done"
 OUT    = ROOT / "out"
+DATA   = ROOT / "data"          # 저장소에 올라가는 결과물
+PUBLISH = os.environ.get("NO_PUBLISH") != "1"   # 배치마다 저장소에 반영
 FFMPEG = r"C:\Users\inbm\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
+
+# yt-dlp 는 기본적으로 콘솔 코드페이지(cp949)로 내보내, 제목의 유니코드
+# 따옴표와 이모지를 변환 불가 문자로 바꿔버린다. 원본 그대로 받으려면
+# UTF-8 출력을 강제해야 한다.
+ENV_UTF8 = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUTF8="1")
 PLAYLIST = "https://www.youtube.com/playlist?list=UUSHzk0LV3F-MIFS-fGweXhNmQ"
 
 # ---------- 코드 심볼 문법 ----------
@@ -53,6 +60,42 @@ FIXES = [
     (rf"^({RT})\s+1\s+(?=\d)", r"\1 "),
     (r"\s+", " "),
 ]
+
+
+# 코드를 부분으로 가른다. "Db Maj(add2) / F" -> root Db, quality Maj(add2), bass F
+SPLIT = re.compile(rf"^({RT})\s*(.*?)(?:\s*/\s*({RT}))?$")
+
+# 음이름을 반음 번호로. 조옮김·화성 분석에 쓴다.
+PC = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
+
+
+def pitch_class(root: str):
+    """'Db' -> 1. 못 읽으면 None."""
+    if not root:
+        return None
+    n = PC.get(root[0].upper())
+    if n is None:
+        return None
+    for ch in root[1:]:
+        if ch in "#♯":
+            n += 1
+        elif ch in "b♭":
+            n -= 1
+    return n % 12
+
+
+def split_chord(c: str):
+    """코드 문자열을 root/quality/bass 로 가른다."""
+    m = SPLIT.match(c)
+    if not m:
+        return {"root": None, "quality": None, "bass": None, "pc": None}
+    root, qual, bass = m.group(1), (m.group(2) or "").strip(), m.group(3)
+    return {
+        "root": root,
+        "quality": qual or None,
+        "bass": bass,
+        "pc": pitch_class(root),
+    }
 
 
 def normalize(s: str):
@@ -227,10 +270,15 @@ def process(entry):
         else:
             runs.append({"chord": cur, "start": idx, "end": idx})
 
-    prog = [{"chord": r["chord"],
-             "at": round(r["start"] / FPS, 2),
-             "dur": round((r["end"] - r["start"] + 1) / FPS, 2)}
-            for r in runs if r["chord"]]
+    prog = []
+    for r in runs:
+        if not r["chord"]:
+            continue
+        item = {"chord": r["chord"],
+                "at": round(r["start"] / FPS, 2),
+                "dur": round((r["end"] - r["start"] + 1) / FPS, 2)}
+        item.update(split_chord(r["chord"]))
+        prog.append(item)
 
     tot = n_ok + n_bad
     rate = n_ok / tot if tot else 0.0
@@ -263,7 +311,8 @@ def playlist_count():
     r = subprocess.run(
         YTDLP + ["--flat-playlist", "--print", "%(playlist_count)s",
                  "--playlist-items", "1", PLAYLIST],
-        capture_output=True, text=True, encoding="utf-8", errors="replace")
+        capture_output=True, text=True, encoding="utf-8", errors="replace",
+        env=ENV_UTF8)
     try:
         return int(r.stdout.strip().splitlines()[0])
     except Exception:
@@ -281,7 +330,7 @@ def fetch_playlist(n_vid=None):
         cmd += ["--playlist-end", str(n_vid)]
     cmd += [PLAYLIST]
     r = subprocess.run(cmd, capture_output=True, text=True,
-                       encoding="utf-8", errors="replace")
+                       encoding="utf-8", errors="replace", env=ENV_UTF8)
     out = []
     for line in r.stdout.splitlines():
         if not line.strip():
@@ -347,22 +396,66 @@ def main():
         print(f"[{n_done}/{len(todo)}] dl={t_dl:.0f}s ocr={t_oc:.0f}s "
               f"| {rate:.1f}s/video | ETA {left:.0f}min", flush=True)
 
-        # 중간 집계 저장
+        # 중간 집계 저장 + 저장소 반영
         write_outputs()
+        publish()
 
     write_outputs()
+    publish()
     el = time.perf_counter() - T0
     print(f"\n=== done in {el/60:.1f} min ===", flush=True)
 
 
+def publish():
+    """진행분을 저장소에 올린다. 실패해도 수집은 계속한다."""
+    if not PUBLISH:
+        return
+    try:
+        r = subprocess.run(
+            [sys.executable, str(Path(__file__).parent / "publish.py")],
+            capture_output=True, text=True, encoding="utf-8",
+            errors="replace", timeout=300)
+        out = (r.stdout or "").strip()
+        if out:
+            print(f"[publish] {out}", flush=True)
+    except Exception as e:
+        print(f"[publish] skipped: {e}", flush=True)
+
+
 def write_outputs():
+    """결과를 모아 쓴다.
+
+    본체는 JSONL(한 줄에 한 곡)이다. 20MB 짜리 JSON 배열은 끝까지 읽어야
+    파싱이 되지만, JSONL 은 몇 줄만 잘라 읽어도 그 자체로 완결된다.
+    읽어가는 쪽(사람이든 도구든)이 필요한 만큼만 가져갈 수 있다.
+    """
+    DATA.mkdir(exist_ok=True)
     recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(DONE.glob("*.json"))]
     ok     = [r for r in recs if r.get("status") == "ok"]
     failed = [r for r in recs if r.get("status") != "ok"]
-    (OUT / "chords.json").write_text(
-        json.dumps(ok, ensure_ascii=False, indent=2), encoding="utf-8")
-    (OUT / "failed.json").write_text(
-        json.dumps(failed, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    with (DATA / "chords.jsonl").open("w", encoding="utf-8") as f:
+        for r in ok:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    with (DATA / "failed.jsonl").open("w", encoding="utf-8") as f:
+        for r in failed:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    # 목차 — 전체를 읽지 않고도 무엇이 들어 있는지 훑을 수 있게 한다.
+    index = {
+        "count": len(recs),
+        "ok": len(ok),
+        "failed": len(failed),
+        "updated": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "songs": [{"id": r["id"], "title": r["title"],
+                   "n_chords": len(r.get("progression", [])),
+                   "duration_sec": r.get("duration_sec"),
+                   "status": r.get("status")}
+                  for r in recs],
+    }
+    (DATA / "index.json").write_text(
+        json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
 
     lines = ["# 판독 실패 목록", "",
              f"총 {len(recs)}곡 중 {len(failed)}곡 실패", "",

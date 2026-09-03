@@ -6,9 +6,30 @@
 코드 이름이 떠 있고, 그 글자를 읽어 **무슨 코드가 언제 몇 초 동안**
 울렸는지를 뽑아냅니다.
 
-## 결과 형식
+## 데이터
 
-곡 하나가 이렇게 저장됩니다.
+| 파일 | 내용 |
+|---|---|
+| `data/chords.jsonl` | **본체.** 한 줄에 한 곡 |
+| `data/index.json` | 곡 목록만. 가벼워서 먼저 훑기용 |
+| `data/failed.jsonl` | 판독 실패곡 |
+| `out/failed.md` | 실패 목록 표 |
+
+본체가 JSONL인 이유는 **일부만 읽어도 되기 때문**입니다. 전체가 하나의
+JSON 배열이면 끝까지 다 읽어야 파싱이 되지만, JSONL은 몇 줄만 잘라 읽어도
+그 줄들이 그대로 완결된 데이터입니다.
+
+```python
+import json
+with open("data/chords.jsonl", encoding="utf-8") as f:
+    for line in f:
+        song = json.loads(line)
+```
+
+전체가 필요 없다면 `data/index.json`을 먼저 읽어 어떤 곡이 있는지 보고,
+필요한 줄만 가져가면 됩니다.
+
+## 한 곡의 생김새
 
 ```json
 {
@@ -18,11 +39,17 @@
   "status": "ok",
   "ocr_rate": 1.0,
   "duration_sec": 58.75,
-  "band": { "top": 0.5596, "h": 0.0555, "how": "auto(5/5)" },
   "progression": [
-    { "chord": "D 9sus4",     "at": 0.0,  "dur": 2.75 },
-    { "chord": "Bb min9(13)", "at": 2.75, "dur": 1.0  },
-    { "chord": "C min9(13)",  "at": 3.75, "dur": 1.25 }
+    {
+      "chord": "D 9sus4",
+      "at": 0.0, "dur": 2.75,
+      "root": "D", "quality": "9sus4", "bass": null, "pc": 2
+    },
+    {
+      "chord": "Db Maj(add2) / F",
+      "at": 2.75, "dur": 1.0,
+      "root": "Db", "quality": "Maj(add2)", "bass": "F", "pc": 1
+    }
   ],
   "unparsed": []
 }
@@ -30,21 +57,41 @@
 
 | 항목 | 뜻 |
 |---|---|
-| `chord` | 코드 이름 |
+| `chord` | 화면에 적힌 그대로 |
 | `at` | 시작 시각(초) |
 | `dur` | 지속 시간(초) |
+| `root` | 근음 |
+| `quality` | 코드 성질 |
+| `bass` | 분수코드의 베이스음. 없으면 `null` |
+| `pc` | 근음의 반음 번호 (C=0 … B=11). 조옮김·화성 분석용 |
 | `status` | `ok` / `failed_no_chords` / `failed_low_ocr` |
 | `ocr_rate` | 읽어낸 글자를 코드로 해석한 성공률 |
-| `band` | 화면 어느 높이를 잘라 읽었는지 |
 | `unparsed` | 해석하지 못한 글자. 비어 있으면 완벽 |
 
-## 결과물
+시각은 초당 4장을 캡처해 얻으므로 0.25초 단위입니다.
 
-| 파일 | 내용 |
-|---|---|
-| `out/chords.json` | 정상 판독곡 |
-| `out/failed.json` | 판독 실패곡 상세 |
-| `out/failed.md` | 실패 목록 표 |
+### 쓰는 예
+
+같은 진행이 여러 곡에 나오는지 찾습니다. 근음의 반음 번호(`pc`)로 비교하면
+조가 달라도 같은 진행으로 묶입니다.
+
+```python
+import json
+from collections import Counter
+
+seqs = Counter()
+with open("data/chords.jsonl", encoding="utf-8") as f:
+    for line in f:
+        prog = json.loads(line)["progression"]
+        pcs = [c["pc"] for c in prog if c["pc"] is not None]
+        # 4코드씩 훑으며 첫 코드를 0으로 옮긴다
+        for i in range(len(pcs) - 3):
+            w = pcs[i:i + 4]
+            seqs[tuple((p - w[0]) % 12 for p in w)] += 1
+
+for seq, n in seqs.most_common(10):
+    print(seq, n)
+```
 
 ## 실행
 
@@ -62,6 +109,11 @@ uv run --with pillow --with numpy --with rapidocr-onnxruntime python scripts/col
 | 5 | 컴퓨터를 거의 못 씀 | 33시간 |
 | 3 | 웹서핑·문서 작업에 지장 없음 | 약 50시간 |
 | 2 | 거의 느끼지 못함 | 70시간 이상 |
+
+## 수집 진행 상황
+
+`data/index.json`의 `count`가 지금까지 처리한 곡 수입니다. 전체는 1479곡이며,
+수집이 도는 동안 40곡마다 갱신됩니다.
 
 ## 처리 방식
 

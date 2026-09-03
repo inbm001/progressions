@@ -1,0 +1,64 @@
+{
+  "count": 8,
+  "ok": 8,
+  "failed": 0,
+  "updated": "2026-09-03 16:43:48",
+  "songs": [
+    {
+      "id": "-gDI19p8oq0",
+      "title": "Gran Turismo 5 “Mesmerium” Part 1 Chords 🔥🎹🔥 Composer - Satoshi Bando.Gaming Sunday",
+      "n_chords": 37,
+      "duration_sec": 58.75,
+      "status": "ok"
+    },
+    {
+      "id": "-LfOA4o0Pgk",
+      "title": "Isabelle Antena “The French Riviera” Chords Intro 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 15.5,
+      "status": "ok"
+    },
+    {
+      "id": "cb0-jJzYnsA",
+      "title": "Michael Jackson Ft. Paul McCartney “The Girl Is Mine” Chords 🔥🎹🔥 29.08.1958 MJ's Birthday.",
+      "n_chords": 36,
+      "duration_sec": 53.25,
+      "status": "ok"
+    },
+    {
+      "id": "f64kt28Y6Dw",
+      "title": "Jamiroquai “Scam” Outro Chords 🔥🎹🔥 Pure Acid-Jazz Fire. #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 16.75,
+      "status": "ok"
+    },
+    {
+      "id": "Ggnq80BOWOQ",
+      "title": "Jamiroquai “Shoot The Moon” Chords | Rare Montreux 2003 Jam 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 59.25,
+      "status": "ok"
+    },
+    {
+      "id": "P0kTLr3fn3Y",
+      "title": "Erykah Badu & The Alchemist “Witch Doctor” Chords 🔥🎹🔥  #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 24.25,
+      "status": "ok"
+    },
+    {
+      "id": "Vloi0u62MQM",
+      "title": "Don Blackman “Heart’s Desire” Chords 🔥🎹🔥 01.09.1953 Don Blackman Birthday 🎉 New York jazz-funk",
+      "n_chords": 11,
+      "duration_sec": 19.25,
+      "status": "ok"
+    },
+    {
+      "id": "xoFEJl8Ezm0",
+      "title": "J Dilla “This Is It” Chords 🔥🎹🔥 Samples “Wait for Me” (live) by Daryl Hall & John Oates",
+      "n_chords": 8,
+      "duration_sec": 35.75,
+      "status": "ok"
+    }
+  ]
+}
