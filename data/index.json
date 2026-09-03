@@ -1,8 +1,8 @@
 {
-  "count": 8,
-  "ok": 8,
-  "failed": 0,
-  "updated": "2026-09-03 16:45:45",
+  "count": 48,
+  "ok": 46,
+  "failed": 2,
+  "updated": "2026-09-03 17:52:17",
   "songs": [
     {
       "id": "-gDI19p8oq0",
@@ -19,10 +19,87 @@
       "status": "ok"
     },
     {
+      "id": "1_dCzlY-Mdw",
+      "title": "This is what Eclipse sounded like in my area #musicianparadise",
+      "n_chords": 3,
+      "duration_sec": 15.75,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "1pQwmROTgpY",
+      "title": "DOMi & JD BECK, Thundercat “BOWLiNG” Chords 🔥🎹🔥 I hope I got at least some of it right!",
+      "n_chords": 33,
+      "duration_sec": 22.25,
+      "status": "ok"
+    },
+    {
+      "id": "2tg2ZkVQ9zU",
+      "title": "PHONY PPL “End Of The Night” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 35.0,
+      "status": "ok"
+    },
+    {
+      "id": "4KUvNNpuecE",
+      "title": "JPEGMAFIA “1539 N. Calvert” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 44.25,
+      "status": "ok"
+    },
+    {
+      "id": "617bPh0tXHY",
+      "title": "Jamiroquai “Music Of The Mind” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 27.75,
+      "status": "ok"
+    },
+    {
+      "id": "AQXigfksP-I",
+      "title": "The Neptunes Star Trak “Website Background Music” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 21.25,
+      "status": "ok"
+    },
+    {
+      "id": "BYY_T7j-e6Q",
+      "title": "LL Cool J “Around The Way Girl” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 9.5,
+      "status": "ok"
+    },
+    {
       "id": "cb0-jJzYnsA",
       "title": "Michael Jackson Ft. Paul McCartney “The Girl Is Mine” Chords 🔥🎹🔥 29.08.1958 MJ's Birthday.",
       "n_chords": 36,
       "duration_sec": 53.25,
+      "status": "ok"
+    },
+    {
+      "id": "dIBYB3RRzs0",
+      "title": "Roberta Flack “I Can See The Sun In Late December” Chords 🔥🎹🔥 Stevie Wonder Song #musicianparadise",
+      "n_chords": 50,
+      "duration_sec": 52.5,
+      "status": "ok"
+    },
+    {
+      "id": "DyrvncHciQU",
+      "title": "The Black Eyed Peas “Joints & Jam” Chords 🔥🎹🔥 Sample - “Love Till The End Of Time“ Paulinho Da Costa",
+      "n_chords": 16,
+      "duration_sec": 18.0,
+      "status": "ok"
+    },
+    {
+      "id": "EvdCT78aKN8",
+      "title": "Level 42 “Sirens” (John Morales Mix) Chords 🔥🎹🔥 Jazz-Funk Masterpiece 🎁",
+      "n_chords": 4,
+      "duration_sec": 18.25,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "eWTZQ4sSGgI",
+      "title": "Kawai Sprite “Nico's Nextbots Shop” Chords 🔥🎹🔥 Listen to that bass ending!",
+      "n_chords": 8,
+      "duration_sec": 9.25,
       "status": "ok"
     },
     {
@@ -33,10 +110,94 @@
       "status": "ok"
     },
     {
+      "id": "FGA_-TJYX2A",
+      "title": "Jamiroquai “Virtual Insanity” Intro Chords 🔥🎹🔥 Hard to believe this song turns 30!",
+      "n_chords": 8,
+      "duration_sec": 10.5,
+      "status": "ok"
+    },
+    {
+      "id": "fJ3bUFX-i5Q",
+      "title": "Fresh “Friday Night Funkin'” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Kawai Sprite",
+      "n_chords": 8,
+      "duration_sec": 8.0,
+      "status": "ok"
+    },
+    {
       "id": "Ggnq80BOWOQ",
       "title": "Jamiroquai “Shoot The Moon” Chords | Rare Montreux 2003 Jam 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
       "duration_sec": 59.25,
+      "status": "ok"
+    },
+    {
+      "id": "GLaICH5muYc",
+      "title": "J Dilla “Track 7“(Circa '98) Chords 🔥🎹🔥 Rare Beat Masterpiece #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 15.0,
+      "status": "ok"
+    },
+    {
+      "id": "gyl2NM906-Y",
+      "title": "Michael Jackson “That’s What You Get (For Being Polite)” Chords 🔥🎹🔥 Greg Phillinganes Harmony",
+      "n_chords": 37,
+      "duration_sec": 42.5,
+      "status": "ok"
+    },
+    {
+      "id": "Ht3JCV8cOnc",
+      "title": "RC & the Gritz Ft. Erykah Badu “Leave Me Alone” Chords 🔥🎹🔥 Neo Soul Masterpiece #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 43.25,
+      "status": "ok"
+    },
+    {
+      "id": "hudSigIZXOc",
+      "title": "Jamiroquai — “Virtual Insanity” Chords 🔥🎹🔥 The chorus and more—the parts nobody wants to teach!",
+      "n_chords": 22,
+      "duration_sec": 21.0,
+      "status": "ok"
+    },
+    {
+      "id": "J3i60fBLKpc",
+      "title": "Pharrell “Bad Day”(Despicable Me) Chords 🔥🎹🔥 Original Motion Picture Soundtrack #musicianparadise",
+      "n_chords": 26,
+      "duration_sec": 36.5,
+      "status": "ok"
+    },
+    {
+      "id": "MvvyfiTMxPY",
+      "title": "Mr. Fingers “What About This Love” Chords 🔥🎹🔥 Deep House Classic #MusicianParadise",
+      "n_chords": 16,
+      "duration_sec": 34.0,
+      "status": "ok"
+    },
+    {
+      "id": "N8BEekx6px4",
+      "title": "Jamiroquai “Space Clav” Chords 🔥🎹🔥 1990s British acid jazz and jazz-funk movement",
+      "n_chords": 12,
+      "duration_sec": 9.0,
+      "status": "ok"
+    },
+    {
+      "id": "nrwcqnDX0dE",
+      "title": "Jamiroquai “Revolution 1993” Chords 🔥🎹🔥 The Ultimate Acid Jazz Groove #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 15.0,
+      "status": "ok"
+    },
+    {
+      "id": "ObN0iqdRVU0",
+      "title": "Phony Ppl “Way Too Far” 🔥🎹🔥 The bass notes change everything! #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 41.25,
+      "status": "ok"
+    },
+    {
+      "id": "oR0dvv-6tSg",
+      "title": "Jamiroquai “Emergency on Planet Earth” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 32.5,
       "status": "ok"
     },
     {
@@ -47,6 +208,90 @@
       "status": "ok"
     },
     {
+      "id": "P4GS7Ow-_xs",
+      "title": "Robert Glasper Ft. Yebba “Over” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 29,
+      "duration_sec": 36.75,
+      "status": "ok"
+    },
+    {
+      "id": "qA2aVlpE05U",
+      "title": "RoBKTA ft. Tudd R4cin' “All Night” Chords 🔥🎹🔥 Gaming Sunday - Ridge Racer 🎁 #musicianparadise",
+      "n_chords": 48,
+      "duration_sec": 41.25,
+      "status": "ok"
+    },
+    {
+      "id": "Rd9_ukWZ0Zk",
+      "title": "The Black Eyed Peas “Imma Be” Bridge Chords 🔥🎹🔥 Futuristic Harmony #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 15.75,
+      "status": "ok"
+    },
+    {
+      "id": "Rxm-Wdyb_Xg",
+      "title": "Idris Muhammad “Piece Of Mind” Chords 🔥🎹🔥 Bob James: Keyboards, arranging, and conducting.",
+      "n_chords": 38,
+      "duration_sec": 38.0,
+      "status": "ok"
+    },
+    {
+      "id": "S3DZ4TE2JPo",
+      "title": "Gran Turismo 5 “Love & Peace” Chords 🔥🎹🔥 Gaming Sunday. Composer - Kemmei Adachi",
+      "n_chords": 24,
+      "duration_sec": 32.0,
+      "status": "ok"
+    },
+    {
+      "id": "SSoqIfN0uzg",
+      "title": "Dom Kennedy “Thank You Biggie” Chords 🔥🎹🔥 Jake One and Darius Willrich Production #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 24.0,
+      "status": "ok"
+    },
+    {
+      "id": "TBA4xWJz69w",
+      "title": "D’Angelo “Ex to the Next” chords 🔥🎹🔥 I can sing Benny Golson’s “Killer Joe” over them!",
+      "n_chords": 12,
+      "duration_sec": 22.5,
+      "status": "ok"
+    },
+    {
+      "id": "THIQvNskZJY",
+      "title": "DOMi & JD BECK “SMiLE” chords 🔥🎹🔥 I had to heavily edit the track to fit the chords into this video.",
+      "n_chords": 55,
+      "duration_sec": 48.25,
+      "status": "ok"
+    },
+    {
+      "id": "TSO9Ca8z9Ao",
+      "title": "Gran Turismo 3 A-Spec “Light Velocity” Chords 🔥🎹🔥 Gaming Sunday. Composer Isamu Ohira",
+      "n_chords": 29,
+      "duration_sec": 43.5,
+      "status": "ok"
+    },
+    {
+      "id": "TW4nFJvOECk",
+      "title": "Patrice Scott “Remember When” Chords 🔥🎹🔥 Dark Detroit Harmony #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 33.5,
+      "status": "ok"
+    },
+    {
+      "id": "UjiClsw_dSg",
+      "title": "Idris Muhammad “Could Heaven Ever Be Like This” Chords 🔥🎹🔥 Acid Jazz Predecessor",
+      "n_chords": 16,
+      "duration_sec": 31.0,
+      "status": "ok"
+    },
+    {
+      "id": "UsufumBShEA",
+      "title": "Kavinsky “Pulsar” Chords 🔥🎹🔥 RIP Master #MusicianParadise",
+      "n_chords": 8,
+      "duration_sec": 29.5,
+      "status": "ok"
+    },
+    {
       "id": "Vloi0u62MQM",
       "title": "Don Blackman “Heart’s Desire” Chords 🔥🎹🔥 01.09.1953 Don Blackman Birthday 🎉 New York jazz-funk",
       "n_chords": 11,
@@ -54,10 +299,45 @@
       "status": "ok"
     },
     {
+      "id": "x9XIYQdgK4I",
+      "title": "Snoop Dogg Ft. Brandy & Pharrell “Special” Chords 🔥🎹🔥 The Neptunes’ Smoothest Hidden Gem",
+      "n_chords": 8,
+      "duration_sec": 20.75,
+      "status": "ok"
+    },
+    {
+      "id": "xEKnW8RWCQw",
+      "title": "Donald Byrd “You And The Music” Chords 🔥🎹🔥 Soulful Harmony #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 18.5,
+      "status": "ok"
+    },
+    {
+      "id": "xO1ZNriqOcw",
+      "title": "Jamiroquai “Virtual Insanity” Final 🔥🎹🔥 The final bit—parts nobody wants to teach.",
+      "n_chords": 17,
+      "duration_sec": 18.25,
+      "status": "ok"
+    },
+    {
       "id": "xoFEJl8Ezm0",
       "title": "J Dilla “This Is It” Chords 🔥🎹🔥 Samples “Wait for Me” (live) by Daryl Hall & John Oates",
       "n_chords": 8,
       "duration_sec": 35.75,
+      "status": "ok"
+    },
+    {
+      "id": "z5YFXGtczDg",
+      "title": "Marcos Valle Ft. Leon Ware “Feels So Good” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 39.75,
+      "status": "ok"
+    },
+    {
+      "id": "zzMiqjG9_jA",
+      "title": "Kemmei Adachi “Like A Bird” Chords 🔥🎹🔥 Gaming Sunday - The Beautiful Chords Behind GT 5 OST",
+      "n_chords": 15,
+      "duration_sec": 32.0,
       "status": "ok"
     }
   ]

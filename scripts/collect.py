@@ -38,6 +38,7 @@ DONE   = ROOT / "done"
 OUT    = ROOT / "out"
 DATA   = ROOT / "data"          # 저장소에 올라가는 결과물
 PUBLISH = os.environ.get("NO_PUBLISH") != "1"   # 배치마다 저장소에 반영
+MIN_EXPECTED = 200      # 전체 실행 시 이 이하면 목록이 잘린 것으로 본다
 FFMPEG = r"C:\Users\inbm\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
 
@@ -45,7 +46,10 @@ YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
 # 따옴표와 이모지를 변환 불가 문자로 바꿔버린다. 원본 그대로 받으려면
 # UTF-8 출력을 강제해야 한다.
 ENV_UTF8 = dict(os.environ, PYTHONIOENCODING="utf-8", PYTHONUTF8="1")
-PLAYLIST = "https://www.youtube.com/playlist?list=UUSHzk0LV3F-MIFS-fGweXhNmQ"
+# 채널의 업로드 재생목록(UU...)은 100개까지만 내주고 그 뒤 페이지를 막는다.
+# playlist_count 는 1578 이라 답하지만 101번째 항목부터 존재하지 않는다.
+# 채널 쇼츠 탭으로 접근해야 1479개 전부를 받을 수 있다.
+PLAYLIST = "https://www.youtube.com/channel/UCzk0LV3F-MIFS-fGweXhNmQ/shorts"
 
 # ---------- 코드 심볼 문법 ----------
 RT   = r"[A-G][#b♭♯]?"
@@ -358,8 +362,8 @@ def main():
     entries = None
     if cache.exists():
         entries = json.loads(cache.read_text(encoding="utf-8"))
-        # -J 방식은 100개에서 잘린다. 잘린 캐시를 재사용하지 않도록 검증한다.
-        if n_vid is None and len(entries) < playlist_count() * 0.9:
+        # 100개에서 잘린 캐시를 재사용하지 않도록 막는다.
+        if n_vid is None and len(entries) <= MIN_EXPECTED:
             print(f"[list] cache looks truncated ({len(entries)}), refetching",
                   flush=True)
             entries = None
@@ -370,6 +374,13 @@ def main():
     if n_vid:
         entries = entries[:n_vid]
     print(f"[list] {len(entries)} videos", flush=True)
+
+    # 전체 실행인데 목록이 잘렸다면 여기서 멈춘다.
+    # 100곡만 처리하고 끝나는 사고를 막는다.
+    if n_vid is None and len(entries) <= MIN_EXPECTED:
+        print(f"[list] ABORT: only {len(entries)} videos — playlist truncated.\n"
+              f"       채널 탭 주소를 쓰고 있는지 확인이 필요합니다.", flush=True)
+        return
 
     todo = [e for e in entries if not (DONE / f"{e['id']}.json").exists()]
     print(f"[resume] {len(entries)-len(todo)} already done, {len(todo)} to go", flush=True)
