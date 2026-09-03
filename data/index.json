@@ -1,8 +1,8 @@
 {
-  "count": 968,
+  "count": 1008,
   "ok": 196,
-  "failed": 772,
-  "updated": "2026-09-03 21:23:07",
+  "failed": 812,
+  "updated": "2026-09-03 21:23:15",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -17,6 +17,13 @@
       "n_chords": 37,
       "duration_sec": 58.75,
       "status": "ok"
+    },
+    {
+      "id": "-hQAyP2ucjg",
+      "title": "Chords For Drake on a $100K Grand Piano 💵🎹💵 #Drake #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "-IETUH1DwUQ",
@@ -119,6 +126,13 @@
     {
       "id": "0beHhfQ9ItA",
       "title": "J Dilla’s Dreamy Chords Came From THIS🔥🎹🔥 Dave Grusin Flip",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "0HGRU_1V3jQ",
+      "title": "Crazy J Dilla Chords “Two Lips” 🔥🎹🔥 F 101.20 bpm #JDillaTwoLips #JDilla #JoeyBada$$",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -294,6 +308,13 @@
     {
       "id": "1ZDhRT1VUVY",
       "title": "Hiatus Kaiyote “Building A Ladder” Nai Palm’s Lush Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "1ZdPCmkU3nM",
+      "title": "Illa J “Sunflower” feat. Potatohead People Chords 🔥🎹🔥 MIDI #IllaJ #Sunflower SunflowerChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -929,6 +950,13 @@
       "status": "no_frames"
     },
     {
+      "id": "7INjEzXy3is",
+      "title": "Labi Siffre “I Got The…” 🔥🎹🔥 94.90 bpm F #LabiSiffre #IGotThe #musicianparadise #RhodesV8",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "7LzwuXhSagM",
       "title": "Sade “Keep Looking” Quiet Storm Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 2,
@@ -1314,6 +1342,13 @@
       "status": "ok"
     },
     {
+      "id": "_UxYmivirco",
+      "title": "Patrice Rushen “Where There Is Love” Chords 🔥🎹🔥 #PatriceRushen #WhereThereIsLoveChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "_vClZEK_ywo",
       "title": "J Dilla “Real Fine” (Track 19) Chords 🔥🎹🔥 Sampled - “Speak Your Mind” Kevin Moore #musicianparadise",
       "n_chords": 15,
@@ -1573,6 +1608,13 @@
       "status": "no_frames"
     },
     {
+      "id": "B1UXtXdTrhc",
+      "title": "Friday Night Funkin’ “Fresh” Chords 🔥🎹🔥 Cm 120 bpm #Fresh #FridayNightFunkin #KawaiSprite",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "b25g0hhpJQs",
       "title": "This Jodeci Chord Progression Will Take You Back To The 90s: \"My Heart Belongs To You” Chords 🔥🎹🔥",
       "n_chords": 0,
@@ -1599,6 +1641,13 @@
       "n_chords": 17,
       "duration_sec": 41.75,
       "status": "ok"
+    },
+    {
+      "id": "Bb9NDqX7uZw",
+      "title": "Jamiroquai  “High Times” Chords 🔥🎹🔥 Em 112.70 bpm #Jamiroquai #HighTimesChords #HighTimes",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "bcyJD3h0Czw",
@@ -1811,6 +1860,13 @@
       "status": "no_frames"
     },
     {
+      "id": "c5vtS8cExNw",
+      "title": "Louis Cole “Park Your Car on My Face” Bridge Chords 🔥🎹🔥 #LouisCole #ParkYourCarOnMyFaceChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "C7uBQ2Uceho",
       "title": "Unlocking Beauty Of Kendrick Lamar’s “For Sale” (Interlude) Chords 🔥🎹🔥 #musicianparadise  #chords",
       "n_chords": 0,
@@ -1918,6 +1974,13 @@
     {
       "id": "cMcx_dLzaGA",
       "title": "Discover Vince Guaraldi's “Great Pumpkin Waltz” piano part 🔥🎹🔥 learn before Christmas challenge!",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "cmrHP9rz7ko",
+      "title": "Patrice Rushen “Forget Me Nots” Chords 🔥🎹🔥 F#m 114.04 bpm #ForgetMeNotsChords #PatriceRushen",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -2063,6 +2126,13 @@
       "status": "ok"
     },
     {
+      "id": "d4ktx3HO7dk",
+      "title": "Disco House Vibes: Chords That Make You Dance! 🎶💃 #DiscoHouseChords #MastersAtWork #LouieVega",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "D60oiS2Wmp4",
       "title": "Jamiroquai “Blow Your Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -2170,6 +2240,13 @@
     {
       "id": "dOx7SZ0pRxg",
       "title": "Daft Punk “Voyager” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "DppvJiwk4q0",
+      "title": "Masters At Work Style Chords 🔥🎹🔥  #DiscoHouseChords #DeepHouseChords #MastersAtWork",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -2462,6 +2539,13 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "faL4NVL2uT0",
+      "title": "Chords From The Parallel Universe 🤯 the first 4 chords are parallel Maj7(13th) #ParallelHarmony",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "FBMxc8gPdZc",
       "title": "Michael Jackson “Leave Me Alone” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 31,
@@ -2667,6 +2751,13 @@
     {
       "id": "g4LClpnz6cM",
       "title": "The Genius Neo-Soul Progression Behind Jamiroquai's 'Seven Days In Sunny June’🔥🎹🔥 #jamiroquai",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "g5csBt8dyD4",
+      "title": "70s Style Dreamy Chord Progression 🔥🎹🔥 #RoyAyers #70Chords #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3036,6 +3127,13 @@
       "status": "no_frames"
     },
     {
+      "id": "hqaVygKZAlc",
+      "title": "Drake's 'Papi's Home' Chord Breakdown 🔥🎹🔥 #Drake #PapisHome #PapisHomeChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Ht3JCV8cOnc",
       "title": "RC & the Gritz Ft. Erykah Badu “Leave Me Alone” Chords 🔥🎹🔥 Neo Soul Masterpiece #musicianparadise",
       "n_chords": 38,
@@ -3108,6 +3206,13 @@
     {
       "id": "i5Lv8QhLgNU",
       "title": "MF DOOM “Lavender Buds” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "I7ncxiPinpo",
+      "title": "Blast from the past - Rick James “Super Freak” 🔥🎹🔥 Sunday Jam 🎉 #SuperFreak #SuperFreakChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3379,6 +3484,13 @@
       "status": "no_frames"
     },
     {
+      "id": "JbSwUFncy-k",
+      "title": "Neo-Soul Secrets - Mesmerizing Piano Chords Revealed 🔥🎹🔥 #NeoSoulPiano #GrandPianoVibes",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "JcjHt8S9WwM",
       "title": "Beautiful R&B Chords On A Vintage Rhodes 73 MK I 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -3442,6 +3554,13 @@
       "status": "no_frames"
     },
     {
+      "id": "JIQJal-A-Z4",
+      "title": "Eumir Deodato “Super Strut” Chords 🔥🎹🔥 Gm 122 bpm #EumirDeodato #SuperStrutChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "JlVWFl_k4ns",
       "title": "Quantum chord mechanics 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
       "n_chords": 0,
@@ -3470,6 +3589,13 @@
       "status": "no_frames"
     },
     {
+      "id": "jQbSSK3WAN4",
+      "title": "The Secret Behind 'Love Junkee's' Captivating Chords 🔥🎹🔥 - A DJ Cam Masterpiece Explored",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "jQLCuk9PO-k",
       "title": "Super Play Action Football “Season Ended, Lose” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 37,
@@ -3484,6 +3610,13 @@
       "status": "no_frames"
     },
     {
+      "id": "jRf8_Jdsbxw",
+      "title": "Breaking Down 'GANGSTA':🎹✨ The Soulful Chords - Anderson .Paak, Free Nationals & ASAP Rocky's Hit.",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "JRtX0_B-Ti8",
       "title": "Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -3493,6 +3626,13 @@
     {
       "id": "jsx8ZJw4Dok",
       "title": "Roy Ayers “Get On Up, Get On Down” Chords 🔥🎹🔥 (Joey Negro Revibe) #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "jtdOSflL0NQ",
+      "title": "Ramp “Daylight” Roy Ayers Chords 🔥🎹🔥 #Daylight #RampDaylightChords #RoyAyersChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3701,6 +3841,13 @@
       "status": "no_frames"
     },
     {
+      "id": "kxFkg4vYkoM",
+      "title": "Musical Genius of J. Dilla: A Deep Dive - Chords of ‘Untitled’ from Slum Village’s Fantastic Album",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "KxYLWtSkIA0",
       "title": "Kool & the Gang “Celebration” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -3801,6 +3948,13 @@
     {
       "id": "LgmjCCwHX4M",
       "title": "The Hidden Gems in Ray Barretto's 'Pastime Paradise' Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "LhP1DYSKhUI",
+      "title": "The Genius Behind Jamiroquai's 'Mr Moon'🌜✨: A Deep Dive into Its Iconic Song #Jamiroquai #TobySmith",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -3988,6 +4142,13 @@
       "status": "ok"
     },
     {
+      "id": "mgoO1z0FJ0k",
+      "title": "Patrice Rushen “Remind Me” Chords 🔥🎹🔥 Am 91.5 bpm #RemindMe #patricerushen  #remindmechords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "MGyEO7Kzt5w",
       "title": "Patrice Rushen “Music Of The Earth” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 53,
@@ -4018,6 +4179,13 @@
     {
       "id": "MJIkONKGdMg",
       "title": "Jeff Lorber Fusion “Lava Lands” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "mJl8I6ewpMY",
+      "title": "Deep House Decoded: Mastering the Art of Mesmerizing Chords 🔥🎹🔥 #DeepHouseChordsSecrets",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4179,6 +4347,20 @@
     {
       "id": "nbVk_i9qeso",
       "title": "Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "NethsQytWt0",
+      "title": "Illa J “Timeless” Chords 🔥🎹🔥 Dbm 87 bpm #Timeless #TimelessChords #JDilla #IllaJ #DonPullen",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "nfHRzinFx-M",
+      "title": "J Dilla “Ahmad Impresses Me” Chords 🔥🎹🔥 Cm 89.9 bpm #JDilla #AhmadImpressesMeChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4576,6 +4758,13 @@
       "status": "ok"
     },
     {
+      "id": "OtqXX518fYM",
+      "title": "Roy Ayers' 'Get On Up, Get On Down' Chords 🔥🎹🔥 Joey Negro's Masterful Revibe",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "oUp6evBLw_Y",
       "title": "Playing My Chord Presets on a QWERTY Keyboard 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -4613,6 +4802,13 @@
     {
       "id": "oZAbN9V97sY",
       "title": "Lupe Fiasco “Paris, Tokyo” Chords 🔥🎹🔥 Sample Source: Eumir Deodato “San Juan Sunset”",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "ozd2qnHnmMo",
+      "title": "Roy Ayers Liquid Love Chords 🔥🎹🔥 #RoyAyers #LiquidLoveChords",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -4877,6 +5073,13 @@
       "status": "ok"
     },
     {
+      "id": "qdnApV5ZBFY",
+      "title": "Jamiroquai “Falling” Chords 🔥🎹🔥 Am 85 bpm #Jamiroquai #TobySmith #FallingChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "qe1lKF_9jy4",
       "title": "Unmasking Tyler, The Creator's \"Take Your Mask Off\" Chords 🔥🎹🔥 #MusicianParadise #Tylerschords",
       "n_chords": 0,
@@ -4989,8 +5192,22 @@
       "status": "no_frames"
     },
     {
+      "id": "qswqEd75c6E",
+      "title": "Drake “Look What You’ve Done” Chords 👌🎹 #Drake #LookWhatYouveDoneChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "QuVFV5RXujQ",
       "title": "Jacob Collier’s Crazy Turnaround 🔥🎹🔥 “Time Alone With You” ft. Daniel Caesar #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "QWeT6HZOCfw",
+      "title": "Chords for Jamiroquai 🔥🎹🔥 #JamiroquaiVibes #JamiroquaiChords #musicianparadise",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5227,6 +5444,13 @@
       "status": "ok"
     },
     {
+      "id": "rx_yr_OSawM",
+      "title": "VULFPECK “Kuhmilch” Chords 🔥🎹🔥 Db 74 bpm #KuhmilchChords #JoeyDosik #JoeDart #JackStratton",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "Rxm-Wdyb_Xg",
       "title": "Idris Muhammad “Piece Of Mind” Chords 🔥🎹🔥 Bob James: Keyboards, arranging, and conducting.",
       "n_chords": 38,
@@ -5271,6 +5495,13 @@
     {
       "id": "SaTxkw9KaF8",
       "title": "Dark Neo Soul Chord Preset Pack ”Deep Chords” preset 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "SBkzLkUfXYA",
+      "title": "Ginuwine “Differences” Chords 👌🎹👌 Ebm 63 bpm #Ginuwine #DifferencesChords #Differences",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -5523,6 +5754,13 @@
     {
       "id": "t6r5qihy8k4",
       "title": "Blast From the Past - Carl Thomas “I Wish” – The R&B Chords 💔🎹💔",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "T8JHpW3XfwQ",
+      "title": "Is this an existing song, or are these chords mine? If nobody claims them, I'll take the ownership!",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -6039,6 +6277,13 @@
       "status": "ok"
     },
     {
+      "id": "VR-UBHvG3sI",
+      "title": "2Pac “Do For Love” Chords 🔥🎹🔥 #2Pac #DoForLove #DoForLoveChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "VrZBixJd2XA",
       "title": "Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #SoulfulDeepHouseChords",
       "n_chords": 0,
@@ -6076,6 +6321,13 @@
     {
       "id": "vX6b-V7wWDs",
       "title": "The Jazz Sample Behind Q-Tip’s  “Believe” That Nobody Talks About Recreated 🔥🎹🔥 | Hal Galper",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "VZxnG8uMFqo",
+      "title": "Jazz Spastiks ft. Count Bass D “Delicious” Chords 🔥🎹🔥 Ab 94 bpm #DeliciousChords #JazzSpastiks",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -6125,6 +6377,13 @@
     {
       "id": "WBCJihgzkyQ",
       "title": "This bridge deserves to be a song -The Isley Brothers “Between The Sheets” Bridge Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "WbIPt8y2QNY",
+      "title": "Level 42 “Sirens” Chords (John Morales Mix) 🔥🎹🔥 Em 106 bpm #MarkKing #Level42Sirens",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
@@ -6247,6 +6506,13 @@
       "n_chords": 17,
       "duration_sec": 20.25,
       "status": "ok"
+    },
+    {
+      "id": "X0hDNIkshBk",
+      "title": "Lucky Daye “That’s You” Chords 👌🎹🔥 D 130 bpm #LuckyDaye #ThatsYouChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
     },
     {
       "id": "X0QlCzi1oak",
@@ -6529,6 +6795,13 @@
       "status": "no_frames"
     },
     {
+      "id": "ycUzX7QBDT0",
+      "title": "Roy Ayers “Everybody Loves The Sunshine” Chords 👌🎹🌞  #RoyAyers #EverybodyLovesTheSunshineChords",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
       "id": "yDlABN53h0s",
       "title": "From Basic to Brilliant: How Tyler, The Creator, Composed 'Boyfriend' Chords 🔥🎹🔥#musicianparadise",
       "n_chords": 0,
@@ -6734,6 +7007,13 @@
     {
       "id": "ZOn2R9DszVQ",
       "title": "Learn Rob Araujo’s “Hike” 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": null,
+      "status": "no_frames"
+    },
+    {
+      "id": "zSKjMXlb_Wc",
+      "title": "Bob James “Feel Like Making Love” Intro Chords 🔥🎹🔥 #BobJames #FeelLikeMakingLove",
       "n_chords": 0,
       "duration_sec": null,
       "status": "no_frames"
