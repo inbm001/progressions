@@ -1,8 +1,8 @@
 {
-  "count": 290,
-  "ok": 231,
+  "count": 333,
+  "ok": 274,
   "failed": 59,
-  "updated": "2026-09-07 16:49:12",
+  "updated": "2026-09-07 19:01:12",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -11,7 +11,7 @@
       "duration_sec": 33.5,
       "key": "G minor",
       "key_confidence": 0.5,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -25,13 +25,23 @@
       "status": "ok"
     },
     {
+      "id": "-IETUH1DwUQ",
+      "title": "Gucci Mane (Ft. Pharrell) “Have It All” Chords 🔥🎹🔥 Chad Hugo on the guitar? #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 24.0,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "-LfOA4o0Pgk",
       "title": "Isabelle Antena “The French Riviera” Chords Intro 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
       "duration_sec": 15.5,
       "key": "Bb major",
       "key_confidence": 1.0,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -51,7 +61,7 @@
       "duration_sec": 34.0,
       "key": "Eb major",
       "key_confidence": 0.66,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -61,7 +71,17 @@
       "duration_sec": 22.75,
       "key": "Bb minor (?)",
       "key_confidence": 0.01,
-      "n_unsure": 1,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "-QOr0kfihWU",
+      "title": "Daft Punk \"One More Time\" Chords 🔥🎹🔥 Happy 2026! #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 31.25,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -95,13 +115,23 @@
       "status": "ok"
     },
     {
+      "id": "1fccDQiMByk",
+      "title": "Bob's Burgers “The Spirits of Christmas” Kevin Kline Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 71,
+      "duration_sec": 56.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "1pQwmROTgpY",
       "title": "DOMi & JD BECK, Thundercat “BOWLiNG” Chords 🔥🎹🔥 I hope I got at least some of it right!",
       "n_chords": 33,
       "duration_sec": 22.25,
       "key": "Gb minor",
-      "key_confidence": 0.73,
-      "n_unsure": 11,
+      "key_confidence": 0.81,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -111,7 +141,7 @@
       "duration_sec": 72.25,
       "key": "C major (?)",
       "key_confidence": 0.32,
-      "n_unsure": 17,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -141,7 +171,7 @@
       "duration_sec": 30.25,
       "key": "C# minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -151,7 +181,17 @@
       "duration_sec": 31.0,
       "key": "F minor",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "32gfz6noFsI",
+      "title": "Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 61,
+      "duration_sec": 53.25,
+      "key": "G minor (?)",
+      "key_confidence": 0.05,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -181,7 +221,7 @@
       "duration_sec": 35.0,
       "key": "G minor",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -201,7 +241,7 @@
       "duration_sec": 20.5,
       "key": "E minor (?)",
       "key_confidence": 0.45,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -211,7 +251,7 @@
       "duration_sec": 44.25,
       "key": "A minor",
       "key_confidence": 1.0,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -231,7 +271,17 @@
       "duration_sec": 58.25,
       "key": "Gb major",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5AGlHNB5QdI",
+      "title": "“Alex & Ken’s Theme” Chords: Jazzy NYC ’99 Street Fighter Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 26,
+      "duration_sec": 28.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.12,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -245,13 +295,43 @@
       "status": "ok"
     },
     {
+      "id": "5IJXbBnf4mU",
+      "title": "Tyler, The Creator “SMUCKERS” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 24.0,
+      "key": "C minor (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5IRBnsZCRfg",
+      "title": "Boyz II Men “Let It Snow” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 46,
+      "duration_sec": 46.25,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5Lky5buDurk",
+      "title": "Title Tyler, The Creator & Roy Ayers “Find Your Wings” Chords 🔥🎹🔥 Piano part by Jameel Bruner.",
+      "n_chords": 55,
+      "duration_sec": 64.25,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "5pOpEx0OurM",
       "title": "A Tribe Called Quest – “Bonita Applebum” Chords 🔥🎹🔥 Sample source: Roy Ayers / RAMP – “Daylight”",
       "n_chords": 14,
       "duration_sec": 10.5,
       "key": "Bb minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -285,13 +365,33 @@
       "status": "ok"
     },
     {
+      "id": "6tNsUDvnFUk",
+      "title": "Final Fantasy X-2  Eternity “Memory of Lightwaves” Chords 🔥🎹🔥 Composer Noriko Matsueda",
+      "n_chords": 11,
+      "duration_sec": 16.0,
+      "key": "F major (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "73A8Rf-dUNc",
+      "title": "Donny Hathaway \"This Christmas\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 65,
+      "duration_sec": 50.75,
+      "key": "D minor",
+      "key_confidence": 0.98,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "77PZfk_krlE",
       "title": "Michael Jackson “The Toy” (Demo) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
       "duration_sec": 46.25,
       "key": "C minor (?)",
       "key_confidence": 0.1,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -301,6 +401,16 @@
       "duration_sec": 10.0,
       "key": "B minor (?)",
       "key_confidence": 0.23,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "79yu4B7n9LY",
+      "title": "Musiq Soulchild “Just Friends” (Sunny) Chords 🔥🎹🔥 Sampled “Sunny” Pat Martino #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 20.25,
+      "key": "E minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -331,7 +441,7 @@
       "duration_sec": 36.0,
       "key": "E minor",
       "key_confidence": 0.77,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -361,7 +471,7 @@
       "duration_sec": 53.5,
       "key": "D minor (?)",
       "key_confidence": 0.33,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -371,7 +481,7 @@
       "duration_sec": 19.25,
       "key": "A minor (?)",
       "key_confidence": 0.26,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -401,7 +511,7 @@
       "duration_sec": 21.0,
       "key": "E minor",
       "key_confidence": 0.66,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -431,7 +541,7 @@
       "duration_sec": 39.5,
       "key": "B major",
       "key_confidence": 0.57,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -443,6 +553,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "9JuC9hqOmhE",
+      "title": "“Street Fighter Alpha Guy Ending Theme” Chords 🔥🎹🔥 Composer Syun Nishigak - Gaming Sunday",
+      "n_chords": 18,
+      "duration_sec": 16.0,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "9kjGAAuBQbY",
@@ -465,6 +585,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "9RpdzF50614",
+      "title": "Michael Jackson \"Someone Put Your Hand Out\" Chords 🔥🎹🔥 Pepsi Is Too Sweet For My Taste But...",
+      "n_chords": 27,
+      "duration_sec": 53.5,
+      "key": "D major",
+      "key_confidence": 0.54,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "9tiIR4cPZf8",
       "title": "Usher “I Don’t Know” Chords 🔥🎹🔥 The Neptunes’ Darkest Chords #musicianparadise",
       "n_chords": 12,
@@ -481,7 +611,7 @@
       "duration_sec": 45.25,
       "key": "Gb major (?)",
       "key_confidence": 0.17,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -511,7 +641,7 @@
       "duration_sec": 13.75,
       "key": "C major (?)",
       "key_confidence": 0.2,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -540,8 +670,8 @@
       "n_chords": 33,
       "duration_sec": 22.0,
       "key": "E minor (?)",
-      "key_confidence": 0.35,
-      "n_unsure": 6,
+      "key_confidence": 0.36,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -555,13 +685,23 @@
       "status": "ok"
     },
     {
+      "id": "Ak3UFyizDGM",
+      "title": "J Dilla’s Hidden Gem: “Dewitt To Do It” Chords Unlocked 🔥🎹🔥",
+      "n_chords": 21,
+      "duration_sec": 9.5,
+      "key": "A minor",
+      "key_confidence": 0.96,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "aotSjXGBvDY",
       "title": "PaRappa the Rapper 2 “Romantic Love” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 21,
       "duration_sec": 23.25,
       "key": "B minor",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -591,7 +731,7 @@
       "duration_sec": 10.25,
       "key": "D major (?)",
       "key_confidence": 0.11,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -601,7 +741,7 @@
       "duration_sec": 26.25,
       "key": "F# minor",
       "key_confidence": 0.97,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -615,13 +755,43 @@
       "status": "ok"
     },
     {
+      "id": "AvAnAzIz19I",
+      "title": "Hitaus Kaiyote “Molasses” Chords 🔥🎹🔥  #musicianparadise",
+      "n_chords": 83,
+      "duration_sec": 45.0,
+      "key": "G minor",
+      "key_confidence": 0.6,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "AYKM5RSLKyQ",
+      "title": "Jill Scott “A Long Walk” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 28.5,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AzPjRYRrjic",
       "title": "Earth, Wind & Fire “Spirit” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
       "duration_sec": 15.25,
       "key": "Gb major",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "b-vslwmBIqM",
+      "title": "Jay-Z “Who You Wit” 🔥🎹🔥 Sample - \"Night Love\" by The Jeff Lorber Fusion",
+      "n_chords": 16,
+      "duration_sec": 20.75,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -645,13 +815,33 @@
       "status": "ok"
     },
     {
+      "id": "bmLQjADGpm0",
+      "title": "Paul McCartney “Wonderful Christmastime” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 20.25,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "BnG9SBo7DXg",
       "title": "Super Play Action Football Music 10 “Final Score” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
       "duration_sec": 5.0,
       "key": "F major (?)",
       "key_confidence": 0.42,
-      "n_unsure": 1,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bRKLpMSi4sk",
+      "title": "Final Fantasy - XIII-2 OST “Starting Over” Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 29,
+      "duration_sec": 75.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -671,7 +861,7 @@
       "duration_sec": 58.75,
       "key": "Bb major (?)",
       "key_confidence": 0.02,
-      "n_unsure": 9,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -695,6 +885,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "c5lIzFDfPc4",
+      "title": "Patrice Rushen “Settle For My Love” Chords 🔥🎹🔥Masterclass in Soulful Harmony",
+      "n_chords": 58,
+      "duration_sec": 61.75,
+      "key": "Db minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "cb0-jJzYnsA",
       "title": "Michael Jackson Ft. Paul McCartney “The Girl Is Mine” Chords 🔥🎹🔥 29.08.1958 MJ's Birthday.",
       "n_chords": 36,
@@ -711,7 +911,17 @@
       "duration_sec": 11.0,
       "key": "C minor",
       "key_confidence": 1.0,
-      "n_unsure": 3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "cFIvA3IxnTo",
+      "title": "Jamiroquai “Do It Like We Used To Do” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 12.75,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -721,7 +931,17 @@
       "duration_sec": 41.25,
       "key": "F# minor",
       "key_confidence": 0.62,
-      "n_unsure": 4,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "cmXdzi8pO6M",
+      "title": "Jamiroquai “Love Foolosophy” Piano Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 29.75,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -731,7 +951,7 @@
       "duration_sec": 18.75,
       "key": "E major (?)",
       "key_confidence": 0.19,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -745,13 +965,23 @@
       "status": "ok"
     },
     {
+      "id": "Ct-IfQY9tYk",
+      "title": "44th Move (Alfa Mist and Richard Spaven) ft. Quelle Chris “The Move” Chords 🔥🎹🔥  Hip Hop + UK Jazz",
+      "n_chords": 31,
+      "duration_sec": 43.5,
+      "key": "A major",
+      "key_confidence": 0.59,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "CTR2MSr3g5M",
       "title": "Ivan Lins (George Benson) “Dinorah Dinorah” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 23,
       "duration_sec": 24.25,
       "key": "F# minor (?)",
       "key_confidence": 0.06,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -791,7 +1021,7 @@
       "duration_sec": 57.25,
       "key": "Eb minor",
       "key_confidence": 1.0,
-      "n_unsure": 8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -831,7 +1061,7 @@
       "duration_sec": 52.5,
       "key": "F minor (?)",
       "key_confidence": 0.09,
-      "n_unsure": 8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -841,7 +1071,7 @@
       "duration_sec": 21.75,
       "key": "D major",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -861,7 +1091,7 @@
       "duration_sec": 32.0,
       "key": "G# minor",
       "key_confidence": 1.0,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -885,13 +1115,23 @@
       "status": "ok"
     },
     {
+      "id": "EDfk6bl58Io",
+      "title": "Mighty Bop “Freestyle Linguistique” Chords 🔥🎹🔥 Classic 90s French Downtempo Chords",
+      "n_chords": 8,
+      "duration_sec": 10.25,
+      "key": "D minor",
+      "key_confidence": 0.54,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "eG9zGTeG-m0",
       "title": "Enthusia “Allegiance” Chords 🔥🎹🔥 Gaming Sunday Racing OST.",
       "n_chords": 35,
       "duration_sec": 37.25,
       "key": "E minor (?)",
       "key_confidence": 0.47,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -911,7 +1151,17 @@
       "duration_sec": 13.5,
       "key": "C minor",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "eMNuP4nTwoc",
+      "title": "Jill Scott “Gettin In The Way” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 28.25,
+      "key": "F# minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -921,7 +1171,7 @@
       "duration_sec": 48.0,
       "key": "F major",
       "key_confidence": 0.99,
-      "n_unsure": 14,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -931,7 +1181,7 @@
       "duration_sec": 32.0,
       "key": "D minor (?)",
       "key_confidence": 0.2,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -941,7 +1191,7 @@
       "duration_sec": 53.25,
       "key": "Bb major (?)",
       "key_confidence": 0.24,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -961,7 +1211,7 @@
       "duration_sec": 9.25,
       "key": "C# minor",
       "key_confidence": 0.74,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -991,7 +1241,7 @@
       "duration_sec": 16.75,
       "key": "G minor (?)",
       "key_confidence": 0.03,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1001,7 +1251,7 @@
       "duration_sec": 46.0,
       "key": "G minor",
       "key_confidence": 1.0,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1021,7 +1271,7 @@
       "duration_sec": 31.0,
       "key": "E minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1060,8 +1310,8 @@
       "n_chords": 44,
       "duration_sec": 40.75,
       "key": "F minor (?)",
-      "key_confidence": 0.4,
-      "n_unsure": 9,
+      "key_confidence": 0.39,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1091,7 +1341,7 @@
       "duration_sec": 36.5,
       "key": "D minor",
       "key_confidence": 1.0,
-      "n_unsure": 16,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1101,7 +1351,7 @@
       "duration_sec": 40.0,
       "key": "C major",
       "key_confidence": 0.84,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1111,7 +1361,7 @@
       "duration_sec": 11.5,
       "key": "G# minor",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1121,7 +1371,7 @@
       "duration_sec": 59.25,
       "key": "E major (?)",
       "key_confidence": 0.1,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1131,7 +1381,7 @@
       "duration_sec": 56.5,
       "key": "D minor (?)",
       "key_confidence": 0.28,
-      "n_unsure": 10,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1141,7 +1391,7 @@
       "duration_sec": 19.0,
       "key": "C# minor (?)",
       "key_confidence": 0.16,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1201,7 +1451,7 @@
       "duration_sec": 60.0,
       "key": "E major",
       "key_confidence": 0.93,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1211,7 +1461,7 @@
       "duration_sec": 52.75,
       "key": "C minor",
       "key_confidence": 0.62,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1221,7 +1471,7 @@
       "duration_sec": 31.75,
       "key": "A# minor",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1231,7 +1481,7 @@
       "duration_sec": 42.5,
       "key": "D major (?)",
       "key_confidence": 0.12,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1251,7 +1501,7 @@
       "duration_sec": 45.75,
       "key": "E minor",
       "key_confidence": 0.56,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1261,7 +1511,7 @@
       "duration_sec": 30.25,
       "key": "F major (?)",
       "key_confidence": 0.03,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1301,7 +1551,7 @@
       "duration_sec": 43.25,
       "key": "C# major",
       "key_confidence": 0.67,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1330,8 +1580,8 @@
       "n_chords": 51,
       "duration_sec": 57.0,
       "key": "Ab major (?)",
-      "key_confidence": 0.04,
-      "n_unsure": 2,
+      "key_confidence": 0.03,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1341,7 +1591,7 @@
       "duration_sec": 20.25,
       "key": "Eb major",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1351,7 +1601,7 @@
       "duration_sec": 37.75,
       "key": "C minor (?)",
       "key_confidence": 0.34,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1361,7 +1611,7 @@
       "duration_sec": 35.25,
       "key": "D major",
       "key_confidence": 0.79,
-      "n_unsure": 3,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -1381,7 +1631,27 @@
       "duration_sec": 32.25,
       "key": "C# minor",
       "key_confidence": 1.0,
-      "n_unsure": 7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "IoQmHSj3rHg",
+      "title": "NPhase “Spend the Night” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 14.0,
+      "key": "E minor",
+      "key_confidence": 0.62,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "iRdn_yQzNDI",
+      "title": "Lone “Airglow Fires” Proto-House Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 16.0,
+      "key": "C# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1401,7 +1671,7 @@
       "duration_sec": 16.75,
       "key": "F major",
       "key_confidence": 0.92,
-      "n_unsure": 8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1411,7 +1681,7 @@
       "duration_sec": 59.75,
       "key": "A major (?)",
       "key_confidence": 0.14,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1431,7 +1701,7 @@
       "duration_sec": 36.5,
       "key": "D minor (?)",
       "key_confidence": 0.46,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1441,7 +1711,7 @@
       "duration_sec": 48.75,
       "key": "Ab major",
       "key_confidence": 0.61,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1461,7 +1731,17 @@
       "duration_sec": 59.25,
       "key": "A minor (?)",
       "key_confidence": 0.44,
-      "n_unsure": 2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "JbJ2NBQ5fwc",
+      "title": "Crystal Waters \"Gypsy Woman\" Chords 🔥🎹🔥  I know it's been done before, but requests keep coming…",
+      "n_chords": 17,
+      "duration_sec": 16.0,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1471,7 +1751,7 @@
       "duration_sec": 60.0,
       "key": "B major (?)",
       "key_confidence": 0.22,
-      "n_unsure": 21,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1481,7 +1761,7 @@
       "duration_sec": 35.25,
       "key": "D minor",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1511,7 +1791,7 @@
       "duration_sec": 48.5,
       "key": "F# minor",
       "key_confidence": 0.56,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1531,7 +1811,7 @@
       "duration_sec": 57.25,
       "key": "G minor (?)",
       "key_confidence": 0.28,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1541,7 +1821,7 @@
       "duration_sec": 42.5,
       "key": "Db major (?)",
       "key_confidence": 0.15,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1551,7 +1831,7 @@
       "duration_sec": 30.25,
       "key": "E minor (?)",
       "key_confidence": 0.07,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1573,6 +1853,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "klvYH0tcjqI",
+      "title": "Jamiroquai “Shadow In The Night” (Rare) Acid Jazz Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 15.5,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "KUA6OCt6uxw",
@@ -1621,7 +1911,17 @@
       "duration_sec": 37.25,
       "key": "E major (?)",
       "key_confidence": 0.1,
-      "n_unsure": 5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "LJyRtDGXrRM",
+      "title": "Lupe Fiasco “I'm Beamin” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 36.0,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1640,8 +1940,8 @@
       "n_chords": 28,
       "duration_sec": 41.75,
       "key": "Db major",
-      "key_confidence": 0.91,
-      "n_unsure": 1,
+      "key_confidence": 0.94,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1651,7 +1951,7 @@
       "duration_sec": 45.75,
       "key": "Bb major (?)",
       "key_confidence": 0.04,
-      "n_unsure": 9,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1660,8 +1960,18 @@
       "n_chords": 26,
       "duration_sec": 32.0,
       "key": "Eb major",
-      "key_confidence": 0.9,
-      "n_unsure": 5,
+      "key_confidence": 0.89,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "lXP-2nrqM7U",
+      "title": "Johnny Hammond “Los Conquistadores Chocolates” Chords 🔥🎹🔥 The Chords Jamiroquai Loved… From 1975!",
+      "n_chords": 27,
+      "duration_sec": 16.0,
+      "key": "G major",
+      "key_confidence": 0.68,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1681,7 +1991,7 @@
       "duration_sec": 43.0,
       "key": "Db major (?)",
       "key_confidence": 0.24,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1691,7 +2001,7 @@
       "duration_sec": 34.5,
       "key": "B major",
       "key_confidence": 0.6,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1701,7 +2011,7 @@
       "duration_sec": 41.75,
       "key": "F minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1711,7 +2021,7 @@
       "duration_sec": 48.0,
       "key": "G minor",
       "key_confidence": 0.53,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1721,7 +2031,7 @@
       "duration_sec": 37.0,
       "key": "Bb major (?)",
       "key_confidence": 0.1,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1741,7 +2051,7 @@
       "duration_sec": 53.0,
       "key": "Bb minor (?)",
       "key_confidence": 0.31,
-      "n_unsure": 13,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1761,7 +2071,7 @@
       "duration_sec": 29.25,
       "key": "A minor",
       "key_confidence": 1.0,
-      "n_unsure": 5,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1781,7 +2091,7 @@
       "duration_sec": 34.0,
       "key": "Eb minor (?)",
       "key_confidence": 0.21,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1820,8 +2130,8 @@
       "n_chords": 16,
       "duration_sec": 24.25,
       "key": "Eb minor (?)",
-      "key_confidence": 0.0,
-      "n_unsure": 2,
+      "key_confidence": 0.01,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1831,7 +2141,7 @@
       "duration_sec": 69.0,
       "key": "Bb minor",
       "key_confidence": 0.5,
-      "n_unsure": 12,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1841,7 +2151,7 @@
       "duration_sec": 47.75,
       "key": "Gb major (?)",
       "key_confidence": 0.32,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1851,6 +2161,16 @@
       "duration_sec": 9.0,
       "key": "D minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "nbVk_i9qeso",
+      "title": "Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 41,
+      "duration_sec": 36.75,
+      "key": "Eb major",
+      "key_confidence": 0.86,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1871,7 +2191,7 @@
       "duration_sec": 32.75,
       "key": "G# minor",
       "key_confidence": 0.92,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1901,7 +2221,7 @@
       "duration_sec": 15.0,
       "key": "Ab major (?)",
       "key_confidence": 0.21,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1911,7 +2231,7 @@
       "duration_sec": 37.75,
       "key": "B major",
       "key_confidence": 1.0,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1921,7 +2241,7 @@
       "duration_sec": 64.0,
       "key": "E minor (?)",
       "key_confidence": 0.14,
-      "n_unsure": 8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1930,8 +2250,8 @@
       "n_chords": 16,
       "duration_sec": 41.25,
       "key": "D minor",
-      "key_confidence": 0.57,
-      "n_unsure": 1,
+      "key_confidence": 0.56,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1941,7 +2261,7 @@
       "duration_sec": 59.5,
       "key": "A minor",
       "key_confidence": 0.74,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1961,7 +2281,7 @@
       "duration_sec": 32.5,
       "key": "Eb major (?)",
       "key_confidence": 0.46,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1981,7 +2301,7 @@
       "duration_sec": 22.5,
       "key": "Db major",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2011,7 +2331,7 @@
       "duration_sec": 53.0,
       "key": "D major",
       "key_confidence": 0.84,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2020,8 +2340,8 @@
       "n_chords": 14,
       "duration_sec": 24.25,
       "key": "B major (?)",
-      "key_confidence": 0.4,
-      "n_unsure": 4,
+      "key_confidence": 0.37,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2031,7 +2351,7 @@
       "duration_sec": 36.75,
       "key": "Ab major (?)",
       "key_confidence": 0.21,
-      "n_unsure": 7,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2060,8 +2380,18 @@
       "n_chords": 28,
       "duration_sec": 28.75,
       "key": "Eb minor",
-      "key_confidence": 0.93,
-      "n_unsure": 7,
+      "key_confidence": 0.92,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "PmmcOxEBmQc",
+      "title": "The Isley Brothers “Let's Make Love Tonight” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 34.75,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2075,13 +2405,23 @@
       "status": "ok"
     },
     {
+      "id": "PwAe6PiFXh0",
+      "title": "Adriana Evans “Reality” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 30.0,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "qA2aVlpE05U",
       "title": "RoBKTA ft. Tudd R4cin' “All Night” Chords 🔥🎹🔥 Gaming Sunday - Ridge Racer 🎁 #musicianparadise",
       "n_chords": 48,
       "duration_sec": 41.25,
       "key": "B minor",
       "key_confidence": 1.0,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2111,7 +2451,7 @@
       "duration_sec": 42.25,
       "key": "C major",
       "key_confidence": 0.71,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2151,7 +2491,7 @@
       "duration_sec": 23.75,
       "key": "A minor (?)",
       "key_confidence": 0.47,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2161,7 +2501,7 @@
       "duration_sec": 30.25,
       "key": "C# minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2171,7 +2511,7 @@
       "duration_sec": 55.75,
       "key": "A major",
       "key_confidence": 0.77,
-      "n_unsure": 7,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -2190,8 +2530,8 @@
       "n_chords": 27,
       "duration_sec": 47.0,
       "key": "A major",
-      "key_confidence": 0.6,
-      "n_unsure": 2,
+      "key_confidence": 0.58,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2201,7 +2541,7 @@
       "duration_sec": 29.25,
       "key": "G# major (?)",
       "key_confidence": 0.22,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2211,7 +2551,7 @@
       "duration_sec": 27.5,
       "key": "F minor (?)",
       "key_confidence": 0.05,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2221,7 +2561,7 @@
       "duration_sec": 15.75,
       "key": "D minor",
       "key_confidence": 1.0,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2231,7 +2571,7 @@
       "duration_sec": 28.5,
       "key": "A major (?)",
       "key_confidence": 0.42,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2301,7 +2641,7 @@
       "duration_sec": 32.0,
       "key": "D minor (?)",
       "key_confidence": 0.04,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2311,7 +2651,17 @@
       "duration_sec": 22.75,
       "key": "F major",
       "key_confidence": 0.51,
-      "n_unsure": 2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "SeG37Y2ELcI",
+      "title": "Hiatus Kaiyote “Fingerprints” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 29,
+      "duration_sec": 23.0,
+      "key": "Ab major (?)",
+      "key_confidence": 0.18,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2321,7 +2671,7 @@
       "duration_sec": 44.0,
       "key": "G# minor (?)",
       "key_confidence": 0.08,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2331,7 +2681,7 @@
       "duration_sec": 49.75,
       "key": "D minor",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2351,7 +2701,7 @@
       "duration_sec": 53.25,
       "key": "C minor",
       "key_confidence": 0.5,
-      "n_unsure": 38,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2361,7 +2711,7 @@
       "duration_sec": 23.0,
       "key": "F# minor",
       "key_confidence": 1.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2371,7 +2721,7 @@
       "duration_sec": 24.0,
       "key": "Gb minor",
       "key_confidence": 0.97,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2391,7 +2741,7 @@
       "duration_sec": 10.5,
       "key": "G minor (?)",
       "key_confidence": 0.04,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2401,7 +2751,7 @@
       "duration_sec": 37.25,
       "key": "A minor (?)",
       "key_confidence": 0.24,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2411,7 +2761,7 @@
       "duration_sec": 42.75,
       "key": "D minor (?)",
       "key_confidence": 0.0,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2421,7 +2771,7 @@
       "duration_sec": 56.5,
       "key": "Bb major (?)",
       "key_confidence": 0.1,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2431,7 +2781,7 @@
       "duration_sec": 22.5,
       "key": "C minor",
       "key_confidence": 0.5,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2451,7 +2801,7 @@
       "duration_sec": 48.25,
       "key": "Eb minor (?)",
       "key_confidence": 0.07,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2461,7 +2811,7 @@
       "duration_sec": 20.0,
       "key": "C minor (?)",
       "key_confidence": 0.04,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2475,13 +2825,23 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "tKdzRhe7Ss8",
+      "title": "Jamiroquai “Main Vein” Final Vamp Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 15.0,
+      "key": "G minor (?)",
+      "key_confidence": 0.44,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "tMQ_rjOWrN0",
       "title": "Casiopea “Tears Of The Star” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
       "duration_sec": 29.75,
       "key": "Bb major",
       "key_confidence": 0.7,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2511,7 +2871,7 @@
       "duration_sec": 35.5,
       "key": "G minor",
       "key_confidence": 0.81,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2531,7 +2891,7 @@
       "duration_sec": 64.75,
       "key": "Bb minor",
       "key_confidence": 0.63,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2561,7 +2921,17 @@
       "duration_sec": 34.75,
       "key": "E minor",
       "key_confidence": 0.93,
-      "n_unsure": 3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "U688UyqOLCQ",
+      "title": "Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 56,
+      "duration_sec": 34.0,
+      "key": "G minor",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2571,7 +2941,7 @@
       "duration_sec": 33.75,
       "key": "F# minor",
       "key_confidence": 1.0,
-      "n_unsure": 3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2621,7 +2991,17 @@
       "duration_sec": 29.5,
       "key": "E minor (?)",
       "key_confidence": 0.41,
-      "n_unsure": 2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "uZ04zvhw2iQ",
+      "title": "Lori Vornoy - Dungeons of Blood and Dream OST - “Slime Chorus” Final Chords 🔥🎹🔥 Gaming Sunday",
+      "n_chords": 25,
+      "duration_sec": 23.75,
+      "key": "Bb major",
+      "key_confidence": 0.75,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2631,7 +3011,27 @@
       "duration_sec": 16.0,
       "key": "Eb minor",
       "key_confidence": 0.91,
-      "n_unsure": 2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "V_XvTM4gtmg",
+      "title": "Static Major “Deeper” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 11.25,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "VCCpDFsVoRU",
+      "title": "Monty Alexander ft. Joe Sample, George Benson and Ramsey Lewis “Love Notes” Jazz Fusion Chords 🔥🎹🔥",
+      "n_chords": 22,
+      "duration_sec": 35.25,
+      "key": "E major (?)",
+      "key_confidence": 0.21,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2641,7 +3041,7 @@
       "duration_sec": 31.5,
       "key": "G major (?)",
       "key_confidence": 0.05,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2661,7 +3061,7 @@
       "duration_sec": 48.75,
       "key": "Bb major (?)",
       "key_confidence": 0.43,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2670,8 +3070,8 @@
       "n_chords": 11,
       "duration_sec": 22.75,
       "key": "D minor",
-      "key_confidence": 0.79,
-      "n_unsure": 1,
+      "key_confidence": 0.74,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2681,7 +3081,7 @@
       "duration_sec": 67.25,
       "key": "E major",
       "key_confidence": 0.5,
-      "n_unsure": 6,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2691,7 +3091,7 @@
       "duration_sec": 23.5,
       "key": "Ab major (?)",
       "key_confidence": 0.17,
-      "n_unsure": 8,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -2741,7 +3141,7 @@
       "duration_sec": 23.25,
       "key": "Ab minor",
       "key_confidence": 1.0,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2771,7 +3171,17 @@
       "duration_sec": 16.0,
       "key": "C major",
       "key_confidence": 0.73,
-      "n_unsure": 7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "XN9A8Rx-djk",
+      "title": "Rah-o “HawT” (Mr. Church Piano Scene) Chords 🔥🎹🔥",
+      "n_chords": 21,
+      "duration_sec": 10.75,
+      "key": "G minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2781,7 +3191,7 @@
       "duration_sec": 18.25,
       "key": "Bb minor (?)",
       "key_confidence": 0.39,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2801,7 +3211,7 @@
       "duration_sec": 16.25,
       "key": "C# major (?)",
       "key_confidence": 0.06,
-      "n_unsure": 14,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2811,7 +3221,17 @@
       "duration_sec": 36.5,
       "key": "Eb major (?)",
       "key_confidence": 0.42,
-      "n_unsure": 3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "xxMLpSi2qU0",
+      "title": "Jamiroquai “Revolution 1993” Bridge Chords 🔥🎹🔥 #musicianparadise Jamiroquai’s Early Sound",
+      "n_chords": 10,
+      "duration_sec": 15.0,
+      "key": "C minor",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2821,7 +3241,7 @@
       "duration_sec": 42.25,
       "key": "A minor",
       "key_confidence": 0.84,
-      "n_unsure": 2,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2831,7 +3251,7 @@
       "duration_sec": 46.0,
       "key": "A minor",
       "key_confidence": 1.0,
-      "n_unsure": 9,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -2851,7 +3271,7 @@
       "duration_sec": 39.75,
       "key": "E minor (?)",
       "key_confidence": 0.03,
-      "n_unsure": 4,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2861,7 +3281,7 @@
       "duration_sec": 42.75,
       "key": "D major",
       "key_confidence": 1.0,
-      "n_unsure": 10,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2881,7 +3301,17 @@
       "duration_sec": 47.0,
       "key": "E minor (?)",
       "key_confidence": 0.16,
-      "n_unsure": 5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Zh4uI8Elr-w",
+      "title": "Erykah Badu “Back In The Day” Chords 🔥🎹🔥 James Poyser Production 🎁",
+      "n_chords": 19,
+      "duration_sec": 21.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2891,7 +3321,7 @@
       "duration_sec": 11.25,
       "key": "Eb major (?)",
       "key_confidence": 0.22,
-      "n_unsure": 8,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2901,7 +3331,7 @@
       "duration_sec": 32.0,
       "key": "C minor",
       "key_confidence": 0.67,
-      "n_unsure": 1,
+      "n_unsure": 0,
       "status": "ok"
     }
   ]
