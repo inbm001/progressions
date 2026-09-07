@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 733곡 중 148곡 실패
+총 773곡 중 154곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -61,6 +61,7 @@
 | [gnEInqXSnRg](https://www.youtube.com/watch?v=gnEInqXSnRg) | failed_no_chords | 0% | Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise |
 | [GRPnL98Sk7Q](https://www.youtube.com/watch?v=GRPnL98Sk7Q) | failed_low_ocr | 57% | Daft Punk “Something About Us” Chords 🔥🎹🔥 #musicianparadise |
 | [gYnrQWA7Nf8](https://www.youtube.com/watch?v=gYnrQWA7Nf8) | failed_no_chords | 0% | Minnie Riperton "Inside My Love" Bridge - The most sampled a |
+| [H-AK1Otvb1s](https://www.youtube.com/watch?v=H-AK1Otvb1s) | failed_low_ocr | 68% | Patrice Rushen “Forget Me Nots” Chords 🔥🎹🔥 F#m 115 bpm #chor |
 | [Ha3WSWXIDBQ](https://www.youtube.com/watch?v=Ha3WSWXIDBQ) | failed_no_chords | 0% | Steal These Chords (23) 70s Vibes 🔥🎹🔥 #musicianparadise |
 | [hll08TXjEZA](https://www.youtube.com/watch?v=hll08TXjEZA) | failed_low_ocr | 2% | Big City Chords - Free MIDI + Chord Presets 🔥🎹🔥 #musicianpar |
 | [IabOyduIvxY](https://www.youtube.com/watch?v=IabOyduIvxY) | failed_no_chords | 0% | Steal These Soulful Chords 9 🔥🎹🔥 #MusicianParadise #SoulfulC |
@@ -98,6 +99,7 @@
 | [NFsee8D_NcM](https://www.youtube.com/watch?v=NFsee8D_NcM) | failed_low_ocr | 29% | Soulful Lo Fi Chord Presets 🔥🎹🔥 #musicianparadise |
 | [NKYOv7zjxrA](https://www.youtube.com/watch?v=NKYOv7zjxrA) | failed_no_chords | 0% | Warm-Sounding Chord Presets on a Cold Day 🔥🎹🔥 #musicianaradi |
 | [NO0cie6GnN4](https://www.youtube.com/watch?v=NO0cie6GnN4) | failed_low_ocr | 45% | Roy Ayers "Sweet Tears" Bridge Chords 🔥🎹🔥 RIP Roy #musicianp |
+| [noNxcDThDBY](https://www.youtube.com/watch?v=noNxcDThDBY) | failed_low_ocr | 25% | Eddie Kendricks' Intimate Friends” I attempted to represent  |
 | [nP27BzeYmXc](https://www.youtube.com/watch?v=nP27BzeYmXc) | failed_no_chords | 0% | Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianpar |
 | [Nupxeo0pqeU](https://www.youtube.com/watch?v=Nupxeo0pqeU) | failed_low_ocr | 70% | Jill Scott “I Think It’s Better” Chords  #musicianparadise |
 | [nzLIa_8Ga3w](https://www.youtube.com/watch?v=nzLIa_8Ga3w) | failed_no_chords | 0% | Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise |
@@ -110,6 +112,7 @@
 | [QbBphHT64ME](https://www.youtube.com/watch?v=QbBphHT64ME) | failed_no_chords | 0% | Chord Presets Test - Free VST Ripchord 🔥🎹🔥 #musicianparadise |
 | [QBe48IRmOUY](https://www.youtube.com/watch?v=QBe48IRmOUY) | failed_no_chords | 0% | Calm Intensity Mood Chords 🔥🎹🔥 #musicianparadise #chordprese |
 | [QCB--wBT-_U](https://www.youtube.com/watch?v=QCB--wBT-_U) | failed_no_chords | 0% | Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise #chordpresetpacks |
+| [qjp_1bjLhWo](https://www.youtube.com/watch?v=qjp_1bjLhWo) | failed_low_ocr | 63% | Happy Birthday, Patrice 🎉 30.09. Patrice Rushen “Settle for  |
 | [QKYfnEGSIps](https://www.youtube.com/watch?v=QKYfnEGSIps) | failed_no_chords | 0% | Mos Def "Umi Says" Will.i.am and Weldon Irvine Chords 🔥🎹🔥 #m |
 | [QmHilfMjX50](https://www.youtube.com/watch?v=QmHilfMjX50) | failed_no_chords | 0% | Simple Way To Play Complex Chords Free Ripchord VST 🔥🎹🔥 #mus |
 | [QWSlRcoRM6g](https://www.youtube.com/watch?v=QWSlRcoRM6g) | failed_no_chords | 0% | Chord Presets - Just Add The Sustain Pedal - Ripchord VST, S |
@@ -119,6 +122,8 @@
 | [RqOaZtn9sq8](https://www.youtube.com/watch?v=RqOaZtn9sq8) | failed_no_chords | 0% | Ripchord Chord Presets + Sustain Pedal + Pitch FX - Chord Pr |
 | [s-schzKZejw](https://www.youtube.com/watch?v=s-schzKZejw) | failed_no_chords | 0% | Get Creative With Chord Presets - Ripchord VST, Expressive C |
 | [sqLlp1hw1uw](https://www.youtube.com/watch?v=sqLlp1hw1uw) | failed_no_chords | 0% | How I Produce Luxury MIDI & Chord Presets - Ripchord VST, Sc |
+| [sY8hXAhjqVk](https://www.youtube.com/watch?v=sY8hXAhjqVk) | failed_low_ocr | 69% | J. Dilla’s “Fantastic” (Untitled) Chords 🔥🎹🔥 #musicianparadi |
+| [Tfr675zZ4xQ](https://www.youtube.com/watch?v=Tfr675zZ4xQ) | failed_no_chords | 0% | CSR Pretty Mob Chords 🔥🎹🔥 K-popI gem. I believe it was some  |
 | [TGV10W2liGk](https://www.youtube.com/watch?v=TGV10W2liGk) | failed_no_chords | 0% | Steal These Chords 🔥🎹🔥 #SoulfulHouse #MusicianParadise |
 | [tIQ0pr2tu8Y](https://www.youtube.com/watch?v=tIQ0pr2tu8Y) | failed_no_chords | 0% | Custom Chord Presets 🔥🎹🔥 #musicianparadise |
 | [TQhJhYw5h-0](https://www.youtube.com/watch?v=TQhJhYw5h-0) | failed_low_ocr | 61% | Terrace Martin Darkest Chords - Kendrick Lamar “You Ain’t Go |
@@ -131,6 +136,7 @@
 | [uBNQxJDN_LU](https://www.youtube.com/watch?v=uBNQxJDN_LU) | failed_no_chords | 0% | Chord Presets—Playing a Chromatic Scale - Ripchord VST, Scal |
 | [UDdnyg-Cag4](https://www.youtube.com/watch?v=UDdnyg-Cag4) | failed_no_chords | 0% | Chord Presets Magic #musicianparadise |
 | [udMwuwgJNo8](https://www.youtube.com/watch?v=udMwuwgJNo8) | failed_low_ocr | 46% | Mtume “Love Lock” Chords 🔥🎹🔥 #musicianparadise #musictheory  |
+| [UJv3q3pxHy8](https://www.youtube.com/watch?v=UJv3q3pxHy8) | failed_low_ocr | 32% | J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look |
 | [uNCdW8fP9TA](https://www.youtube.com/watch?v=uNCdW8fP9TA) | failed_no_chords | 0% | Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise |
 | [v0g-svRT_nY](https://www.youtube.com/watch?v=v0g-svRT_nY) | failed_low_ocr | 32% | Liquid Chords Behind Roy Ayers' "Liquid Love" 🔥🎹🔥 #musicianp |
 | [VdSKe83qJ58](https://www.youtube.com/watch?v=VdSKe83qJ58) | failed_no_chords | 0% | Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianpa |

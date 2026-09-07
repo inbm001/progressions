@@ -1,8 +1,8 @@
 {
-  "count": 733,
-  "ok": 585,
-  "failed": 148,
-  "updated": "2026-09-08 01:54:35",
+  "count": 773,
+  "ok": 619,
+  "failed": 154,
+  "updated": "2026-09-08 02:33:00",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -305,6 +305,16 @@
       "status": "ok"
     },
     {
+      "id": "1mxhSRgKam0",
+      "title": "Can’t have enough of those chords—Tyler The Creator “Wharf Talk” Chords 🔥🎹🔥",
+      "n_chords": 38,
+      "duration_sec": 37.5,
+      "key": "E major (?)",
+      "key_confidence": 0.16,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "1pOMpYXCT3k",
       "title": "Summer Walker's \"Unloyal\" Chords 🔥🎹🔥 Contemporary R&B Secrets!",
       "n_chords": 10,
@@ -333,6 +343,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "1QVMdViZix4",
+      "title": "Free Nationals ft. Anderson .Paak & T.Nava “Gidget” Chords 🔥🎹🔥 #musicianparadise #beatmakers",
+      "n_chords": 32,
+      "duration_sec": 39.25,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "1ZDhRT1VUVY",
@@ -381,6 +401,16 @@
       "duration_sec": 16.0,
       "key": "Db major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "2JEV9ML6n-w",
+      "title": "Happy Birthday, Drake! “Look What You’ve Done” Chords 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 8,
+      "duration_sec": 14.25,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.19,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -651,6 +681,16 @@
       "duration_sec": 9.5,
       "key": "F major (?)",
       "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4rvaPEMpQGA",
+      "title": "Moonchild - “Voyager“ Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 47.0,
+      "key": "E major (?)",
+      "key_confidence": 0.07,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1145,12 +1185,32 @@
       "status": "ok"
     },
     {
+      "id": "8JKILl2ajTg",
+      "title": "Decoding Pharrell's 'Ball' Chords (Black Yacht Rock Vol. 1) 🔥🎹🔥",
+      "n_chords": 22,
+      "duration_sec": 57.0,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "8Jq1njxvgTg",
       "title": "Pharrell Williams Pusha T Malice “E.B.I.T.D.A” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
       "duration_sec": 19.25,
       "key": "A minor (?)",
       "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "8kykBTryCv8",
+      "title": "Moonchild “Cure” Secrets Chords Revealed 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 12,
+      "duration_sec": 10.75,
+      "key": "Db major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1595,6 +1655,16 @@
       "status": "ok"
     },
     {
+      "id": "ap6Bh33D880",
+      "title": "Jamiroquai “Spend A Lifetime” Chords 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 42,
+      "duration_sec": 60.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AqL_vAps3hw",
       "title": "Tyler’s “Side Street” Chords = Laid-Back Fire  🔥🎹🔥",
       "n_chords": 13,
@@ -1665,6 +1735,16 @@
       "status": "ok"
     },
     {
+      "id": "av0AFgjM4gE",
+      "title": "The Hidden Jazz Behind J Dilla's “Estimate” Chords 🔥🎹🔥 Clare Fischer “Great White Hope”",
+      "n_chords": 17,
+      "duration_sec": 20.75,
+      "key": "C minor (?)",
+      "key_confidence": 0.25,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AvAnAzIz19I",
       "title": "Hitaus Kaiyote “Molasses” Chords 🔥🎹🔥  #musicianparadise",
       "n_chords": 83,
@@ -1672,6 +1752,26 @@
       "key": "G minor",
       "key_confidence": 0.6,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "awAim1ryaRI",
+      "title": "Unlock the Groovy Soul of Isley Brothers’s 'Work To Do' Chords 🔥🎹🔥 #studiovibes",
+      "n_chords": 54,
+      "duration_sec": 27.75,
+      "key": "B major (?)",
+      "key_confidence": 0.21,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "AxSRAY8KE2c",
+      "title": "Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 11.0,
+      "key": "Bb minor",
+      "key_confidence": 0.63,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1835,6 +1935,16 @@
       "status": "ok"
     },
     {
+      "id": "bPOVACOut2w",
+      "title": "Moonchild “The List” Chords 🔥🎹🔥 Dreamiest Chord Progression",
+      "n_chords": 51,
+      "duration_sec": 46.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "bQ9e8rD4l6I",
       "title": "Unlock Roy Ayers' Funk: \"Don't Stop The Feeling\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -1971,6 +2081,16 @@
       "duration_sec": 11.0,
       "key": "C minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CD7lFAPrpH8",
+      "title": "The Pharcyde “4 Better Or 4 Worse” Chords 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 10.25,
+      "key": "Db minor",
+      "key_confidence": 0.78,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2313,6 +2433,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "DFKTI25HOSE",
+      "title": "Moonchild “Cure” Part 2 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 26,
+      "duration_sec": 42.75,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "dIBYB3RRzs0",
@@ -2745,6 +2875,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "FeDw4GBnYfk",
+      "title": "Big shoutout to @Hola.M.A.R.S who spotted some rhythm errors - corrected!  J. Dilla “La La La”",
+      "n_chords": 7,
+      "duration_sec": 10.25,
+      "key": "D minor (?)",
+      "key_confidence": 0.05,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "FGA_-TJYX2A",
       "title": "Jamiroquai “Virtual Insanity” Intro Chords 🔥🎹🔥 Hard to believe this song turns 30!",
       "n_chords": 8,
@@ -3035,6 +3175,16 @@
       "status": "ok"
     },
     {
+      "id": "giLH8oHJDVc",
+      "title": "Learn J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 10.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "GISgumdJ45k",
       "title": "Black Moon “Who Got Da Props” Chords 🔥🎹🔥 Who Knows the Sample Source?",
       "n_chords": 22,
@@ -3203,6 +3353,16 @@
       "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "H-AK1Otvb1s",
+      "title": "Patrice Rushen “Forget Me Nots” Chords 🔥🎹🔥 F#m 115 bpm #chordprogressions #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 17.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "h-n-Jsyx6cg",
@@ -3555,6 +3715,16 @@
       "status": "ok"
     },
     {
+      "id": "IucS--S77M8",
+      "title": "The Future Soul Formula Hiatus Kaiyote “Red Room” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 29.5,
+      "key": "B minor",
+      "key_confidence": 0.65,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "iuSFONehNe4",
       "title": "Unlock the Groove: Roy Ayers 'I Am Your Mind' Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 13,
@@ -3775,6 +3945,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "jGm0dsNPNHs",
+      "title": "Kool & the Gang “Celebration” chords 🔥🎹🔥 #musicianparadise #beatmakers",
+      "n_chords": 25,
+      "duration_sec": 27.75,
+      "key": "Db major (?)",
+      "key_confidence": 0.13,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "jGNKo_Zlrys",
       "title": "TYLA “Water” Chords REVEALED! 🔥🎹🔥 #musicianparadise",
       "n_chords": 41,
@@ -3885,6 +4065,26 @@
       "status": "ok"
     },
     {
+      "id": "JtxAF_1pyrM",
+      "title": "The Mind-Bending Chords of N.E.R.D's 'Am I High' 🔥🎹🔥 #chordprogressions #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 24.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.13,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "jTy342uzSIU",
+      "title": "Breaking Down the Beautiful Chord Progression of Barbara Tucker “Beautiful People” 🔥🎹🔥",
+      "n_chords": 26,
+      "duration_sec": 31.0,
+      "key": "B minor (?)",
+      "key_confidence": 0.11,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "JVR02jzAnJI",
       "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
       "n_chords": 20,
@@ -3923,6 +4123,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "K4uVW_50DxU",
+      "title": "J. Dilla “Two Lips” 🔥🎹🔥 F 101.20 bpm #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 9.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "k5tIT0SWTfA",
@@ -4385,6 +4595,16 @@
       "status": "ok"
     },
     {
+      "id": "ma5sZo1QsDs",
+      "title": "Jacob Collier’s Crazy Turnaround 🔥🎹🔥 “Time Alone With You” ft. Daniel Caesar #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 9.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "mBqwHRKaKus",
       "title": "Breaking Down Tyler’s Chords in ‘Hey Jane’ 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -4441,6 +4661,16 @@
       "duration_sec": 53.0,
       "key": "Bb minor (?)",
       "key_confidence": 0.31,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "MJIkONKGdMg",
+      "title": "Jeff Lorber Fusion “Lava Lands” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 15.5,
+      "key": "F minor",
+      "key_confidence": 0.6,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4655,6 +4885,16 @@
       "status": "ok"
     },
     {
+      "id": "NJuzhQRO-JE",
+      "title": "Kelly Price “Secret Love” Secret Chords 🔥🎹🔥 #musicianparadise #chorchords rogression ds",
+      "n_chords": 45,
+      "duration_sec": 48.25,
+      "key": "Gb major (?)",
+      "key_confidence": 0.25,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nK0ZJYSmnCU",
       "title": "Chris Brown “Yo (Excuse Me Miss)” Chords 🔥🎹🔥 Keyboards - Jazze Pha",
       "n_chords": 11,
@@ -4712,6 +4952,16 @@
       "key": "B minor",
       "key_confidence": 1.0,
       "n_unsure": 6,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "noNxcDThDBY",
+      "title": "Eddie Kendricks' Intimate Friends” I attempted to represent the guitar chords for Part B 🔥🎹🔥",
+      "n_chords": 5,
+      "duration_sec": 38.5,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -4855,6 +5105,16 @@
       "status": "ok"
     },
     {
+      "id": "o8yIAoZs0cw",
+      "title": "Eddie Kendricks “Intimate Friends” I could play those chords all day long! 🔥🎹🔥 #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 6.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ObN0iqdRVU0",
       "title": "Phony Ppl “Way Too Far” 🔥🎹🔥 The bass notes change everything! #musicianparadise",
       "n_chords": 16,
@@ -4973,6 +5233,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "oQpwKP0lx_c",
+      "title": "Robert Glasper Chords - Common 'Letter To The Free' 🔥🎹🔥",
+      "n_chords": 23,
+      "duration_sec": 21.0,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "Oqv6XdatQEM",
@@ -5175,6 +5445,16 @@
       "status": "ok"
     },
     {
+      "id": "PLRXcumGa8M",
+      "title": "J. Dilla “La La La” Chords 🔥🎹🔥  #musicianparadise #chordprogressions",
+      "n_chords": 8,
+      "duration_sec": 10.5,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "PlxrPOycn9o",
       "title": "Grace Jones “Slave To The Rhythm“ Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -5211,6 +5491,16 @@
       "duration_sec": 32.25,
       "key": "G minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Pq2uJ6fNI7g",
+      "title": "D’Angelo “Lady” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 22.5,
+      "key": "Ab minor",
+      "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5403,6 +5693,16 @@
       "key_confidence": 0.07,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "qjp_1bjLhWo",
+      "title": "Happy Birthday, Patrice 🎉 30.09. Patrice Rushen “Settle for My Love” 🔥🎹🔥",
+      "n_chords": 32,
+      "duration_sec": 60.0,
+      "key": "Eb minor",
+      "key_confidence": 0.61,
+      "n_unsure": 5,
+      "status": "failed_low_ocr"
     },
     {
       "id": "QKYfnEGSIps",
@@ -5845,12 +6145,32 @@
       "status": "ok"
     },
     {
+      "id": "SEIn7m7cDiM",
+      "title": "Tyler, The Creator “Whoville” Chords 🔥🎹🔥 #musicianparadise  #chordprogressions",
+      "n_chords": 10,
+      "duration_sec": 24.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "sfUUlv1njCo",
       "title": "Dwele “Weekend Love” Chords Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 17,
       "duration_sec": 37.25,
       "key": "Bb major",
       "key_confidence": 0.52,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "SLekZj1aOhw",
+      "title": "From Acid Jazz To Classical: How Jamiroquai Crafted 'King For A Day' 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 22.25,
+      "key": "G# minor",
+      "key_confidence": 0.99,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5985,6 +6305,16 @@
       "status": "ok"
     },
     {
+      "id": "sY8hXAhjqVk",
+      "title": "J. Dilla’s “Fantastic” (Untitled) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 15.75,
+      "key": "D major (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "sZXQmgLKZYE",
       "title": "August Greene Aya Chords 🔥🎹🔥 Jazz Hip Hop Masterpiece: Time Signature?",
       "n_chords": 16,
@@ -6085,6 +6415,16 @@
       "status": "ok"
     },
     {
+      "id": "Tfr675zZ4xQ",
+      "title": "CSR Pretty Mob Chords 🔥🎹🔥 K-popI gem. I believe it was some sampled jazz guitar.",
+      "n_chords": 0,
+      "duration_sec": 9.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "TGV10W2liGk",
       "title": "Steal These Chords 🔥🎹🔥 #SoulfulHouse #MusicianParadise",
       "n_chords": 0,
@@ -6181,6 +6521,16 @@
       "duration_sec": 11.75,
       "key": "F major",
       "key_confidence": 0.73,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "TpRFThQxb8Y",
+      "title": "Kendrick Lamar’s Lost Masterpiece ‘Prayer’ Chords 🔥🎹🔥 #MusicianParadise #chordprogressions",
+      "n_chords": 23,
+      "duration_sec": 26.25,
+      "key": "Ab minor",
+      "key_confidence": 0.8,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6385,6 +6735,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "uEY4ny8nNDA",
+      "title": "N.C. Stands For “No Chords” LOL - Don Blackman “You Ain't Hip” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 8.75,
+      "key": "E major (?)",
+      "key_confidence": 0.2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "UjiClsw_dSg",
       "title": "Idris Muhammad “Could Heaven Ever Be Like This” Chords 🔥🎹🔥 Acid Jazz Predecessor",
       "n_chords": 16,
@@ -6393,6 +6753,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "UJv3q3pxHy8",
+      "title": "J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look Of Love 🎸",
+      "n_chords": 9,
+      "duration_sec": 24.75,
+      "key": "A minor (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "uNCdW8fP9TA",
@@ -6885,6 +7255,16 @@
       "status": "ok"
     },
     {
+      "id": "XiE75Y2gDGs",
+      "title": "Luther Vandross' 'Never Too Much' Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 17.5,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "XImFy7gdpKI",
       "title": "How Bernard Wright Built “Bread Sandwiches” – Funk Chord Breakdown!🔥🎹🔥 #musicianparadise",
       "n_chords": 64,
@@ -7072,6 +7452,16 @@
       "key": "E minor",
       "key_confidence": 0.96,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "yCcM3Zxr4dw",
+      "title": "Patrice Rushen “Where There Is Love” Chords 🔥🎹🔥",
+      "n_chords": 34,
+      "duration_sec": 41.5,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -7291,6 +7681,16 @@
       "duration_sec": 12.0,
       "key": "F# minor (?)",
       "key_confidence": 0.01,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ZOn2R9DszVQ",
+      "title": "Learn Rob Araujo’s “Hike” 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 5,
+      "duration_sec": 24.0,
+      "key": "G major",
+      "key_confidence": 0.89,
       "n_unsure": 0,
       "status": "ok"
     },
