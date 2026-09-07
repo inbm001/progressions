@@ -1,8 +1,8 @@
 {
-  "count": 333,
-  "ok": 274,
-  "failed": 59,
-  "updated": "2026-09-07 19:01:12",
+  "count": 373,
+  "ok": 308,
+  "failed": 65,
+  "updated": "2026-09-07 19:37:55",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -185,6 +185,16 @@
       "status": "ok"
     },
     {
+      "id": "2Z5-HFyplSw",
+      "title": "D’Angelo “Go Back 2 The Thing” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 18,
+      "duration_sec": 11.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "32gfz6noFsI",
       "title": "Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥🎹🔥 Gaming Sunday",
       "n_chords": 61,
@@ -245,6 +255,16 @@
       "status": "ok"
     },
     {
+      "id": "4IOIazVVLUo",
+      "title": "Daft Punk “Infinity Repeating” (feat. Julian Casablancas + The Voidz) Chords 🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 17.5,
+      "key": "Ab major (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "4KUvNNpuecE",
       "title": "JPEGMAFIA “1539 N. Calvert” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -255,12 +275,32 @@
       "status": "ok"
     },
     {
+      "id": "4LIl7WXQK_I",
+      "title": "Jamiroquai “Butterfly” Chords 🔥🎹🔥 Pure Acid Jazz Magic #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 56.25,
+      "key": "B minor",
+      "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "4RhVV4DYLm8",
       "title": "Pharrell Williams and Jay-Z “Frontin'” Bridge Chords 🔥🎹🔥 Happy Birthday, Pharrell April 5.2026",
       "n_chords": 21,
       "duration_sec": 9.5,
       "key": "F major (?)",
       "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4uo1NuGc40s",
+      "title": "Magdalena Bay “Secrets (Your Fire)” Chords 🔥🎹🔥 (Blast From The Not Too Distant Past)",
+      "n_chords": 22,
+      "duration_sec": 44.5,
+      "key": "F# major",
+      "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -331,6 +371,16 @@
       "duration_sec": 10.5,
       "key": "Bb minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5uKz3g9jOvA",
+      "title": "Tyler, The Creator “Mother” Chords Part 2 - Guitar Part Included! 🔥🎹🔥",
+      "n_chords": 12,
+      "duration_sec": 25.5,
+      "key": "Ab major (?)",
+      "key_confidence": 0.17,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -465,6 +515,16 @@
       "status": "ok"
     },
     {
+      "id": "8-MJZ6i2NJs",
+      "title": "Jamiroquai “Spend A Lifetime” Chords 🔥🎹🔥 29.10 Toby Smith Birthday",
+      "n_chords": 48,
+      "duration_sec": 62.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "8F9yc0U4A4Y",
       "title": "Gran Turismo 5 “Night Birds” Chords 🔥🎹🔥 Composer - Yudai Satoh #musicianparadise",
       "n_chords": 47,
@@ -511,6 +571,26 @@
       "duration_sec": 21.0,
       "key": "E minor",
       "key_confidence": 0.66,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "8TNLi7Z1UHI",
+      "title": "Flying Lotus “Heave(n)” Chords 🔥🎹🔥 MIDI Breakdown",
+      "n_chords": 7,
+      "duration_sec": 10.25,
+      "key": "C# minor (?)",
+      "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "8xfQ7Wl81oM",
+      "title": "Street Fighter EX Plus @ OST “Strange Sunset” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 26,
+      "duration_sec": 29.0,
+      "key": "G minor",
+      "key_confidence": 0.84,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -685,6 +765,26 @@
       "status": "ok"
     },
     {
+      "id": "abGDvFro7C0",
+      "title": "Tyler, The Creator “Mother” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 19.5,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "AhAOTVTOn9Y",
+      "title": "Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Ak3UFyizDGM",
       "title": "J Dilla’s Hidden Gem: “Dewitt To Do It” Chords Unlocked 🔥🎹🔥",
       "n_chords": 21,
@@ -810,6 +910,16 @@
       "n_chords": 10,
       "duration_sec": 12.0,
       "key": "Db major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bKBn9BW6Mxg",
+      "title": "The Neptunes - Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 22.5,
+      "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -945,6 +1055,16 @@
       "status": "ok"
     },
     {
+      "id": "CR9JawUVd08",
+      "title": "Tekken 5 – Lee Chaolan Ending Chords 🔥🎹🔥 The Smoothest Jazz Chords in Gaming #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 13.25,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "crUuGUL2wag",
       "title": "Diane Tell “Tes Yeux” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 19,
@@ -1015,6 +1135,16 @@
       "status": "ok"
     },
     {
+      "id": "D60oiS2Wmp4",
+      "title": "Jamiroquai “Blow Your Mind” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 27,
+      "duration_sec": 37.0,
+      "key": "Eb major (?)",
+      "key_confidence": 0.33,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "D6KNm7LzUKk",
       "title": "Jill Scott “I Think It's Better” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 41,
@@ -1065,12 +1195,32 @@
       "status": "ok"
     },
     {
+      "id": "dJttZI5yrmg",
+      "title": "The Sims Soundtrack - Neighborhood 7 Chords 🔥🎹🔥 Gaming Sunday 🎮 Jerry Martin & Marc Russo",
+      "n_chords": 35,
+      "duration_sec": 45.5,
+      "key": "C major",
+      "key_confidence": 0.66,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "DKnyHa8yplM",
       "title": "Stevie Wonder “Golden Lady” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
       "duration_sec": 21.75,
       "key": "D major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "DQ6WKblH_xE",
+      "title": "Natasha Ramos “Midnight Hour” Intro Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 11.25,
+      "key": "A minor",
+      "key_confidence": 0.87,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1101,6 +1251,16 @@
       "duration_sec": 19.5,
       "key": "G major (?)",
       "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "DYqHmF0U_Ao",
+      "title": "Jay Z “Allure” Chords 🔥🎹🔥 The Neptunes production #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 33.0,
+      "key": "D minor (?)",
+      "key_confidence": 0.16,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1365,6 +1525,16 @@
       "status": "ok"
     },
     {
+      "id": "GGH-7RCYdRU",
+      "title": "Rare Tyler, The Creator Chords You’ve Never Heard - Unreleased 🔥🎹🔥 WOLF Documentary Era 🎧",
+      "n_chords": 17,
+      "duration_sec": 11.5,
+      "key": "E major (?)",
+      "key_confidence": 0.16,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Ggnq80BOWOQ",
       "title": "Jamiroquai “Shoot The Moon” Chords | Rare Montreux 2003 Jam 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -1381,6 +1551,16 @@
       "duration_sec": 56.5,
       "key": "D minor (?)",
       "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "gi-Zttn4bFw",
+      "title": "Don Carlos “Alone” (Paradise) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 24.25,
+      "key": "D minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1525,6 +1705,16 @@
       "status": "ok"
     },
     {
+      "id": "hJGf1hZ_1s4",
+      "title": "D’Angelo “How Does It Feel” Chords  🔥🎹🔥#MusicianParadise",
+      "n_chords": 20,
+      "duration_sec": 28.75,
+      "key": "D major",
+      "key_confidence": 0.5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "HKf4KMcHoEw",
       "title": "Ledisi “Alright” Chords 🔥🎹🔥The Gorgeous Chords Behind Ledisi's Soul Classic #musicianparadise",
       "n_chords": 20,
@@ -1612,6 +1802,16 @@
       "key": "D major",
       "key_confidence": 0.79,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "IFnbEB2JhhA",
+      "title": "Weldon Irvine “Music Is the Key” Intro Chords 🔥🎹🔥 Sampling Heaven",
+      "n_chords": 28,
+      "duration_sec": 51.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.1,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1765,12 +1965,32 @@
       "status": "ok"
     },
     {
+      "id": "JRtX0_B-Ti8",
+      "title": "Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 19.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "JVR02jzAnJI",
       "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
       "n_chords": 20,
       "duration_sec": 11.75,
       "key": "Eb major (?)",
       "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "K1K-ThOx_Wk",
+      "title": "Persona 3 Reload Lotus Ju \"Color Your Night” Chords 🔥🎹🔥 Gaming Sunday 🎮 Author -Atsushi Kitajoh",
+      "n_chords": 37,
+      "duration_sec": 40.5,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1881,6 +2101,16 @@
       "duration_sec": 13.0,
       "key": "E major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "l6eyqAOOM_4",
+      "title": "“Mission Complete” Final Fantasy X-2 Chords 🔥🎹🔥 Composers - Noriko Matsueda, Takahito Eguchi",
+      "n_chords": 34,
+      "duration_sec": 33.0,
+      "key": "F major (?)",
+      "key_confidence": 0.08,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2165,6 +2395,16 @@
       "status": "ok"
     },
     {
+      "id": "N9rDpVINEAY",
+      "title": "Jamiroquai “When You Gonna Learn” Chords 🔥🎹🔥 Acid Jazz Classic MIDI Breakdown!",
+      "n_chords": 21,
+      "duration_sec": 27.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nbVk_i9qeso",
       "title": "Hiatus Kaiyote “Nakamarra” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 41,
@@ -2183,6 +2423,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "ng_8yeRe9lw",
+      "title": "Kanye West & Pharrell “Diamonds & Dollars” Chords 🔥🎹🔥Chad Hugo Chords",
+      "n_chords": 8,
+      "duration_sec": 5.5,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "nK0ZJYSmnCU",
@@ -2243,6 +2493,16 @@
       "key_confidence": 0.14,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "nzLIa_8Ga3w",
+      "title": "Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 19.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ObN0iqdRVU0",
@@ -2355,6 +2615,16 @@
       "status": "ok"
     },
     {
+      "id": "P6Fw_XR_upg",
+      "title": "Steal These Soulful Chords 30 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "PhaFfpMl6JY",
       "title": "Ghost-Note Ft. Marcus Miller “Yellow Dan” Bridge Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 42,
@@ -2405,12 +2675,32 @@
       "status": "ok"
     },
     {
+      "id": "Pt4WSA_Xh1A",
+      "title": "2Pac Ft. Nate Dogg “Skandalouz” Chords 🔥🎹🔥 Rhodes part was played by Sean \"Barney Rubble\"",
+      "n_chords": 37,
+      "duration_sec": 46.5,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "PwAe6PiFXh0",
       "title": "Adriana Evans “Reality” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 21,
       "duration_sec": 30.0,
       "key": "D minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "pYUDfyh4j-Y",
+      "title": "Weldon Irvine “Morning Sunrise” Soulful Chords Secrets 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 42.75,
+      "key": "D major (?)",
+      "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2535,6 +2825,16 @@
       "status": "ok"
     },
     {
+      "id": "qZURWjXK354",
+      "title": "Imagine A House Beat Along With These Chords 🔥🎹🔥 Steal These Chords 31 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 28.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "RaQLGBi6gEQ",
       "title": "Street Fighter III 3rd Strike “Twilight” (Ibuki's Stage) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -2575,6 +2875,16 @@
       "status": "ok"
     },
     {
+      "id": "RnE-wbeSZnk",
+      "title": "MF DOOM “Red And Gold” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 23.75,
+      "key": "D major (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "RQhFxAaIuEQ",
       "title": "J Dilla “Unreleased 1996 Beat” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -2593,6 +2903,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "rTBwcxd-LGw",
+      "title": "J.Cole “False Prophets” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 10.75,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "rwOkWTNL_Vo",
@@ -2641,6 +2961,16 @@
       "duration_sec": 32.0,
       "key": "D minor (?)",
       "key_confidence": 0.04,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "s_0t1qcbkrE",
+      "title": "Jamiroquai “Love Foolosophy” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 29.75,
+      "key": "B minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2845,6 +3175,16 @@
       "status": "ok"
     },
     {
+      "id": "TPNKblPlO_Y",
+      "title": "Westside Gunn “Shootouts In Soho” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 11.75,
+      "key": "F major",
+      "key_confidence": 0.73,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TSO9Ca8z9Ao",
       "title": "Gran Turismo 3 A-Spec “Light Velocity” Chords 🔥🎹🔥 Gaming Sunday. Composer Isamu Ohira",
       "n_chords": 29,
@@ -2921,6 +3261,16 @@
       "duration_sec": 34.75,
       "key": "E minor",
       "key_confidence": 0.93,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "u3hMzmmG9E0",
+      "title": "Westside Gunn Ft. Wale & Joyce Wrice “French Toast” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 23.75,
+      "key": "F major (?)",
+      "key_confidence": 0.49,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3015,6 +3365,16 @@
       "status": "ok"
     },
     {
+      "id": "V3V-p9-1uyQ",
+      "title": "Natasha Ramos “Midnight Hour” Chords 🔥🎹🔥 The Neptunes’ Secrets Revealed!",
+      "n_chords": 16,
+      "duration_sec": 22.25,
+      "key": "F major (?)",
+      "key_confidence": 0.43,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "V_XvTM4gtmg",
       "title": "Static Major “Deeper” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 10,
@@ -3101,6 +3461,16 @@
       "duration_sec": 20.25,
       "key": "Eb major",
       "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "X8HioHTYoH0",
+      "title": "“Loop Demo Racing Lagoon OST” Chords 🔥🎹🔥 Takahito Eguchi & Noriko Matsueda",
+      "n_chords": 29,
+      "duration_sec": 38.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.49,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3241,6 +3611,36 @@
       "duration_sec": 42.25,
       "key": "A minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "YUUiEzJ7kzQ",
+      "title": "Patrice Rushen “Remind Me” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 10.5,
+      "key": "A major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "YWFUlvI7FS8",
+      "title": "Freddie Gibbs & Madlib \"Crime Pays\" Chords 🔥🎹🔥 Sample - Walt Barr “Free Spirit”",
+      "n_chords": 37,
+      "duration_sec": 43.25,
+      "key": "C minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "z0OtYxNUVZ4",
+      "title": "Level 42 Chord Secrets Revealed - Stunning Bridge in “It’s Over” 🔥🎹🔥",
+      "n_chords": 7,
+      "duration_sec": 26.25,
+      "key": "Eb minor",
+      "key_confidence": 0.57,
       "n_unsure": 0,
       "status": "ok"
     },
