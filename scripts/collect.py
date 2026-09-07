@@ -445,29 +445,37 @@ def main():
         t_dl = time.perf_counter() - t
 
         t = time.perf_counter()
-        n_bad = 0
+        n_bad = n_dead = 0
         with cf.ProcessPoolExecutor(max_workers=oc_w) as ex:
             for rec in ex.map(process, chunk):
                 n_done += 1
-                if rec.get("status") != "ok":
+                st = rec.get("status")
+                if st != "ok":
                     n_bad += 1
+                # 고장 판정은 다운로드 실패만 센다.
+                # 이 채널에는 코드 화면이 없는 홍보·잡담 영상이 섞여 있어
+                # 판독 실패는 정상적인 결과일 수 있다.
+                if st == "no_frames":
+                    n_dead += 1
         t_oc = time.perf_counter() - t
 
         el = time.perf_counter() - T0
         rate = el / max(n_done, 1)
         left = (len(todo) - n_done) * rate / 60
-        bad_rate = n_bad / len(chunk)
+        dead_rate = n_dead / len(chunk)
         print(f"[{n_done}/{len(todo)}] dl={t_dl:.0f}s ocr={t_oc:.0f}s "
               f"| {rate:.1f}s/video | 실패 {n_bad}/{len(chunk)} "
-              f"| ETA {left:.0f}min", flush=True)
+              f"(다운로드 실패 {n_dead}) | ETA {left:.0f}min", flush=True)
 
         # 도구가 깨지면 다운로드가 조용히 실패하며 빈 결과만 쌓인다.
         # 한 배치가 통째로 무너지면 그 뒤는 전부 낭비이므로 즉시 멈춘다.
-        if bad_rate >= BAD_ABORT:
+        if dead_rate >= BAD_ABORT:
             n_streak += 1
-            print(f"[warn] 실패율 {bad_rate:.0%} ({n_streak}회 연속)", flush=True)
+            print(f"[warn] 다운로드 실패율 {dead_rate:.0%} "
+                  f"({n_streak}회 연속)", flush=True)
             if n_streak >= 2:
-                print(f"[ABORT] 두 배치 연속 실패율 {BAD_ABORT:.0%} 이상.\n"
+                print(f"[ABORT] 두 배치 연속 다운로드 실패율 "
+                      f"{BAD_ABORT:.0%} 이상.\n"
                       f"        다운로드 도구가 깨졌을 수 있습니다.\n"
                       f"        확인: uvx yt-dlp --version", flush=True)
                 write_outputs()
