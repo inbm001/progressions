@@ -1,8 +1,8 @@
 {
-  "count": 933,
-  "ok": 760,
-  "failed": 173,
-  "updated": "2026-09-08 05:41:00",
+  "count": 973,
+  "ok": 791,
+  "failed": 182,
+  "updated": "2026-09-08 06:41:41",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -23,6 +23,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "-hQAyP2ucjg",
+      "title": "Chords For Drake on a $100K Grand Piano 💵🎹💵 #Drake #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "-IETUH1DwUQ",
@@ -405,6 +415,16 @@
       "status": "ok"
     },
     {
+      "id": "1WQs8EXJ86s",
+      "title": "WTF is Bb n.c.? Hidden Parallel Harmony 🔥🎹🔥 Due to multiple requests, here is the chord diagram.",
+      "n_chords": 11,
+      "duration_sec": 16.25,
+      "key": "F minor",
+      "key_confidence": 0.56,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "1ZDhRT1VUVY",
       "title": "Hiatus Kaiyote “Building A Ladder” Nai Palm’s Lush Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 132,
@@ -533,6 +553,16 @@
       "key_confidence": 0.8,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "2rsMG3PRGjk",
+      "title": "Common ‘The Questions’ Chords 🔥🎹🔥 A 135 bpm #CommonTheQuestions #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 15.75,
+      "key": "B minor (?)",
+      "key_confidence": 0.45,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "2tg2ZkVQ9zU",
@@ -675,6 +705,16 @@
       "status": "ok"
     },
     {
+      "id": "3O92Pac156U",
+      "title": "Digging Into SWV 'Rain' Chords to find a Jaco Pastorius tune 🔥🎹🔥 #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 55.75,
+      "key": "A minor (?)",
+      "key_confidence": 0.29,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "3PeOSKBe0hs",
       "title": "Nujabes “Feather” Chords 🔥🎹🔥 (feat. Cise Starr & Akin from CYNE) #musicianparadise",
       "n_chords": 8,
@@ -795,6 +835,16 @@
       "status": "ok"
     },
     {
+      "id": "4PE5-2nbag8",
+      "title": "Quelle Chris & Chris Keys ‘Living Happy’ Chords 🔥🎹🔥 #QuelleChris #ChrisKeys #LivingHappy",
+      "n_chords": 0,
+      "duration_sec": 12.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "4rCtIE4i314",
       "title": "Jamiroquai “Alright” Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 19,
@@ -841,6 +891,16 @@
       "duration_sec": 44.5,
       "key": "F# major",
       "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4v5EWIQGGvQ",
+      "title": "J Dilla ‘Swagger’ Extra Hot Chords 🔥🎹🔥 #JDilla #SwaggerChords #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 12.0,
+      "key": "Db major",
+      "key_confidence": 0.56,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -980,6 +1040,16 @@
       "n_chords": 14,
       "duration_sec": 10.5,
       "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5R8XbKsGZuQ",
+      "title": "Soulful Chords - Jeru Tha Damaja “Ya’ Playin Yaself” 🔥🎹🔥 #JeruThaDamaja #YaPlayinYaself",
+      "n_chords": 27,
+      "duration_sec": 20.25,
+      "key": "Ab major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -1715,6 +1785,16 @@
       "status": "ok"
     },
     {
+      "id": "__WivIcbMD0",
+      "title": "World Renown ‘How Nice I Am’ Chords 🔥🎹🔥 #WorldRenown #HowNiceIAm #HowNiceIAmChords",
+      "n_chords": 8,
+      "duration_sec": 10.25,
+      "key": "F# major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "_A11q929imc",
       "title": "Jamiroquai “Light Years” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -1941,6 +2021,16 @@
       "duration_sec": 23.5,
       "key": "D major",
       "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "AlqboVC9XSs",
+      "title": "Breaking Down 'Stop The World' Chords by Tarantulaz 🔥🎹🔥 A Club Mix Masterpiece #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 20.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.36,
       "n_unsure": 1,
       "status": "ok"
     },
@@ -2205,6 +2295,16 @@
       "status": "ok"
     },
     {
+      "id": "bcyJD3h0Czw",
+      "title": "Mastering the Magic of '70s Style Modal Interchange Chords 🔥🎹🔥 #70Chords #ChordProgressions",
+      "n_chords": 8,
+      "duration_sec": 16.0,
+      "key": "C major",
+      "key_confidence": 0.53,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "bD9D2S5IjxA",
       "title": "The Gap Band's \"Yearning For Your Love\" Chords = Jodeci \"Love U 4 Life\" ? 🔥🎹🔥 #musicianparadise",
       "n_chords": 35,
@@ -2243,6 +2343,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "BiB3PBFkidM",
+      "title": "Floetry ‘Say Yes’ Chords Decoded 🔥🎹🔥 #FloetrySayYes #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 16.0,
+      "key": "Db major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "Bimvyzk34OI",
@@ -2985,6 +3095,16 @@
       "status": "ok"
     },
     {
+      "id": "dm29w-7C8dw",
+      "title": "Jamiroquai “Spend A Lifetime” Chords 🔥🎹🔥 #Jamiroquai #SpendALifetimeChords #musicianparadise",
+      "n_chords": 43,
+      "duration_sec": 60.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "dOx7SZ0pRxg",
       "title": "Daft Punk “Voyager” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -3495,6 +3615,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "FI7mjWsa77U",
+      "title": "Happy Birthday Pharrell ! 🎉🎹 🎉 Pharrell Williams and Jay-Z Frontin' Outro Chords #FrontinChords",
+      "n_chords": 11,
+      "duration_sec": 9.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "fJ3bUFX-i5Q",
       "title": "Fresh “Friday Night Funkin'” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Kawai Sprite",
       "n_chords": 8,
@@ -3531,6 +3661,16 @@
       "duration_sec": 67.25,
       "key": "C major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "fneDKcLiJGY",
+      "title": "Erykah Badu ‘Tyrone’ Chords 🔥🎹🔥  Decoding the Neo Soul Harmony #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 29.25,
+      "key": "Gb minor (?)",
+      "key_confidence": 0.42,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3635,6 +3775,16 @@
       "status": "ok"
     },
     {
+      "id": "fWa2tYPw9Bw",
+      "title": "Those chords are just begging to be sampled! 🔥🎹🔥 Bobby Hutcherson ‘Montara’ Chords",
+      "n_chords": 17,
+      "duration_sec": 23.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.24,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "fxT9zNS_aWw",
       "title": "Rare Prince Funk Chords You NEED to Hear “Red Scarlet” Chords 💜🎹💜",
       "n_chords": 18,
@@ -3651,6 +3801,16 @@
       "duration_sec": 21.0,
       "key": "Eb major",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "G2SASmIvJfk",
+      "title": "Q-Tip “Believe” Chords 🔥🎹🔥 Q-Tip goes rootless! #QTip #Believe #BelieveChords #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 9.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.22,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3721,6 +3881,16 @@
       "duration_sec": 24.75,
       "key": "G minor",
       "key_confidence": 0.93,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "GefndkI1t00",
+      "title": "Neo-Soul Secrets - Acid Chords 🔥🎹🔥 #NeoSoulPiano #AcidChords #SoulfulChords #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 12.0,
+      "key": "A minor",
+      "key_confidence": 0.57,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3945,6 +4115,16 @@
       "status": "ok"
     },
     {
+      "id": "gxPomVu24Cg",
+      "title": "‘Radio’ by Jamiroquai Decoding the Chord Progression 🔥🎹🔥 #Jamiroquai #Radio #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 15.75,
+      "key": "C# minor",
+      "key_confidence": 0.86,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "gXrZBPbrZ5g",
       "title": "You won't believe Paul McCartney wrote those chords! Paul McCartney “Arrow Through Me” Chords 🔥🎹🔥",
       "n_chords": 20,
@@ -4065,6 +4245,16 @@
       "status": "ok"
     },
     {
+      "id": "H_A56cFTtuY",
+      "title": "Stop Saying Daft Punk ‘Voyager’ Chords are the same as Oliver Cheatham ‘Get Down Saturday Night’ 🎹",
+      "n_chords": 16,
+      "duration_sec": 32.5,
+      "key": "E minor",
+      "key_confidence": 0.86,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "Ha3WSWXIDBQ",
       "title": "Steal These Chords (23) 70s Vibes 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -4151,6 +4341,16 @@
       "duration_sec": 20.25,
       "key": "C major (?)",
       "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "hqaVygKZAlc",
+      "title": "Drake's 'Papi's Home' Chord Breakdown 🔥🎹🔥 #Drake #PapisHome #PapisHomeChords #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 27.5,
+      "key": "D minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4795,6 +4995,16 @@
       "status": "ok"
     },
     {
+      "id": "jRf8_Jdsbxw",
+      "title": "Breaking Down 'GANGSTA':🎹✨ The Soulful Chords - Anderson .Paak, Free Nationals & ASAP Rocky's Hit.",
+      "n_chords": 8,
+      "duration_sec": 12.0,
+      "key": "F# minor (?)",
+      "key_confidence": 0.01,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "JRtX0_B-Ti8",
       "title": "Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -4865,6 +5075,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "jZGoPeVtKAg",
+      "title": "Michael Jackson “Rock With You” Chords 🔥🎹🔥  #MichaelJackson #RockWithYouChords #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 60.0,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "K1K-ThOx_Wk",
       "title": "Persona 3 Reload Lotus Ju \"Color Your Night” Chords 🔥🎹🔥 Gaming Sunday 🎮 Author -Atsushi Kitajoh",
       "n_chords": 37,
@@ -4911,6 +5131,16 @@
       "duration_sec": 48.5,
       "key": "F# minor",
       "key_confidence": 0.56,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "K9DpFAoi4Qc",
+      "title": "Soulful 70s Style Chords 👌🎹🔥 #neosoul #70smusic #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 12.25,
+      "key": "C minor",
+      "key_confidence": 0.67,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5085,6 +5315,16 @@
       "status": "ok"
     },
     {
+      "id": "kxFkg4vYkoM",
+      "title": "Musical Genius of J. Dilla: A Deep Dive - Chords of ‘Untitled’ from Slum Village’s Fantastic Album",
+      "n_chords": 5,
+      "duration_sec": 16.0,
+      "key": "A minor",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "KxYLWtSkIA0",
       "title": "Kool & the Gang “Celebration” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
@@ -5162,6 +5402,16 @@
       "key": "F major",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "l9nV0Q8bwTc",
+      "title": "Happy Birthday, Jill Scott 🔥🎹🔥 “I Think It’s Better” Chords #musicianparadise #jillscott",
+      "n_chords": 37,
+      "duration_sec": 57.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 3,
       "status": "ok"
     },
     {
@@ -5825,6 +6075,16 @@
       "status": "ok"
     },
     {
+      "id": "NKR4fuUwtoA",
+      "title": "Who Sampled This Track? Weldon Irvine “Morning Sunrise” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 42.75,
+      "key": "D major (?)",
+      "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nKYjQ193QGU",
       "title": "D’Angelo “Africa” — RIP Legend!🔥🎹🔥",
       "n_chords": 29,
@@ -5953,6 +6213,16 @@
       "key_confidence": 0.45,
       "n_unsure": 8,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "nvBdkhNIGPs",
+      "title": "Roy Ayers 'Together Forever' Chords ft. Carla Vaughn 🔥🎹🔥 #RoyAyersChords #musicianparadise",
+      "n_chords": 25,
+      "duration_sec": 31.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.44,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "Nwd2R2xRP7E",
@@ -6209,6 +6479,16 @@
       "title": "Solange “I Decided” Chords 🔥🎹🔥 The Neptunes Productions #musicianparadise #chordprogression",
       "n_chords": 18,
       "duration_sec": 28.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ONcOAUaAIEk",
+      "title": "The Roots, 'A Peace Of Light'🔥🎹🔥 A Masterclass in Chord Progression #musicianparadise",
+      "n_chords": 37,
+      "duration_sec": 49.75,
       "key": "F minor (?)",
       "key_confidence": 0.26,
       "n_unsure": 0,
@@ -6885,6 +7165,26 @@
       "status": "ok"
     },
     {
+      "id": "QuVFV5RXujQ",
+      "title": "Jacob Collier’s Crazy Turnaround 🔥🎹🔥 “Time Alone With You” ft. Daniel Caesar #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 9.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.12,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "QWeT6HZOCfw",
+      "title": "Chords for Jamiroquai 🔥🎹🔥 #JamiroquaiVibes #JamiroquaiChords #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 25.5,
+      "key": "Bb major (?)",
+      "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "qwlDDgBorNI",
       "title": "Charlie Puth Sings the National Anthem at Super Bowl LX Chords 🔥🎹🔥",
       "n_chords": 68,
@@ -6903,6 +7203,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "QxSKi40wOwY",
+      "title": "Coldplay “Violet Hill” Amazing Outro Chords 🔥🎹🔥#VioletHillsChords Coldplay #musicianparadise",
+      "n_chords": 35,
+      "duration_sec": 34.5,
+      "key": "A major",
+      "key_confidence": 0.6,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "QYHA1IE_-oU",
@@ -7175,6 +7485,16 @@
       "status": "ok"
     },
     {
+      "id": "rvVVFUplzdk",
+      "title": "Heart-melting R&B Chords 🔥🎹🔥 #musicianparadise #soulfulbeats Free Chord Presets In the Description",
+      "n_chords": 15,
+      "duration_sec": 15.75,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.42,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "rwOkWTNL_Vo",
       "title": "Gran Turismo 5 Prologue “Current Of The Times” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Yudai Satoh",
       "n_chords": 15,
@@ -7435,6 +7755,16 @@
       "status": "ok"
     },
     {
+      "id": "SPm-rrVfSW0",
+      "title": "Neo-Soul Secrets - Hidden Parallel Harmony 🔥🎹🔥 #NeoSoulPiano #SoulfulChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 8.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "sqLlp1hw1uw",
       "title": "How I Produce Luxury MIDI & Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu",
       "n_chords": 0,
@@ -7533,6 +7863,16 @@
       "key_confidence": 0.15,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "SZC5XFpXguc",
+      "title": "Weirdest Chords - Drake “Over My Dead Body”🔥🎹🔥 #Drake #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 20.75,
+      "key": "Db major",
+      "key_confidence": 0.81,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "sZXQmgLKZYE",
@@ -7655,6 +7995,16 @@
       "status": "ok"
     },
     {
+      "id": "Tes5iXCTN58",
+      "title": "Music That Triggers Strong Emotions 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Tfr675zZ4xQ",
       "title": "CSR Pretty Mob Chords 🔥🎹🔥 K-popI gem. I believe it was some sampled jazz guitar.",
       "n_chords": 0,
@@ -7771,6 +8121,16 @@
       "duration_sec": 9.25,
       "key": "Eb minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "tOEZQWvsv8c",
+      "title": "Sampling Heaven - Oliver Cheatham “Get Down Saturday Night” Chords 🔥🎹🔥 #OliverCheatham #ViceCity",
+      "n_chords": 17,
+      "duration_sec": 32.75,
+      "key": "B minor (?)",
+      "key_confidence": 0.22,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -8585,6 +8945,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "Wy2eRdKfjD4",
+      "title": "Jamiroquai “Just Another Story” Chords 🔥🎹🔥 #Jamiroquai #JustAnotherStoryChords #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.75,
+      "key": "A minor",
+      "key_confidence": 0.68,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "X-ZvEvn7SAM",
       "title": "Tyler The Creator “Wharf Talk” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
       "n_chords": 38,
@@ -8975,6 +9345,16 @@
       "status": "ok"
     },
     {
+      "id": "y-3i72lLuT8",
+      "title": "Kendrick Lamar Or Michael McDonald Chords? 🔥🎹🔥 Kem, Chrisette Michele ‘If It’s Love´Chords",
+      "n_chords": 17,
+      "duration_sec": 26.25,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "y3MEH-jF5QM",
       "title": "702 “I Still Love You“ Chords 🔥🎹🔥 By multiple requests - Complete Version  #musicianparadise",
       "n_chords": 26,
@@ -9291,6 +9671,26 @@
       "duration_sec": 24.0,
       "key": "G major",
       "key_confidence": 0.89,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ZTtupNIFy0A",
+      "title": "Chords For Musiq Soulchild 🔥🎹🔥 #musicianparadise  #musicsoulchild",
+      "n_chords": 23,
+      "duration_sec": 20.0,
+      "key": "F major (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "zvr3RvTfJ3Q",
+      "title": "This Intro Is Absolutely Nuts 🤯 ! Steely Dan “Your Gold Teeth II” Intro Chords 🔥🎹🔥",
+      "n_chords": 33,
+      "duration_sec": 37.75,
+      "key": "C minor (?)",
+      "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
     },
