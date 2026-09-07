@@ -1,8 +1,8 @@
 {
-  "count": 1013,
-  "ok": 812,
-  "failed": 201,
-  "updated": "2026-09-08 07:46:10",
+  "count": 1053,
+  "ok": 836,
+  "failed": 217,
+  "updated": "2026-09-08 08:52:17",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -183,6 +183,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "0dEEb1G3LMQ",
+      "title": "Jamiroquai “Everyday” Chords 🔥🎹🔥 135.6 bpm Em #Everyday #Jamiroquai #TravellingWithoutMoving",
+      "n_chords": 10,
+      "duration_sec": 21.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "0HGRU_1V3jQ",
@@ -575,6 +585,16 @@
       "status": "ok"
     },
     {
+      "id": "2QRAv4vYxxk",
+      "title": "70s Style Inspired Chords 🔥🎹🔥 #70sStyleChords #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 11.0,
+      "key": "Ab minor",
+      "key_confidence": 0.51,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2rsMG3PRGjk",
       "title": "Common ‘The Questions’ Chords 🔥🎹🔥 A 135 bpm #CommonTheQuestions #musicianparadise",
       "n_chords": 10,
@@ -825,6 +845,16 @@
       "status": "ok"
     },
     {
+      "id": "4GjHTN7poKo",
+      "title": "Soft R&B Chords 👌🎹👌 #RnB  #RnBChords #90sRnBChordPresets #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 15.5,
+      "key": "B minor",
+      "key_confidence": 0.94,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "4IOIazVVLUo",
       "title": "Daft Punk “Infinity Repeating” (feat. Julian Casablancas + The Voidz) Chords 🔥🎹🔥",
       "n_chords": 13,
@@ -851,6 +881,16 @@
       "duration_sec": 56.25,
       "key": "B minor",
       "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4nDkwaLOKP0",
+      "title": "Ed Motta \"Guezagui\" Chords 🔥🎹🔥 76 bpm. #EdMotta #GuezaguiChords",
+      "n_chords": 9,
+      "duration_sec": 12.5,
+      "key": "Eb minor",
+      "key_confidence": 0.55,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1303,6 +1343,16 @@
       "key_confidence": 0.46,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "7bH5CNdOG2k",
+      "title": "DJ Shadow “Midnight in a Perfect World” chords 🔥🎹🔥 #DJShadow #MidnightInAPerfectWorl",
+      "n_chords": 5,
+      "duration_sec": 12.25,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "7BiW7xbCqBw",
@@ -1955,6 +2005,16 @@
       "status": "ok"
     },
     {
+      "id": "A5iN8yOszRI",
+      "title": "Turnaround Roy Ayers Style 🔥🎹👌 #RoyAyersChords #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 16.25,
+      "key": "D minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "A830iwJ_bbA",
       "title": "Randy Jackson & The Gypsys “Not Because Of Me” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -2113,6 +2173,16 @@
       "key_confidence": 0.19,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "aqAsTkokCJc",
+      "title": "Daft Punk “One More Time” chords 🎉🎹🕺🏻#DaftPunk #OneMoreTime #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 31.25,
+      "key": "F minor",
+      "key_confidence": 0.69,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "AqL_vAps3hw",
@@ -2285,6 +2355,16 @@
       "status": "ok"
     },
     {
+      "id": "azq57u0Sp8g",
+      "title": "Nostalgic 70s Style Chords🕺🏻🎹🕺🏻 #musicianparadise  #70stylechords",
+      "n_chords": 8,
+      "duration_sec": 10.0,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "b-vslwmBIqM",
       "title": "Jay-Z “Who You Wit” 🔥🎹🔥 Sample - \"Night Love\" by The Jeff Lorber Fusion",
       "n_chords": 16,
@@ -2325,6 +2405,16 @@
       "status": "ok"
     },
     {
+      "id": "B8grgTEX1ew",
+      "title": "Deep House Chords 🔥🎹 🎛  #DeepHouseChords #HouseMusic #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 15.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.01,
+      "n_unsure": 5,
+      "status": "ok"
+    },
+    {
       "id": "B8qGP3XTJzY",
       "title": "Unlock the Soul: Erykah Badu \"Telephone\" Chords 🔥🎹🔥",
       "n_chords": 33,
@@ -2332,6 +2422,16 @@
       "key": "Ab major (?)",
       "key_confidence": 0.31,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "BanEyqty4sM",
+      "title": "Justin Timberlake “Nothin’ Else” Chords 🎹👌 117 bpm Fm  #NothinElseChords #JustinTimberlake",
+      "n_chords": 52,
+      "duration_sec": 41.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 4,
       "status": "ok"
     },
     {
@@ -2525,6 +2625,16 @@
       "status": "ok"
     },
     {
+      "id": "bre6suVCUG0",
+      "title": "90s R&B Chords 🔥🎹🔥 #musicianparadise #rnbchords #chordprogression",
+      "n_chords": 9,
+      "duration_sec": 13.0,
+      "key": "Ab major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "bRKLpMSi4sk",
       "title": "Final Fantasy - XIII-2 OST “Starting Over” Chords 🔥🎹🔥 Gaming Sunday",
       "n_chords": 29,
@@ -2582,6 +2692,16 @@
       "key": "Bb major (?)",
       "key_confidence": 0.02,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bWAa7ioWlCw",
+      "title": "90s R&B Chords 👌🎹👌 #RnBChords #MusicianParadise #90sRnBChordPresets",
+      "n_chords": 10,
+      "duration_sec": 15.25,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -2801,6 +2921,16 @@
       "duration_sec": 41.25,
       "key": "F# minor",
       "key_confidence": 0.62,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CkBtIAtu6cA",
+      "title": "Ella Mai “Shot Clock” Chords 🔥🎹🔥 105 bpm Bm #ShotClockChords #EllaMai #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 18.25,
+      "key": "B minor (?)",
+      "key_confidence": 0.18,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3025,6 +3155,16 @@
       "status": "ok"
     },
     {
+      "id": "d0Ng3l7XYSs",
+      "title": "Ariana Grande “Right There” Chords🔥🎹🔥 #RightThere #ArianaGrande #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 12.25,
+      "key": "E minor",
+      "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "d1omfVvcZUc",
       "title": "Devin Morrison “No” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -3115,6 +3255,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "De0eg07tQXQ",
+      "title": "Jamiroquai “Love Blind” Chords 🔥🎹🔥 113.2 bpm Ab  #LoveBlindChords #Jamiroquai #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 17.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "DE1nxdnQjvo",
       "title": "Steal These Chords 21 🔥🎹🔥 Roland Space Echo Edition",
       "n_chords": 0,
@@ -3152,6 +3302,16 @@
       "key": "F minor (?)",
       "key_confidence": 0.09,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "DIy8ezXxFVI",
+      "title": "Paul McCartney “Wonderful Christmastime”🎄🎹🎄B Major #WonderfulChristmastime #PaulMcCartney",
+      "n_chords": 14,
+      "duration_sec": 20.25,
+      "key": "B major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -3935,6 +4095,16 @@
       "status": "ok"
     },
     {
+      "id": "G5-0gvcRkaU",
+      "title": "Louie Vega Style Chord Progression 🔥🎹🔥 #LouieVega #LouieVegaStyleChords #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 32.0,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "g5csBt8dyD4",
       "title": "70s Style Dreamy Chord Progression 🔥🎹🔥 #RoyAyers #70Chords #musicianparadise",
       "n_chords": 16,
@@ -4002,6 +4172,16 @@
       "key": "G minor",
       "key_confidence": 0.93,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "gEEj8CY9lUc",
+      "title": "Neo Soul Quest 🔥🎹🔥 Free MIDI/Chord Preset Pack on my Patreon page. Link in the description",
+      "n_chords": 11,
+      "duration_sec": 10.75,
+      "key": "D minor",
+      "key_confidence": 0.97,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -4215,6 +4395,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "GS4ffTsYiXo",
+      "title": "Incognito “Listen To The Music” Chords 🔥🎹🔥 #ListenToTheMusicChords #Incognito #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 33.5,
+      "key": "B minor",
+      "key_confidence": 0.8,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "gS7sZUXDsZU",
       "title": "Unlock the Groove: Paradise \"Back Together\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 34,
@@ -4313,6 +4503,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "H-gFbzyUCbA",
+      "title": "Daft Punk “One More Time” bridge chords 🎉🎹🎉D Maj 123 bpm #DaftPunk #OneMoreTimeBridgeChords",
+      "n_chords": 5,
+      "duration_sec": 15.75,
+      "key": "A minor (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "h-n-Jsyx6cg",
@@ -4755,6 +4955,16 @@
       "status": "ok"
     },
     {
+      "id": "IrqIyZhS5SY",
+      "title": "Jill Scott “I Think It’s Better” Chords 🔥🎹🔥 #IThinkItsBetterChords #JillScott #MusicianParadise",
+      "n_chords": 40,
+      "duration_sec": 57.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 3,
+      "status": "ok"
+    },
+    {
       "id": "IucS--S77M8",
       "title": "The Future Soul Formula Hiatus Kaiyote “Red Room” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -5003,6 +5213,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "jDohAHwEC9Y",
+      "title": "70s Style Chord Progression🕺🏻🎹🕺🏻 #70sStyleChords #musicianparadise  #musictheory",
+      "n_chords": 2,
+      "duration_sec": 15.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "jE6hPT9ai2o",
@@ -5335,6 +5555,16 @@
       "status": "ok"
     },
     {
+      "id": "KAtsTOdqvWA",
+      "title": "RoBKTA ft. Tudd “R4cin’ All Night” Chords 🔥🎹🔥 #R4cinAllNight #MovinInCircles #RoBKTA",
+      "n_chords": 50,
+      "duration_sec": 41.25,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 3,
+      "status": "ok"
+    },
+    {
       "id": "kCQftIBOJjs",
       "title": "CHIC's Hidden Gem: “A Warm Summer Night” Chord Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
@@ -5342,6 +5572,16 @@
       "key": "D minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "KdVUVk3fADw",
+      "title": "Michael Jackson P.Y.T. (Pretty Young Thing) Chords 🔥🎹🔥  #PYTChords #MichaelJackson",
+      "n_chords": 34,
+      "duration_sec": 35.5,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 6,
       "status": "ok"
     },
     {
@@ -5363,6 +5603,16 @@
       "key_confidence": 0.83,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "kfjtuQGFzPw",
+      "title": "Slow and Cool R&B Chords 🔥🎹🔥  #90sRnB #90sRnBMIDI #musicianparadise #chordprogression",
+      "n_chords": 5,
+      "duration_sec": 15.5,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "kfQTqNBF8M8",
@@ -5495,6 +5745,26 @@
       "status": "ok"
     },
     {
+      "id": "KvrT8DFSXSE",
+      "title": "Patra “Worker Man” Chords 🔥🎹🔥 #WorkerMan #WorkerManChords #Patra #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 11.25,
+      "key": "Bb major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "KX9MuHcSr1A",
+      "title": "Hypnotic Deep House Chords 😵‍💫🎹🎛 #HypnoticChords# DeepHouseChords #HouseMusic #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 18.5,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "kxFkg4vYkoM",
       "title": "Musical Genius of J. Dilla: A Deep Dive - Chords of ‘Untitled’ from Slum Village’s Fantastic Album",
       "n_chords": 5,
@@ -5603,6 +5873,16 @@
       "key_confidence": 0.18,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "LAI123V4e7g",
+      "title": "Anderson Paak “Reachin’ 2 Much” Chords 🔥🎹🔥 #Reachin2Much #AndersonPaak #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 16.0,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "LAIXD_fgBeU",
@@ -6435,6 +6715,16 @@
       "status": "ok"
     },
     {
+      "id": "Ntl_CvlDPKQ",
+      "title": "Louie Vega Style Chords 🕺🏻🎹🕺🏻#LouieVega #LouieVegaStyleChords #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 16.0,
+      "key": "Ab major (?)",
+      "key_confidence": 0.13,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Nupxeo0pqeU",
       "title": "Jill Scott “I Think It’s Better” Chords  #musicianparadise",
       "n_chords": 35,
@@ -6562,6 +6852,16 @@
       "key": "E minor (?)",
       "key_confidence": 0.26,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "o9JjF46_CQ8",
+      "title": "Randy Jackson & The Gypsys “Not Because Of Me” Chords 👌🎹👌 #NotBecauseOfMe #RandyJackson",
+      "n_chords": 32,
+      "duration_sec": 22.0,
+      "key": "E minor",
+      "key_confidence": 0.75,
+      "n_unsure": 8,
       "status": "ok"
     },
     {
@@ -6722,6 +7022,16 @@
       "key": "F minor (?)",
       "key_confidence": 0.26,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "OOBUuRmkzCc",
+      "title": "70s Style Vintage Chords 🔥🎹🔥 #70sStyleChords #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 32.5,
+      "key": "D major (?)",
+      "key_confidence": 0.14,
+      "n_unsure": 10,
       "status": "ok"
     },
     {
@@ -7295,6 +7605,16 @@
       "status": "ok"
     },
     {
+      "id": "qe80SvmVRv4",
+      "title": "R&B Quest 🔥🎹🔥 A free Chord Preset Pack is available on my Patreon page. #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 20.5,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "qi45bo-yCtA",
       "title": "Still One of the Smoothest R&B Progressions Ever – DeBarge “I Like It” 🔥🎹🔥",
       "n_chords": 43,
@@ -7413,6 +7733,16 @@
       "key_confidence": 0.61,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "QpDu_OOLPwU",
+      "title": "Roy Ayers Style Chord Progression 🔥🎹🔥 #RoyAyersChords #neosoul #70smusic #musicianparadise",
+      "n_chords": 5,
+      "duration_sec": 18.5,
+      "key": "B minor (?)",
+      "key_confidence": 0.16,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "QqFF_piuT84",
@@ -8565,6 +8895,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "tuQiTZADaRQ",
+      "title": "Free R&B Quest Chord Preset Pack Coming Soon 🔥🎹🔥 #FreeR&BChordPresetPack #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 16.0,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "tVOe0MXenpI",
       "title": "Rochelle Jordan “Doing It Too” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 64,
@@ -8663,6 +9003,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "U5tCYffvL3s",
+      "title": "Sunny Sunday RnB Chords 🌞🎹🌞 #90sRnBChordPresets #90sRnBMIDI #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 13.0,
+      "key": "A major (?)",
+      "key_confidence": 0.25,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "U688UyqOLCQ",
@@ -8835,6 +9185,16 @@
       "status": "ok"
     },
     {
+      "id": "uXPoqsuph4s",
+      "title": "Jill Scott “Cross My Mind” chords 👌🎹👌 #JillScott #CrossMyMindChords #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 13.0,
+      "key": "Bb minor",
+      "key_confidence": 0.76,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "uZ04zvhw2iQ",
       "title": "Lori Vornoy - Dungeons of Blood and Dream OST - “Slime Chorus” Final Chords 🔥🎹🔥 Gaming Sunday",
       "n_chords": 25,
@@ -8873,6 +9233,16 @@
       "key_confidence": 0.43,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "v_AylytnexY",
+      "title": "Unreleased Bilal X Jaydee Check In YOu beat 🎹👌 Trying hard to dig the groove 😅 #JDilla #Bilal",
+      "n_chords": 12,
+      "duration_sec": 22.5,
+      "key": "A major",
+      "key_confidence": 0.86,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
     },
     {
       "id": "V_XvTM4gtmg",
@@ -8923,6 +9293,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "VE7vDaD0GwE",
+      "title": "Candido’s “Thousand Finger Man” Chords 👌🎹👌 #musicianparadise #Candido #ThousandFingerMan",
+      "n_chords": 1,
+      "duration_sec": 15.75,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "vHD8JV-n5J8",
@@ -9001,6 +9381,16 @@
       "duration_sec": 48.75,
       "key": "Bb major (?)",
       "key_confidence": 0.43,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "VqMbmznrMgI",
+      "title": "Kool & the Gang “Celebration” 🎉🎹🎉 chords #KoolNTheGang #Celebration #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 27.75,
+      "key": "F minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -9792,6 +10182,16 @@
       "key": "C minor (?)",
       "key_confidence": 0.36,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "YGW9Npbwc0M",
+      "title": "Healing Deep House Chords 🎛 🎹🔥 #DeepHouseChords #HouseMusic #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 15.5,
+      "key": "A minor (?)",
+      "key_confidence": 0.36,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
