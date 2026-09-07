@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 893곡 중 167곡 실패
+총 933곡 중 173곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -21,6 +21,7 @@
 | [6ErJ_dWpEsM](https://www.youtube.com/watch?v=6ErJ_dWpEsM) | failed_no_chords | 0% | Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀 |
 | [7d88SSSAiTw](https://www.youtube.com/watch?v=7d88SSSAiTw) | failed_low_ocr | 2% | Chord Presets Work Anywhere You Can Take Your Notebook 🔥🎹🔥 # |
 | [7mLYoiK-PbQ](https://www.youtube.com/watch?v=7mLYoiK-PbQ) | failed_no_chords | 0% | Chord Preset Heaven 🔥🎹🔥 #musicianparadise |
+| [8dzfdsYSQR8](https://www.youtube.com/watch?v=8dzfdsYSQR8) | failed_low_ocr | 62% | Chord Progression Analysis - Paradise ‘Back Together’ 🔥🎹🔥 #m |
 | [8MNduZaoy3c](https://www.youtube.com/watch?v=8MNduZaoy3c) | failed_no_chords | 0% | Steal These Chords (19) Neo Soul Vibes 🔥🎹🔥 |
 | [8nwlkT8z2Tk](https://www.youtube.com/watch?v=8nwlkT8z2Tk) | failed_no_chords | 0% | Chord Presets That Feel Human 🔥🎹🔥 #musicianparadise |
 | [8oikM2Y_h94](https://www.youtube.com/watch?v=8oikM2Y_h94) | failed_no_chords | 0% | Midnight Chords 🔥🎹🔥#musiciaparadise |
@@ -65,6 +66,7 @@
 | [gGqf0jRoWAo](https://www.youtube.com/watch?v=gGqf0jRoWAo) | failed_no_chords | 0% | Steal These Chords 2 🔥🎹🔥 (Deep House) |
 | [gj4sGGD6Cwg](https://www.youtube.com/watch?v=gj4sGGD6Cwg) | failed_low_ocr | 29% | Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianpar |
 | [gKbUbTCgpDw](https://www.youtube.com/watch?v=gKbUbTCgpDw) | failed_no_chords | 0% | Your Keyboard Player Will Hate You for This—Hyper-Realistic  |
+| [GmyIG41JkpM](https://www.youtube.com/watch?v=GmyIG41JkpM) | failed_no_chords | 0% | Triton subs - dominant chords without major thirds. #musicia |
 | [gnEInqXSnRg](https://www.youtube.com/watch?v=gnEInqXSnRg) | failed_no_chords | 0% | Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise |
 | [GRPnL98Sk7Q](https://www.youtube.com/watch?v=GRPnL98Sk7Q) | failed_low_ocr | 57% | Daft Punk “Something About Us” Chords 🔥🎹🔥 #musicianparadise |
 | [gYnrQWA7Nf8](https://www.youtube.com/watch?v=gYnrQWA7Nf8) | failed_no_chords | 0% | Minnie Riperton "Inside My Love" Bridge - The most sampled a |
@@ -73,6 +75,7 @@
 | [hll08TXjEZA](https://www.youtube.com/watch?v=hll08TXjEZA) | failed_low_ocr | 2% | Big City Chords - Free MIDI + Chord Presets 🔥🎹🔥 #musicianpar |
 | [IabOyduIvxY](https://www.youtube.com/watch?v=IabOyduIvxY) | failed_no_chords | 0% | Steal These Soulful Chords 9 🔥🎹🔥 #MusicianParadise #SoulfulC |
 | [IKCHSxDRbZU](https://www.youtube.com/watch?v=IKCHSxDRbZU) | failed_no_chords | 0% | These “Nice Girls” Chords Were Made to Be Sampled 🔥🎹🔥 |
+| [ILG5NlDwk2Q](https://www.youtube.com/watch?v=ILG5NlDwk2Q) | failed_low_ocr | 64% | Sample Breakdown - Common ‘The Questions’ Chords 🔥🎹🔥 #musici |
 | [IwPsRGadHGc](https://www.youtube.com/watch?v=IwPsRGadHGc) | failed_low_ocr | 66% | J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥 J Dilla  |
 | [IzIesm6FwKk](https://www.youtube.com/watch?v=IzIesm6FwKk) | failed_no_chords | 0% | Wait—Scaler was ported to iPad? I can use my Scaler presets  |
 | [j-UO4h5chFU](https://www.youtube.com/watch?v=j-UO4h5chFU) | failed_low_ocr | 12% | N.E.R.D “Tape You” Bridge Chords 🔥🎹🔥 #musicianparadise #musi |
@@ -116,7 +119,9 @@
 | [Oqv6XdatQEM](https://www.youtube.com/watch?v=Oqv6XdatQEM) | failed_no_chords | 0% | Chord Presets—I assigned Sustain Pedal CC64 and Pitch MIDI F |
 | [oUp6evBLw_Y](https://www.youtube.com/watch?v=oUp6evBLw_Y) | failed_low_ocr | 18% | Playing My Chord Presets on a QWERTY Keyboard 🔥🎹🔥 #musicianp |
 | [Ozg9YvY5LpU](https://www.youtube.com/watch?v=Ozg9YvY5LpU) | failed_no_chords | 0% | Steal These Chords (13) Deep House Vibes 🔥🎹🔥 SmallHouse |
+| [p64PsOk772w](https://www.youtube.com/watch?v=p64PsOk772w) | failed_low_ocr | 59% | Exploring Roy Ayers Unique Chord Style 🔥🎹🔥 #musicianparadise |
 | [P6Fw_XR_upg](https://www.youtube.com/watch?v=P6Fw_XR_upg) | failed_no_chords | 0% | Steal These Soulful Chords 30 🔥🎹🔥 #musicianparadise |
+| [P8xzkb88LZ4](https://www.youtube.com/watch?v=P8xzkb88LZ4) | failed_low_ocr | 58% | Inside ‘Igors Theme’ by Tyler, The Creator 🔥🎹🔥 A Look at its |
 | [pceI0oZ2pZo](https://www.youtube.com/watch?v=pceI0oZ2pZo) | failed_low_ocr | 61% | Bruno Mars' Amazing Arrangement - Lucky Daye “That’s You” Ch |
 | [pDj_kTDzrz4](https://www.youtube.com/watch?v=pDj_kTDzrz4) | failed_no_chords | 0% | Dark Soulful Chords🔥🎹🔥 #MusicianParadise |
 | [QbBphHT64ME](https://www.youtube.com/watch?v=QbBphHT64ME) | failed_no_chords | 0% | Chord Presets Test - Free VST Ripchord 🔥🎹🔥 #musicianparadise |
@@ -168,6 +173,7 @@
 | [XsMjcqri8R0](https://www.youtube.com/watch?v=XsMjcqri8R0) | failed_no_chords | 0% | Warm Deep House Rhodes Chords You’ll Want to Flip 🔥🎹🔥 #music |
 | [yryaTpSSHNU](https://www.youtube.com/watch?v=yryaTpSSHNU) | failed_low_ocr | 33% | July 2. Ahmad Jamal's birthday. “I Love Music” - NAS “The Wo |
 | [YUUiEzJ7kzQ](https://www.youtube.com/watch?v=YUUiEzJ7kzQ) | failed_low_ocr | 62% | Patrice Rushen “Remind Me” Chords 🔥🎹🔥 #musicianparadise |
+| [yzOzDmlEpVo](https://www.youtube.com/watch?v=yzOzDmlEpVo) | failed_low_ocr | 54% | Musiq Soulchild “So Beautiful” Chords 🔥🎹🔥 #SoBeautifulChords |
 | [Z4ifRkuaL2k](https://www.youtube.com/watch?v=Z4ifRkuaL2k) | failed_no_chords | 0% | A New Kind Of Chord Presets - Ripchord VST, Scaler, MPC Pad  |
 | [Z80FgYT4Dzk](https://www.youtube.com/watch?v=Z80FgYT4Dzk) | failed_no_chords | 0% | I'm learning a chord progression every day—and you should to |
 | [ZzZ2iXulcZ4](https://www.youtube.com/watch?v=ZzZ2iXulcZ4) | failed_no_chords | 0% | Steal These Chords 20 🔥🎹🔥 #MusicianParadise |
