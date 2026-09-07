@@ -41,6 +41,7 @@ PUBLISH = os.environ.get("NO_PUBLISH") != "1"   # 배치마다 저장소에 반�
 MIN_EXPECTED = 200      # 전체 실행 시 이 이하면 목록이 잘린 것으로 본다
 BAD_ABORT    = 0.5      # 한 배치 실패율이 이 이상이면 경고, 두 번 연속이면 중단
 DL_MAX       = 4        # 다운로드 병렬 상한. 이보다 크게 넣어도 4로 깎인다
+OCR_MAX      = 4        # 판독 병렬 상한. 6코어에서 컴퓨터를 쓸 수 있는 선
 FFMPEG = r"C:\Users\inbm\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
 
@@ -75,12 +76,74 @@ TYPOS = [
     (r"\bmaior\b",      "Maj",   True),
     (r"\bminor\s*7th\b", "min7", True),   # 영어를 기호로
     (r"\bmajor\s*7th\b", "Maj7", True),
+    # '3rd minor' 는 음정 표기다. minor -> min 보다 먼저 순서를 바로잡는다.
+    (r"(\d+)(?:st|nd|rd|th)\s+minor\b", r"min \1rd", True),
+    (r"(\d+)(?:st|nd|rd|th)\s+major\b", r"Major \1rd", True),
     (r"\bminor\b",      "min",   True),
     (r"\bmajor\b",      "Maj",   True),
     (r"\(\s*\(", "(",            True),   # 괄호가 겹침
     (r"\)\s*\)", ")",            True),
     (r"\bl(?=[0-9])",   "1",     True),   # 소문자 L 을 1 로
     (r"\bO(?=[0-9])",   "0",     True),
+    # 글자 사이에 낀 1 — 세로선을 숫자로 읽은 것
+    (r"(?<=[A-Za-z])1(?=[a-z])", "", True),      # AM1aj -> AMaj
+    # 괄호가 겹쳐 열린 것 — '(c (add3)' / '(o (add2)' -> '(add3)' / '(add2)'
+    # 괄호와 글자 사이에 공백이 끼는 경우가 있다.
+    (r"\(\s*[A-Za-z]?\s*\((?=[a-z])", "(", True),
+    # 괄호 뒤에 낀 숫자 — 'Maj13( 3(#11)' -> 'Maj13(#11)'
+    (r"\(\s*\d+\s*\((?=[#b])", "(", True),
+    # Maj·min 뒤에 낀 3 — Maj313 -> Maj13
+    (r"\b(Maj|min)3(?=1[0-9])", r"\1", True),
+
+    # 근음 바로 뒤에 낀 3 — 화면 세로선을 숫자로 읽은 것.
+    # 뒤에 글자나 / 가 오는 것만. 'B3' 처럼 끝나면 코드일 수 있다.
+    (rf"^({RT})\s*3(?=\s*(Maj|min|dim|aug|sus|/|\d))", r"\1 ", True),
+    # 근음 뒤에 낀 1 — 'C1 13sus' 처럼 근음과 확장음 사이에 홀로 선 1.
+    # 1 뒤에 반드시 공백이 있어야 한다. F#13sus 는 정상이므로 건드리지 않는다.
+    (rf"^({RT})1\s+(?=\d)", r"\1 ", True),         # C1 13sus -> C 13sus
+    (rf"^({RT})\s+1(?=1[13])", r"\1 ", True),      # C 113 -> C 13
+    (rf"^({RT})\s+1(?=[2-9]\s*$)", r"\1 ", True),  # C 19 -> C 9
+    # min 뒤에 낀 1 — min17 -> min11, min19 -> min9
+    (r"\bmin17\b",      "min11", True),
+    (r"\bmin19\b",      "min9",  True),
+    # 'min9 11' 처럼 확장음이 둘 나열된 것 — 높은 쪽만 남긴다
+    (r"\b(min|Maj)(\d+)\s+(\d+)\b", r"\1\3", True),
+    # 1l 은 11 — 소문자 L 을 1 로 읽은 것. min9(1l) / Maj9#1l
+    (r"1l\b",           "11",    True),
+    (r"1l(?=[)\s])",    "11",    True),
+    # 괄호 안 홀로 선 1 은 11 이 잘린 것. min7(1) -> min7(11)
+    (r"\((1)\)",        r"(11)", True),
+    (r"\(#1\)",         "(#11)", True),
+    # 코드 끝에 떨어진 1 도 같다. 'A min7 1' -> 'A min7(11)'
+    # n.c. 뒤에 붙은 것은 잡음이므로 그냥 뗀다.
+    (r"(n\.?c\.?)[\s0-9]+$", r"\1", True),
+    (r"\s+1\s*$",       "(11)",  True),
+    (r"\s+11\s*$",      "(11)",  True),
+    # 근음 뒤 홀로 선 0 — Eb 0 min(add2) -> Eb min(add2)
+    (rf"^({RT})\s+0\s+", r"\1 ", True),
+    # Fb 는 쓰지 않는다. E 를 잘못 읽은 것이다. (Cb 는 Gb 장조의 4도로 쓰인다)
+    (r"^Fb(?![a-z])",   "E",     True),
+    (r"/\s*Fb\b",       "/E",    True),
+    # 끝에 떨어진 음이름은 베이스다. 슬래시가 안 읽힌 것.
+    #   'D# min7(4) C#' -> 'D# min7(4) / C#'
+    (rf"(?<=[)\d])\s+({RT})\s*$", r" / \1", True),
+    # #1l9 의 l 은 1 오독. #11 은 그대로 두어야 하므로 뒤가 1 이 아닐 때만.
+    # 근음의 # (F#13sus) 는 건드리면 안 되므로 앞에 글자가 있을 때만 본다.
+    (r"(?<=[a-z])#1l(?=\d)", "#11", True),       # Maj#1l9 -> Maj#119
+    (r"(?<=[a-z])#1(?=[02-9])", "#11", True),    # Maj#19 -> Maj#119
+    (r"(?<=[a-z])l(?=\d)", "1",   True),         # Majl3 -> Maj13
+    # min 뒤에 붙은 s — 판독 잡음
+    (r"\bmins\b",       "min",   True),
+    (r"(?<=min)s(?=\d)", "",     True),          # mins11 -> min11
+    # 같은 숫자가 붙어 나온 것 — 한 번 잡힌 것이 두 번 읽혔다
+    (r"\b99\b",         "9",     True),
+    (r"\b1111\b",       "11",    True),
+    (r"\b1313\b",       "13",    True),
+    # 같은 숫자가 두 번 — 공백이 끼어 있어도 잡는다.
+    # Maj9 9 -> Maj9. \b 는 Maj9 의 9 앞에서 안 걸리므로 숫자 경계만 본다.
+    (r"(?<!\d)(\d{1,2})\s+\1(?!\d)", r"\1", True),
+    (r"(?<=Maj)99",     "9",     True),          # FMaj99 -> FMaj9
+    (r"(?<=min)99",     "9",     True),
 ]
 
 # 앞뒤를 봐야 아는 것 — 고치되 물음표를 붙인다
@@ -115,10 +178,16 @@ def looks_odd(std):
         return False
     tail = re.sub(rf"^{RT}", "", std)
     nums = re.findall(r"\d+", re.sub(r"\([^)]*\)", "", tail))
+    # 음정 표기(Octave·Perfect 5th·Major 3rd)는 화면에 실제로 그렇게
+    # 적혀 있다. 코드가 아닐 뿐 판독이 틀린 것이 아니므로 물음표를 안 붙인다.
+    if re.search(r"(Octave|Tritone|\d(st|nd|rd|th))$", std, re.I):
+        return False
+    # N.C. 는 코드 없음 표시다. 음이 끌리는 구간이라 판독 오류가 아니다.
+    if re.search(r"N\.?C\.?", std, re.I):
+        return False
     return bool(std.count("(") != std.count(")")
                 or any(n not in OK_NUMS for n in nums)
-                or re.search(r"\d\s+\d", std)
-                or re.search(r"(Perfect|Octave|Tritone)", std, re.I))
+                or re.search(r"\d\s+\d", std))
 
 
 # 코드를 부분으로 가른다. "Db Maj(add2) / F" -> root Db, quality Maj(add2), bass F
@@ -277,7 +346,7 @@ def detect_key(prog):
 
 # 자연음 확장. min9 처럼 글자에 붙어 있어도 잡아야 하므로 \b 를 쓰지 않는다.
 # 앞에 #·b 가 붙은 것(변화음)과 13 의 1 을 11 로 잘못 읽는 것을 막는다.
-NAT_EXT = re.compile(r"(?<![#b\d])(13|11|9|6)(?!\d)")
+NAT_EXT = re.compile(r"(?<![#b\d])(13|11|9|6|4|2)(?!\d)")
 ALT_EXT = re.compile(r"([#b])(5|9|11|13)")               # 변화음
 QUAL_HEAD = re.compile(
     r"^(Maj|maj|M|min|m|dim|aug|sus|°|ø|\+|-)?", re.I)
@@ -293,30 +362,49 @@ def to_standard(root, qual, bass):
     q = qual.replace(" ", "")
 
     # 손대지 않는 것 — 이미 표준이거나 규칙 밖이다
-    if re.fullmatch(r"(7alt|alt|N\.C\.|Octave|Tritone)", q, re.I):
+    if re.fullmatch(r"(7alt|alt|N\.C\.)", q, re.I):
         return f"{root}{q}" + (f"/{bass}" if bass else "")
+
+    # 음정 표기 — 코드가 아니라 두 음. 읽기 좋게 띄운다.
+    # 서수(3rd·5th)로 끝나거나 Octave·Tritone 인 것만이다.
+    m = re.fullmatch(
+        r"(Octave|Tritone|(?:Perfect|Major|Minor|min|maj)\s*\d+(?:st|nd|rd|th))",
+        q, re.I)
+    if m:
+        t = re.sub(r"(?<=[A-Za-z])(?=\d)", " ", m.group(1))
+        return f"{root} {t}" + (f"/{bass}" if bass else "")
 
     # add 는 확장음이 아니라 덧붙인 음이다. 괄호를 살려 그대로 둔다.
     if re.search(r"add", q, re.I):
         return f"{root}{q}" + (f"/{bass}" if bass else "")
 
-    alts = ["".join(m) for m in ALT_EXT.findall(q)]
+    # no3·no5 같은 생략 표시는 따로 떼어 맨 뒤에 붙인다.
+    # 그냥 두면 확장음 사이에 끼어 AbMajno39(#11) 처럼 된다.
+    omits = re.findall(r"no\s*([0-9]+)", q, re.I)
+    q = re.sub(r"\(?\s*no\s*[0-9]+\s*\)?", "", q, flags=re.I)
+
+    # sus 를 먼저 떼어낸다. sus4 의 4 는 확장음이 아니다.
+    sus = ""
+    m = re.search(r"sus\s*([24])?", q, re.I)
+    if m:
+        sus = "sus" + (m.group(1) or "")
+        q = q[:m.start()] + q[m.end():]
+
+    alts = ["".join(x) for x in ALT_EXT.findall(q)]
     nats = [int(n) for n in NAT_EXT.findall(ALT_EXT.sub("", q))]
 
-    # 화음 성질 — min·Maj·sus·dim 등
+    # 화음 성질 — min·Maj·dim 등
     body = ALT_EXT.sub("", q)
     body = NAT_EXT.sub("", body)
     body = re.sub(r"[()]", "", body).strip()
 
-    # sus 는 확장음과 함께 뒤에 붙는다 (G13sus)
-    sus = ""
-    m = re.search(r"(sus[24]?)", body, re.I)
-    if m:
-        sus = m.group(1)
-        body = body.replace(m.group(1), "")
-
     has7 = "7" in body
     body = body.replace("7", "").strip()
+
+    # 괄호 안 4 는 한 옥타브 위에서 11 이다. min7(4) -> min11
+    # sus4 의 4 는 다르므로 sus 를 떼어낸 뒤에 본다.
+    if not sus:
+        nats = [11 if x == 4 else x for x in nats]
 
     # 자연음 확장은 가장 높은 것만 남긴다
     top = max(nats) if nats else None
@@ -329,6 +417,8 @@ def to_standard(root, qual, bass):
     out += sus
     if alts:
         out += "(" + "".join(alts) + ")"
+    for o in omits:
+        out += f"(no{o})"
     if bass:
         out += f"/{bass}"
     return out
@@ -664,7 +754,7 @@ def main():
     # 다운로드를 8개씩 돌리면 포트가 모자라 새 연결을 못 만드는 일이 있다.
     # (2026-09-03 밤 Tcpip 4231) 판독이 병목이라 4로 낮춰도 전체 속도는 같다.
     dl_w  = min(int(sys.argv[2]) if len(sys.argv) > 2 else 4, DL_MAX)
-    oc_w  = int(sys.argv[3]) if len(sys.argv) > 3 else 5
+    oc_w  = min(int(sys.argv[3]) if len(sys.argv) > 3 else 3, OCR_MAX)
 
     for p in (WORK, DONE, OUT):
         p.mkdir(exist_ok=True)

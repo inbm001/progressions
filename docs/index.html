@@ -106,6 +106,10 @@ body.open .gate { display: none; }
   color: var(--ink-soft);
 }
 .tally b { display: block; font-size: 17px; color: var(--ink); }
+.tally b i {
+  font-style: normal; font-size: 11px;
+  color: var(--high); margin-left: 3px;
+}
 
 /* ---- 도구줄 ---- */
 .bar {
@@ -146,6 +150,12 @@ button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
 .grp button:first-child { border-radius: 3px 0 0 3px; margin-left: 0; }
 .grp button:last-child { border-radius: 0 3px 3px 0; }
 .lbl { font-size: 11px; color: var(--ink-soft); margin-right: 2px; }
+button em {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-style: normal; font-size: 10.5px;
+  color: var(--low); margin-left: 3px;
+}
+button[aria-pressed="true"] em { color: inherit; }
 
 /* ---- 목록 ---- */
 .band-head {
@@ -170,6 +180,21 @@ button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
 .dot.low  { background: var(--low); }
 
 .list { display: grid; gap: 1px; background: var(--rule); border-block: 1px solid var(--rule); }
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 116px 62px 52px;
+  gap: 14px;
+  padding: 0 12px 5px;
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.cols span:nth-child(n+3) { text-align: right; }
+@media (max-width: 640px) {
+  .cols { grid-template-columns: 1fr 92px 54px; }
+  .cols span:nth-child(4) { display: none; }
+}
 .item {
   display: grid;
   grid-template-columns: 1fr 116px 62px 52px;
@@ -199,7 +224,7 @@ button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.item .k, .item .d, .item .c {
+.item .k, .item .d, .item .u {
   font-family: "JetBrains Mono", ui-monospace, monospace;
   font-size: 11.5px;
   font-variant-numeric: tabular-nums;
@@ -208,10 +233,13 @@ button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
 }
 .item .k { color: var(--ink); }
 .item .k .q { color: var(--low); }
-.item .d, .item .c { text-align: right; }
+.item .d, .item .u { text-align: right; }
+.item .u.ok   { color: var(--ink-soft); opacity: .45; }
+.item .u.few  { color: var(--low); }
+.item .u.many { color: var(--low); font-weight: 700; }
 @media (max-width: 640px) {
-  .item { grid-template-columns: 1fr 92px; }
-  .item .d, .item .c { display: none; }
+  .item { grid-template-columns: 1fr 92px 54px; }
+  .item .d { display: none; }
 }
 
 /* ---- 상세 ---- */
@@ -241,6 +269,14 @@ h1 {
   text-wrap: balance;
 }
 .byline { font-size: 12.5px; color: var(--ink-soft); margin: 4px 0 0; }
+.titlerow { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.drop { font-size: 11.5px; padding: 5px 10px; }
+.drop[aria-pressed="true"] {
+  background: var(--low); border-color: var(--low); color: var(--paper);
+}
+.item.dropped { opacity: .38; }
+.item.dropped .s { text-decoration: line-through; }
+body:not(.show-dropped) .item.dropped { display: none; }
 
 .stage { display: grid; grid-template-columns: 290px 1fr; gap: 26px; margin-top: 22px; align-items: start; }
 @media (max-width: 860px) { .stage { grid-template-columns: 1fr; } }
@@ -300,8 +336,32 @@ h1 {
   font-family: "JetBrains Mono", ui-monospace, monospace;
   font-size: 10px; color: var(--raw); white-space: nowrap;
 }
-body:not(.show-raw) .chord .r { display: none; }
+/* 불확실한 코드는 원문을 항상 보인다. 무엇을 잘못 읽었는지 봐야 한다. */
+body:not(.show-raw) .chord:not(.unsure) .r { display: none; }
+body:not(.show-raw) .chord.confirmed .r { display: none; }
 .chord.unsure .c { color: var(--low); }
+.chord { position: relative; }
+.chord .ok {
+  position: absolute;
+  top: -6px; right: -6px;
+  width: 17px; height: 17px;
+  padding: 0; line-height: 1;
+  font-size: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink-soft);
+  display: none;
+  align-items: center; justify-content: center;
+}
+.chord.unsure .ok { display: flex; }
+.chord .ok:hover { border-color: var(--high); color: var(--high); }
+.chord.confirmed .c { color: var(--ink); }
+.chord.confirmed .ok {
+  display: flex;
+  background: var(--high); border-color: var(--high); color: var(--paper);
+}
+.chord.confirmed .q { display: none; }
 
 .sec-head {
   display: flex; align-items: baseline; gap: 8px;
@@ -330,6 +390,22 @@ body:not(.show-raw) .chord .r { display: none; }
 .keyline .q { color: var(--low); }
 
 .empty { padding: 40px 0; color: var(--ink-soft); font-size: 13px; }
+
+/* 글자 색인 — 곡이 많아지면 한 화면에 다 담기지 않는다 */
+.alpha {
+  display: flex; flex-wrap: wrap; gap: 3px;
+  margin: 14px 0 4px;
+}
+.alpha button {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px; padding: 4px 7px; min-width: 26px;
+}
+.alpha button em {
+  font-size: 9px; color: var(--ink-soft); margin-left: 2px;
+}
+.alpha button[aria-pressed="true"] em { color: inherit; }
+.more { margin-top: 14px; }
+.more button { width: 100%; padding: 11px; }
 footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
@@ -357,11 +433,17 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
         <button data-sort="name" aria-pressed="false">곡명순</button>
         <button data-sort="artist" aria-pressed="false">아티스트순</button>
         <button data-sort="dur" aria-pressed="false">길이순</button>
+        <button data-sort="unsure" aria-pressed="false">불확실순</button>
       </div>
       <span class="spacer"></span>
+      <button id="btnCopyDrop" title="제외·확인 목록을 복사합니다">목록 복사</button>
+      <button id="btnShowDropOnly" aria-pressed="false" hidden></button>
+      <button id="btnShowDrop" aria-pressed="false">제외한 것 보기 <em id="dropN"></em></button>
       <input type="search" id="q" placeholder="곡·아티스트·조성" autocomplete="off">
     </div>
+    <div id="alpha" class="alpha"></div>
     <div id="listArea"></div>
+    <div id="more" class="more"></div>
   </div>
 
   <!-- 상세 -->
@@ -369,7 +451,10 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
     <div class="back"><button id="btnBack">← 목록</button></div>
     <div class="head2">
       <div>
-        <h1 id="dTitle"></h1>
+        <div class="titlerow">
+          <h1 id="dTitle"></h1>
+          <button id="btnDrop" class="drop">제외</button>
+        </div>
         <p class="byline" id="dBy"></p>
       </div>
       <div class="tally" id="dTally"></div>
@@ -415,6 +500,42 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
 <script>
 const BASE = "data/";
 let INDEX = null, sortMode = "conf", query = "";
+let alphaPick = "";        // 고른 첫 글자. 빈 값이면 전체
+let shown = 0;             // 지금까지 그린 개수
+const PAGE = 100;          // 한 번에 그리는 개수
+
+/* ---- 제외 목록 — 이 브라우저에만 남는다 ---- */
+const DROP_KEY = "chord-drop";
+let dropped = new Set();
+try {
+  dropped = new Set(JSON.parse(localStorage.getItem(DROP_KEY) || "[]"));
+} catch (e) {}
+
+function saveDrop() {
+  try { localStorage.setItem(DROP_KEY, JSON.stringify([...dropped])); }
+  catch (e) {}
+}
+function toggleDrop(id) {
+  if (dropped.has(id)) dropped.delete(id); else dropped.add(id);
+  saveDrop();
+}
+
+/* ---- 맞다고 확인한 코드 — 곡id:시각 으로 기억한다 ---- */
+const OK_KEY = "chord-ok";
+let okSet = new Set();
+try {
+  okSet = new Set(JSON.parse(localStorage.getItem(OK_KEY) || "[]"));
+} catch (e) {}
+
+function saveOk() {
+  try { localStorage.setItem(OK_KEY, JSON.stringify([...okSet])); }
+  catch (e) {}
+}
+function okId(songId, at) { return songId + ":" + at.toFixed(2); }
+function toggleOk(key) {
+  if (okSet.has(key)) okSet.delete(key); else okSet.add(key);
+  saveOk();
+}
 
 /* ---- 문 ---- */
 async function gate() {
@@ -429,17 +550,26 @@ addEventListener("hashchange", gate);
 
 /* ---- 목록 ---- */
 async function load() {
+  // 파일에 저장된 제외·확인 목록을 먼저 합친다.
+  // 브라우저를 바꿔도 유지되고, 스크립트도 같은 파일을 본다.
+  try {
+    const rv = await fetch(BASE + "review.json");
+    if (rv.ok) {
+      const d = await rv.json();
+      (d.dropped || []).forEach(x => dropped.add(x));
+      (d.confirmed || []).forEach(x => okSet.add(x));
+      saveDrop(); saveOk();
+    }
+  } catch (e) {}
+
   const r = await fetch(BASE + "index.json");
   INDEX = await r.json();
-  document.getElementById("sub").textContent =
-    INDEX.count + "곡 · 화면에서 읽은 코드 진행";
-  document.getElementById("tally").innerHTML =
-    '<div>확신 높음<b>' + INDEX.bands.high + '</b></div>' +
-    '<div>보통<b>' + INDEX.bands.mid + '</b></div>' +
-    '<div>낮음<b>' + INDEX.bands.low + '</b></div>';
   document.getElementById("upd").textContent = "· " + INDEX.updated + " 기준";
   render();
 }
+
+const COLS = '<div class="cols"><span>곡</span><span>조성</span>' +
+             '<span>불확실</span><span>길이</span></div>';
 
 const BAND_NAME = { high: "확신 높음", mid: "확신 보통", low: "확신 낮음" };
 const BAND_NOTE = {
@@ -456,12 +586,16 @@ function keyHtml(k) {
 function itemHtml(s) {
   const nm = s.song || s.title;
   const ar = s.artist || "";
-  return '<button class="item" data-id="' + s.id + '">' +
+  const pct = s.n ? s.unsure / s.n : 0;
+  const lv = s.unsure === 0 ? "ok" : (pct >= 0.2 ? "many" : "few");
+  return '<button class="item' + (dropped.has(s.id) ? " dropped" : "") +
+    '" data-id="' + s.id + '">' +
     '<span class="nm"><span class="s">' + esc(nm) + '</span>' +
     (ar ? '<span class="a">' + esc(ar) + '</span>' : '') + '</span>' +
     '<span class="k">' + keyHtml(s.key) + '</span>' +
+    '<span class="u ' + lv + '">' +
+      (s.unsure ? s.unsure + "/" + s.n : "—") + '</span>' +
     '<span class="d">' + s.dur.toFixed(1) + 's</span>' +
-    '<span class="c">' + s.n + '</span>' +
     '</button>';
 }
 
@@ -473,6 +607,21 @@ function esc(s) {
 function render() {
   const area = document.getElementById("listArea");
   let rows = INDEX.songs.slice();
+
+  // 제외한 곡은 숫자에서도 뺀다
+  const live = rows.filter(s => !dropped.has(s.id));
+  const nChord = live.reduce((s, x) => s + x.n, 0);
+  const nUnsure = live.reduce((s, x) => s + x.unsure, 0);
+  const nBad = live.filter(x => x.unsure > 0).length;
+  document.getElementById("tally").innerHTML =
+    '<div>코드<b>' + nChord.toLocaleString() + '</b></div>' +
+    '<div>불확실<b>' + nUnsure + '</b></div>' +
+    '<div>오류 있는 곡<b>' + nBad + '</b></div>';
+  document.getElementById("sub").textContent =
+    live.length + "곡" + (dropped.size ? " · 제외 " + dropped.size : "") +
+    " · 화면에서 읽은 코드 진행";
+  document.getElementById("dropN").textContent =
+    dropped.size ? dropped.size : "";
 
   if (query) {
     const q = query.toLowerCase();
@@ -487,10 +636,24 @@ function render() {
     rows.sort((a, b) => (a.artist || "~").localeCompare(b.artist || "~"));
   } else if (sortMode === "dur") {
     rows.sort((a, b) => b.dur - a.dur);
+  } else if (sortMode === "unsure") {
+    // 비율이 높은 것부터. 오류가 몰린 곡을 먼저 본다.
+    rows.sort((a, b) => (b.unsure / (b.n || 1)) - (a.unsure / (a.n || 1))
+                        || b.unsure - a.unsure);
+  }
+
+  rows = rows.filter(s => !dropped.has(s.id) ||
+                          document.body.classList.contains("show-dropped"));
+
+  // 글자 색인 — 곡명 첫 글자로 나눈다
+  buildAlpha(rows);
+  if (alphaPick) {
+    rows = rows.filter(s => firstLetter(s) === alphaPick);
   }
 
   if (!rows.length) {
     area.innerHTML = '<p class="empty">찾는 곡이 없습니다.</p>';
+    document.getElementById("more").innerHTML = "";
     return;
   }
 
@@ -501,15 +664,32 @@ function render() {
       const g = rows.filter(s => s.band === band)
                     .sort((a, b) => b.conf - a.conf);
       if (!g.length) continue;
+      // 묶음마다 앞에서 60곡만. 더 보려면 글자 색인이나 정렬을 쓴다.
+      const cap = 60;
+      const part = g.slice(0, cap);
       html += '<div class="band-head"><span class="dot ' + band + '"></span>' +
               BAND_NAME[band] + ' <em>' + g.length + '곡 · ' +
-              BAND_NOTE[band] + '</em></div>' +
-              '<div class="list">' + g.map(itemHtml).join("") + '</div>';
+              BAND_NOTE[band] +
+              (g.length > cap ? ' · 앞 ' + cap + '곡' : '') +
+              '</em></div>' + COLS +
+              '<div class="list">' + part.map(itemHtml).join("") + '</div>';
     }
     area.innerHTML = html;
+    document.getElementById("more").innerHTML = "";
   } else {
-    area.innerHTML = '<div class="list" style="margin-top:14px">' +
-                     rows.map(itemHtml).join("") + '</div>';
+    // 곡이 많으면 나눠 그린다. 한 번에 다 그리면 화면이 버겁다.
+    const part = rows.slice(0, shown || PAGE);
+    area.innerHTML = '<div style="margin-top:16px">' + COLS +
+                     '<div class="list">' +
+                     part.map(itemHtml).join("") + '</div></div>';
+    const left = rows.length - part.length;
+    document.getElementById("more").innerHTML = left
+      ? '<button id="btnMore">' + left + '곡 더 보기</button>' : "";
+    const bm = document.getElementById("btnMore");
+    if (bm) bm.addEventListener("click", () => {
+      shown = part.length + PAGE;
+      render();
+    });
   }
 
   area.querySelectorAll(".item").forEach(b => {
@@ -517,17 +697,68 @@ function render() {
   });
 }
 
+function firstLetter(s) {
+  const t = (s.song || s.title || "").trim();
+  const c = t[0] ? t[0].toUpperCase() : "#";
+  return /[A-Z]/.test(c) ? c : "#";
+}
+
+function buildAlpha(rows) {
+  const box = document.getElementById("alpha");
+  const cnt = {};
+  rows.forEach(s => { const k = firstLetter(s); cnt[k] = (cnt[k] || 0) + 1; });
+  const keys = Object.keys(cnt).sort();
+  if (keys.length < 2) { box.innerHTML = ""; return; }
+
+  box.innerHTML =
+    '<button data-a="" aria-pressed="' + (alphaPick ? "false" : "true") +
+    '">전체<em>' + rows.length + '</em></button>' +
+    keys.map(k =>
+      '<button data-a="' + k + '" aria-pressed="' +
+      (alphaPick === k ? "true" : "false") + '">' + k +
+      '<em>' + cnt[k] + '</em></button>').join("");
+
+  box.querySelectorAll("button").forEach(b => {
+    b.addEventListener("click", () => {
+      alphaPick = b.dataset.a;
+      shown = 0;
+      render();
+    });
+  });
+}
+
 document.getElementById("sortGrp").addEventListener("click", e => {
   const b = e.target.closest("button");
   if (!b) return;
   sortMode = b.dataset.sort;
+  shown = 0;
   document.querySelectorAll("#sortGrp button").forEach(x =>
     x.setAttribute("aria-pressed", String(x === b)));
   render();
 });
 document.getElementById("q").addEventListener("input", e => {
   query = e.target.value.trim();
+  shown = 0;
   render();
+});
+document.getElementById("btnCopyDrop").addEventListener("click", async e => {
+  const txt = JSON.stringify({
+    dropped: [...dropped],
+    confirmed: [...okSet]
+  }, null, 2);
+  try {
+    await navigator.clipboard.writeText(txt);
+    e.currentTarget.textContent = "복사됨";
+    setTimeout(() => { e.currentTarget.textContent = "목록 복사"; }, 1500);
+  } catch (err) {
+    prompt("아래를 복사해 주십시오", txt);
+  }
+});
+document.getElementById("btnShowDrop").addEventListener("click", e => {
+  const b = e.currentTarget;
+  const on = b.getAttribute("aria-pressed") === "true";
+  b.setAttribute("aria-pressed", String(!on));
+  document.body.classList.toggle("show-dropped", !on);
 });
 document.getElementById("brand").addEventListener("click", () => {
   location.hash = "#admin";
@@ -543,6 +774,22 @@ function route() {
   const m = location.hash.match(/^#admin\/(.+)$/);
   if (m) openSong(m[1]);
   else closeSong();
+}
+
+function updateUnsureCount() {
+  const left = items.filter(p => p.unsure && !okSet.has(p._key)).length;
+  const done = items.filter(p => p.unsure && okSet.has(p._key)).length;
+  const el = document.getElementById("dTally");
+  const box = el.querySelector(".u-left");
+  if (box) box.innerHTML = left + (done ? '<i>+' + done + '</i>' : "");
+}
+
+function paintDropBtn(id) {
+  const b = document.getElementById("btnDrop");
+  const on = dropped.has(id);
+  b.dataset.id = id;
+  b.setAttribute("aria-pressed", String(on));
+  b.textContent = on ? "제외됨 · 되돌리기" : "제외";
 }
 
 function closeSong() {
@@ -565,15 +812,16 @@ async function openSong(id) {
     (meta.artist ? esc(meta.artist) + " · " : "") +
     '<span class="keyline">' + keyHtml(rec.key) + '</span>';
 
-  const unsure = (rec.progression || []).filter(p => p.unsure).length;
   document.getElementById("dTally").innerHTML =
     '<div>길이<b>' + rec.duration_sec.toFixed(1) + '</b></div>' +
     '<div>코드<b>' + rec.progression.length + '</b></div>' +
-    '<div>불확실<b>' + unsure + '</b></div>';
+    '<div>불확실<b class="u-left">0</b></div>';
 
+  paintDropBtn(id);
   total = rec.duration_sec;
   document.getElementById("dur").textContent = total.toFixed(1);
   buildSections(rec);
+  updateUnsureCount();
   mountPlayer(id);
 }
 
@@ -645,14 +893,32 @@ function buildSections(rec) {
     row.className = "row";
     slice.forEach(p => {
       const b = document.createElement("button");
-      b.className = "chord" + (p.unsure ? " unsure" : "");
+      const key = okId(rec.id, p.at);
+      const done = okSet.has(key);
+      b.className = "chord" + (p.unsure ? " unsure" : "") +
+                    (done ? " confirmed" : "");
       const shown = p.std || p.chord;
+      const label = done ? shown.replace(/\s*\(\?\)$/, "") : shown;
       b.innerHTML =
         '<span class="t">' + p.at.toFixed(2) + '</span>' +
-        '<span class="c">' + esc(shown) + '</span>' +
-        (shown !== p.chord ? '<span class="r">' + esc(p.chord) + '</span>' : '');
-      b.addEventListener("click", () => seek(p.at));
+        '<span class="c">' + esc(label) + '</span>' +
+        (label !== p.chord ? '<span class="r">' + esc(p.chord) + '</span>' : '') +
+        (p.unsure ? '<span class="ok" role="button" title="맞음">✓</span>' : '');
+      b.addEventListener("click", ev => {
+        if (ev.target.classList.contains("ok")) {
+          ev.stopPropagation();
+          toggleOk(key);
+          const on = okSet.has(key);
+          b.classList.toggle("confirmed", on);
+          b.querySelector(".c").textContent =
+            on ? shown.replace(/\s*\(\?\)$/, "") : shown;
+          updateUnsureCount();
+          return;
+        }
+        seek(p.at);
+      });
       p._el = b;
+      p._key = key;
       items.push(p);
       row.appendChild(b);
     });
@@ -748,6 +1014,13 @@ document.getElementById("btnRaw").addEventListener("click", e => {
   const on = e.target.getAttribute("aria-pressed") === "true";
   e.target.setAttribute("aria-pressed", String(!on));
   document.body.classList.toggle("show-raw", !on);
+});
+document.getElementById("btnDrop").addEventListener("click", e => {
+  const id = e.currentTarget.dataset.id;
+  if (!id) return;
+  toggleDrop(id);
+  paintDropBtn(id);
+  render();
 });
 document.getElementById("btnPlay").addEventListener("click", togglePlay);
 document.getElementById("btnPrev").addEventListener("click", () => step(-1));

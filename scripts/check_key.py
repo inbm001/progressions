@@ -75,6 +75,9 @@ WANT_Q = {
     "D 9sus4":        False,
     "F 7(#9#5)":      False,
     "Db Maj(add2) / F": False,
+    "Ab Maj(no3)9(#11)": False,   # 생략 표시는 정상
+    "Ab 7(no3) / Gb":    False,
+    "F 7#9( (no5)":      False,
 }
 bad = 0
 for raw, want in WANT_Q.items():
