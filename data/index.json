@@ -1,8 +1,8 @@
 {
-  "count": 853,
-  "ok": 693,
-  "failed": 160,
-  "updated": "2026-09-08 03:55:27",
+  "count": 893,
+  "ok": 726,
+  "failed": 167,
+  "updated": "2026-09-08 04:48:40",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -335,6 +335,16 @@
       "status": "ok"
     },
     {
+      "id": "1kU9BXf16bc",
+      "title": "The Isley Brothers “Between The Sheets” Chords Patrt 1 🔥🎹🔥",
+      "n_chords": 23,
+      "duration_sec": 25.75,
+      "key": "F major (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "1mxhSRgKam0",
       "title": "Can’t have enough of those chords—Tyler The Creator “Wharf Talk” Chords 🔥🎹🔥",
       "n_chords": 38,
@@ -401,6 +411,16 @@
       "duration_sec": 37.75,
       "key": "Db major",
       "key_confidence": 0.53,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "23iFE1cbFo4",
+      "title": "The Sweetest Chords Brenda Russel “In The Thick Of It” Chords 🔥🎹🔥 #musicianparadise #chordpresets",
+      "n_chords": 42,
+      "duration_sec": 52.25,
+      "key": "Eb major (?)",
+      "key_confidence": 0.09,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -673,6 +693,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "45a_CoQ2Wnw",
+      "title": "Daft Punk “Digital Love” Chords - George Duke’s “I Love You More” 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 16,
+      "duration_sec": 15.5,
+      "key": "D major (?)",
+      "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "45kpdFQ5YvQ",
@@ -1175,6 +1205,16 @@
       "status": "ok"
     },
     {
+      "id": "7BiW7xbCqBw",
+      "title": "Hip Hop Chords You Need to Hear - Grizelda “Old Groove” Chords 🔥🎹🔥Pt.2 #musicianparadise #chords",
+      "n_chords": 16,
+      "duration_sec": 23.75,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "7d88SSSAiTw",
       "title": "Chord Presets Work Anywhere You Can Take Your Notebook 🔥🎹🔥 #musicianparadise",
       "n_chords": 1,
@@ -1375,6 +1415,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "8MY-idCmZ9o",
+      "title": "These chords could instantly become an R&B hit. Allinanite (ft. Sophia Duncan) Chords 🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 32.0,
+      "key": "Eb major",
+      "key_confidence": 0.94,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "8nwlkT8z2Tk",
       "title": "Chord Presets That Feel Human 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -1453,6 +1503,26 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "9880B6PLfao",
+      "title": "Simple And Mesmerising Chords - J.Dilla ‘Through Your Soul’ 🔥🎹🔥 #musicianparadise  #chords",
+      "n_chords": 7,
+      "duration_sec": 20.25,
+      "key": "A major",
+      "key_confidence": 0.66,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "9bNilHSevOA",
+      "title": "Incredible Chords Of ‘Night Vision’ Daft Punk 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 16,
+      "duration_sec": 40.0,
+      "key": "Ab major (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "9C8NIA5t-WY",
@@ -1885,6 +1955,16 @@
       "status": "ok"
     },
     {
+      "id": "aRi3J2PKSD0",
+      "title": "Mac Miller ‘ROS’ Chords 🔥🎹🔥 - Increasing Complexity Every 2 Bars  #musicianparadise #roschords",
+      "n_chords": 24,
+      "duration_sec": 32.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AS5IfPzQ__c",
       "title": "Chord Presets Like You’ve Never Heard Before - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu",
       "n_chords": 0,
@@ -2095,6 +2175,16 @@
       "status": "ok"
     },
     {
+      "id": "BfGspcfBl2c",
+      "title": "When a single chord is enough - NAS 'N.Y. State of Mind’ 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 0,
+      "duration_sec": 11.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Bimvyzk34OI",
       "title": "Laid-Back Soulful R&B Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -2275,6 +2365,16 @@
       "status": "ok"
     },
     {
+      "id": "bZGBrwaJPGs",
+      "title": "The Isley Brothers “Between The Sheets” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 29,
+      "duration_sec": 23.0,
+      "key": "C major",
+      "key_confidence": 0.7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "bzxWSE6_u_M",
       "title": "Simple Presets - Complex Chords - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -2292,6 +2392,16 @@
       "key": "Db minor (?)",
       "key_confidence": 0.17,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "C7uBQ2Uceho",
+      "title": "Unlocking Beauty Of Kendrick Lamar’s “For Sale” (Interlude) Chords 🔥🎹🔥 #musicianparadise  #chords",
+      "n_chords": 19,
+      "duration_sec": 23.5,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2561,6 +2671,16 @@
       "duration_sec": 24.25,
       "key": "F# minor (?)",
       "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CW-bR4L_54w",
+      "title": "Forgotten Gems - Leon Ware & Minnie Riperton “Comfort” Chords pt.2 🔥🎹🔥 #LeonWare #MinnieRiperton",
+      "n_chords": 19,
+      "duration_sec": 48.5,
+      "key": "F# minor (?)",
+      "key_confidence": 0.26,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4105,6 +4225,16 @@
       "status": "ok"
     },
     {
+      "id": "imTm9y2FE2E",
+      "title": "Domo Genesis & The Alchemist “All Alone” Chords 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 7,
+      "duration_sec": 12.0,
+      "key": "Db minor",
+      "key_confidence": 0.67,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "InSxlsr5JEs",
       "title": "Stevie Wonder “Isn't She Lovely” Chords 🔥🎹🔥 Happy Birthday, Stevie! 🎉",
       "n_chords": 23,
@@ -4313,6 +4443,16 @@
       "key_confidence": 0.44,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "j7lRvoBW9YA",
+      "title": "When Just Two Chords Are Enough - Sade ‘I Couldn’t Love You More’ Chords -  🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 19.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "jaarB6KbDFk",
@@ -4805,6 +4945,16 @@
       "status": "ok"
     },
     {
+      "id": "L4S3dkmIg_c",
+      "title": "Soulful Chord Progression - The Jones Girls ‘Nights Over Egypt’🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 30,
+      "duration_sec": 43.5,
+      "key": "D minor",
+      "key_confidence": 0.98,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "l6eyqAOOM_4",
       "title": "“Mission Complete” Final Fantasy X-2 Chords 🔥🎹🔥 Composers - Noriko Matsueda, Takahito Eguchi",
       "n_chords": 34,
@@ -4820,6 +4970,16 @@
       "n_chords": 5,
       "duration_sec": 10.5,
       "key": "F# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "L8YfmIJP774",
+      "title": "Chord Progression Breakdown - Omarion feat. Wale \"Mutual\" Chords 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 28,
+      "duration_sec": 52.5,
+      "key": "F major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -5065,6 +5225,16 @@
       "status": "ok"
     },
     {
+      "id": "ma-tBcc0joE",
+      "title": "The Genius Behind N.E.R.D & Kendrick Lamar “Don't Do It” Chords 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 43,
+      "duration_sec": 25.0,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ma5sZo1QsDs",
       "title": "Jacob Collier’s Crazy Turnaround 🔥🎹🔥 “Time Alone With You” ft. Daniel Caesar #musicianparadise",
       "n_chords": 24,
@@ -5175,6 +5345,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "mJXpe7KoWeQ",
+      "title": "Kendrick Lamar’s Lost Masterpiece  ‘Prayer’ Chords 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 26.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "mK_bSwRtijc",
       "title": "Chord Presets - Major And Minor Run - Barry Harris Style 🔥🎹🔥 #musicianparadise",
       "n_chords": 2,
@@ -5183,6 +5363,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "mMk-c2MMsT8",
+      "title": "Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 18,
+      "duration_sec": 20.25,
+      "key": "Bb major",
+      "key_confidence": 0.98,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "mnhwOYn4NY0",
@@ -5241,6 +5431,16 @@
       "duration_sec": 62.25,
       "key": "G minor (?)",
       "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "MzBSCnjRLNc",
+      "title": "Michael Jackson “Butterflies” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 21.25,
+      "key": "Ab major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5450,6 +5650,16 @@
       "n_chords": 17,
       "duration_sec": 23.0,
       "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "nLpJpmfOq3k",
+      "title": "Origins of House Music - Roy Ayers “Chicago” Chords 🔥🎹🔥 #musicianparadise #chordpresets",
+      "n_chords": 27,
+      "duration_sec": 25.25,
+      "key": "E major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -5745,6 +5955,16 @@
       "status": "ok"
     },
     {
+      "id": "oLxYCaZP3fs",
+      "title": "The Darkest Hip Hop Chords - Grizelda “Old Groove” Chords 🔥🎹🔥 #musicianparadise #chordpresets",
+      "n_chords": 16,
+      "duration_sec": 23.25,
+      "key": "Db major",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "OmgZU57qRIA",
       "title": "Unlock the Funk: Don Blackman's 'Heart's Desire' Secrets Chords Revealed 🔥🎹🔥#musicianparadise",
       "n_chords": 11,
@@ -5765,12 +5985,32 @@
       "status": "ok"
     },
     {
+      "id": "oODF9oi3-P4",
+      "title": "LA’DY ”Love Me Down” Soulful R&B Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 8,
+      "duration_sec": 16.0,
+      "key": "Db minor",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "op-3Xxz_JWg",
       "title": "How Tyler, The Creator Built “Noid” Chords! 🔥🎹🔥 #chordpresetpacks #musicianparadise",
       "n_chords": 11,
       "duration_sec": 26.75,
       "key": "G minor (?)",
       "key_confidence": 0.3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "OpqMOfHxEWI",
+      "title": "Chord Progression Breakdown: Jamiroquai's 'Alright' – Learn the Funk Style! 🔥🎹🔥  #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 36.25,
+      "key": "C major",
+      "key_confidence": 0.87,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6001,6 +6241,16 @@
       "duration_sec": 12.0,
       "key": "E minor (?)",
       "key_confidence": 0.14,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "PLncwXBneFI",
+      "title": "Forgotten Gems - Leon Ware & Minnie Riperton “Comfort” Chords pt.1 🔥🎹🔥 #musicianparadise",
+      "n_chords": 47,
+      "duration_sec": 48.25,
+      "key": "B minor (?)",
+      "key_confidence": 0.13,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6425,6 +6675,16 @@
       "status": "ok"
     },
     {
+      "id": "R7WMs3Ji6IY",
+      "title": "Soulful Chords DJ Cam ft. Cameo 'Love Junkee'🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 14,
+      "duration_sec": 22.75,
+      "key": "D minor",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "RaQLGBi6gEQ",
       "title": "Street Fighter III 3rd Strike “Twilight” (Ibuki's Stage) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -6525,6 +6785,16 @@
       "status": "ok"
     },
     {
+      "id": "RkPNvFzI1i0",
+      "title": "SUS Chords Obsession - Breakbot ‘Be Mine Tonight’ Chords 🔥🎹🔥 #BeMineTonight #Delafleur",
+      "n_chords": 27,
+      "duration_sec": 33.25,
+      "key": "A minor",
+      "key_confidence": 0.7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "RnE-wbeSZnk",
       "title": "MF DOOM “Red And Gold” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 13,
@@ -6543,6 +6813,16 @@
       "key_confidence": 0.99,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ROTw0PFmf6s",
+      "title": "Neo-Soul Secrets - Complex Chords 🔥🎹🔥 #NeoSoulPiano #SoulfulChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "Rpu8LpKpqa8",
@@ -7075,6 +7355,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "ThAbhGpVJo0",
+      "title": "Patrice Rushen “Number One” Chords 🔥🎹🔥 #musicianparadise #chordprogression #midi",
+      "n_chords": 31,
+      "duration_sec": 25.5,
+      "key": "Ab major (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "THIQvNskZJY",
       "title": "DOMi & JD BECK “SMiLE” chords 🔥🎹🔥 I had to heavily edit the track to fit the chords into this video.",
       "n_chords": 55,
@@ -7305,6 +7595,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "TyRm-QPaIUo",
+      "title": "Origins of House Music - Candido “Thousand Finger Man” Chords 🔥🎹🔥 #musicianparadise  #chords",
+      "n_chords": 10,
+      "duration_sec": 15.75,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TZcM1-vXNgY",
       "title": "CHIC “Good Times” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
@@ -7321,6 +7621,16 @@
       "duration_sec": 23.75,
       "key": "F major (?)",
       "key_confidence": 0.49,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "u5d7G3KzZ44",
+      "title": "Roy Ayers “Running Away” Funky Chords Fast Breakdown 🔥🎹🔥 #RhodesV8 #musicianparadise #chords",
+      "n_chords": 26,
+      "duration_sec": 33.0,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7361,6 +7671,16 @@
       "duration_sec": 33.75,
       "key": "F# minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ubhOh6SRiWo",
+      "title": "N.E.R.D.'s 'She Wants To Move': The Hidden Chord Progression That Made It A Hit 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 16.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.23,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7411,6 +7731,16 @@
       "duration_sec": 8.75,
       "key": "E major (?)",
       "key_confidence": 0.2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "UIxrchTaTj0",
+      "title": "A Tribe Called Quest “Bonita Applebum” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 16,
+      "duration_sec": 10.5,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7685,6 +8015,16 @@
       "status": "ok"
     },
     {
+      "id": "w6Ern-iu5wM",
+      "title": "J Dilla “Ahmad Impresses Me” Chords 🔥🎹🔥 Cm 89.9 bpm #musicianparadise #chordprogression",
+      "n_chords": 11,
+      "duration_sec": 10.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "W6S_5NlOedA",
       "title": "Unlock Kendrick Lamar “Mirror” Chords🔥🎹🔥 Chords Progression Breakdown #musicianparadise #beatmaker",
       "n_chords": 16,
@@ -7735,6 +8075,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "WBCJihgzkyQ",
+      "title": "This bridge deserves to be a song -The Isley Brothers “Between The Sheets” Bridge Chords 🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 23.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "WFMXDDG_Am0",
       "title": "How Kendrick Lamar & Terrace Martin Made ‘Untitled 05’ Sound Like a Jazz Masterpiece  🔥🎹🔥",
       "n_chords": 18,
@@ -7753,6 +8103,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "WGaU254w-Fk",
+      "title": "Flight Facilities “Crave You” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 6,
+      "duration_sec": 16.0,
+      "key": "B major (?)",
+      "key_confidence": 0.03,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "whMmL22OEp4",
@@ -7811,6 +8171,16 @@
       "duration_sec": 34.0,
       "key": "E minor",
       "key_confidence": 0.54,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wooYD7xDPuI",
+      "title": "Little Secret Behind Jamiroquai's \"Little L\" Chords 🔥🎹🎸🔥 #musicianparadise #chordprogressions",
+      "n_chords": 15,
+      "duration_sec": 15.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.41,
       "n_unsure": 1,
       "status": "ok"
     },
@@ -7941,6 +8311,16 @@
       "duration_sec": 10.5,
       "key": "Eb minor",
       "key_confidence": 0.76,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "xBSIzRrkGG4",
+      "title": "Jamiroquai ‘Smile’ Chords Breakdown 🔥🎹🔥 MIDI, Chord Presets #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 28.0,
+      "key": "Gb minor",
+      "key_confidence": 0.85,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -8165,6 +8545,16 @@
       "status": "ok"
     },
     {
+      "id": "xUeXhqSz3fg",
+      "title": "Janet Jackson “I Get Lonely” Chords 🔥🎹🔥 #musicianparadise #chordprogression #pianochords",
+      "n_chords": 20,
+      "duration_sec": 15.25,
+      "key": "Bb major (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "XwC-7uYwxGw",
       "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 57,
@@ -8283,6 +8673,16 @@
       "key_confidence": 0.98,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "yryaTpSSHNU",
+      "title": "July 2. Ahmad Jamal's birthday. “I Love Music” - NAS “The World Is Yours” Chords 🔥🎹🔥",
+      "n_chords": 5,
+      "duration_sec": 12.25,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "ySJqDpzXVSk",
