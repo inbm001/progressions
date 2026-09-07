@@ -1,8 +1,8 @@
 {
-  "count": 573,
-  "ok": 442,
-  "failed": 131,
-  "updated": "2026-09-07 23:11:22",
+  "count": 613,
+  "ok": 473,
+  "failed": 140,
+  "updated": "2026-09-07 23:55:43",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -155,6 +155,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "0v23j_qC-qE",
+      "title": "Roy Ayers \"Everybody Loves The Sunshine\" Chords 🔥🎹🔥 RIP Roy Ayers!",
+      "n_chords": 17,
+      "duration_sec": 27.0,
+      "key": "Gb minor (?)",
+      "key_confidence": 0.05,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "0YRCl-013bo",
       "title": "Tom Browne “Funkin’ for Jamaica” Chords That Groove Forever 🔥🎹🔥 #MusicianParadise",
       "n_chords": 1,
@@ -173,6 +183,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "17osas9vaz0",
+      "title": "Making up some soulful chords #musicianparadise #Rhodes73MKI",
+      "n_chords": 8,
+      "duration_sec": 19.5,
+      "key": "G major",
+      "key_confidence": 0.56,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "19RheEtfrc8",
@@ -331,6 +351,16 @@
       "duration_sec": 11.75,
       "key": "C major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "2ZA-dhSBg14",
+      "title": "Decoding Yung Lean “Gatorade” Chords: Lido Remix 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 15.5,
+      "key": "C# minor",
+      "key_confidence": 0.65,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -615,6 +645,16 @@
       "status": "ok"
     },
     {
+      "id": "5RKlsR8pG8g",
+      "title": "Unlock Kiefer's “What A Day” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 10.0,
+      "key": "D major (?)",
+      "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "5sET9YMXmbg",
       "title": "J Dilla Flipped These Ahmad Jamal Chords 🔥🎹 🔥 “Swahililand” Breakdown",
       "n_chords": 29,
@@ -705,6 +745,16 @@
       "status": "ok"
     },
     {
+      "id": "6UT80QSzOL8",
+      "title": "Neo-Soul Harmony Erykah's Badu “Other Side Of The Game” 🔥🎹🔥 Happy Birthday Erykah 🎉",
+      "n_chords": 7,
+      "duration_sec": 12.0,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "6YHdfR1wmYA",
       "title": "Justin Timberlake Señorita Chords Bridge - Chad Hugo Chords 🔥🎹🔥",
       "n_chords": 10,
@@ -721,6 +771,16 @@
       "duration_sec": 50.75,
       "key": "D minor",
       "key_confidence": 0.98,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "73sAM6XJ7zw",
+      "title": "Jamiroquai \"Space Cowboy\" - Timeless Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 27,
+      "duration_sec": 43.75,
+      "key": "Bb minor",
+      "key_confidence": 0.56,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1125,6 +1185,16 @@
       "status": "ok"
     },
     {
+      "id": "_N6hOF9aIH4",
+      "title": "Breakbot “Be Mine Tonight” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 33.25,
+      "key": "A minor",
+      "key_confidence": 0.7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "_OXyMk7t3xU",
       "title": "Knucks “Alpha House / Hide & Seek” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 14,
@@ -1213,6 +1283,16 @@
       "key_confidence": 0.5,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "aggKMaNa5qM",
+      "title": "Roy Ayers Style Chords 🔥🎹🔥 #musicianparadise #chordpresetpacks #musictheory",
+      "n_chords": 10,
+      "duration_sec": 24.0,
+      "key": "Bb major",
+      "key_confidence": 0.77,
+      "n_unsure": 7,
+      "status": "failed_low_ocr"
     },
     {
       "id": "AhAOTVTOn9Y",
@@ -1495,6 +1575,16 @@
       "status": "ok"
     },
     {
+      "id": "BwoEBU_3e48",
+      "title": "Gil Scott-Heron & Brian Jackson “Corners” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 10.75,
+      "key": "Eb major",
+      "key_confidence": 0.99,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "BYY_T7j-e6Q",
       "title": "LL Cool J “Around The Way Girl” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -1661,6 +1751,16 @@
       "duration_sec": 18.75,
       "key": "E major (?)",
       "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "csndLxxNwxA",
+      "title": "“The Girl From Ipanema” - Chords You've Never Heard Before 🔥🎹🔥 #musicianparadise",
+      "n_chords": 67,
+      "duration_sec": 105.75,
+      "key": "C major (?)",
+      "key_confidence": 0.32,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1865,6 +1965,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "dT02NcM8y98",
+      "title": "Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 25.0,
+      "key": "C minor",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "dvpPX_I_j0s",
       "title": "Alicia Keys “Feeling U, Feeling Me” (Interlude) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 32,
@@ -1990,6 +2100,16 @@
       "n_chords": 14,
       "duration_sec": 13.5,
       "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ElFWvYcDA_0",
+      "title": "70s Groove Mastery: Faze-O \"Riding High\" Chords🔥🎹🔥 Were MJ's Thriller Chords Inspired by This?",
+      "n_chords": 6,
+      "duration_sec": 20.0,
+      "key": "G# minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -2205,12 +2325,32 @@
       "status": "ok"
     },
     {
+      "id": "FHMU0D4nQEk",
+      "title": "Eddie Kendricks “Intimate Friends” I could play those chords all day long! 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "fJ3bUFX-i5Q",
       "title": "Fresh “Friday Night Funkin'” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Kawai Sprite",
       "n_chords": 8,
       "duration_sec": 8.0,
       "key": "Bb major",
       "key_confidence": 0.82,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "fJNNXSEChus",
+      "title": "Unlock Jamiroquai's Groove: \"Feel So Good\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 18.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.24,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2285,6 +2425,16 @@
       "status": "ok"
     },
     {
+      "id": "frWhxXdkOt8",
+      "title": "Cosmic Neo Soul Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 16.5,
+      "key": "Eb major",
+      "key_confidence": 0.97,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "fTjTcYl1-TE",
       "title": "J.Dilla Slum Village Fantastic “Untitled” Chords 🔥🎹🔥 #musiianparadise",
       "n_chords": 18,
@@ -2331,6 +2481,16 @@
       "duration_sec": 21.0,
       "key": "Eb major",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "G731YhihVBA",
+      "title": "Shalamar “A Night To Remember”—Chords That'll Make You Dance 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 42.0,
+      "key": "D minor (?)",
+      "key_confidence": 0.38,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2525,6 +2685,16 @@
       "status": "ok"
     },
     {
+      "id": "gS7sZUXDsZU",
+      "title": "Unlock the Groove: Paradise \"Back Together\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 34,
+      "duration_sec": 59.25,
+      "key": "G major (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "GtQkgclGido",
       "title": "T.I. Ft. Pharrell & Common “Goodlife” Chords 🔥🎹🔥 These Chad Hugo Chords Feel So Luxurious!",
       "n_chords": 25,
@@ -2655,6 +2825,16 @@
       "status": "ok"
     },
     {
+      "id": "hFQUMhZr1Js",
+      "title": "This Jodeci Chords Will Take You Back To The 90s - \"My Heart Belongs To You” Chords 🔥🎹🔥",
+      "n_chords": 15,
+      "duration_sec": 15.0,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "hJGf1hZ_1s4",
       "title": "D’Angelo “How Does It Feel” Chords  🔥🎹🔥#MusicianParadise",
       "n_chords": 20,
@@ -2721,6 +2901,16 @@
       "duration_sec": 57.0,
       "key": "Ab major (?)",
       "key_confidence": 0.03,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "hvfPsQFSCng",
+      "title": "Breaking Down Kendrick Lamar’s “Complexion” Final Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.75,
+      "key": "E minor",
+      "key_confidence": 0.79,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2885,6 +3075,16 @@
       "status": "ok"
     },
     {
+      "id": "ix7IEehYnDk",
+      "title": "The Roots “A Peace Of Light” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 49.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ixQSlNPZmjY",
       "title": "You Asked For It…Herbie Hancock “Paradise” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 59,
@@ -2995,6 +3195,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "jckzoWN9ch8",
+      "title": "Chad Hugo Inspired Chords 🔥🎹🔥 The Neptunes Production Style #musicianparadise #chordpresetpacks",
+      "n_chords": 0,
+      "duration_sec": 13.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Jgcx9XmA3fk",
       "title": "The Most Emotional Outro 🎹🤯 Jamiroquai \"Virtual Insanity” #Jamiroquai",
       "n_chords": 7,
@@ -3023,6 +3233,16 @@
       "key_confidence": 0.72,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "JlVWFl_k4ns",
+      "title": "Quantum chord mechanics 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
+      "n_chords": 0,
+      "duration_sec": 17.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "jNqBjMK3-C8",
@@ -3121,6 +3341,16 @@
       "duration_sec": 48.5,
       "key": "F# minor",
       "key_confidence": 0.56,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "kCQftIBOJjs",
+      "title": "CHIC's Hidden Gem: “A Warm Summer Night” Chord Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 25,
+      "duration_sec": 50.5,
+      "key": "D minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3325,6 +3555,16 @@
       "status": "ok"
     },
     {
+      "id": "LgmjCCwHX4M",
+      "title": "The Hidden Gems in Ray Barretto's 'Pastime Paradise' Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 9.75,
+      "key": "F minor",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Li7wfK3T6vY",
       "title": "MF DOOM “Arrow Root” Chord Breakdown 🔥🎹🔥 #MusicianParadise",
       "n_chords": 13,
@@ -3371,6 +3611,26 @@
       "duration_sec": 16.25,
       "key": "A major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "LUPUI1XLH6o",
+      "title": "Funky Chord Mastery: Sedan “Just Be My Lover” Chord Breakdown 🔥🎹🔥 #chordprogression",
+      "n_chords": 29,
+      "duration_sec": 41.0,
+      "key": "A minor",
+      "key_confidence": 0.61,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "LwaCILgZ8Ac",
+      "title": "Jamiroquai “Cosmic Girl” Chords 🔥🎹🔥 #CosmicGirlChords #Jamiroquai  #musictheory",
+      "n_chords": 17,
+      "duration_sec": 24.25,
+      "key": "F# minor (?)",
+      "key_confidence": 0.28,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3755,6 +4015,16 @@
       "status": "ok"
     },
     {
+      "id": "NO0cie6GnN4",
+      "title": "Roy Ayers \"Sweet Tears\" Bridge Chords 🔥🎹🔥 RIP Roy #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 16.0,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 6,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "nP27BzeYmXc",
       "title": "Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -3845,6 +4115,16 @@
       "status": "ok"
     },
     {
+      "id": "o6qayhRTWcU",
+      "title": "CHIC \"Everybody Dance\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 22.5,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.42,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ObN0iqdRVU0",
       "title": "Phony Ppl “Way Too Far” 🔥🎹🔥 The bass notes change everything! #musicianparadise",
       "n_chords": 16,
@@ -3871,6 +4151,16 @@
       "duration_sec": 9.0,
       "key": "F major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "oEXsh5arDD4",
+      "title": "Alfa Mist “Amigo” Chord Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 9.5,
+      "key": "F major (?)",
+      "key_confidence": 0.02,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3902,6 +4192,16 @@
       "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 2,
+      "status": "ok"
+    },
+    {
+      "id": "oOcCwZedEug",
+      "title": "The Isley Brothers “Baby Hold On” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 15.75,
+      "key": "E major (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -4141,6 +4441,16 @@
       "duration_sec": 42.75,
       "key": "D major (?)",
       "key_confidence": 0.1,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Q00g23_eiCs",
+      "title": "Pharrell Williams and Jay-Z “Frontin” Bridge Chords 🔥🎹🔥Happy Birthday Pharrell!",
+      "n_chords": 21,
+      "duration_sec": 9.5,
+      "key": "D minor (?)",
+      "key_confidence": 0.39,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4555,12 +4865,32 @@
       "status": "ok"
     },
     {
+      "id": "SDrw6yxSKuM",
+      "title": "Unlock the Emotional Power of Mac Miller's “ROS” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 35,
+      "duration_sec": 32.0,
+      "key": "A major (?)",
+      "key_confidence": 0.24,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "SeG37Y2ELcI",
       "title": "Hiatus Kaiyote “Fingerprints” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
       "duration_sec": 23.0,
       "key": "Ab major (?)",
       "key_confidence": 0.18,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "sfUUlv1njCo",
+      "title": "Dwele “Weekend Love” Chords Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 37.25,
+      "key": "Bb major",
+      "key_confidence": 0.52,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4600,6 +4930,16 @@
       "n_chords": 29,
       "duration_sec": 49.75,
       "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "sp2dtJc-uv8",
+      "title": "Breaking Down Tyler’s Instrumental Genius  “Enjoy Right Now, Today\" 🔥🎹🔥 #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 11.75,
+      "key": "A minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -4721,6 +5061,16 @@
       "duration_sec": 22.5,
       "key": "C minor",
       "key_confidence": 0.5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "TBGVqPqqGw8",
+      "title": "Leon Ware “Club Sashay” Chords 🔥🎹🔥 (Jazz-Funk Tutorial) #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 31.25,
+      "key": "G minor",
+      "key_confidence": 0.84,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5205,6 +5555,16 @@
       "status": "ok"
     },
     {
+      "id": "WaQqlaW-WiA",
+      "title": "Building Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #Rhodes73MKI #FenderRhodes",
+      "n_chords": 0,
+      "duration_sec": 27.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "WFMXDDG_Am0",
       "title": "How Kendrick Lamar & Terrace Martin Made ‘Untitled 05’ Sound Like a Jazz Masterpiece  🔥🎹🔥",
       "n_chords": 18,
@@ -5279,6 +5639,16 @@
       "title": "70s-Style Chords On A Rhordes 73 MK I 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
       "duration_sec": 27.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "WWTrLtDp49k",
+      "title": "Exploring Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #Rhodes73MKI #FenderRhodes",
+      "n_chords": 0,
+      "duration_sec": 22.25,
       "key": null,
       "key_confidence": 0.0,
       "n_unsure": 0,
@@ -5411,6 +5781,16 @@
       "duration_sec": 37.5,
       "key": "F# major (?)",
       "key_confidence": 0.24,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "XMFpbMepRjU",
+      "title": "Breaking Down 'Radio Daze' by The Root 🔥🎹🔥 #musicianparadise #chordpresetpacks #musictheory",
+      "n_chords": 16,
+      "duration_sec": 21.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.49,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5555,12 +5935,32 @@
       "status": "ok"
     },
     {
+      "id": "yNbkz7nLVe8",
+      "title": "Patrice Rushen \"Settle For My Love\" Soulful Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 53,
+      "duration_sec": 61.75,
+      "key": "Db minor (?)",
+      "key_confidence": 0.2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "YnmuD7Mz7jM",
       "title": "Kelis “Mr. U.F.O. Man” Chords 🔥🎹🔥 The Neptunes Production #musicianparadise",
       "n_chords": 22,
       "duration_sec": 42.25,
       "key": "A minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Yu6rPOih1s8",
+      "title": "Unlock Snoop's Groove: \"Ain't No Fun\" (If The Homies Can’t Have None) Chords Breakdown 🔥🎹🔥",
+      "n_chords": 4,
+      "duration_sec": 9.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.34,
       "n_unsure": 0,
       "status": "ok"
     },

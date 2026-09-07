@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 573곡 중 131곡 실패
+총 613곡 중 140곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -9,6 +9,7 @@
 | [0k32pn9Wf14](https://www.youtube.com/watch?v=0k32pn9Wf14) | failed_no_chords | 0% | Floetry “Say Yes” Chords 🔥🎹🔥 I couldn't resist playing these |
 | [0tFkriFzg2U](https://www.youtube.com/watch?v=0tFkriFzg2U) | failed_no_chords | 0% | Chord Presets That Spark Inspiration - Ripchord VST, Scaler, |
 | [0YRCl-013bo](https://www.youtube.com/watch?v=0YRCl-013bo) | failed_low_ocr | 33% | Tom Browne “Funkin’ for Jamaica” Chords That Groove Forever  |
+| [17osas9vaz0](https://www.youtube.com/watch?v=17osas9vaz0) | failed_low_ocr | 44% | Making up some soulful chords #musicianparadise #Rhodes73MKI |
 | [19RheEtfrc8](https://www.youtube.com/watch?v=19RheEtfrc8) | failed_no_chords | 0% | Chord Presets—Mini Keys, Big Chords - Ripchord VST, Scaler,  |
 | [1PTlVnc_sgg](https://www.youtube.com/watch?v=1PTlVnc_sgg) | failed_no_chords | 0% | Steal These Chords (27) Neo Soul Vibes 🔥🎹🔥 #MusicianParadise |
 | [3DyQ_z8X-xs](https://www.youtube.com/watch?v=3DyQ_z8X-xs) | failed_no_chords | 0% | Steal These Chords (26) Darker Mood 🔥🎹🔥 #musicianparadise |
@@ -26,6 +27,7 @@
 | [_gdSVrlSsIk](https://www.youtube.com/watch?v=_gdSVrlSsIk) | failed_no_chords | 0% | Steal These Chords 15 Soulful House Vibes 🔥🎹🔥 #musicianparad |
 | [_y6CR_p7udY](https://www.youtube.com/watch?v=_y6CR_p7udY) | failed_no_chords | 0% | Behind the scenes! This is what recording these videos actua |
 | [ACxZV9CwTJU](https://www.youtube.com/watch?v=ACxZV9CwTJU) | failed_no_chords | 0% | Steal These Chords 24 Soulquarians Style 🔥🎹🔥 #MusicianParadi |
+| [aggKMaNa5qM](https://www.youtube.com/watch?v=aggKMaNa5qM) | failed_low_ocr | 59% | Roy Ayers Style Chords 🔥🎹🔥 #musicianparadise #chordpresetpac |
 | [AhAOTVTOn9Y](https://www.youtube.com/watch?v=AhAOTVTOn9Y) | failed_no_chords | 0% | Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #music |
 | [AS5IfPzQ__c](https://www.youtube.com/watch?v=AS5IfPzQ__c) | failed_no_chords | 0% | Chord Presets Like You’ve Never Heard Before - Ripchord VST, |
 | [Bimvyzk34OI](https://www.youtube.com/watch?v=Bimvyzk34OI) | failed_no_chords | 0% | Laid-Back Soulful R&B Chords 🔥🎹🔥 #MusicianParadise |
@@ -49,6 +51,7 @@
 | [F_3svKe0DdU](https://www.youtube.com/watch?v=F_3svKe0DdU) | failed_no_chords | 0% | Gospel Scripts Chord Presets 🔥🎹🔥 Ripchord, Scaler, Cthulhu,  |
 | [fDmQ5yupf7E](https://www.youtube.com/watch?v=fDmQ5yupf7E) | failed_no_chords | 0% | Dark Neo Soul - Robert Glasper Inspired Chords🔥🎹🔥#musiciapar |
 | [fdR2wHuT8x4](https://www.youtube.com/watch?v=fdR2wHuT8x4) | failed_no_chords | 0% | Steal These Chords (28) Soulful Vibes 🔥🎹🔥 #MusicianParadise |
+| [FHMU0D4nQEk](https://www.youtube.com/watch?v=FHMU0D4nQEk) | failed_no_chords | 0% | Eddie Kendricks “Intimate Friends” I could play those chords |
 | [fNNVAWsooyA](https://www.youtube.com/watch?v=fNNVAWsooyA) | failed_no_chords | 0% | Steal These Chords (16) Soulful Vibes 🔥🎹🔥#MusicianParadise |
 | [foz5xxrc5Pw](https://www.youtube.com/watch?v=foz5xxrc5Pw) | failed_no_chords | 0% | Soulful Deep House Chords You Need to Try 🔥🎹🔥 #deephouse |
 | [fr5hAXffet8](https://www.youtube.com/watch?v=fr5hAXffet8) | failed_no_chords | 0% | These Chords Sound Like a 70s Movie Scene 🎬🎹 #MusicianParadi |
@@ -68,7 +71,9 @@
 | [J6YHEaCuezk](https://www.youtube.com/watch?v=J6YHEaCuezk) | failed_no_chords | 0% | Chords That Matters - Chord Presets For Ripchord VST, Scaler |
 | [j7AYDt46FC8](https://www.youtube.com/watch?v=j7AYDt46FC8) | failed_low_ocr | 67% | Tyler, The Creator “Wilshire” Chords 🔥🎹🔥 #musicianparadise |
 | [JcjHt8S9WwM](https://www.youtube.com/watch?v=JcjHt8S9WwM) | failed_no_chords | 0% | Beautiful R&B Chords On A Vintage Rhodes 73 MK I 🔥🎹🔥 #musici |
+| [jckzoWN9ch8](https://www.youtube.com/watch?v=jckzoWN9ch8) | failed_no_chords | 0% | Chad Hugo Inspired Chords 🔥🎹🔥 The Neptunes Production Style  |
 | [Jgcx9XmA3fk](https://www.youtube.com/watch?v=Jgcx9XmA3fk) | failed_low_ocr | 45% | The Most Emotional Outro 🎹🤯 Jamiroquai "Virtual Insanity” #J |
+| [JlVWFl_k4ns](https://www.youtube.com/watch?v=JlVWFl_k4ns) | failed_no_chords | 0% | Quantum chord mechanics 🔥🎹🔥 #musicianparadise #musictheory # |
 | [jNqBjMK3-C8](https://www.youtube.com/watch?v=jNqBjMK3-C8) | failed_no_chords | 0% | Steal These Chords (7) 🔥🎹🔥 Soulful House Vibes |
 | [JRtX0_B-Ti8](https://www.youtube.com/watch?v=JRtX0_B-Ti8) | failed_no_chords | 0% | Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianpa |
 | [JxwGnZ6mcys](https://www.youtube.com/watch?v=JxwGnZ6mcys) | failed_no_chords | 0% | John Legend “Heaven” - Tyler, The Creator “Heaven To Me” on  |
@@ -79,6 +84,7 @@
 | [LAIXD_fgBeU](https://www.youtube.com/watch?v=LAIXD_fgBeU) | failed_no_chords | 0% | I'm learning to play a new chord progression every day 🔥🎹🔥 |
 | [Ld2_Eug7krI](https://www.youtube.com/watch?v=Ld2_Eug7krI) | failed_no_chords | 0% | Neo Gospel Chord Presets Demo Test 🔥🎹🔥 #musicianparadise |
 | [lemv1izk-Hk](https://www.youtube.com/watch?v=lemv1izk-Hk) | failed_no_chords | 0% | Kendrick Lamar “These Walls” Chords 🔥🎹🔥 Rhodes 73 MK 1 Rod T |
+| [LgmjCCwHX4M](https://www.youtube.com/watch?v=LgmjCCwHX4M) | failed_low_ocr | 67% | The Hidden Gems in Ray Barretto's 'Pastime Paradise' Chords  |
 | [lPQG_XSlv-o](https://www.youtube.com/watch?v=lPQG_XSlv-o) | failed_low_ocr | 52% | J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look |
 | [lxPRdZ5iUQ0](https://www.youtube.com/watch?v=lxPRdZ5iUQ0) | failed_no_chords | 0% | I couldn't resist learning these chords from the demo of Swe |
 | [M-MrsmCNV4k](https://www.youtube.com/watch?v=M-MrsmCNV4k) | failed_no_chords | 0% | Conscious Rap Inspired Chords 🔥🎹🔥 #musicianparadise #chordpr |
@@ -88,6 +94,7 @@
 | [n10LZZ18lp0](https://www.youtube.com/watch?v=n10LZZ18lp0) | failed_no_chords | 0% | A New Breed of Chord Presets - Ripchord VST, Scaler, MPC Pad |
 | [NFsee8D_NcM](https://www.youtube.com/watch?v=NFsee8D_NcM) | failed_low_ocr | 29% | Soulful Lo Fi Chord Presets 🔥🎹🔥 #musicianparadise |
 | [NKYOv7zjxrA](https://www.youtube.com/watch?v=NKYOv7zjxrA) | failed_no_chords | 0% | Warm-Sounding Chord Presets on a Cold Day 🔥🎹🔥 #musicianaradi |
+| [NO0cie6GnN4](https://www.youtube.com/watch?v=NO0cie6GnN4) | failed_low_ocr | 45% | Roy Ayers "Sweet Tears" Bridge Chords 🔥🎹🔥 RIP Roy #musicianp |
 | [nP27BzeYmXc](https://www.youtube.com/watch?v=nP27BzeYmXc) | failed_no_chords | 0% | Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianpar |
 | [nzLIa_8Ga3w](https://www.youtube.com/watch?v=nzLIa_8Ga3w) | failed_no_chords | 0% | Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise |
 | [oQIqugvZbxY](https://www.youtube.com/watch?v=oQIqugvZbxY) | failed_no_chords | 0% | Steal These Rootless Chords 2 Soulful Vibes 🔥🎹🔥 #musicianpar |
@@ -121,8 +128,10 @@
 | [uNCdW8fP9TA](https://www.youtube.com/watch?v=uNCdW8fP9TA) | failed_no_chords | 0% | Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise |
 | [VdSKe83qJ58](https://www.youtube.com/watch?v=VdSKe83qJ58) | failed_no_chords | 0% | Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianpa |
 | [VrZBixJd2XA](https://www.youtube.com/watch?v=VrZBixJd2XA) | failed_no_chords | 0% | Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #Soulfu |
+| [WaQqlaW-WiA](https://www.youtube.com/watch?v=WaQqlaW-WiA) | failed_no_chords | 0% | Building Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #R |
 | [wKQK6PEd3nA](https://www.youtube.com/watch?v=wKQK6PEd3nA) | failed_low_ocr | 28% | Daft Punk Inspired Chords 🔥🎹🔥 Basically “Voyager” chords but |
 | [wv6SV1dCg0c](https://www.youtube.com/watch?v=wv6SV1dCg0c) | failed_no_chords | 0% | 70s-Style Chords On A Rhordes 73 MK I 🔥🎹🔥 #musicianparadise |
+| [WWTrLtDp49k](https://www.youtube.com/watch?v=WWTrLtDp49k) | failed_no_chords | 0% | Exploring Soulful Chord Progressions 🔥🎹🔥 #musicianparadise # |
 | [X0QlCzi1oak](https://www.youtube.com/watch?v=X0QlCzi1oak) | failed_no_chords | 0% | This Chord Progression Features Just a Single Chord 🔥🎹🔥 — De |
 | [X99h9OROu-g](https://www.youtube.com/watch?v=X99h9OROu-g) | failed_no_chords | 0% | Custom Scaler Chord Presets - Scaler, Ripchord VST, MPC Pad  |
 | [x_tRtjZpTsQ](https://www.youtube.com/watch?v=x_tRtjZpTsQ) | failed_no_chords | 0% | What if your next track started with THIS sound? 🎹✨ "Soul Du |
