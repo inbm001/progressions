@@ -1,8 +1,8 @@
 {
-  "count": 973,
-  "ok": 791,
-  "failed": 182,
-  "updated": "2026-09-08 06:41:41",
+  "count": 1013,
+  "ok": 812,
+  "failed": 201,
+  "updated": "2026-09-08 07:46:10",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -183,6 +183,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "0HGRU_1V3jQ",
+      "title": "Crazy J Dilla Chords “Two Lips” 🔥🎹🔥 F 101.20 bpm #JDillaTwoLips #JDilla #JoeyBada$$",
+      "n_chords": 10,
+      "duration_sec": 9.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 4,
+      "status": "ok"
     },
     {
       "id": "0k32pn9Wf14",
@@ -432,6 +442,16 @@
       "key": "C major (?)",
       "key_confidence": 0.32,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "1ZdPCmkU3nM",
+      "title": "Illa J “Sunflower” feat. Potatohead People Chords 🔥🎹🔥 MIDI #IllaJ #Sunflower SunflowerChords",
+      "n_chords": 20,
+      "duration_sec": 26.0,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1335,6 +1355,16 @@
       "status": "ok"
     },
     {
+      "id": "7INjEzXy3is",
+      "title": "Labi Siffre “I Got The…” 🔥🎹🔥 94.90 bpm F #LabiSiffre #IGotThe #musicianparadise #RhodesV8",
+      "n_chords": 1,
+      "duration_sec": 11.25,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "7LzwuXhSagM",
       "title": "Sade “Keep Looking” Quiet Storm Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
@@ -1885,6 +1915,16 @@
       "status": "ok"
     },
     {
+      "id": "_UxYmivirco",
+      "title": "Patrice Rushen “Where There Is Love” Chords 🔥🎹🔥 #PatriceRushen #WhereThereIsLoveChords",
+      "n_chords": 29,
+      "duration_sec": 41.5,
+      "key": "F minor",
+      "key_confidence": 0.76,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "_vClZEK_ywo",
       "title": "J Dilla “Real Fine” (Track 19) Chords 🔥🎹🔥 Sampled - “Speak Your Mind” Kevin Moore #musicianparadise",
       "n_chords": 15,
@@ -2255,6 +2295,16 @@
       "status": "ok"
     },
     {
+      "id": "B1UXtXdTrhc",
+      "title": "Friday Night Funkin’ “Fresh” Chords 🔥🎹🔥 Cm 120 bpm #Fresh #FridayNightFunkin #KawaiSprite",
+      "n_chords": 3,
+      "duration_sec": 8.0,
+      "key": "Bb minor",
+      "key_confidence": 0.67,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "b25g0hhpJQs",
       "title": "This Jodeci Chord Progression Will Take You Back To The 90s: \"My Heart Belongs To You” Chords 🔥🎹🔥",
       "n_chords": 14,
@@ -2292,6 +2342,16 @@
       "key": "F major",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Bb9NDqX7uZw",
+      "title": "Jamiroquai  “High Times” Chords 🔥🎹🔥 Em 112.70 bpm #Jamiroquai #HighTimesChords #HighTimes",
+      "n_chords": 21,
+      "duration_sec": 25.25,
+      "key": "E minor",
+      "key_confidence": 0.63,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -2595,6 +2655,16 @@
       "status": "ok"
     },
     {
+      "id": "c5vtS8cExNw",
+      "title": "Louis Cole “Park Your Car on My Face” Bridge Chords 🔥🎹🔥 #LouisCole #ParkYourCarOnMyFaceChords",
+      "n_chords": 13,
+      "duration_sec": 12.0,
+      "key": "Bb major (?)",
+      "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "C7uBQ2Uceho",
       "title": "Unlocking Beauty Of Kendrick Lamar’s “For Sale” (Interlude) Chords 🔥🎹🔥 #musicianparadise  #chords",
       "n_chords": 19,
@@ -2753,6 +2823,16 @@
       "key_confidence": 0.56,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "cmrHP9rz7ko",
+      "title": "Patrice Rushen “Forget Me Nots” Chords 🔥🎹🔥 F#m 114.04 bpm #ForgetMeNotsChords #PatriceRushen",
+      "n_chords": 7,
+      "duration_sec": 17.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "cmXdzi8pO6M",
@@ -2955,6 +3035,16 @@
       "status": "ok"
     },
     {
+      "id": "d4ktx3HO7dk",
+      "title": "Disco House Vibes: Chords That Make You Dance! 🎶💃 #DiscoHouseChords #MastersAtWork #LouieVega",
+      "n_chords": 7,
+      "duration_sec": 19.75,
+      "key": "Eb major (?)",
+      "key_confidence": 0.06,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "D60oiS2Wmp4",
       "title": "Jamiroquai “Blow Your Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 27,
@@ -3113,6 +3203,16 @@
       "key_confidence": 0.16,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "DppvJiwk4q0",
+      "title": "Masters At Work Style Chords 🔥🎹🔥  #DiscoHouseChords #DeepHouseChords #MastersAtWork",
+      "n_chords": 5,
+      "duration_sec": 17.5,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "DQ6WKblH_xE",
@@ -3525,6 +3625,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "faL4NVL2uT0",
+      "title": "Chords From The Parallel Universe 🤯 the first 4 chords are parallel Maj7(13th) #ParallelHarmony",
+      "n_chords": 13,
+      "duration_sec": 16.5,
+      "key": "Eb major (?)",
+      "key_confidence": 0.03,
+      "n_unsure": 10,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "FBMxc8gPdZc",
       "title": "Michael Jackson “Leave Me Alone” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 31,
@@ -3821,6 +3931,16 @@
       "duration_sec": 27.25,
       "key": "A major (?)",
       "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "g5csBt8dyD4",
+      "title": "70s Style Dreamy Chord Progression 🔥🎹🔥 #RoyAyers #70Chords #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 16.0,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.3,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4465,6 +4585,16 @@
       "status": "ok"
     },
     {
+      "id": "I7ncxiPinpo",
+      "title": "Blast from the past - Rick James “Super Freak” 🔥🎹🔥 Sunday Jam 🎉 #SuperFreak #SuperFreakChords",
+      "n_chords": 29,
+      "duration_sec": 31.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "i9RJbHBscI0",
       "title": "Steely Dan “Your Gold Teeth II” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -4845,6 +4975,16 @@
       "status": "ok"
     },
     {
+      "id": "JbSwUFncy-k",
+      "title": "Neo-Soul Secrets - Mesmerizing Piano Chords Revealed 🔥🎹🔥 #NeoSoulPiano #GrandPianoVibes",
+      "n_chords": 0,
+      "duration_sec": 11.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "JcjHt8S9WwM",
       "title": "Beautiful R&B Chords On A Vintage Rhodes 73 MK I 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -4935,6 +5075,16 @@
       "status": "ok"
     },
     {
+      "id": "JIQJal-A-Z4",
+      "title": "Eumir Deodato “Super Strut” Chords 🔥🎹🔥 Gm 122 bpm #EumirDeodato #SuperStrutChords",
+      "n_chords": 18,
+      "duration_sec": 23.5,
+      "key": "Bb major (?)",
+      "key_confidence": 0.45,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "JlVWFl_k4ns",
       "title": "Quantum chord mechanics 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
       "n_chords": 0,
@@ -4972,6 +5122,16 @@
       "key": "Bb minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "jQbSSK3WAN4",
+      "title": "The Secret Behind 'Love Junkee's' Captivating Chords 🔥🎹🔥 - A DJ Cam Masterpiece Explored",
+      "n_chords": 11,
+      "duration_sec": 22.75,
+      "key": "D minor",
+      "key_confidence": 0.54,
+      "n_unsure": 4,
       "status": "ok"
     },
     {
@@ -5025,6 +5185,16 @@
       "status": "ok"
     },
     {
+      "id": "jtdOSflL0NQ",
+      "title": "Ramp “Daylight” Roy Ayers Chords 🔥🎹🔥 #Daylight #RampDaylightChords #RoyAyersChords",
+      "n_chords": 4,
+      "duration_sec": 11.5,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "JtxAF_1pyrM",
       "title": "The Mind-Bending Chords of N.E.R.D's 'Am I High' 🔥🎹🔥 #chordprogressions #musicianparadise",
       "n_chords": 23,
@@ -5063,6 +5233,16 @@
       "key_confidence": 0.61,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "jXkqAiEIViU",
+      "title": "Soulful R&B Chords  🎹👌 #SoulfulR&BChords #MusicianParadise",
+      "n_chords": 5,
+      "duration_sec": 21.75,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
     },
     {
       "id": "JxwGnZ6mcys",
@@ -5475,6 +5655,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "LhP1DYSKhUI",
+      "title": "The Genius Behind Jamiroquai's 'Mr Moon'🌜✨: A Deep Dive into Its Iconic Song #Jamiroquai #TobySmith",
+      "n_chords": 18,
+      "duration_sec": 47.0,
+      "key": "A minor",
+      "key_confidence": 0.51,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Li7wfK3T6vY",
       "title": "MF DOOM “Arrow Root” Chord Breakdown 🔥🎹🔥 #MusicianParadise",
       "n_chords": 13,
@@ -5735,6 +5925,16 @@
       "status": "ok"
     },
     {
+      "id": "mgoO1z0FJ0k",
+      "title": "Patrice Rushen “Remind Me” Chords 🔥🎹🔥 Am 91.5 bpm #RemindMe #patricerushen  #remindmechords",
+      "n_chords": 3,
+      "duration_sec": 10.5,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "MGyEO7Kzt5w",
       "title": "Patrice Rushen “Music Of The Earth” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 53,
@@ -5783,6 +5983,16 @@
       "key_confidence": 0.6,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "mJl8I6ewpMY",
+      "title": "Deep House Decoded: Mastering the Art of Mesmerizing Chords 🔥🎹🔥 #DeepHouseChordsSecrets",
+      "n_chords": 3,
+      "duration_sec": 13.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "mjul04ES-Po",
@@ -6011,6 +6221,26 @@
       "duration_sec": 36.75,
       "key": "Eb major",
       "key_confidence": 0.86,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "NethsQytWt0",
+      "title": "Illa J “Timeless” Chords 🔥🎹🔥 Dbm 87 bpm #Timeless #TimelessChords #JDilla #IllaJ #DonPullen",
+      "n_chords": 44,
+      "duration_sec": 22.0,
+      "key": "Db minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "nfHRzinFx-M",
+      "title": "J Dilla “Ahmad Impresses Me” Chords 🔥🎹🔥 Cm 89.9 bpm #JDilla #AhmadImpressesMeChords",
+      "n_chords": 11,
+      "duration_sec": 10.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6575,6 +6805,26 @@
       "status": "ok"
     },
     {
+      "id": "osrQ5LbVUCg",
+      "title": "2Pac “I Get Around” Chords On a $100K Steinway Grand Piano 🔥🎹🔥#2Pac #ShokG",
+      "n_chords": 4,
+      "duration_sec": 8.75,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "OtqXX518fYM",
+      "title": "Roy Ayers' 'Get On Up, Get On Down' Chords 🔥🎹🔥 Joey Negro's Masterful Revibe",
+      "n_chords": 5,
+      "duration_sec": 23.25,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "oUp6evBLw_Y",
       "title": "Playing My Chord Presets on a QWERTY Keyboard 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -6633,6 +6883,16 @@
       "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ozd2qnHnmMo",
+      "title": "Roy Ayers Liquid Love Chords 🔥🎹🔥 #RoyAyers #LiquidLoveChords",
+      "n_chords": 10,
+      "duration_sec": 26.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "Ozg9YvY5LpU",
@@ -6955,6 +7215,16 @@
       "status": "ok"
     },
     {
+      "id": "QaZRo5zSXEQ",
+      "title": "J Dilla “Alien Family” 86 bpm Cm 🔥🎹👌 #JDilla #AlienFamily #AlienFamilyChords #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 11.25,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.35,
+      "n_unsure": 5,
+      "status": "ok"
+    },
+    {
       "id": "qb8cj9Cgh2U",
       "title": "Stevie Wonder “The Secret Life Of Plants” Secret Chords 🔥🎹🔥 #StevieWonderChords",
       "n_chords": 36,
@@ -7001,6 +7271,16 @@
       "duration_sec": 21.25,
       "key": "Eb major (?)",
       "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qdnApV5ZBFY",
+      "title": "Jamiroquai “Falling” Chords 🔥🎹🔥 Am 85 bpm #Jamiroquai #TobySmith #FallingChords",
+      "n_chords": 16,
+      "duration_sec": 24.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7165,12 +7445,32 @@
       "status": "ok"
     },
     {
+      "id": "qswqEd75c6E",
+      "title": "Drake “Look What You’ve Done” Chords 👌🎹 #Drake #LookWhatYouveDoneChords #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 14.25,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.37,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "QuVFV5RXujQ",
       "title": "Jacob Collier’s Crazy Turnaround 🔥🎹🔥 “Time Alone With You” ft. Daniel Caesar #musicianparadise",
       "n_chords": 24,
       "duration_sec": 9.5,
       "key": "E minor (?)",
       "key_confidence": 0.12,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qV8577rAt18",
+      "title": "Jamiroquai “Cosmic Girl” Chords 🔥🎹🔥 Bm 119.20 bpm #CosmicGirl #CosmicGirlChords #Jamiroquai",
+      "n_chords": 17,
+      "duration_sec": 24.25,
+      "key": "F minor",
+      "key_confidence": 0.68,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7515,6 +7815,16 @@
       "status": "ok"
     },
     {
+      "id": "rx_yr_OSawM",
+      "title": "VULFPECK “Kuhmilch” Chords 🔥🎹🔥 Db 74 bpm #KuhmilchChords #JoeyDosik #JoeDart #JackStratton",
+      "n_chords": 34,
+      "duration_sec": 29.25,
+      "key": "E major (?)",
+      "key_confidence": 0.25,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "Rxm-Wdyb_Xg",
       "title": "Idris Muhammad “Piece Of Mind” Chords 🔥🎹🔥 Bob James: Keyboards, arranging, and conducting.",
       "n_chords": 38,
@@ -7582,6 +7892,16 @@
       "key": "Bb major",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "SBkzLkUfXYA",
+      "title": "Ginuwine “Differences” Chords 👌🎹👌 Ebm 63 bpm #Ginuwine #DifferencesChords #Differences",
+      "n_chords": 11,
+      "duration_sec": 15.25,
+      "key": "E major (?)",
+      "key_confidence": 0.04,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -7943,6 +8263,16 @@
       "key_confidence": 0.27,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "T8JHpW3XfwQ",
+      "title": "Is this an existing song, or are these chords mine? If nobody claims them, I'll take the ownership!",
+      "n_chords": 5,
+      "duration_sec": 14.5,
+      "key": "A minor",
+      "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "t_aHVZXPAE0",
@@ -8675,6 +9005,16 @@
       "status": "ok"
     },
     {
+      "id": "VR-UBHvG3sI",
+      "title": "2Pac “Do For Love” Chords 🔥🎹🔥 #2Pac #DoForLove #DoForLoveChords #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 20.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "VrZBixJd2XA",
       "title": "Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #SoulfulDeepHouseChords",
       "n_chords": 0,
@@ -8732,6 +9072,16 @@
       "key": "Ab major (?)",
       "key_confidence": 0.22,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "VZxnG8uMFqo",
+      "title": "Jazz Spastiks ft. Count Bass D “Delicious” Chords 🔥🎹🔥 Ab 94 bpm #DeliciousChords #JazzSpastiks",
+      "n_chords": 48,
+      "duration_sec": 20.5,
+      "key": "Ab major",
+      "key_confidence": 0.82,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -8800,6 +9150,16 @@
       "n_chords": 13,
       "duration_sec": 23.0,
       "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "WbIPt8y2QNY",
+      "title": "Level 42 “Sirens” Chords (John Morales Mix) 🔥🎹🔥 Em 106 bpm #MarkKing #Level42Sirens",
+      "n_chords": 8,
+      "duration_sec": 18.0,
+      "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -8975,6 +9335,16 @@
       "status": "ok"
     },
     {
+      "id": "X0hDNIkshBk",
+      "title": "Lucky Daye “That’s You” Chords 👌🎹🔥 D 130 bpm #LuckyDaye #ThatsYouChords",
+      "n_chords": 17,
+      "duration_sec": 36.0,
+      "key": "B minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "X0QlCzi1oak",
       "title": "This Chord Progression Features Just a Single Chord 🔥🎹🔥 — Deep House Vibes",
       "n_chords": 0,
@@ -9093,6 +9463,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "xefBjjtMg7Q",
+      "title": "J Dilla “DFTF” Chords 🔥🎹👌 #JDilla #DFTFChords #TheColoradoTrail #DaveGrusin #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 10.25,
+      "key": "A minor",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "xEKnW8RWCQw",
@@ -9371,6 +9751,16 @@
       "duration_sec": 41.5,
       "key": "F minor",
       "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "ycUzX7QBDT0",
+      "title": "Roy Ayers “Everybody Loves The Sunshine” Chords 👌🎹🌞  #RoyAyers #EverybodyLovesTheSunshineChords",
+      "n_chords": 18,
+      "duration_sec": 27.0,
+      "key": "E minor",
+      "key_confidence": 0.59,
       "n_unsure": 1,
       "status": "ok"
     },
@@ -9673,6 +10063,16 @@
       "key_confidence": 0.89,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "zSKjMXlb_Wc",
+      "title": "Bob James “Feel Like Making Love” Intro Chords 🔥🎹🔥 #BobJames #FeelLikeMakingLove",
+      "n_chords": 10,
+      "duration_sec": 22.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.24,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "ZTtupNIFy0A",
