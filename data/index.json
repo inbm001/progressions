@@ -1,8 +1,8 @@
 {
-  "count": 693,
-  "ok": 546,
-  "failed": 147,
-  "updated": "2026-09-08 01:21:43",
+  "count": 733,
+  "ok": 585,
+  "failed": 148,
+  "updated": "2026-09-08 01:54:35",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -95,6 +95,16 @@
       "status": "ok"
     },
     {
+      "id": "-PoQexEwMj8",
+      "title": "Sade \"Maureen\" Chords 🔥🎹🔥 #musicianparadise #sade",
+      "n_chords": 12,
+      "duration_sec": 15.0,
+      "key": "Db major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "-QOr0kfihWU",
       "title": "Daft Punk \"One More Time\" Chords 🔥🎹🔥 Happy 2026! #musicianparadise",
       "n_chords": 20,
@@ -121,6 +131,16 @@
       "duration_sec": 23.5,
       "key": "Eb major (?)",
       "key_confidence": 0.04,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "04o6ol1N--E",
+      "title": "How Masters At Work Transformed Gus Gus 'VIP' With This Legendary Chords 🔥🎹🔥#musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 15.25,
+      "key": "A minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -211,6 +231,16 @@
       "duration_sec": 11.0,
       "key": "C minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "12yuVfFSkf4",
+      "title": "The Hidden Jazz Theory Behind The Notorious B.I.G.’s “Me & My Bitch”🔥🎹🔥 | Sample Breakdown",
+      "n_chords": 8,
+      "duration_sec": 10.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -325,6 +355,16 @@
       "status": "ok"
     },
     {
+      "id": "2GntawjgN9Q",
+      "title": "The Iconic SWV Chords From \"Use Your Heart\" That Inspired Kendrick Lamar's \"Heart pt.6\"🔥🎹🔥",
+      "n_chords": 31,
+      "duration_sec": 51.5,
+      "key": "Db minor",
+      "key_confidence": 0.78,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2h2hMqD36lo",
       "title": "Slum Village Ft. Kanye West & John Legend “Selfish” Chords 🔥🎹🔥 Sample -\"Call Me\" by Aretha Franklin",
       "n_chords": 27,
@@ -341,6 +381,16 @@
       "duration_sec": 16.0,
       "key": "Db major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "2jucbyseGrI",
+      "title": "Rocco Rodamaal ft. Keith Thompson \"Break 4 Love\" Chord Magic: The Secret Behind  House Classic 🔥🎹🔥",
+      "n_chords": 25,
+      "duration_sec": 15.25,
+      "key": "C minor (?)",
+      "key_confidence": 0.43,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -453,6 +503,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "3H5t-FdqoBk",
+      "title": "DECODED: Stevie Wonder's Power Flower Secret Chord Theory 🔥🎹🔥 #musicianparadise",
+      "n_chords": 50,
+      "duration_sec": 55.0,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "3h7J6MI-Klw",
@@ -1225,6 +1285,16 @@
       "status": "ok"
     },
     {
+      "id": "9dPi-U92Km8",
+      "title": "The LEGENDARY Rhodes Chords in Stevie's “All I Do”🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 16.5,
+      "key": "E major (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "9iQptlTGodg",
       "title": "QWERTYllion Of Free Chord Presets Under Your Fingertips Free VST Ripchord  🔥🎹🔥",
       "n_chords": 0,
@@ -1295,6 +1365,16 @@
       "status": "ok"
     },
     {
+      "id": "9VKV_Wy884s",
+      "title": "Kendrick Lamar's “Luther” Chords 🔥🎹🔥 #musicianparadise #gnx",
+      "n_chords": 12,
+      "duration_sec": 14.0,
+      "key": "G major (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "9W3iY9MAjt4",
       "title": "Les McCann “Sometimes I Cry” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
@@ -1351,6 +1431,16 @@
       "duration_sec": 25.25,
       "key": "C# minor (?)",
       "key_confidence": 0.45,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "_HXvEwL5K4w",
+      "title": "The Clever Jazz Chords Behind Erykah Badu's “Cleva” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 34,
+      "duration_sec": 52.0,
+      "key": "D# minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2065,6 +2155,16 @@
       "status": "ok"
     },
     {
+      "id": "Cthb4NSHUpE",
+      "title": "Stevie Wonder “Send One Your Love” Bridge Chords 🔥🎹🔥 #musicianparadise #steviewonderchords",
+      "n_chords": 8,
+      "duration_sec": 13.25,
+      "key": "C major (?)",
+      "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "CtjrZPci2Xk",
       "title": "Steal These Rootless Chords 🔥🎹🔥 #MusicianParadise #rhodes73mki",
       "n_chords": 0,
@@ -2081,6 +2181,16 @@
       "duration_sec": 24.25,
       "key": "F# minor (?)",
       "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "cw-Dfqy21VE",
+      "title": "Tyler, The Creator - “DOGTOOTH” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 12.25,
+      "key": "Db minor (?)",
+      "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2102,6 +2212,16 @@
       "key": "C# minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "D-qkFZZP3KE",
+      "title": "The Final Chord Will Blow Your Head Off - The Roots “Tomorrow” Final Chords🔥🎹🔥#musicianparadise",
+      "n_chords": 54,
+      "duration_sec": 54.5,
+      "key": "C minor (?)",
+      "key_confidence": 0.25,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -2331,6 +2451,16 @@
       "duration_sec": 28.5,
       "key": "C major (?)",
       "key_confidence": 0.21,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "E98MGc4LJJM",
+      "title": "Tyler, the Creator “Hope You Find Your Way Home” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 17.0,
+      "key": "E major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2795,6 +2925,16 @@
       "status": "ok"
     },
     {
+      "id": "g4LClpnz6cM",
+      "title": "The Genius Neo-Soul Progression Behind Jamiroquai's 'Seven Days In Sunny June’🔥🎹🔥 #jamiroquai",
+      "n_chords": 29,
+      "duration_sec": 27.25,
+      "key": "A major (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "G731YhihVBA",
       "title": "Shalamar “A Night To Remember”—Chords That'll Make You Dance 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -3125,6 +3265,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "hA_UR7tAkeM",
+      "title": "The legendary chord progression behind Michael Jackson's \"Thriller\" 🔥🎹🔥 #michaeljackson",
+      "n_chords": 44,
+      "duration_sec": 60.0,
+      "key": "F# minor (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "hDQibtYTXuk",
       "title": "Roland Garros 2005 Smash Court Tennis “Opening” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 33,
@@ -3183,6 +3333,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "hO2t66mG888",
+      "title": "The Secret Jazz Chord Progression Behind Jeff Lorber's “Rain Song” 🔥🎹🔥",
+      "n_chords": 8,
+      "duration_sec": 20.25,
+      "key": "C major (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "Ht3JCV8cOnc",
@@ -3245,6 +3405,16 @@
       "status": "ok"
     },
     {
+      "id": "HyfIKp95iRI",
+      "title": "Erykah Badu's Secret Chord Recipe in “Rim Shot” 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 9,
+      "duration_sec": 12.0,
+      "key": "Bb major",
+      "key_confidence": 0.9,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "I4ifF8VSBQQ",
       "title": "Prince’s Hidden Funk Gem: The “Jukebox With A Heartbeat” Chords 🔥🎹🔥",
       "n_chords": 16,
@@ -3302,6 +3472,16 @@
       "key": "D major",
       "key_confidence": 0.79,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "Idip9ByXQd8",
+      "title": "The SECRET Chord Progression That Made “Can You Stand The Rain” LEGENDARY 🌧️ (Emotional!)” 🔥🎹🔥",
+      "n_chords": 44,
+      "duration_sec": 53.5,
+      "key": "Db major (?)",
+      "key_confidence": 0.38,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -3485,6 +3665,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "j2O2ePqlDuc",
+      "title": "Tyler, The Creator “STChroma” Chords 🔥🎹🔥 #musicianparadise #TylerChords",
+      "n_chords": 17,
+      "duration_sec": 12.75,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "J3i60fBLKpc",
       "title": "Pharrell “Bad Day”(Despicable Me) Chords 🔥🎹🔥 Original Motion Picture Soundtrack #musicianparadise",
       "n_chords": 26,
@@ -3565,6 +3755,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "jE6hPT9ai2o",
+      "title": "How Tyler Created That CRAZY “I Think” Outro Chords 🔥🎹🔥 | Chord Breakdown  #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 16.0,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Jgcx9XmA3fk",
       "title": "The Most Emotional Outro 🎹🤯 Jamiroquai \"Virtual Insanity” #Jamiroquai",
       "n_chords": 7,
@@ -3573,6 +3773,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "jGNKo_Zlrys",
+      "title": "TYLA “Water” Chords REVEALED! 🔥🎹🔥 #musicianparadise",
+      "n_chords": 41,
+      "duration_sec": 49.0,
+      "key": "G# minor",
+      "key_confidence": 0.72,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "JhX01vU9fqQ",
@@ -3603,6 +3813,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "jnBEAmv8_NM",
+      "title": "The Mind-Bending Rhythm Behind Frederic Robinson ft. Richard Spaven “Muscle Memory” Chords 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 16.25,
+      "key": "A minor",
+      "key_confidence": 0.85,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "jNqBjMK3-C8",
@@ -3703,6 +3923,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "k5tIT0SWTfA",
+      "title": "70s Bliss - Brenda Russell “In The Thick Of It” Chords  🔥🎹🔥 #musicianparadise",
+      "n_chords": 37,
+      "duration_sec": 52.25,
+      "key": "Eb major (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "k6gdl8xu2sQ",
@@ -3851,6 +4081,16 @@
       "duration_sec": 13.0,
       "key": "E major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "KVqHWl9W3iY",
+      "title": "Janet Jackson & Beenie Man's “Feel It Boy”🔥🎹🔥 Amazing Chad Hugo Chords #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 9.25,
+      "key": "C minor",
+      "key_confidence": 0.54,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4141,6 +4381,16 @@
       "duration_sec": 34.5,
       "key": "B major",
       "key_confidence": 0.6,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "mBqwHRKaKus",
+      "title": "Breaking Down Tyler’s Chords in ‘Hey Jane’ 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 20.25,
+      "key": "B major (?)",
+      "key_confidence": 0.34,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4865,6 +5115,16 @@
       "status": "ok"
     },
     {
+      "id": "pbk8qYeCHDc",
+      "title": "Recreate J Dilla’s “Showtime” Chords and Level Up Your Beats 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 4,
+      "duration_sec": 11.25,
+      "key": "Db major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "pcog2BhKLs0",
       "title": "Jamiroquai “Half The Man” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 28,
@@ -4901,6 +5161,16 @@
       "duration_sec": 29.5,
       "key": "Gb major (?)",
       "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "PjBrLmQPypg",
+      "title": "Kendrick Lamar “Heart pt.6” Chords SWV “Use Your Heart” Remake? 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 12.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.14,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5015,6 +5285,16 @@
       "status": "ok"
     },
     {
+      "id": "qb8cj9Cgh2U",
+      "title": "Stevie Wonder “The Secret Life Of Plants” Secret Chords 🔥🎹🔥 #StevieWonderChords",
+      "n_chords": 36,
+      "duration_sec": 42.0,
+      "key": "C# minor",
+      "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "QbBphHT64ME",
       "title": "Chord Presets Test - Free VST Ripchord 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -5055,12 +5335,32 @@
       "status": "ok"
     },
     {
+      "id": "qe1lKF_9jy4",
+      "title": "Unmasking Tyler, The Creator's \"Take Your Mask Off\" Chords 🔥🎹🔥 #MusicianParadise #Tylerschords",
+      "n_chords": 11,
+      "duration_sec": 26.25,
+      "key": "E minor",
+      "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "qi45bo-yCtA",
       "title": "Still One of the Smoothest R&B Progressions Ever – DeBarge “I Like It” 🔥🎹🔥",
       "n_chords": 43,
       "duration_sec": 33.0,
       "key": "C# minor (?)",
       "key_confidence": 0.49,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "QigqYPr5mkY",
+      "title": "The Neo-Soul Magic Behind Tyler's Treehome95 Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 23.5,
+      "key": "C# minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5213,6 +5513,16 @@
       "key_confidence": 0.18,
       "n_unsure": 5,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "R33x0boLETs",
+      "title": "Janet Jackson \"Would You Mind” Chords 🔥🎹🔥 | Jimmy Jam & Terry Lewis production",
+      "n_chords": 11,
+      "duration_sec": 38.0,
+      "key": "C minor",
+      "key_confidence": 0.56,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "RaQLGBi6gEQ",
@@ -5555,6 +5865,16 @@
       "status": "ok"
     },
     {
+      "id": "SMMb151FsY0",
+      "title": "The Secret Neo-Soul Chords Behind Ledisi's “Alright” 🔥🎹🔥| Chord Breakdown #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 22.0,
+      "key": "G minor (?)",
+      "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "snvoRs05-HM",
       "title": "Q-Tip “You” Chords 🔥🎹🔥 #MusicianParadise #chordprogressions",
       "n_chords": 8,
@@ -5845,6 +6165,16 @@
       "status": "ok"
     },
     {
+      "id": "tNvKGVo4py8",
+      "title": "J. Dilla “Dreamy” Chords - Dave Grusin “The Colorado Trail” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 9.25,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TPNKblPlO_Y",
       "title": "Westside Gunn “Shootouts In Soho” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -5853,6 +6183,16 @@
       "key_confidence": 0.73,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "TQhJhYw5h-0",
+      "title": "Terrace Martin Darkest Chords - Kendrick Lamar “You Ain’t Gotta Lie” (Momma Said) Chords 🔥🎹🔥",
+      "n_chords": 6,
+      "duration_sec": 11.5,
+      "key": "B minor",
+      "key_confidence": 0.99,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "tqPr_AA3Xow",
@@ -6255,6 +6595,16 @@
       "status": "ok"
     },
     {
+      "id": "vX6b-V7wWDs",
+      "title": "The Jazz Sample Behind Q-Tip’s  “Believe” That Nobody Talks About Recreated 🔥🎹🔥 | Hal Galper",
+      "n_chords": 8,
+      "duration_sec": 9.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "W6S_5NlOedA",
       "title": "Unlock Kendrick Lamar “Mirror” Chords🔥🎹🔥 Chords Progression Breakdown #musicianparadise #beatmaker",
       "n_chords": 16,
@@ -6311,6 +6661,16 @@
       "duration_sec": 24.0,
       "key": "E major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "whMmL22OEp4",
+      "title": "Tyler, The Creator “LEMONHEAD” “Call Me If You Get Lost” Part Chords 🔥🎹🔥#musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 3.5,
+      "key": "A major (?)",
+      "key_confidence": 0.3,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6405,6 +6765,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "X6yJu82MQa4",
+      "title": "Tyler, The Creator “Darling, I” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 49.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "X8HioHTYoH0",
       "title": "“Loop Demo Racing Lagoon OST” Chords 🔥🎹🔥 Takahito Eguchi & Noriko Matsueda",
       "n_chords": 29,
@@ -6471,6 +6841,16 @@
       "duration_sec": 16.25,
       "key": "A major (?)",
       "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "xeETMcaUOug",
+      "title": "Chord Progression Made TWO Hits! 🔥🎹🔥 Mtume “Juicy Fruit” Biggie Connection The Notorious B.I.G",
+      "n_chords": 27,
+      "duration_sec": 32.25,
+      "key": "A major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6875,6 +7255,16 @@
       "status": "ok"
     },
     {
+      "id": "ZdNJfuKLeZA",
+      "title": "Chord Progression That Made Jodeci “Love U 4 Life” A 90s R&B Classic🔥🎹🔥 #musicianparadise",
+      "n_chords": 43,
+      "duration_sec": 48.75,
+      "key": "G minor",
+      "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "zf031AKk_fg",
       "title": "Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
       "n_chords": 4,
@@ -6911,6 +7301,16 @@
       "duration_sec": 11.25,
       "key": "Eb major (?)",
       "key_confidence": 0.22,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "zYxIewftOcw",
+      "title": "RIP Quincy Jones “One Hundred Ways” Chords 🔥🎹🔥 #musicianparadise #quincyjones",
+      "n_chords": 13,
+      "duration_sec": 21.25,
+      "key": "Eb major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
