@@ -1,8 +1,8 @@
 {
-  "count": 813,
-  "ok": 658,
-  "failed": 155,
-  "updated": "2026-09-08 03:13:02",
+  "count": 853,
+  "ok": 693,
+  "failed": 160,
+  "updated": "2026-09-08 03:55:27",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -111,6 +111,16 @@
       "duration_sec": 31.25,
       "key": "G major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "-yQ86t-2mCw",
+      "title": "Roy Ayers “This Side Of Sunshine” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 19,
+      "duration_sec": 25.75,
+      "key": "Db major",
+      "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -395,6 +405,16 @@
       "status": "ok"
     },
     {
+      "id": "2CZP5SqvV3A",
+      "title": "Mick Jenkins' 'Gucci Tried To Tell Me' 🔥🎹🔥 #chords",
+      "n_chords": 23,
+      "duration_sec": 22.0,
+      "key": "C# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2GntawjgN9Q",
       "title": "The Iconic SWV Chords From \"Use Your Heart\" That Inspired Kendrick Lamar's \"Heart pt.6\"🔥🎹🔥",
       "n_chords": 31,
@@ -655,6 +675,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "45kpdFQ5YvQ",
+      "title": "Griselda & 50 Cent “City On The Map” Breakdown 🔥🎹🔥 #musicianparadise  #chordprogression",
+      "n_chords": 0,
+      "duration_sec": 24.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "4D_KkbUoqB8",
       "title": "Tyler, The Creator “Don’t You Worry Baby” Chords 🔥🎹🔥",
       "n_chords": 7,
@@ -805,6 +835,16 @@
       "status": "ok"
     },
     {
+      "id": "59elnBNLrEA",
+      "title": "A Tribe Called Quest “Find a Way” Chords 🔥🎹🔥 94 bpm Detroit’s Finest J. Dilla",
+      "n_chords": 11,
+      "duration_sec": 20.5,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "5_jb8GPZzI0",
       "title": "Linda Clifford \"Runaway Love\" Intro chords 🔥🎹🔥",
       "n_chords": 14,
@@ -841,6 +881,16 @@
       "duration_sec": 10.0,
       "key": "B major",
       "key_confidence": 0.5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5DmjDe-33Kc",
+      "title": "S.O.S.' (Dit Dit Dit Dash Dash Dash Dit Dit Dit) Hit 🔥🎹🔥#musicianparadise #chordprogression",
+      "n_chords": 10,
+      "duration_sec": 16.25,
+      "key": "E minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1675,6 +1725,16 @@
       "status": "ok"
     },
     {
+      "id": "A_gLvT3gTPc",
+      "title": "Daft Punk Inspired Chords 🔥🎹🔥 #musicianparadise #DaftPunkChords",
+      "n_chords": 16,
+      "duration_sec": 29.25,
+      "key": "Db major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AAMBjpHJJO0",
       "title": "Black Coffee Ft Bucie \"Superman\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -1703,6 +1763,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "aCziTEi7c8g",
+      "title": "How bass can completely change the chords - Moon Boots ft. KONA \"So Precious” Chords 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 38.5,
+      "key": "Bb minor",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "ACzMEspZROg",
@@ -1752,6 +1822,16 @@
       "key": "D major",
       "key_confidence": 1.0,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "AMbsIBQXyk0",
+      "title": "The Neptunes Production - Kelis \"Scared Money\" Chords 🔥🎹🔥 #musicianparadise #theneptunes",
+      "n_chords": 11,
+      "duration_sec": 28.0,
+      "key": "C major (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1945,6 +2025,16 @@
       "status": "ok"
     },
     {
+      "id": "b25g0hhpJQs",
+      "title": "This Jodeci Chord Progression Will Take You Back To The 90s: \"My Heart Belongs To You” Chords 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 15.0,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "B2hqgOdmGfU",
       "title": "J Dilla “La La La” Chords 🔥🎹🔥 #jdilla #musicianparadise",
       "n_chords": 7,
@@ -2031,6 +2121,16 @@
       "duration_sec": 20.25,
       "key": "B major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "BmUbNFs_1uY",
+      "title": "This Chord Progression Will Give You Chills 😱 Norah Jones & Robert Glasper 'Let It Ride' Chords 🔥🎹🔥",
+      "n_chords": 24,
+      "duration_sec": 24.5,
+      "key": "F minor",
+      "key_confidence": 0.92,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2205,6 +2305,16 @@
       "status": "ok"
     },
     {
+      "id": "C_HexTLZslo",
+      "title": "Cosmic Chords - Jamiroquai “Canned Heat” Verse 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 12,
+      "duration_sec": 29.75,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "cb0-jJzYnsA",
       "title": "Michael Jackson Ft. Paul McCartney “The Girl Is Mine” Chords 🔥🎹🔥 29.08.1958 MJ's Birthday.",
       "n_chords": 36,
@@ -2365,6 +2475,16 @@
       "status": "ok"
     },
     {
+      "id": "cRJE_f642kQ",
+      "title": "The Neptunes Magic - Sade \"By Your Side\" Chords (The Neptunes Remix) 🔥🎸🔥",
+      "n_chords": 21,
+      "duration_sec": 46.75,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 5,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "CrjF0beWi38",
       "title": "Kendrick Lamar “Poe Mans Dreams ” 🔥🎹🔥 Gil Scott-Heron & Brian Jackson Sample",
       "n_chords": 7,
@@ -2482,6 +2602,16 @@
       "key": "C minor (?)",
       "key_confidence": 0.25,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "d-ZJHMN0nG8",
+      "title": "Those Rootless Chords Will Blow Your Mind - Kendrick Lamar \"Blow My High” (Members Only) Chords 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 16.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.37,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2745,6 +2875,16 @@
       "status": "ok"
     },
     {
+      "id": "E_bBaLu-VHQ",
+      "title": "Decoding Robert Glasper's 'All I Do' ft. SiR & Bridget Kelly: Chord Progression Breakdown 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 16.0,
+      "key": "C# minor",
+      "key_confidence": 0.85,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "eaaqz1DYq3M",
       "title": "Freddie Gibbs & The Alchemist ft. Anderson .Paak “Ensalada” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -2975,6 +3115,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "f4ectYKuvzg",
+      "title": "Miles Davis (Joe Henderson 1967) - “Nardis” Kenny Barron Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 34,
+      "duration_sec": 31.25,
+      "key": "F major",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "f64kt28Y6Dw",
       "title": "Jamiroquai “Scam” Outro Chords 🔥🎹🔥 Pure Acid-Jazz Fire. #musicianparadise",
       "n_chords": 13,
@@ -3055,6 +3205,16 @@
       "status": "ok"
     },
     {
+      "id": "FEEs-s26pHI",
+      "title": "The Neptunes Futuristic 2000s Chords - Lupe Fiasco \"I Gotcha\"Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.75,
+      "key": "Db minor (?)",
+      "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "FGA_-TJYX2A",
       "title": "Jamiroquai “Virtual Insanity” Intro Chords 🔥🎹🔥 Hard to believe this song turns 30!",
       "n_chords": 8,
@@ -3063,6 +3223,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "fhGNGlAfFmI",
+      "title": "Who needs a chord diagram for this? #musicianparadise #chordprogression",
+      "n_chords": 0,
+      "duration_sec": 31.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "FHMU0D4nQEk",
@@ -3285,11 +3455,31 @@
       "status": "ok"
     },
     {
+      "id": "gbu2D-BmkZw",
+      "title": "This Radiohead Chord Progression Will Mess With Your Brain! “Pyramid” Song Chords 🔥🎹🔥",
+      "n_chords": 9,
+      "duration_sec": 18.25,
+      "key": "G major (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "GEYl92AtbCU",
       "title": "Kendrick Lamar “Sing About Me Im Dying Of Thirst” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 15,
       "duration_sec": 11.5,
       "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "gFaErEg5EWs",
+      "title": "Vintage Neo Soul Chords 🔥🎹🔥#musicianparadise #chordprogressions",
+      "n_chords": 12,
+      "duration_sec": 13.0,
+      "key": "D minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -3481,6 +3671,16 @@
       "duration_sec": 31.75,
       "key": "A# minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "gXrZBPbrZ5g",
+      "title": "You won't believe Paul McCartney wrote those chords! Paul McCartney “Arrow Through Me” Chords 🔥🎹🔥",
+      "n_chords": 20,
+      "duration_sec": 31.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.03,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3885,6 +4085,16 @@
       "status": "ok"
     },
     {
+      "id": "IM2XSi6cFcc",
+      "title": "Insanely Beautiful Chords - Jamiroquai “Smile” Bridge 🔥🎹🔥#musicianparadise #chordprogression",
+      "n_chords": 9,
+      "duration_sec": 28.0,
+      "key": "Gb minor",
+      "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Ima_BB6pz08",
       "title": "Hyper Extended Chords - N.E.R.D ‘Run To The Sun’ Chords 🔥🎹🔥 #chordprogression #musicianparadise",
       "n_chords": 7,
@@ -4101,6 +4311,16 @@
       "duration_sec": 59.25,
       "key": "A minor (?)",
       "key_confidence": 0.44,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "jaarB6KbDFk",
+      "title": "The most sampled and beautiful chords ever: Minnie Riperton \"Inside My Love \" Bridge 🔥🎹🔥 #JoeSample",
+      "n_chords": 16,
+      "duration_sec": 10.25,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.28,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4385,6 +4605,16 @@
       "status": "ok"
     },
     {
+      "id": "Ka9MmWrgCrg",
+      "title": "This Chord Progression Made Fabe 'Quand J'serai Grand' a French Rap Classic!🔥🎹🔥#musisianparadise",
+      "n_chords": 8,
+      "duration_sec": 11.25,
+      "key": "B major",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "kCQftIBOJjs",
       "title": "CHIC's Hidden Gem: “A Warm Summer Night” Chord Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
@@ -4553,6 +4783,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "KzLKRzdTaXY",
+      "title": "Kendrick Lamar “How Much A Dollar Cost” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 13,
+      "duration_sec": 21.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "L-H_Bhd5SbM",
@@ -4855,6 +5095,16 @@
       "status": "ok"
     },
     {
+      "id": "MdRPEEx-Dmg",
+      "title": "Funk Up Your Chords - Jamiroquai “Canned Heat” Refrain Chords 🔥🎹🔥 #musicianparadise #cannedchords",
+      "n_chords": 12,
+      "duration_sec": 7.25,
+      "key": "D minor (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "MECzMcNvm24",
       "title": "Pharrell Williams Remix - A Tribe Called Quest “Bonita Applebum” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 35,
@@ -5015,6 +5265,16 @@
       "status": "ok"
     },
     {
+      "id": "N0WGzNYGYcw",
+      "title": "The Neptunes - Art Of Remix - Sade \"By Your Side\" Chords (The Neptunes Remix) 🔥🎹🔥",
+      "n_chords": 19,
+      "duration_sec": 46.75,
+      "key": "C# minor (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "N0yATjlliwI",
       "title": "Jamiroquai “Time Won’t Wait” Bridge Chords 🔥🎹🔥 Explosive Chords! #musicianparadise",
       "n_chords": 26,
@@ -5151,6 +5411,16 @@
       "duration_sec": 32.75,
       "key": "G# minor",
       "key_confidence": 0.92,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "NKlTkq5Rly0",
+      "title": "Decoding the Soul: Robert Glasper & India Arie's 'Hi' Chords 🔥🎹🔥 #chordprogression",
+      "n_chords": 11,
+      "duration_sec": 17.25,
+      "key": "Eb minor",
+      "key_confidence": 0.66,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5351,6 +5621,16 @@
       "duration_sec": 22.5,
       "key": "Bb minor (?)",
       "key_confidence": 0.42,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "O8LRp5tiYPI",
+      "title": "Jeff Lorber Fusion “Rain Dance” VS Ariana Grande “Right There” Chords 🔥🎹🔥  #musicianparadise",
+      "n_chords": 23,
+      "duration_sec": 22.5,
+      "key": "G major (?)",
+      "key_confidence": 0.25,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5665,6 +5945,16 @@
       "status": "ok"
     },
     {
+      "id": "pceI0oZ2pZo",
+      "title": "Bruno Mars' Amazing Arrangement - Lucky Daye “That’s You” Chords 👌🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 36.0,
+      "key": "B minor (?)",
+      "key_confidence": 0.01,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "pcog2BhKLs0",
       "title": "Jamiroquai “Half The Man” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 28,
@@ -5831,6 +6121,16 @@
       "duration_sec": 9.5,
       "key": "D minor (?)",
       "key_confidence": 0.39,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "q8uEj-Zeq_Q",
+      "title": "Sade \"Kiss of Life\" Chords 🔥🎹🔥#musicianparadise #chordprogressions",
+      "n_chords": 13,
+      "duration_sec": 34.75,
+      "key": "F# minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6235,6 +6535,16 @@
       "status": "ok"
     },
     {
+      "id": "RobBX9BgBEg",
+      "title": "Chad Hugo went wild on this one! Justin Timberlake “Last Night” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 28.25,
+      "key": "G minor",
+      "key_confidence": 0.99,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Rpu8LpKpqa8",
       "title": "Unlock the Soul: Leon Ware \"Comfort\" Chord Progression Tutorial 🔥🎹🔥 #musicianparadise",
       "n_chords": 44,
@@ -6471,6 +6781,16 @@
       "duration_sec": 37.25,
       "key": "Bb major",
       "key_confidence": 0.52,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "shvgWv3of_c",
+      "title": "Neo-Soul Science 🔥🎹🔥 MIDI, Chord Presets - Patreon #musicianparadise #chordprogression",
+      "n_chords": 6,
+      "duration_sec": 8.75,
+      "key": "G major (?)",
+      "key_confidence": 0.16,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7075,6 +7395,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "UERu7Sxy6O4",
+      "title": "Dark Chords - Kendrick Lamar “You Ain’t Gotta Lie” (Momma Said) Chords 🔥🎹🔥",
+      "n_chords": 6,
+      "duration_sec": 11.5,
+      "key": "B minor",
+      "key_confidence": 0.98,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "uEY4ny8nNDA",
       "title": "N.C. Stands For “No Chords” LOL - Don Blackman “You Ain't Hip” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -7205,6 +7535,16 @@
       "status": "ok"
     },
     {
+      "id": "VbK30k0T26o",
+      "title": "The Grammy-Winning Chords: Robert Glasper 'Better Than I Imagined' Breakdown 🏆🎹🏆",
+      "n_chords": 30,
+      "duration_sec": 26.75,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.42,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Vc8fDYR3ICA",
       "title": "The Chords Behind Roy Ayers “Everybody Loves the Sunshine” 🔥🎹🔥",
       "n_chords": 17,
@@ -7271,6 +7611,16 @@
       "duration_sec": 50.0,
       "key": "B major",
       "key_confidence": 0.95,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Vot7Xzsn4Ag",
+      "title": "Jodeci Meets SWV - Intense R&B Chords - E Will “Crazy For Your Love” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 27.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.08,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7345,6 +7695,16 @@
       "status": "ok"
     },
     {
+      "id": "W8DH6l_rbeg",
+      "title": "Somber Neo Soul Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 15,
+      "duration_sec": 25.0,
+      "key": "C minor",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "W8DzdacAEyo",
       "title": "My Attempt to Transcribe the Impossible - Devin Morrison's \"Welcome To Dreamsoul\" Chords 🔥🎹🔥",
       "n_chords": 38,
@@ -7405,6 +7765,16 @@
       "status": "ok"
     },
     {
+      "id": "wIG70m8jrgA",
+      "title": "Dark Mysterious Neo Soul Chords 🔥🎹🔥#musicianparadise #midichords",
+      "n_chords": 26,
+      "duration_sec": 31.75,
+      "key": "D major (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "wKQK6PEd3nA",
       "title": "Daft Punk Inspired Chords 🔥🎹🔥 Basically “Voyager” chords but I added some chord extensions.",
       "n_chords": 4,
@@ -7442,6 +7812,16 @@
       "key": "E minor",
       "key_confidence": 0.54,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wUtzKn3TIj0",
+      "title": "Gas-Lab x Paul Grant “Summer Drive” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 24.25,
+      "key": "C# minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -7543,6 +7923,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "XA0EAjsNcDI",
+      "title": "Dark Introspective Neo Soul Chords 🔥🎹🔥 #chordprogression #musiccomposition #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 16.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.01,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "xa34OS0v39E",
@@ -7832,6 +8222,16 @@
       "key": "F minor",
       "key_confidence": 1.0,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "yDlABN53h0s",
+      "title": "From Basic to Brilliant: How Tyler, The Creator, Composed 'Boyfriend' Chords 🔥🎹🔥#musicianparadise",
+      "n_chords": 30,
+      "duration_sec": 35.75,
+      "key": "A major",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
