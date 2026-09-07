@@ -1,0 +1,613 @@
+<meta charset="utf-8">
+<title>Always On My Mind</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,600&family=JetBrains+Mono:wght@400;700&family=Noto+Sans+KR:wght@400;500&display=swap">
+
+<style>
+:root {
+  --paper:      #F7F5F2;
+  --paper-2:    #EFEBE4;
+  --ink:        #1C1A17;
+  --ink-soft:   #6B655C;
+  --rule:       #DDD8CF;
+  --key:        #E08A2B;
+  --key-soft:   #F5DCB8;
+  --raw:        #8C4A32;
+  --shadow:     0 1px 0 rgba(28,26,23,.06);
+}
+:root:not([data-theme="light"]) {
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper:    #17161A;
+    --paper-2:  #201E24;
+    --ink:      #EDEAE4;
+    --ink-soft: #9A948B;
+    --rule:     #34313A;
+    --key:      #F0A048;
+    --key-soft: #4A3520;
+    --raw:      #C87A5E;
+    --shadow:   0 1px 0 rgba(0,0,0,.4);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper:    #17161A;
+  --paper-2:  #201E24;
+  --ink:      #EDEAE4;
+  --ink-soft: #9A948B;
+  --rule:     #34313A;
+  --key:      #F0A048;
+  --key-soft: #4A3520;
+  --raw:      #C87A5E;
+  --shadow:   0 1px 0 rgba(0,0,0,.4);
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+/* ---- 머리 ---- */
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px 32px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--rule);
+}
+h1 {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(30px, 4.4vw, 46px);
+  line-height: 1.08;
+  letter-spacing: -.01em;
+  margin: 0;
+  text-wrap: balance;
+}
+.artist {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 6px 0 0;
+}
+.meta {
+  display: flex;
+  gap: 24px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+.meta b {
+  display: block;
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/* ---- 재생 ---- */
+.stage {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 28px;
+  margin-top: 28px;
+  align-items: start;
+}
+@media (max-width: 860px) {
+  .stage { grid-template-columns: 1fr; }
+}
+
+.player { position: sticky; top: 20px; }
+.frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--paper-2);
+  border: 1px solid var(--rule);
+}
+.frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+.now {
+  margin-top: 14px;
+  padding: 14px 16px;
+  background: var(--paper-2);
+  border-left: 3px solid var(--key);
+  border-radius: 0 3px 3px 0;
+}
+.now-label {
+  font-size: 10px;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.now-chord {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-top: 3px;
+  word-break: break-all;
+}
+.now-raw {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12px;
+  color: var(--raw);
+  margin-top: 5px;
+  word-break: break-all;
+  min-height: 1.2em;
+}
+
+.clock {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-top: 12px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+.clock output { font-size: 15px; color: var(--ink); }
+.bar {
+  flex: 1;
+  height: 3px;
+  background: var(--rule);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.bar i { display: block; height: 100%; width: 0; background: var(--key); }
+
+/* ---- 조작 ---- */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+button {
+  font: 500 13px/1 "Noto Sans KR", sans-serif;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 8px 14px;
+  cursor: pointer;
+}
+button:hover { background: var(--paper-2); }
+button[aria-pressed="true"] {
+  background: var(--key);
+  border-color: var(--key);
+  color: #1C1A17;
+}
+button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
+
+/* ---- 마디 ---- */
+h2 {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin: 30px 0 2px;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+h2:first-of-type { margin-top: 0; }
+h2 span {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+.loop {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: .06em;
+  color: var(--key);
+  border: 1px solid var(--key);
+  border-radius: 2px;
+  padding: 1px 6px;
+}
+.desc {
+  font-size: 12.5px;
+  color: var(--ink-soft);
+  margin: 0 0 12px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+/* ---- 코드 ---- */
+.chord {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 11px;
+  background: var(--paper-2);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: left;
+  font: inherit;
+  box-shadow: var(--shadow);
+  transition: background .12s, border-color .12s;
+}
+.chord:hover { border-color: var(--rule); }
+.chord.on {
+  background: var(--key-soft);
+  border-color: var(--key);
+}
+.chord .t {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+.chord .c {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 15px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.chord .r {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10.5px;
+  color: var(--raw);
+  white-space: nowrap;
+}
+body:not(.show-raw) .chord .r { display: none; }
+.chord.dropped { opacity: .42; }
+body:not(.show-dropped) .chord.dropped { display: none; }
+.chord.fixed .c::after {
+  content: "*";
+  color: var(--key);
+  margin-left: 2px;
+}
+
+/* ---- 고친 것 ---- */
+.fixes { margin-top: 48px; padding-top: 22px; border-top: 1px solid var(--rule); }
+.fixes h2 { margin-top: 0; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin-top: 10px;
+}
+th {
+  text-align: left;
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 500;
+  padding: 0 12px 7px 0;
+  border-bottom: 1px solid var(--rule);
+}
+td {
+  padding: 7px 12px 7px 0;
+  border-bottom: 1px solid var(--rule);
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 12.5px;
+  vertical-align: top;
+}
+td.why { font-family: "Noto Sans KR", sans-serif; color: var(--ink-soft); font-size: 12px; }
+td.from { color: var(--raw); }
+.scroll { overflow-x: auto; }
+
+footer {
+  margin-top: 40px;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+footer a { color: var(--ink-soft); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div>
+    <h1>Always On My Mind</h1>
+    <p class="artist">Brandy · 화면에서 읽은 코드 진행</p>
+  </div>
+  <div class="meta">
+    <div>길이<b>69.0초</b></div>
+    <div>판독<b>58개</b></div>
+    <div>정확도<b>100%</b></div>
+  </div>
+</header>
+
+<div class="stage">
+
+  <div class="player">
+    <div class="frame">
+      <iframe id="yt"
+        src="https://www.youtube.com/embed/n6eYnu9cPaQ?enablejsapi=1&playsinline=1"
+        title="Brandy Always On My Mind 코드 영상"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+
+    <div class="now">
+      <div class="now-label">지금</div>
+      <div class="now-chord" id="nowChord">재생을 누르면 따라갑니다</div>
+      <div class="now-raw" id="nowRaw"></div>
+    </div>
+
+    <div class="clock">
+      <output id="clock">0:00</output>
+      <div class="bar"><i id="barFill"></i></div>
+      <span>69.0</span>
+    </div>
+  </div>
+
+  <div>
+    <div class="controls">
+      <button id="btnRaw" aria-pressed="false">화면 원문 함께 보기</button>
+      <button id="btnDropped" aria-pressed="false">걷어낸 것 보기</button>
+    </div>
+    <div id="sections"></div>
+  </div>
+
+</div>
+
+<div class="fixes">
+  <h2>고친 것</h2>
+  <p class="desc">화면 글자를 읽는 과정에서 생긴 오자와, 이 영상 제작자의 표기를 리드시트 표기로 옮긴 것입니다.</p>
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr><th>화면</th><th>수정</th><th>왜</th></tr>
+      </thead>
+      <tbody id="fixTable"></tbody>
+    </table>
+  </div>
+</div>
+
+<footer>
+  코드는 <a href="https://www.youtube.com/watch?v=n6eYnu9cPaQ" target="_blank" rel="noopener">영상</a> 화면에 뜬 글자를 읽은 것입니다.
+  시각은 초당 4장을 캡처해 얻으므로 0.25초 단위입니다.
+</footer>
+
+</div>
+
+<script>
+// 화면에서 읽은 그대로. t=시작(초), d=길이(초), raw=화면 글자, c=수정, why=고친 이유
+const DATA = [
+  { name: "인트로", from: 0.75, to: 5.75, loop: 0, desc: "Bb 마이너 한 자리에서 6/9 를 스칩니다.", items: [
+    { t: 0.75, d: 0.25, raw: "Bb min9",      c: "Bbmin9" },
+    { t: 1.00, d: 1.50, raw: "Bb min6/9",    c: "Bbmin6/9" },
+    { t: 2.75, d: 2.50, raw: "Bb min9",      c: "Bbmin9" }
+  ]},
+  { name: "경과구", from: 5.75, to: 7.75, loop: 0, desc: "베이스가 반음씩 내려가며 지나갑니다. 한 화음이 0.25초씩만 스쳐 원본이 흐트러진 구간입니다.", items: [
+    { t: 5.75, d: 0.25, raw: "Gb Mai7",          c: "GbMaj7",       fix: 1 },
+    { t: 6.00, d: 0.25, raw: "Ab 7(no3) / Gb",   c: "Ab7(no3)/Gb" },
+    { t: 6.25, d: 0.25, raw: "C min7 / E Eb",    c: "Cmin7/Eb",     fix: 1 },
+    { t: 6.50, d: 0.50, raw: "F 7(no3) / Eb",    c: "F7(no3)/Eb" },
+    { t: 7.00, d: 0.75, raw: "Eb Perfect 5th",   c: "Eb5",          drop: 1 },
+    { t: 7.75, d: 3.00, raw: "Cb 13sus",         c: "Cb13sus" }
+  ]},
+  { name: "전개", from: 10.75, to: 17.00, loop: 0, desc: "짧은 화음이 촘촘히 지나갑니다. 두 음만 짚은 자리는 걷어냈습니다.", items: [
+    { t: 10.75, d: 0.25, raw: "Ab Sus4",          c: "Absus4" },
+    { t: 11.00, d: 0.50, raw: "Bb min7(4)",       c: "Bbmin7(11)",  fix: 1 },
+    { t: 11.50, d: 0.25, raw: "A Maj7b5",         c: "AMaj7(b5)" },
+    { t: 11.75, d: 0.75, raw: "A9 9( #11)",       c: "A9(#11)",     fix: 1 },
+    { t: 12.50, d: 0.25, raw: "Cb 7#5 5/ A",      c: "Cb7(#5)/A",   fix: 1 },
+    { t: 12.75, d: 0.25, raw: "A9 9( #11)",       c: "A9(#11)",     fix: 1 },
+    { t: 13.00, d: 1.25, raw: "Ab min7(4)",       c: "Abmin7(11)",  fix: 1 },
+    { t: 14.25, d: 0.75, raw: "A Mai(b5) / Eb",   c: "AMaj(b5)/Eb", fix: 1 },
+    { t: 15.00, d: 1.00, raw: "F 7#5",            c: "F7(#5)" },
+    { t: 16.25, d: 0.50, raw: "F Perfect 4th",    c: "F4",          drop: 1 },
+    { t: 16.75, d: 0.25, raw: "Eb Perfect 4th",   c: "Eb4",         drop: 1 }
+  ]},
+  { name: "A 파트", from: 17.00, to: 27.00, loop: 0, desc: "Eb 에서 Bb 로, 다시 Ab 를 거쳐 Db 로 내려갑니다.", items: [
+    { t: 17.00, d: 1.50, raw: "Eb 13sus",       c: "Eb13sus" },
+    { t: 18.50, d: 0.25, raw: "Eb 7sus4",       c: "Eb7sus4" },
+    { t: 18.75, d: 0.50, raw: "Eb 7(9",         c: "Eb9",      fix: 1 },
+    { t: 19.25, d: 0.25, raw: "Eb 9(13)",       c: "Eb13" },
+    { t: 19.50, d: 0.25, raw: "Eb minor 7th",   c: "Ebmin7",   fix: 1 },
+    { t: 19.75, d: 1.50, raw: "Eb 9(13)",       c: "Eb13" },
+    { t: 21.25, d: 1.00, raw: "Bb 7sus4",       c: "Bb7sus4" },
+    { t: 22.25, d: 0.75, raw: "Bb 7",           c: "Bb7" },
+    { t: 23.00, d: 0.50, raw: "Ab 7",           c: "Ab7" },
+    { t: 23.50, d: 0.25, raw: "Bb min7(4) / Ab", c: "Bbmin7(11)/Ab", fix: 1 },
+    { t: 23.75, d: 1.25, raw: "Ab 9sus4",       c: "Ab9sus4" },
+    { t: 25.00, d: 1.50, raw: "Db 9",           c: "Db9" }
+  ]},
+  { name: "후렴 1", from: 27.00, to: 37.50, loop: 1, desc: "Bbmin7 → F7(#9#5) 가 이 곡의 축입니다.", items: [
+    { t: 27.00, d: 2.25, raw: "Bb min7",     c: "Bbmin7" },
+    { t: 29.50, d: 2.50, raw: "F 7(#9#5)",   c: "F7(#9#5)" },
+    { t: 32.25, d: 2.25, raw: "Bb 9sus4",    c: "Bb9sus4" },
+    { t: 35.00, d: 0.50, raw: "Bb min9",     c: "Bbmin9" },
+    { t: 35.50, d: 1.75, raw: "Db 9(13)",    c: "Db13" }
+  ]},
+  { name: "후렴 2", from: 37.50, to: 43.00, loop: 1, desc: "같은 두 화음이 되풀이됩니다. 끝을 C9sus4 로 열어 다음으로 넘깁니다.", items: [
+    { t: 37.50, d: 2.75, raw: "Bb min7",       c: "Bbmin7" },
+    { t: 40.25, d: 0.50, raw: "F 7(#9#5)",     c: "F7(#9#5)" },
+    { t: 40.75, d: 0.25, raw: "F 7#9( (no5)",  c: "F7(#9)(no5)", fix: 1 },
+    { t: 41.00, d: 1.50, raw: "F 7(#9#5)",     c: "F7(#9#5)" }
+  ]},
+  { name: "B 파트 1", from: 43.00, to: 53.75, loop: 2, desc: "C9sus4 로 시작해 F 오그먼트를 거쳐 Eb13sus 에 5초 넘게 머뭅니다.", items: [
+    { t: 43.00, d: 2.25, raw: "C 9sus4",      c: "C9sus4" },
+    { t: 45.50, d: 0.75, raw: "C 7sus4",      c: "C7sus4" },
+    { t: 46.25, d: 1.00, raw: "D min n / F",  c: "Dmin/F",  fix: 1 },
+    { t: 47.25, d: 1.25, raw: "F Aug",        c: "Faug" },
+    { t: 48.50, d: 5.25, raw: "Eb 13sus",     c: "Eb13sus" }
+  ]},
+  { name: "B 파트 2", from: 53.75, to: 63.25, loop: 2, desc: "같은 흐름이 한 번 더 돕니다. BbMaj9/F 하나가 더 끼어듭니다.", items: [
+    { t: 53.75, d: 2.00, raw: "C 9sus4",       c: "C9sus4" },
+    { t: 55.75, d: 0.25, raw: "Bb Maj9 / F",   c: "BbMaj9/F" },
+    { t: 56.00, d: 0.50, raw: "D min n/ F",    c: "Dmin/F",  fix: 1 },
+    { t: 56.50, d: 2.75, raw: "F Aug",         c: "Faug" },
+    { t: 59.25, d: 2.00, raw: "Eb 13sus",      c: "Eb13sus" },
+    { t: 61.25, d: 2.00, raw: "Eb 9(13)",      c: "Eb13" }
+  ]},
+  { name: "마무리", from: 63.25, to: 69.00, loop: 0, desc: "Db 로 내려앉으며 끝납니다.", items: [
+    { t: 63.25, d: 0.50, raw: "Db 9sus4",  c: "Db9sus4" },
+    { t: 63.75, d: 2.75, raw: "C 13sus",   c: "C13sus" },
+    { t: 66.50, d: 1.00, raw: "F 7sus4",   c: "F7sus4" },
+    { t: 67.50, d: 0.50, raw: "Bb min7",   c: "Bbmin7" },
+    { t: 68.00, d: 0.25, raw: "Db 9sus4",  c: "Db9sus4" },
+    { t: 68.25, d: 0.75, raw: "Db 7(9)",   c: "Db9" }
+  ]}
+];
+
+const FIXES = [
+  ["Gb Mai7",         "GbMaj7",         "j 를 i 로 읽었습니다"],
+  ["A Mai(b5) / Eb",  "AMaj(b5)/Eb",    "같은 오독입니다"],
+  ["A9 9( #11)",      "A9(#11)",        "근음이 한 번 더 잡혔습니다"],
+  ["C min7 / E Eb",   "Cmin7/Eb",       "베이스 음이 두 번 잡혔습니다"],
+  ["D min n / F",     "Dmin/F",         "글자 조각이 하나 더 붙었습니다"],
+  ["Eb 7(9",          "Eb9",            "괄호가 닫히지 않았습니다"],
+  ["F 7#9( (no5)",    "F7(#9)(no5)",    "괄호가 어긋났습니다"],
+  ["Cb 7#5 5/ A",     "Cb7(#5)/A",      "5 가 두 번 잡혔습니다"],
+  ["Eb minor 7th",    "Ebmin7",         "영어를 기호로 바꿨습니다"],
+  ["Bb min7(4)",      "Bbmin7(11)",     "4 는 한 옥타브 위에서 11 입니다"],
+  ["Eb 9(13)",        "Eb13",           "13 을 쓰면 9 는 포함됩니다"],
+  ["Eb Perfect 5th",  "—",              "코드가 아니라 두 음입니다"],
+  ["F Perfect 4th",   "—",              "같습니다"]
+];
+
+/* ---- 화면 그리기 ---- */
+const sections = document.getElementById("sections");
+const all = [];
+
+DATA.forEach(sec => {
+  const h = document.createElement("h2");
+  h.innerHTML = sec.name +
+    ' <span>' + sec.from.toFixed(2) + ' – ' + sec.to.toFixed(2) + '</span>' +
+    (sec.loop ? ' <em class="loop">되풀이</em>' : '');
+  sections.appendChild(h);
+
+  const p = document.createElement("p");
+  p.className = "desc";
+  p.textContent = sec.desc;
+  sections.appendChild(p);
+
+  const row = document.createElement("div");
+  row.className = "row";
+  sec.items.forEach(it => {
+    const b = document.createElement("button");
+    b.className = "chord" + (it.drop ? " dropped" : "") + (it.fix ? " fixed" : "");
+    b.innerHTML =
+      '<span class="t">' + it.t.toFixed(2) + '</span>' +
+      '<span class="c">' + it.c + '</span>' +
+      '<span class="r">' + it.raw + '</span>';
+    b.addEventListener("click", () => seek(it.t));
+    it.el = b;
+    all.push(it);
+    row.appendChild(b);
+  });
+  sections.appendChild(row);
+});
+
+const tbody = document.getElementById("fixTable");
+FIXES.forEach(([from, to, why]) => {
+  const tr = document.createElement("tr");
+  tr.innerHTML = '<td class="from">' + from + '</td><td>' + to +
+                 '</td><td class="why">' + why + '</td>';
+  tbody.appendChild(tr);
+});
+
+/* ---- 켜고 끄기 ---- */
+function toggle(btnId, cls) {
+  const btn = document.getElementById(btnId);
+  btn.addEventListener("click", () => {
+    const on = btn.getAttribute("aria-pressed") === "true";
+    btn.setAttribute("aria-pressed", String(!on));
+    document.body.classList.toggle(cls, !on);
+  });
+}
+toggle("btnRaw", "show-raw");
+toggle("btnDropped", "show-dropped");
+
+/* ---- 영상 따라가기 ---- */
+const nowChord = document.getElementById("nowChord");
+const nowRaw   = document.getElementById("nowRaw");
+const clockEl  = document.getElementById("clock");
+const barFill  = document.getElementById("barFill");
+const TOTAL = 69.0;
+let player = null, timer = null, current = null;
+
+function fmt(s) {
+  const m = Math.floor(s / 60);
+  const r = (s % 60).toFixed(1).padStart(4, "0");
+  return m + ":" + r;
+}
+
+function paint(t) {
+  clockEl.textContent = fmt(t);
+  barFill.style.width = Math.min(100, t / TOTAL * 100) + "%";
+
+  let hit = null;
+  for (const it of all) {
+    if (t >= it.t && t < it.t + it.d) { hit = it; break; }
+  }
+  if (hit === current) return;
+  if (current) current.el.classList.remove("on");
+  current = hit;
+  if (!hit) return;
+
+  hit.el.classList.add("on");
+  nowChord.textContent = hit.c;
+  nowRaw.textContent = hit.raw === hit.c ? "" : hit.raw;
+
+  const r = hit.el.getBoundingClientRect();
+  if (r.top < 80 || r.bottom > innerHeight - 20) {
+    hit.el.scrollIntoView({ block: "center", behavior: "smooth" });
+  }
+}
+
+function seek(t) {
+  if (player && player.seekTo) {
+    player.seekTo(t, true);
+    player.playVideo();
+  }
+  paint(t);
+}
+
+function onReady() {
+  player = new YT.Player("yt", {
+    events: {
+      onStateChange: e => {
+        clearInterval(timer);
+        if (e.data === YT.PlayerState.PLAYING) {
+          timer = setInterval(() => paint(player.getCurrentTime()), 100);
+        }
+      }
+    }
+  });
+}
+
+window.onYouTubeIframeAPIReady = onReady;
+const tag = document.createElement("script");
+tag.src = "https://www.youtube.com/iframe_api";
+document.head.appendChild(tag);
+</script>

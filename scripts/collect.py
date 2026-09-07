@@ -40,6 +40,7 @@ DATA   = ROOT / "data"          # 저장소에 올라가는 결과물
 PUBLISH = os.environ.get("NO_PUBLISH") != "1"   # 배치마다 저장소에 반영
 MIN_EXPECTED = 200      # 전체 실행 시 이 이하면 목록이 잘린 것으로 본다
 BAD_ABORT    = 0.5      # 한 배치 실패율이 이 이상이면 경고, 두 번 연속이면 중단
+DL_MAX       = 4        # 다운로드 병렬 상한. 이보다 크게 넣어도 4로 깎인다
 FFMPEG = r"C:\Users\inbm\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 YTDLP  = [r"C:\Users\inbm\.local\bin\uvx.exe", "yt-dlp"]
 
@@ -66,6 +67,59 @@ FIXES = [
     (r"\s+", " "),
 ]
 
+# 글자를 잘못 읽은 것 중 규칙으로 확실히 잡히는 것.
+# (찾을 것, 바꿀 것, 확신) — 확신이 False 면 결과에 물음표가 붙는다.
+TYPOS = [
+    (r"\bMai\b",        "Maj",   True),   # j 를 i 로 읽음
+    (r"\bMai(?=[0-9(])", "Maj",  True),
+    (r"\bmaior\b",      "Maj",   True),
+    (r"\bminor\s*7th\b", "min7", True),   # 영어를 기호로
+    (r"\bmajor\s*7th\b", "Maj7", True),
+    (r"\bminor\b",      "min",   True),
+    (r"\bmajor\b",      "Maj",   True),
+    (r"\(\s*\(", "(",            True),   # 괄호가 겹침
+    (r"\)\s*\)", ")",            True),
+    (r"\bl(?=[0-9])",   "1",     True),   # 소문자 L 을 1 로
+    (r"\bO(?=[0-9])",   "0",     True),
+]
+
+# 앞뒤를 봐야 아는 것 — 고치되 물음표를 붙인다
+UNSURE = [
+    (r"\bPerfect\s*[45](th)?\b", None),   # 코드가 아니라 두 음
+    (r"\bOctave\b",              None),
+    (r"\bTritone\b",             None),
+]
+
+
+def fix_typos(s):
+    """글자 오독을 고친다. (고친 문자열, 확신) 를 돌려준다."""
+    out, sure = s, True
+    for pat, rep, ok in TYPOS:
+        new = re.sub(pat, rep, out)
+        if new != out:
+            out = new
+            sure = sure and ok
+    return out, sure
+
+
+# 코드에 쓸 수 있는 숫자. 이것 말고 다른 값이 나오면 겹쳐 읽힌 것이다.
+#   D9sus4  -> 9, 4   둘 다 정상
+#   Cb57    -> 57     없는 값. 5 와 7 이 붙었다
+#   A99     -> 99     없는 값. 9 가 두 번 잡혔다
+OK_NUMS = {"2", "4", "5", "6", "7", "9", "11", "13"}
+
+
+def looks_odd(std):
+    """표준 표기가 흐트러졌는지 본다. 판독이 어긋난 자리를 찾는다."""
+    if not std:
+        return False
+    tail = re.sub(rf"^{RT}", "", std)
+    nums = re.findall(r"\d+", re.sub(r"\([^)]*\)", "", tail))
+    return bool(std.count("(") != std.count(")")
+                or any(n not in OK_NUMS for n in nums)
+                or re.search(r"\d\s+\d", std)
+                or re.search(r"(Perfect|Octave|Tritone)", std, re.I))
+
 
 # 코드를 부분으로 가른다. "Db Maj(add2) / F" -> root Db, quality Maj(add2), bass F
 SPLIT = re.compile(rf"^({RT})\s*(.*?)(?:\s*/\s*({RT}))?$")
@@ -89,17 +143,210 @@ def pitch_class(root: str):
     return n % 12
 
 
+# ---------- 조성 판정 ----------
+# 화면에 조성이 없으므로 코드에서 짚어낸다.
+# 각 코드가 내는 음을 모아, 24개 조(장조 12 + 단조 12) 중 어디에 가장
+# 잘 들어맞는지 본다. 지속 시간으로 가중치를 준다 — 오래 울린 코드가
+# 조를 더 강하게 정한다.
+
+MAJOR_SET = [0, 2, 4, 5, 7, 9, 11]
+MINOR_SET = [0, 2, 3, 5, 7, 8, 10]        # 자연단음계
+NAMES_SHARP = ["C", "C#", "D", "D#", "E", "F",
+               "F#", "G", "G#", "A", "A#", "B"]
+NAMES_FLAT  = ["C", "Db", "D", "Eb", "E", "F",
+               "Gb", "G", "Ab", "A", "Bb", "B"]
+
+
+def chord_tones(root_pc, qual):
+    """코드가 내는 음을 근음으로부터의 반음 수로 돌려준다."""
+    if root_pc is None:
+        return []
+    q = (qual or "").lower().replace(" ", "")
+    t = [0]
+
+    # 3음
+    if "sus4" in q or q.startswith("sus"):
+        t.append(5)
+    elif "sus2" in q:
+        t.append(2)
+    elif "min" in q or q.startswith("m") and not q.startswith("maj"):
+        t.append(3)
+    elif "dim" in q:
+        t.append(3)
+    else:
+        t.append(4)
+
+    # 5음
+    if "b5" in q or "dim" in q:
+        t.append(6)
+    elif "#5" in q or "aug" in q:
+        t.append(8)
+    elif "no5" not in q:
+        t.append(7)
+
+    # 7음
+    if "maj7" in q or "maj9" in q or "maj13" in q or "maj11" in q:
+        t.append(11)
+    elif "dim7" in q:
+        t.append(9)
+    elif "7" in q or "9" in q or "11" in q or "13" in q or "alt" in q:
+        t.append(10)
+
+    # 확장음 — 변화음은 조 판정을 흐리므로 자연음만 센다
+    if "9" in q and "b9" not in q and "#9" not in q:
+        t.append(2)
+    if "11" in q and "#11" not in q:
+        t.append(5)
+    if "13" in q and "b13" not in q:
+        t.append(9)
+    if "6" in q:
+        t.append(9)
+
+    return [(root_pc + x) % 12 for x in t]
+
+
+def detect_key(prog):
+    """진행에서 조성을 짚는다. (표기, 확신도 0~1) 를 돌려준다."""
+    if not prog:
+        return None, 0.0
+
+    weight = [0.0] * 12
+    root_w = [0.0] * 12
+    for p in prog:
+        pc = p.get("pc")
+        if pc is None:
+            continue
+        d = float(p.get("dur") or 0.25)
+        root_w[pc] += d
+        for t in chord_tones(pc, p.get("quality")):
+            weight[t] += d
+
+    total = sum(weight)
+    if total <= 0:
+        return None, 0.0
+
+    # 곡은 대개 으뜸음으로 시작하거나 끝난다. 그 자리를 따로 본다.
+    pcs = [p.get("pc") for p in prog if p.get("pc") is not None]
+    first_pc = pcs[0] if pcs else None
+    last_pc = pcs[-1] if pcs else None
+
+    # 가장 오래 울린 근음도 으뜸음일 가능성이 높다
+    rw_total = sum(root_w) or 1.0
+    longest_pc = max(range(12), key=lambda i: root_w[i])
+
+    best = []
+    for tonic in range(12):
+        for is_minor, scale in ((0, MAJOR_SET), (1, MINOR_SET)):
+            inside = sum(weight[(tonic + s) % 12] for s in scale)
+            score = inside / total
+            # 으뜸음을 근음으로 쓴 코드가 많으면 그 조일 가능성이 높다
+            score += 0.30 * (root_w[tonic] / rw_total)
+            # 딸림음(5도)도 조를 가리킨다
+            score += 0.10 * (root_w[(tonic + 7) % 12] / rw_total)
+            # 시작·끝·최장 근음이 으뜸음이면 더 확실하다
+            if tonic == first_pc:
+                score += 0.12
+            if tonic == last_pc:
+                score += 0.08
+            if tonic == longest_pc:
+                score += 0.12
+            best.append((score, tonic, is_minor))
+
+    best.sort(reverse=True)
+    top, second = best[0], best[1]
+    score, tonic, is_minor = top
+
+    # 이름은 화면에 쓰인 표기를 따른다. b 가 많으면 플랫 이름으로.
+    flats = sum(1 for p in prog if "b" in (p.get("root") or ""))
+    sharps = sum(1 for p in prog if "#" in (p.get("root") or ""))
+    names = NAMES_FLAT if flats >= sharps else NAMES_SHARP
+    label = names[tonic] + (" minor" if is_minor else " major")
+
+    # 확신도 — 1등과 2등의 차이가 크면 확신이 높다
+    gap = score - second[0]
+    conf = max(0.0, min(1.0, gap * 6))
+    return label, round(conf, 2)
+
+
+# ---------- 표준 표기로 바꾸기 ----------
+# 이 채널은 손가락으로 짚은 음을 그대로 적는다.
+#   화면 A 9(13)#11  ->  표준 A13(#11)
+#   화면 E min7(11)  ->  표준 Emin11
+# 리드시트 관례는 자연음 확장(9·11·13) 중 가장 높은 것만 밖에 쓰고,
+# 변화음(#11·b9 등)을 괄호에 모으는 것이다.
+
+# 자연음 확장. min9 처럼 글자에 붙어 있어도 잡아야 하므로 \b 를 쓰지 않는다.
+# 앞에 #·b 가 붙은 것(변화음)과 13 의 1 을 11 로 잘못 읽는 것을 막는다.
+NAT_EXT = re.compile(r"(?<![#b\d])(13|11|9|6)(?!\d)")
+ALT_EXT = re.compile(r"([#b])(5|9|11|13)")               # 변화음
+QUAL_HEAD = re.compile(
+    r"^(Maj|maj|M|min|m|dim|aug|sus|°|ø|\+|-)?", re.I)
+
+
+def to_standard(root, qual, bass):
+    """제작자 표기를 리드시트 표기로 바꾼다. 못 바꾸면 원문 그대로."""
+    if not root:
+        return None
+    if not qual:
+        return root + (f"/{bass}" if bass else "")
+
+    q = qual.replace(" ", "")
+
+    # 손대지 않는 것 — 이미 표준이거나 규칙 밖이다
+    if re.fullmatch(r"(7alt|alt|N\.C\.|Octave|Tritone)", q, re.I):
+        return f"{root}{q}" + (f"/{bass}" if bass else "")
+
+    # add 는 확장음이 아니라 덧붙인 음이다. 괄호를 살려 그대로 둔다.
+    if re.search(r"add", q, re.I):
+        return f"{root}{q}" + (f"/{bass}" if bass else "")
+
+    alts = ["".join(m) for m in ALT_EXT.findall(q)]
+    nats = [int(n) for n in NAT_EXT.findall(ALT_EXT.sub("", q))]
+
+    # 화음 성질 — min·Maj·sus·dim 등
+    body = ALT_EXT.sub("", q)
+    body = NAT_EXT.sub("", body)
+    body = re.sub(r"[()]", "", body).strip()
+
+    # sus 는 확장음과 함께 뒤에 붙는다 (G13sus)
+    sus = ""
+    m = re.search(r"(sus[24]?)", body, re.I)
+    if m:
+        sus = m.group(1)
+        body = body.replace(m.group(1), "")
+
+    has7 = "7" in body
+    body = body.replace("7", "").strip()
+
+    # 자연음 확장은 가장 높은 것만 남긴다
+    top = max(nats) if nats else None
+    if top is None and has7:
+        top = 7
+
+    out = root + body
+    if top:
+        out += str(top)
+    out += sus
+    if alts:
+        out += "(" + "".join(alts) + ")"
+    if bass:
+        out += f"/{bass}"
+    return out
+
+
 def split_chord(c: str):
     """코드 문자열을 root/quality/bass 로 가른다."""
     m = SPLIT.match(c)
     if not m:
-        return {"root": None, "quality": None, "bass": None, "pc": None}
+        return {"root": None, "quality": None, "bass": None,
+                "pc": None, "std": None}
     root, qual, bass = m.group(1), (m.group(2) or "").strip(), m.group(3)
     return {
         "root": root,
         "quality": qual or None,
         "bass": bass,
         "pc": pitch_class(root),
+        "std": to_standard(root, qual, bass),
     }
 
 
@@ -326,10 +573,21 @@ def process(entry):
     for r in runs:
         if not r["chord"]:
             continue
-        item = {"chord": r["chord"],
+        raw = r["chord"]
+        fixed, sure = fix_typos(raw)
+        item = {"chord": raw,          # 화면에서 읽은 그대로
                 "at": round(r["start"] / FPS, 2),
                 "dur": round((r["end"] - r["start"] + 1) / FPS, 2)}
-        item.update(split_chord(r["chord"]))
+        item.update(split_chord(fixed))
+        if fixed != raw:
+            item["fixed"] = True
+
+        # 자신 없는 것에 물음표를 붙인다. 보는 쪽이 알아야 한다.
+        std = item.get("std") or ""
+        if looks_odd(std) or not sure:
+            item["unsure"] = True
+            if std:
+                item["std"] = std + " (?)"
         prog.append(item)
 
     tot = n_ok + n_bad
@@ -342,6 +600,11 @@ def process(entry):
     else:
         status = "ok"
 
+    # 확신이 낮으면 물음표를 붙인다. 보는 쪽이 추측인 줄 알아야 한다.
+    key_label, key_conf = detect_key(prog)
+    if key_label and key_conf < 0.5:
+        key_label += " (?)"
+
     rec = {
         "id": vid, "title": title,
         "url": f"https://www.youtube.com/watch?v={vid}",
@@ -349,6 +612,8 @@ def process(entry):
         "ocr_rate": round(rate, 3),
         "n_frames": len(frames), "n_ocr": len(todo), "n_slow": n_slow,
         "duration_sec": round(len(frames) / FPS, 2),
+        "key": key_label,
+        "key_confidence": key_conf,
         "band": bandinfo,
         "progression": prog,
         "unparsed": bad[:20],
@@ -396,7 +661,9 @@ def fetch_playlist(n_vid=None):
 
 def main():
     n_vid = int(sys.argv[1]) if len(sys.argv) > 1 and sys.argv[1] != "all" else None
-    dl_w  = int(sys.argv[2]) if len(sys.argv) > 2 else 8
+    # 다운로드를 8개씩 돌리면 포트가 모자라 새 연결을 못 만드는 일이 있다.
+    # (2026-09-03 밤 Tcpip 4231) 판독이 병목이라 4로 낮춰도 전체 속도는 같다.
+    dl_w  = min(int(sys.argv[2]) if len(sys.argv) > 2 else 4, DL_MAX)
     oc_w  = int(sys.argv[3]) if len(sys.argv) > 3 else 5
 
     for p in (WORK, DONE, OUT):
@@ -539,6 +806,10 @@ def write_outputs():
         "songs": [{"id": r["id"], "title": r["title"],
                    "n_chords": len(r.get("progression", [])),
                    "duration_sec": r.get("duration_sec"),
+                   "key": r.get("key"),
+                   "key_confidence": r.get("key_confidence"),
+                   "n_unsure": sum(1 for p in r.get("progression", [])
+                                   if p.get("unsure")),
                    "status": r.get("status")}
                   for r in recs],
     }

@@ -1,0 +1,733 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>코드 진행 수집</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,600&family=JetBrains+Mono:wght@400;700&family=Noto+Sans+KR:wght@400;500&display=swap">
+<style>
+:root {
+  --paper:    #F7F5F2;
+  --paper-2:  #EFEBE4;
+  --ink:      #1C1A17;
+  --ink-soft: #6B655C;
+  --rule:     #DDD8CF;
+  --key:      #E08A2B;
+  --key-soft: #F5DCB8;
+  --raw:      #8C4A32;
+  --high:     #4A7C59;
+  --low:      #A8642E;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper:    #17161A;
+    --paper-2:  #201E24;
+    --ink:      #EDEAE4;
+    --ink-soft: #9A948B;
+    --rule:     #34313A;
+    --key:      #F0A048;
+    --key-soft: #4A3520;
+    --raw:      #C87A5E;
+    --high:     #7FB08D;
+    --low:      #D19A5E;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper:    #17161A;
+  --paper-2:  #201E24;
+  --ink:      #EDEAE4;
+  --ink-soft: #9A948B;
+  --rule:     #34313A;
+  --key:      #F0A048;
+  --key-soft: #4A3520;
+  --raw:      #C87A5E;
+  --high:     #7FB08D;
+  --low:      #D19A5E;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Noto Sans KR", system-ui, sans-serif;
+  line-height: 1.6;
+  font-size: 14px;
+}
+a { color: inherit; }
+
+.gate {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 24px;
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 13px;
+}
+
+.app { display: none; }
+body.open .app { display: block; }
+body.open .gate { display: none; }
+
+.wrap { max-width: 1200px; margin: 0 auto; padding: 28px 22px 70px; }
+
+/* ---- 머리 ---- */
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 14px 28px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--rule);
+}
+.brand {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: 26px;
+  letter-spacing: -.01em;
+  margin: 0;
+  cursor: pointer;
+}
+.sub { font-size: 12px; color: var(--ink-soft); margin: 2px 0 0; }
+.tally {
+  display: flex;
+  gap: 20px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+.tally b { display: block; font-size: 17px; color: var(--ink); }
+
+/* ---- 도구줄 ---- */
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 18px 0 4px;
+}
+.bar .spacer { flex: 1; }
+input[type=search] {
+  font: 400 13px/1 "Noto Sans KR", sans-serif;
+  color: var(--ink);
+  background: var(--paper-2);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 8px 11px;
+  min-width: 200px;
+}
+button {
+  font: 500 12.5px/1 "Noto Sans KR", sans-serif;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 7px 12px;
+  cursor: pointer;
+}
+button:hover { background: var(--paper-2); }
+button[aria-pressed="true"] {
+  background: var(--key);
+  border-color: var(--key);
+  color: #1C1A17;
+}
+button:focus-visible { outline: 2px solid var(--key); outline-offset: 2px; }
+.grp { display: flex; gap: 0; }
+.grp button { border-radius: 0; margin-left: -1px; }
+.grp button:first-child { border-radius: 3px 0 0 3px; margin-left: 0; }
+.grp button:last-child { border-radius: 0 3px 3px 0; }
+.lbl { font-size: 11px; color: var(--ink-soft); margin-right: 2px; }
+
+/* ---- 목록 ---- */
+.band-head {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  margin: 26px 0 8px;
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: 15px;
+}
+.band-head em {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-style: normal;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+.dot { width: 7px; height: 7px; border-radius: 50%; }
+.dot.high { background: var(--high); }
+.dot.mid  { background: var(--key); }
+.dot.low  { background: var(--low); }
+
+.list { display: grid; gap: 1px; background: var(--rule); border-block: 1px solid var(--rule); }
+.item {
+  display: grid;
+  grid-template-columns: 1fr 116px 62px 52px;
+  gap: 14px;
+  align-items: baseline;
+  padding: 10px 12px;
+  background: var(--paper);
+  border: 0;
+  border-radius: 0;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  width: 100%;
+}
+.item:hover { background: var(--paper-2); }
+.item .nm { overflow: hidden; }
+.item .a {
+  font-size: 11px;
+  color: var(--ink-soft);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.item .s {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.item .k, .item .d, .item .c {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11.5px;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+.item .k { color: var(--ink); }
+.item .k .q { color: var(--low); }
+.item .d, .item .c { text-align: right; }
+@media (max-width: 640px) {
+  .item { grid-template-columns: 1fr 92px; }
+  .item .d, .item .c { display: none; }
+}
+
+/* ---- 상세 ---- */
+.detail { display: none; }
+body.detail-on .detail { display: block; }
+body.detail-on .browse { display: none; }
+
+.back {
+  margin: 16px 0 12px;
+  font-size: 12px;
+}
+.head2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px 28px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--rule);
+}
+h1 {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(24px, 3.6vw, 36px);
+  line-height: 1.1;
+  margin: 0;
+  text-wrap: balance;
+}
+.byline { font-size: 12.5px; color: var(--ink-soft); margin: 4px 0 0; }
+
+.stage { display: grid; grid-template-columns: 290px 1fr; gap: 26px; margin-top: 22px; align-items: start; }
+@media (max-width: 860px) { .stage { grid-template-columns: 1fr; } }
+.player { position: sticky; top: 16px; }
+.frame {
+  position: relative; width: 100%; aspect-ratio: 9/16;
+  border: 1px solid var(--rule); border-radius: 4px;
+  overflow: hidden; background: var(--paper-2);
+}
+.frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+.now {
+  margin-top: 12px; padding: 12px 14px;
+  background: var(--paper-2);
+  border-left: 3px solid var(--key);
+  border-radius: 0 3px 3px 0;
+}
+.now-label { font-size: 10px; letter-spacing: .13em; text-transform: uppercase; color: var(--ink-soft); }
+.now-chord {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 23px; font-weight: 700; line-height: 1.25; margin-top: 3px;
+  word-break: break-all;
+}
+.now-raw {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11.5px; color: var(--raw); margin-top: 4px;
+  word-break: break-all; min-height: 1.2em;
+}
+.clock {
+  display: flex; align-items: baseline; gap: 9px; margin-top: 10px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums; font-size: 11px; color: var(--ink-soft);
+}
+.clock output { font-size: 14px; color: var(--ink); }
+.prog { flex: 1; height: 3px; background: var(--rule); border-radius: 2px; overflow: hidden; }
+.prog i { display: block; height: 100%; width: 0; background: var(--key); }
+
+.row { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
+.chord {
+  display: flex; flex-direction: column; gap: 2px;
+  padding: 7px 10px;
+  background: var(--paper-2);
+  border: 1px solid transparent; border-radius: 3px;
+  cursor: pointer; text-align: left; font: inherit;
+}
+.chord:hover { border-color: var(--rule); }
+.chord.on { background: var(--key-soft); border-color: var(--key); }
+.chord .t {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 9.5px; font-variant-numeric: tabular-nums; color: var(--ink-soft);
+}
+.chord .c {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 14px; font-weight: 700; white-space: nowrap;
+}
+.chord .r {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10px; color: var(--raw); white-space: nowrap;
+}
+body:not(.show-raw) .chord .r { display: none; }
+.chord.unsure .c { color: var(--low); }
+
+.sec-head {
+  display: flex; align-items: baseline; gap: 8px;
+  margin: 22px 0 6px;
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600; font-size: 14px;
+}
+.sec-head:first-child { margin-top: 0; }
+.sec-head span {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10.5px; font-weight: 400;
+  font-variant-numeric: tabular-nums; color: var(--ink-soft);
+}
+.loop {
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 9.5px; font-weight: 500; letter-spacing: .05em;
+  color: var(--key); border: 1px solid var(--key);
+  border-radius: 2px; padding: 1px 5px;
+}
+
+.keyline {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 13px;
+}
+.keyline .q { color: var(--low); }
+
+.empty { padding: 40px 0; color: var(--ink-soft); font-size: 13px; }
+footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<div class="gate">주소 끝에 #admin 을 붙여 주십시오.</div>
+
+<div class="app"><div class="wrap">
+
+  <div class="top">
+    <div>
+      <h1 class="brand" id="brand">코드 진행 수집</h1>
+      <p class="sub" id="sub">불러오는 중</p>
+    </div>
+    <div class="tally" id="tally"></div>
+  </div>
+
+  <!-- 목록 -->
+  <div class="browse">
+    <div class="bar">
+      <span class="lbl">정렬</span>
+      <div class="grp" id="sortGrp">
+        <button data-sort="conf" aria-pressed="true">확신순</button>
+        <button data-sort="name" aria-pressed="false">곡명순</button>
+        <button data-sort="artist" aria-pressed="false">아티스트순</button>
+        <button data-sort="dur" aria-pressed="false">길이순</button>
+      </div>
+      <span class="spacer"></span>
+      <input type="search" id="q" placeholder="곡·아티스트·조성" autocomplete="off">
+    </div>
+    <div id="listArea"></div>
+  </div>
+
+  <!-- 상세 -->
+  <div class="detail">
+    <div class="back"><button id="btnBack">← 목록</button></div>
+    <div class="head2">
+      <div>
+        <h1 id="dTitle"></h1>
+        <p class="byline" id="dBy"></p>
+      </div>
+      <div class="tally" id="dTally"></div>
+    </div>
+
+    <div class="stage">
+      <div class="player">
+        <div class="frame"><div id="yt"></div></div>
+        <div class="now">
+          <div class="now-label">지금</div>
+          <div class="now-chord" id="nowChord">재생을 누르면 따라갑니다</div>
+          <div class="now-raw" id="nowRaw"></div>
+        </div>
+        <div class="clock">
+          <output id="clock">0:00.0</output>
+          <div class="prog"><i id="progFill"></i></div>
+          <span id="dur">0.0</span>
+        </div>
+      </div>
+
+      <div>
+        <div class="bar">
+          <button id="btnRaw" aria-pressed="false">화면 원문 함께 보기</button>
+        </div>
+        <div id="secArea"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    코드는 영상 화면에 뜬 글자를 읽은 것입니다. 시각은 0.25초 단위입니다.
+    <span id="upd"></span>
+  </footer>
+
+</div></div>
+
+<script>
+const BASE = "data/";
+let INDEX = null, sortMode = "conf", query = "";
+
+/* ---- 문 ---- */
+async function gate() {
+  const on = location.hash.startsWith("#admin");
+  document.body.classList.toggle("open", on);
+  if (!on) return;
+  // 곡 주소로 바로 들어와도 목록을 먼저 받는다
+  if (!INDEX) await load();
+  route();
+}
+addEventListener("hashchange", gate);
+
+/* ---- 목록 ---- */
+async function load() {
+  const r = await fetch(BASE + "index.json");
+  INDEX = await r.json();
+  document.getElementById("sub").textContent =
+    INDEX.count + "곡 · 화면에서 읽은 코드 진행";
+  document.getElementById("tally").innerHTML =
+    '<div>확신 높음<b>' + INDEX.bands.high + '</b></div>' +
+    '<div>보통<b>' + INDEX.bands.mid + '</b></div>' +
+    '<div>낮음<b>' + INDEX.bands.low + '</b></div>';
+  document.getElementById("upd").textContent = "· " + INDEX.updated + " 기준";
+  render();
+}
+
+const BAND_NAME = { high: "확신 높음", mid: "확신 보통", low: "확신 낮음" };
+const BAND_NOTE = {
+  high: "코드가 한 조성 안에 모입니다",
+  mid:  "조성이 흔들리거나 자리바꿈이 있습니다",
+  low:  "조성을 하나로 좁히기 어렵습니다"
+};
+
+function keyHtml(k) {
+  if (!k) return "—";
+  return k.replace(" (?)", ' <span class="q">?</span>');
+}
+
+function itemHtml(s) {
+  const nm = s.song || s.title;
+  const ar = s.artist || "";
+  return '<button class="item" data-id="' + s.id + '">' +
+    '<span class="nm"><span class="s">' + esc(nm) + '</span>' +
+    (ar ? '<span class="a">' + esc(ar) + '</span>' : '') + '</span>' +
+    '<span class="k">' + keyHtml(s.key) + '</span>' +
+    '<span class="d">' + s.dur.toFixed(1) + 's</span>' +
+    '<span class="c">' + s.n + '</span>' +
+    '</button>';
+}
+
+function esc(s) {
+  return String(s).replace(/[&<>"]/g, c =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function render() {
+  const area = document.getElementById("listArea");
+  let rows = INDEX.songs.slice();
+
+  if (query) {
+    const q = query.toLowerCase();
+    rows = rows.filter(s =>
+      (s.title || "").toLowerCase().includes(q) ||
+      (s.key || "").toLowerCase().includes(q));
+  }
+
+  if (sortMode === "name") {
+    rows.sort((a, b) => (a.song || a.title).localeCompare(b.song || b.title));
+  } else if (sortMode === "artist") {
+    rows.sort((a, b) => (a.artist || "~").localeCompare(b.artist || "~"));
+  } else if (sortMode === "dur") {
+    rows.sort((a, b) => b.dur - a.dur);
+  }
+
+  if (!rows.length) {
+    area.innerHTML = '<p class="empty">찾는 곡이 없습니다.</p>';
+    return;
+  }
+
+  if (sortMode === "conf") {
+    // 확신 묶음으로 나눈다
+    let html = "";
+    for (const band of ["high", "mid", "low"]) {
+      const g = rows.filter(s => s.band === band)
+                    .sort((a, b) => b.conf - a.conf);
+      if (!g.length) continue;
+      html += '<div class="band-head"><span class="dot ' + band + '"></span>' +
+              BAND_NAME[band] + ' <em>' + g.length + '곡 · ' +
+              BAND_NOTE[band] + '</em></div>' +
+              '<div class="list">' + g.map(itemHtml).join("") + '</div>';
+    }
+    area.innerHTML = html;
+  } else {
+    area.innerHTML = '<div class="list" style="margin-top:14px">' +
+                     rows.map(itemHtml).join("") + '</div>';
+  }
+
+  area.querySelectorAll(".item").forEach(b => {
+    b.addEventListener("click", () => { location.hash = "#admin/" + b.dataset.id; });
+  });
+}
+
+document.getElementById("sortGrp").addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  sortMode = b.dataset.sort;
+  document.querySelectorAll("#sortGrp button").forEach(x =>
+    x.setAttribute("aria-pressed", String(x === b)));
+  render();
+});
+document.getElementById("q").addEventListener("input", e => {
+  query = e.target.value.trim();
+  render();
+});
+document.getElementById("brand").addEventListener("click", () => {
+  location.hash = "#admin";
+});
+document.getElementById("btnBack").addEventListener("click", () => {
+  location.hash = "#admin";
+});
+
+/* ---- 상세 ---- */
+let items = [], player = null, timer = null, current = null, total = 0;
+
+function route() {
+  const m = location.hash.match(/^#admin\/(.+)$/);
+  if (m) openSong(m[1]);
+  else closeSong();
+}
+
+function closeSong() {
+  document.body.classList.remove("detail-on");
+  stopTimer();
+  if (player && player.stopVideo) { try { player.stopVideo(); } catch (e) {} }
+}
+
+async function openSong(id) {
+  const r = await fetch(BASE + "songs/" + id + ".json");
+  if (!r.ok) { location.hash = "#admin"; return; }
+  const rec = await r.json();
+  const meta = (INDEX.songs || []).find(s => s.id === id) || {};
+
+  document.body.classList.add("detail-on");
+  scrollTo(0, 0);
+
+  document.getElementById("dTitle").textContent = meta.song || rec.title;
+  document.getElementById("dBy").innerHTML =
+    (meta.artist ? esc(meta.artist) + " · " : "") +
+    '<span class="keyline">' + keyHtml(rec.key) + '</span>';
+
+  const unsure = (rec.progression || []).filter(p => p.unsure).length;
+  document.getElementById("dTally").innerHTML =
+    '<div>길이<b>' + rec.duration_sec.toFixed(1) + '</b></div>' +
+    '<div>코드<b>' + rec.progression.length + '</b></div>' +
+    '<div>불확실<b>' + unsure + '</b></div>';
+
+  total = rec.duration_sec;
+  document.getElementById("dur").textContent = total.toFixed(1);
+  buildSections(rec);
+  mountPlayer(id);
+}
+
+/* 되풀이를 찾아 마디로 나눈다.
+   같은 코드 차례가 뒤에 다시 나오면 그 길이로 자른다. */
+function findSections(prog) {
+  // 근음으로 비교한다. 같은 진행이라도 Bbmin13 / Bbmin11 처럼
+  // 텐션이 한 자리씩 달라, 글자를 그대로 맞추면 되풀이를 놓친다.
+  const seq = prog.map(p => (p.pc === null || p.pc === undefined)
+                            ? (p.std || p.chord) : p.pc);
+  const n = seq.length;
+
+  // 이 자리에서 시작하는 되풀이 길이를 찾는다. 긴 것을 먼저 본다.
+  function loopAt(i) {
+    for (let L = Math.min(10, Math.floor((n - i) / 2)); L >= 2; L--) {
+      let same = true;
+      for (let k = 0; k < L; k++)
+        if (seq[i + k] !== seq[i + L + k]) { same = false; break; }
+      if (same) return L;
+    }
+    return 0;
+  }
+
+  const secs = [];
+  let i = 0, no = 1;
+  while (i < n) {
+    const L = loopAt(i);
+    if (L) {
+      // 되풀이가 몇 번 이어지는지 센다
+      let reps = 1;
+      while (i + (reps + 1) * L <= n) {
+        let same = true;
+        for (let k = 0; k < L; k++)
+          if (seq[i + k] !== seq[i + reps * L + k]) { same = false; break; }
+        if (!same) break;
+        reps++;
+      }
+      for (let r = 0; r < reps; r++)
+        secs.push({ no: no++, from: i + r * L, to: i + (r + 1) * L, loop: true });
+      i += reps * L;
+    } else {
+      const len = Math.min(8, n - i);
+      secs.push({ no: no++, from: i, to: i + len, loop: false });
+      i += len;
+    }
+  }
+  return secs;
+}
+
+function buildSections(rec) {
+  const area = document.getElementById("secArea");
+  area.innerHTML = "";
+  items = [];
+  const prog = rec.progression || [];
+  const secs = findSections(prog);
+
+  secs.forEach(s => {
+    const slice = prog.slice(s.from, s.to);
+    if (!slice.length) return;
+    const h = document.createElement("div");
+    h.className = "sec-head";
+    h.innerHTML = "마디 " + s.no +
+      ' <span>' + slice[0].at.toFixed(2) + ' – ' +
+      (slice[slice.length - 1].at + slice[slice.length - 1].dur).toFixed(2) + '</span>' +
+      (s.loop ? ' <em class="loop">되풀이</em>' : '');
+    area.appendChild(h);
+
+    const row = document.createElement("div");
+    row.className = "row";
+    slice.forEach(p => {
+      const b = document.createElement("button");
+      b.className = "chord" + (p.unsure ? " unsure" : "");
+      const shown = p.std || p.chord;
+      b.innerHTML =
+        '<span class="t">' + p.at.toFixed(2) + '</span>' +
+        '<span class="c">' + esc(shown) + '</span>' +
+        (shown !== p.chord ? '<span class="r">' + esc(p.chord) + '</span>' : '');
+      b.addEventListener("click", () => seek(p.at));
+      p._el = b;
+      items.push(p);
+      row.appendChild(b);
+    });
+    area.appendChild(row);
+  });
+}
+
+/* ---- 영상 ---- */
+function mountPlayer(id) {
+  stopTimer();
+  current = null;
+  document.getElementById("nowChord").textContent = "재생을 누르면 따라갑니다";
+  document.getElementById("nowRaw").textContent = "";
+  document.getElementById("progFill").style.width = "0%";
+  document.getElementById("clock").textContent = "0:00.0";
+
+  if (player && player.loadVideoById) { player.loadVideoById(id); return; }
+  if (!window.YT || !YT.Player) { pendingId = id; return; }
+  makePlayer(id);
+}
+
+let pendingId = null;
+function makePlayer(id) {
+  player = new YT.Player("yt", {
+    videoId: id,
+    playerVars: { playsinline: 1 },
+    events: {
+      onStateChange: e => {
+        stopTimer();
+        if (e.data === YT.PlayerState.PLAYING) {
+          timer = setInterval(() => paint(player.getCurrentTime()), 100);
+        }
+      }
+    }
+  });
+}
+window.onYouTubeIframeAPIReady = () => { if (pendingId) makePlayer(pendingId); };
+
+function stopTimer() { clearInterval(timer); timer = null; }
+
+function fmt(s) {
+  const m = Math.floor(s / 60);
+  return m + ":" + (s % 60).toFixed(1).padStart(4, "0");
+}
+
+function paint(t) {
+  document.getElementById("clock").textContent = fmt(t);
+  document.getElementById("progFill").style.width =
+    Math.min(100, t / (total || 1) * 100) + "%";
+
+  let hit = null;
+  for (const p of items) if (t >= p.at && t < p.at + p.dur) { hit = p; break; }
+  if (hit === current) return;
+  if (current) current._el.classList.remove("on");
+  current = hit;
+  if (!hit) return;
+  hit._el.classList.add("on");
+  const shown = hit.std || hit.chord;
+  document.getElementById("nowChord").textContent = shown;
+  document.getElementById("nowRaw").textContent = shown === hit.chord ? "" : hit.chord;
+  const r = hit._el.getBoundingClientRect();
+  if (r.top < 70 || r.bottom > innerHeight - 20)
+    hit._el.scrollIntoView({ block: "center", behavior: "smooth" });
+}
+
+function seek(t) {
+  if (player && player.seekTo) { player.seekTo(t, true); player.playVideo(); }
+  paint(t);
+}
+
+document.getElementById("btnRaw").addEventListener("click", e => {
+  const on = e.target.getAttribute("aria-pressed") === "true";
+  e.target.setAttribute("aria-pressed", String(!on));
+  document.body.classList.toggle("show-raw", !on);
+});
+
+const tag = document.createElement("script");
+tag.src = "https://www.youtube.com/iframe_api";
+document.head.appendChild(tag);
+
+gate();
+</script>
+</body>
+</html>

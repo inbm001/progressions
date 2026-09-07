@@ -11,6 +11,9 @@ bench/
 # 곡별 원본 결과 — 재개 판단용 중간 산물. 최종물은 out/ 에 모인다
 done/
 done_test/
+done_repro/
+work_repro/
+out/run_*.log
 
 # out/ 은 이제 작업용이다. 결과물은 data/ 에 모인다.
 out/playlist_*.json
