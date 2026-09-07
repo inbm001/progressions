@@ -6,14 +6,18 @@
 
 ## 먼저 할 일
 
-퇴근하신다는 말씀을 들으면 **이 명령 하나를 백그라운드로 건다.** 승인은 이미
-받았다. 그때 다시 묻지 않는다.
+**수집이 돌고 있는지 확인하고, 안 돌면 바로 건다.** 묻지 않는다. 승인은 이미
+받았다.
 
 ```
-uv run --with pillow --with numpy --with rapidocr-onnxruntime python "D:\claude\chord-progression-collecting\scripts\collect.py" all 8 5
+uv run --with pillow --with numpy --with rapidocr-onnxruntime python "D:\claude\chord-progression-collecting\scripts\collect.py" all 8 3
 ```
 
-낮에는 마지막 숫자를 3으로 낮춘다. 1이면 업무에 지장이 없다.
+마지막 숫자가 컴퓨터를 얼마나 쓸지다. 3이 기본값이고, 퇴근하셨을 때만 5로
+올린다. 무겁다고 하시면 1로 낮춘다.
+
+**멈춰 있는 것이 기본값이 아니다.** 도는 것이 기본값이다. 사용자가 자리를
+비우시는 동안 아무것도 안 도는 일이 세 번 있었다.
 
 건 뒤에는 **배치마다 진행을 지켜본다.** 아래 "감시" 항목을 볼 것.
 
