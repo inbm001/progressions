@@ -1,8 +1,8 @@
 {
-  "count": 453,
-  "ok": 373,
-  "failed": 80,
-  "updated": "2026-09-07 21:05:49",
+  "count": 493,
+  "ok": 399,
+  "failed": 94,
+  "updated": "2026-09-07 21:42:53",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -33,6 +33,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "-IG6ZbcBYEE",
+      "title": "How Ted Moses Inspired J Dilla’s Genius “Spectrum” Chords Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 23.25,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "-K-dBWcZXKM",
@@ -99,6 +109,16 @@
       "title": "Kaytranada “Chances” Chords 🔥🎹🔥 The Smoothest Groove? #musicianparadise",
       "n_chords": 16,
       "duration_sec": 17.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "0_7xWUn0IBI",
+      "title": "Tyler, The Creator’s “IGOR’S THEME V1” Chords 🔥🎹🔥",
+      "n_chords": 4,
+      "duration_sec": 6.0,
       "key": "C minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
@@ -205,6 +225,16 @@
       "status": "ok"
     },
     {
+      "id": "1zGghTQ7XNI",
+      "title": "Tyler's “Thank You” Chords Are Way Deeper Than You Think 🎹👀",
+      "n_chords": 19,
+      "duration_sec": 37.75,
+      "key": "Db major",
+      "key_confidence": 0.53,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2h2hMqD36lo",
       "title": "Slum Village Ft. Kanye West & John Legend “Selfish” Chords 🔥🎹🔥 Sample -\"Call Me\" by Aretha Franklin",
       "n_chords": 27,
@@ -305,6 +335,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "3IVBLCyVoxc",
+      "title": "The Internet ”Roll” (Burbank Funk) Chords 🔥🎹🔥",
+      "n_chords": 4,
+      "duration_sec": 4.25,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "3nmfHAc7mvw",
       "title": "The J Dilla Sample Comes Alive: Glasper & Mos Def “Stakes Is High” 🔥🎹🔥",
       "n_chords": 19,
@@ -333,6 +373,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "4D_KkbUoqB8",
+      "title": "Tyler, The Creator “Don’t You Worry Baby” Chords 🔥🎹🔥",
+      "n_chords": 7,
+      "duration_sec": 16.25,
+      "key": "G major (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "4DZyC6R5WvU",
@@ -505,6 +555,16 @@
       "status": "ok"
     },
     {
+      "id": "5sET9YMXmbg",
+      "title": "J Dilla Flipped These Ahmad Jamal Chords 🔥🎹 🔥 “Swahililand” Breakdown",
+      "n_chords": 29,
+      "duration_sec": 22.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "5uKz3g9jOvA",
       "title": "Tyler, The Creator “Mother” Chords Part 2 - Guitar Part Included! 🔥🎹🔥",
       "n_chords": 12,
@@ -531,6 +591,16 @@
       "duration_sec": 27.75,
       "key": "C minor (?)",
       "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "63qFFHAZ7H0",
+      "title": "Funk Master: Luther Vandross “Never Too Much” Chords 🔥🎹🔥",
+      "n_chords": 11,
+      "duration_sec": 17.5,
+      "key": "B minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -695,6 +765,16 @@
       "status": "ok"
     },
     {
+      "id": "8HY6O4SGD8o",
+      "title": "The J Dilla Flip You Need to Study  🔥🎹🔥 “Forth & Back” Slum Village Chords Unlocked",
+      "n_chords": 2,
+      "duration_sec": 5.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.39,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "8Jq1njxvgTg",
       "title": "Pharrell Williams Pusha T Malice “E.B.I.T.D.A” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -703,6 +783,16 @@
       "key_confidence": 0.26,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "8MNduZaoy3c",
+      "title": "Steal These Chords (19) Neo Soul Vibes 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 14.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "8nwlkT8z2Tk",
@@ -893,6 +983,16 @@
       "key_confidence": 0.29,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "_gdSVrlSsIk",
+      "title": "Steal These Chords 15 Soulful House Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "_gJktY1MImw",
@@ -1175,6 +1275,16 @@
       "status": "ok"
     },
     {
+      "id": "BSc8dmJ1AOg",
+      "title": "Steal These Chords (14) Deep House Vibes 🔥🎹🔥",
+      "n_chords": 1,
+      "duration_sec": 15.75,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "BU2pEJlwmwQ",
       "title": "Testing Soulful Chord Presets for Ripchord VST, Expressive Chords M4L, Scaler, MPC, Xfer Cthulhu",
       "n_chords": 3,
@@ -1273,6 +1383,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "CJJONzfQ9WQ",
+      "title": "Steal These Chords 12 Soul + House = This 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 15.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "CjoMJGiMbC4",
@@ -1465,6 +1585,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "DE1nxdnQjvo",
+      "title": "Steal These Chords 21 🔥🎹🔥 Roland Space Echo Edition",
+      "n_chords": 0,
+      "duration_sec": 21.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "dIBYB3RRzs0",
       "title": "Roberta Flack “I Can See The Sun In Late December” Chords 🔥🎹🔥 Stevie Wonder Song #musicianparadise",
       "n_chords": 50,
@@ -1525,6 +1655,16 @@
       "status": "ok"
     },
     {
+      "id": "dw2wAHXHyCY",
+      "title": "Steal These Chords 17 Soulful Colors 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 30.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "dWvFVr3M2Bs",
       "title": "Sade “I Couldn't Love You More” Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 4,
@@ -1551,6 +1691,16 @@
       "duration_sec": 18.0,
       "key": "G minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "E8aCADQtTBI",
+      "title": "Tyler, The Creator “I Don’t Love You Anymore” Bridge Chords 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 28.5,
+      "key": "C major (?)",
+      "key_confidence": 0.21,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1621,6 +1771,26 @@
       "duration_sec": 28.25,
       "key": "F# minor (?)",
       "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "EOPed-DTIWs",
+      "title": "Outkast “Prototype” Dreamy Soulful Chords 🔥🎹🔥 pure André 3000 magic.",
+      "n_chords": 4,
+      "duration_sec": 13.0,
+      "key": "D major",
+      "key_confidence": 0.78,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Ep5NJQcmT28",
+      "title": "These Chords Go Harder Than You Remember 🔥🎹🔥 My Wife & Kids Old Theme (End Credits)",
+      "n_chords": 11,
+      "duration_sec": 18.75,
+      "key": "E major (?)",
+      "key_confidence": 0.02,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1793,6 +1963,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "fNNVAWsooyA",
+      "title": "Steal These Chords (16) Soulful Vibes 🔥🎹🔥#MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 14.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "foBpu8xS9ro",
@@ -1981,6 +2161,16 @@
       "duration_sec": 23.75,
       "key": "F# minor (?)",
       "key_confidence": 0.03,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "GmkENuezq7Y",
+      "title": "Gospel Chords from Marcus Hodge 🔥🎹🔥",
+      "n_chords": 31,
+      "duration_sec": 29.5,
+      "key": "Db major (?)",
+      "key_confidence": 0.04,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2365,6 +2555,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "j7AYDt46FC8",
+      "title": "Tyler, The Creator “Wilshire” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 5,
+      "duration_sec": 12.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.45,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "j7DAO7_RUGc",
       "title": "Michael Jackson “The Lady In My Life” Chords Pt.2 🔥🎹🔥 #musicianparadise",
       "n_chords": 39,
@@ -2445,6 +2645,16 @@
       "status": "ok"
     },
     {
+      "id": "JxwGnZ6mcys",
+      "title": "John Legend “Heaven” - Tyler, The Creator “Heaven To Me” on Rhodes 73 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 22.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "K1K-ThOx_Wk",
       "title": "Persona 3 Reload Lotus Ju \"Color Your Night” Chords 🔥🎹🔥 Gaming Sunday 🎮 Author -Atsushi Kitajoh",
       "n_chords": 37,
@@ -2493,6 +2703,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "kheqzVYna20",
+      "title": "Tyler, The Creator “Tell Me What It Is” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 10,
+      "duration_sec": 24.0,
+      "key": "C minor (?)",
+      "key_confidence": 0.21,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "kHeubpf4GQs",
@@ -2625,6 +2845,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "LglzyIFxYU8",
+      "title": "Westside Gunn “No Vacancy” Chords 🔥🎹🔥 These Boom Bap Chords Hit Hard",
+      "n_chords": 4,
+      "duration_sec": 14.0,
+      "key": "Eb major (?)",
+      "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Li7wfK3T6vY",
       "title": "MF DOOM “Arrow Root” Chord Breakdown 🔥🎹🔥 #MusicianParadise",
       "n_chords": 13,
@@ -2713,6 +2943,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "Lyf2Gx5XoMo",
+      "title": "Stephanie Mills “Something In The Way” Chords 🔥🎹🔥 = Freddie Hubbard \"Red Clay\" Chords?",
+      "n_chords": 23,
+      "duration_sec": 35.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
     },
     {
       "id": "m0hC_mOxow0",
@@ -2815,6 +3055,16 @@
       "status": "ok"
     },
     {
+      "id": "mrXrYjq7o8Q",
+      "title": "The Weeknd’s “I Can’t Wait To Get There” – These R&B Chords SLAP 💥🎹💥 #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 26.25,
+      "key": "Db minor (?)",
+      "key_confidence": 0.35,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "mvsFfQ5XRUQ",
       "title": "Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -2831,6 +3081,16 @@
       "duration_sec": 34.0,
       "key": "Eb minor (?)",
       "key_confidence": 0.21,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "mzFJN-SqSD0",
+      "title": "Tyler The Creator “Wharf Talk” Chords 🔥🎹🔥 #Musician Paradise",
+      "n_chords": 38,
+      "duration_sec": 37.5,
+      "key": "E major (?)",
+      "key_confidence": 0.15,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3075,6 +3335,16 @@
       "status": "ok"
     },
     {
+      "id": "oexiElHhFPs",
+      "title": "The Secret Sauce Behind Mac & Paak’s “Dang!” 🔥 Chords Breakdown #musicianparadise",
+      "n_chords": 3,
+      "duration_sec": 9.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "OGc4H5eMLvk",
       "title": "Tekken 4’s Smooth And Dramatic Ending Theme – Lee Chaolan’s Chords Unlocked 🎮🎹🔥",
       "n_chords": 37,
@@ -3103,6 +3373,16 @@
       "key_confidence": 1.0,
       "n_unsure": 2,
       "status": "ok"
+    },
+    {
+      "id": "oQIqugvZbxY",
+      "title": "Steal These Rootless Chords 2 Soulful Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 22.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "Oqv6XdatQEM",
@@ -3173,6 +3453,16 @@
       "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Ozg9YvY5LpU",
+      "title": "Steal These Chords (13) Deep House Vibes 🔥🎹🔥 SmallHouse",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ozHiWLy4PhE",
@@ -3331,6 +3621,16 @@
       "duration_sec": 21.25,
       "key": "Eb major (?)",
       "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qi45bo-yCtA",
+      "title": "Still One of the Smoothest R&B Progressions Ever – DeBarge “I Like It” 🔥🎹🔥",
+      "n_chords": 43,
+      "duration_sec": 33.0,
+      "key": "C# minor (?)",
+      "key_confidence": 0.49,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3535,6 +3835,16 @@
       "status": "ok"
     },
     {
+      "id": "rtrdOycetdA",
+      "title": "Tyler’s “I Don’t Love You Anymore” Chords Are Pain in Harmony 💔🎹💔",
+      "n_chords": 4,
+      "duration_sec": 6.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "rwOkWTNL_Vo",
       "title": "Gran Turismo 5 Prologue “Current Of The Times” Chords 🔥🎹🔥 Gaming Sunday 🎮 Composer - Yudai Satoh",
       "n_chords": 15,
@@ -3711,6 +4021,16 @@
       "duration_sec": 10.25,
       "key": "F# major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "sVU-E0teqDM",
+      "title": "Tyler’s New Album Is 🔥 “Sucka Free” Chords 🔥🎹🔥",
+      "n_chords": 11,
+      "duration_sec": 18.75,
+      "key": "D# minor (?)",
+      "key_confidence": 0.06,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3965,6 +4285,16 @@
       "status": "ok"
     },
     {
+      "id": "u5I8CyouRic",
+      "title": "Luther Vandross Chords That Still Hit 🔥🎹🔥 “Better Love” Chords Breakdown",
+      "n_chords": 17,
+      "duration_sec": 33.75,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "U688UyqOLCQ",
       "title": "Jorja Smith “Greatest Gift” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 56,
@@ -4155,6 +4485,16 @@
       "status": "ok"
     },
     {
+      "id": "vSPPe1QYpLE",
+      "title": "N.E.R.D. “Everyone Nose” Bridge (Chords Breakdown) 🔥🎹🔥",
+      "n_chords": 9,
+      "duration_sec": 7.0,
+      "key": "Db major (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "VTZPkGpCwoU",
       "title": "ScHoolboy Q ft. Kendrick Lamar “Blessed” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -4212,6 +4552,26 @@
       "key": "Ab major (?)",
       "key_confidence": 0.17,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "WOebvnatqeQ",
+      "title": "Michael Henderson’s “We Are Here (to Geek)” Chords Are PURE FUNK 🔥🎹🔥",
+      "n_chords": 29,
+      "duration_sec": 34.0,
+      "key": "E minor",
+      "key_confidence": 0.54,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wuv56vI4sh0",
+      "title": "Tyler, The Creator - “I’ll Take Care of You” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 11,
+      "duration_sec": 23.0,
+      "key": "Eb major",
+      "key_confidence": 0.61,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -4315,6 +4675,16 @@
       "status": "ok"
     },
     {
+      "id": "Xh3v5H6BpIU",
+      "title": "Steal These Chords 18 Simple Smooth Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 5,
+      "duration_sec": 13.25,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "xI-ioTC1Sig",
       "title": "R4 Ridge Racer Type 4 “Garage Talk” Chords 🔥🎹🔥 Gaming Sunday - Composer Asuka Sakai",
       "n_chords": 34,
@@ -4385,6 +4755,16 @@
       "status": "ok"
     },
     {
+      "id": "Xx---pR_cOg",
+      "title": "D’Angelo’s “Africa” — The Chords That Defined Neo Soul 🔥🎹🔥",
+      "n_chords": 27,
+      "duration_sec": 30.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "xxMLpSi2qU0",
       "title": "Jamiroquai “Revolution 1993” Bridge Chords 🔥🎹🔥 #musicianparadise Jamiroquai’s Early Sound",
       "n_chords": 10,
@@ -4431,6 +4811,16 @@
       "duration_sec": 26.25,
       "key": "Eb minor",
       "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Z0S0KWmWZxo",
+      "title": "Why “III. Urn” Chords Still Sound Like the Future 🔥🎹🔥 Childish Gambino  Chords Breakdown",
+      "n_chords": 12,
+      "duration_sec": 54.75,
+      "key": "C major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4533,6 +4923,16 @@
       "key_confidence": 0.67,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ZzZ2iXulcZ4",
+      "title": "Steal These Chords 20 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 16.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     }
   ]
 }
