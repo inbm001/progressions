@@ -1,8 +1,8 @@
 {
-  "count": 613,
-  "ok": 473,
-  "failed": 140,
-  "updated": "2026-09-07 23:55:43",
+  "count": 653,
+  "ok": 509,
+  "failed": 144,
+  "updated": "2026-09-08 00:31:53",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -143,6 +143,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "0qvhTL20KqY",
+      "title": "Zhané's Groove Decoded: Zhané \"Hey Mr. D.J\" Chords🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 9.25,
+      "key": "C minor",
+      "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "0tFkriFzg2U",
@@ -325,6 +335,16 @@
       "status": "ok"
     },
     {
+      "id": "2UQ-on6aESY",
+      "title": "Unlock Anderson .Paak's \"Am I Wrong\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 25.0,
+      "key": "A minor",
+      "key_confidence": 0.99,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2XmWmrFn0Kw",
       "title": "Peabo Bryson “Feel The Fire” Intro Chords 🔥🎹🔥 RIP Legend!",
       "n_chords": 20,
@@ -405,6 +425,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "3h7J6MI-Klw",
+      "title": "Anderson .Paak “Reachin' 2 Much” Chord Analysis - Learn the Secrets Behind This Hit! 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 16.0,
+      "key": "E minor",
+      "key_confidence": 0.66,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "3IVBLCyVoxc",
       "title": "The Internet ”Roll” (Burbank Funk) Chords 🔥🎹🔥",
       "n_chords": 4,
@@ -420,6 +450,16 @@
       "n_chords": 19,
       "duration_sec": 14.75,
       "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "3PeOSKBe0hs",
+      "title": "Nujabes “Feather” Chords 🔥🎹🔥 (feat. Cise Starr & Akin from CYNE) #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.75,
+      "key": "Bb minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -461,6 +501,16 @@
       "duration_sec": 20.5,
       "key": "E minor (?)",
       "key_confidence": 0.45,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4fj6obdIyT8",
+      "title": "Djavan \"Samurai\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 33.75,
+      "key": "E major",
+      "key_confidence": 0.74,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -665,6 +715,16 @@
       "status": "ok"
     },
     {
+      "id": "5tDKjcnv7Fk",
+      "title": "JAY-Z ft. Pharrell \"Excuse Me Miss\" Chords 🔥🎹🔥 add a Flanger to the sus chords!",
+      "n_chords": 8,
+      "duration_sec": 20.75,
+      "key": "Db major",
+      "key_confidence": 0.58,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "5uKz3g9jOvA",
       "title": "Tyler, The Creator “Mother” Chords Part 2 - Guitar Part Included! 🔥🎹🔥",
       "n_chords": 12,
@@ -701,6 +761,16 @@
       "duration_sec": 17.5,
       "key": "B minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "68F1pgWA8sM",
+      "title": "70s Style Chord Progression 🔥🎹🔥 ”70s Style” - Free MIDI & Chord Preset Pack - Patreon",
+      "n_chords": 7,
+      "duration_sec": 13.5,
+      "key": "G minor",
+      "key_confidence": 0.88,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -761,6 +831,16 @@
       "duration_sec": 19.75,
       "key": "A major (?)",
       "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "6yT_OTGO_ho",
+      "title": "Devin Morrison “Soft & Delicious” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 27,
+      "duration_sec": 28.5,
+      "key": "C major (?)",
+      "key_confidence": 0.11,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -902,6 +982,16 @@
       "key": "A minor (?)",
       "key_confidence": 0.32,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "81OnY98dU4o",
+      "title": "Miles Davis “It's About That Time” Chords Decoded 🔥🎹🔥 let me know if you have any corrections!",
+      "n_chords": 36,
+      "duration_sec": 33.25,
+      "key": "F minor",
+      "key_confidence": 0.81,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -1051,6 +1141,16 @@
       "duration_sec": 39.5,
       "key": "B major",
       "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "9dd3TW4gZI0",
+      "title": "Q-Tip “You” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.5,
+      "key": "Eb major",
+      "key_confidence": 0.68,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1315,6 +1415,16 @@
       "status": "ok"
     },
     {
+      "id": "alCsAAsafgA",
+      "title": "Kendrick Lamar \"For Sale\" (Interlude) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 23.5,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "aotSjXGBvDY",
       "title": "PaRappa the Rapper 2 “Romantic Love” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 21,
@@ -1445,6 +1555,16 @@
       "status": "ok"
     },
     {
+      "id": "BDEgq7XwZfo",
+      "title": "Unlock Erykah Badu's “Tyrone” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 29.25,
+      "key": "Gb major (?)",
+      "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "BevUEp2Eemo",
       "title": "Roy Ayers Style Exercise 👌🎹🔥 Soulful 70s style chords #musicianparadise",
       "n_chords": 10,
@@ -1511,6 +1631,16 @@
       "duration_sec": 14.0,
       "key": "Eb major (?)",
       "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bQ9e8rD4l6I",
+      "title": "Unlock Roy Ayers' Funk: \"Don't Stop The Feeling\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 12.75,
+      "key": "G minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1615,6 +1745,16 @@
       "status": "ok"
     },
     {
+      "id": "C9IG8i3qOEg",
+      "title": "Nujabes “Flowers” Chords Recreated 🔥🎹🔥 John Hicks ”After The Morning” Sample #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 9.75,
+      "key": "C minor",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "cb0-jJzYnsA",
       "title": "Michael Jackson Ft. Paul McCartney “The Girl Is Mine” Chords 🔥🎹🔥 29.08.1958 MJ's Birthday.",
       "n_chords": 36,
@@ -1651,6 +1791,16 @@
       "duration_sec": 12.75,
       "key": "F minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "cfWxWJ3h2G8",
+      "title": "Unlock Anderson .Paak's \"Jet Black\" (feat. Brandy) Chords in 60 Seconds! 🔥🎹🔥  #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 18.25,
+      "key": "C minor",
+      "key_confidence": 0.88,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2295,6 +2445,16 @@
       "status": "ok"
     },
     {
+      "id": "FbXKShrB_5E",
+      "title": "Crack the Code: Alfa Mist Secrets \".44\" Chord Progression Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 22.0,
+      "key": "F major",
+      "key_confidence": 0.68,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "fDmQ5yupf7E",
       "title": "Dark Neo Soul - Robert Glasper Inspired Chords🔥🎹🔥#musiciaparadise",
       "n_chords": 0,
@@ -2915,6 +3075,16 @@
       "status": "ok"
     },
     {
+      "id": "HWRnPM2O_Hc",
+      "title": "The Hardest Steely Dan Song? “Your Gold Teeth II” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 33,
+      "duration_sec": 37.75,
+      "key": "C minor (?)",
+      "key_confidence": 0.33,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "I4ifF8VSBQQ",
       "title": "Prince’s Hidden Funk Gem: The “Jukebox With A Heartbeat” Chords 🔥🎹🔥",
       "n_chords": 16,
@@ -3041,6 +3211,26 @@
       "duration_sec": 16.0,
       "key": "C# minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "iuSFONehNe4",
+      "title": "Unlock the Groove: Roy Ayers 'I Am Your Mind' Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 17.5,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ivdS_s_bCIo",
+      "title": "Unlock the Groove: \"Love Never Felt So Good\" Chord Breakdown 🔥🎹🔥 #musicianparadise #chordtherapy",
+      "n_chords": 45,
+      "duration_sec": 61.25,
+      "key": "G minor",
+      "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3295,6 +3485,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "jsx8ZJw4Dok",
+      "title": "Roy Ayers “Get On Up, Get On Down” Chords 🔥🎹🔥 (Joey Negro Revibe) #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 23.25,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "JVR02jzAnJI",
       "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
       "n_chords": 20,
@@ -3351,6 +3551,16 @@
       "duration_sec": 50.5,
       "key": "D minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "KeD7hJdXrLI",
+      "title": "Dark Neo Soul Chords 🔥🎹🔥 Dark Neo Soul Chord Preset Pack ”Deep Chords” preset",
+      "n_chords": 19,
+      "duration_sec": 19.5,
+      "key": "Bb major",
+      "key_confidence": 0.95,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3785,6 +3995,16 @@
       "status": "ok"
     },
     {
+      "id": "mjul04ES-Po",
+      "title": "70s Style Chord Progression 🔥🎹🔥  My 70s Style Chord Pack. Preset Name : MP 70s Style-1MViews_Am",
+      "n_chords": 0,
+      "duration_sec": 15.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "mK_bSwRtijc",
       "title": "Chord Presets - Major And Minor Run - Barry Harris Style 🔥🎹🔥 #musicianparadise",
       "n_chords": 2,
@@ -3813,6 +4033,16 @@
       "key_confidence": 0.35,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "mUh8BMIOFtc",
+      "title": "Freddie Gibbs & The Alchemist “Babies & Fools” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 25.25,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "mvsFfQ5XRUQ",
@@ -4145,6 +4375,16 @@
       "status": "ok"
     },
     {
+      "id": "OC0xj-WyXJ8",
+      "title": "CHIC \"My Forbidden Lover\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 19.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.38,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "oexiElHhFPs",
       "title": "The Secret Sauce Behind Mac & Paak’s “Dang!” 🔥 Chords Breakdown #musicianparadise",
       "n_chords": 3,
@@ -4345,6 +4585,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "PbByHDiNNXw",
+      "title": "Get your eyes open and watch - Tyler, The Creator - Igor's Theme Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 12.25,
+      "key": "C major (?)",
+      "key_confidence": 0.24,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "pcog2BhKLs0",
       "title": "Jamiroquai “Half The Man” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 28,
@@ -4405,6 +4655,16 @@
       "status": "ok"
     },
     {
+      "id": "Pne_nnLwSOU",
+      "title": "Michael Wycoff \"Looking Up to You\" Chords 🔥🎹🔥 These iconic chords have been endlessly sampled ! #rnb",
+      "n_chords": 30,
+      "duration_sec": 32.25,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "PSml1GACGu0",
       "title": "Jamiroquai “Too Young To Die” Chords 🔥🎹🔥The Acid Jazz Chords That Defined Jamiroquai",
       "n_chords": 25,
@@ -4460,6 +4720,16 @@
       "n_chords": 48,
       "duration_sec": 41.25,
       "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "QA47Zu4tYbQ",
+      "title": "Zhané \"Sweet Taste Of Love\" Chords 🔥🎹🔥 Smooth R&B Sound #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 34.25,
+      "key": "F major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -4725,6 +4995,16 @@
       "status": "ok"
     },
     {
+      "id": "Rpu8LpKpqa8",
+      "title": "Unlock the Soul: Leon Ware \"Comfort\" Chord Progression Tutorial 🔥🎹🔥 #musicianparadise",
+      "n_chords": 44,
+      "duration_sec": 48.25,
+      "key": "B minor (?)",
+      "key_confidence": 0.13,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "RQhFxAaIuEQ",
       "title": "J Dilla “Unreleased 1996 Beat” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -4743,6 +5023,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "rqZ-9kh7_Sc",
+      "title": "Decode Summer Walker's \"Unloyal\" Chords 🔥🎹🔥 Contemporary R&B Secrets! #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 28.25,
+      "key": "A minor",
+      "key_confidence": 0.64,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "rTBwcxd-LGw",
@@ -4850,6 +5140,16 @@
       "n_chords": 19,
       "duration_sec": 20.25,
       "key": "Bb major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "SBruwkFxpRg",
+      "title": "J Dilla “In Space” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 21.0,
+      "key": "G# minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -5025,6 +5325,16 @@
       "status": "ok"
     },
     {
+      "id": "T1yNrolQnPc",
+      "title": "70s Vibes: master essential ii-V-I chord progressions through Roy Ayers' \"Love Fantasy\" 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 18.5,
+      "key": "D minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "T2TTHwcClhc",
       "title": "Chaka Khan “I Know You, I Live You” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 45,
@@ -5071,6 +5381,16 @@
       "duration_sec": 31.25,
       "key": "G minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "tc6qnOQR8kA",
+      "title": "From Doobie to Queen of Soul: Aretha's 'What A Fool Believes' Intro Chords Breakdown 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 20.0,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.41,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5141,6 +5461,16 @@
       "duration_sec": 15.0,
       "key": "G minor (?)",
       "key_confidence": 0.44,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "tlkym3ZRPcI",
+      "title": "Chad Hugo Genius: N.E.R.D & Kendrick Lamar  “Don't Do It” Chords Revealed 🔥🎹🔥#musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 12.5,
+      "key": "B major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5395,6 +5725,16 @@
       "status": "ok"
     },
     {
+      "id": "v0g-svRT_nY",
+      "title": "Liquid Chords Behind Roy Ayers' \"Liquid Love\" 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 26.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "V1Znb9e_7CY",
       "title": "Frogger Advance “The Great Quest” Chords 🎮🎹🎮 Gaming Sunday (On Monday)",
       "n_chords": 29,
@@ -5453,6 +5793,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "vHD8JV-n5J8",
+      "title": "SWV 'Rain' - Chords Inspired by a Jaco Pastorius tune 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 55.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.39,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "VHXaqEG3xJ4",
@@ -5905,6 +6255,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "XSoIGNfnW_A",
+      "title": "Anderson .Paak's \"Jet Black\" (feat. Brandy) Chords🔥🎹🔥 #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 18.25,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "XwC-7uYwxGw",
       "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 57,
@@ -5935,6 +6295,26 @@
       "status": "ok"
     },
     {
+      "id": "y3MEH-jF5QM",
+      "title": "702 “I Still Love You“ Chords 🔥🎹🔥 By multiple requests - Complete Version  #musicianparadise",
+      "n_chords": 26,
+      "duration_sec": 33.0,
+      "key": "E minor",
+      "key_confidence": 0.96,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "YfooqDQeOxI",
+      "title": "Bob James \"Angela\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
+      "n_chords": 61,
+      "duration_sec": 48.0,
+      "key": "C minor (?)",
+      "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "yNbkz7nLVe8",
       "title": "Patrice Rushen \"Settle For My Love\" Soulful Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 53,
@@ -5952,6 +6332,16 @@
       "key": "A minor",
       "key_confidence": 0.84,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "yqQPKy4gRaM",
+      "title": "Soulful Chords - The Jones Girls “Nights Over Egypt”🔥🎹🔥 #musicianparadise",
+      "n_chords": 31,
+      "duration_sec": 43.5,
+      "key": "D minor",
+      "key_confidence": 0.98,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -6101,6 +6491,16 @@
       "duration_sec": 21.0,
       "key": "F minor (?)",
       "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "zjx6q0lMkLg",
+      "title": "Unlock the Soul of \"Gangsta\" 🔓 Free Nationals x ASAP Rocky x Anderson .Paak Chords  Exposed! 🔥🎹🔥",
+      "n_chords": 8,
+      "duration_sec": 12.0,
+      "key": "F# minor (?)",
+      "key_confidence": 0.01,
       "n_unsure": 0,
       "status": "ok"
     },

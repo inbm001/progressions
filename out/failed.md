@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 613곡 중 140곡 실패
+총 653곡 중 144곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -89,7 +89,9 @@
 | [lxPRdZ5iUQ0](https://www.youtube.com/watch?v=lxPRdZ5iUQ0) | failed_no_chords | 0% | I couldn't resist learning these chords from the demo of Swe |
 | [M-MrsmCNV4k](https://www.youtube.com/watch?v=M-MrsmCNV4k) | failed_no_chords | 0% | Conscious Rap Inspired Chords 🔥🎹🔥 #musicianparadise #chordpr |
 | [m0hC_mOxow0](https://www.youtube.com/watch?v=m0hC_mOxow0) | failed_no_chords | 0% | Chord Presets For Advanced Taste 🔥🎹🔥 #musicianparadise |
+| [mjul04ES-Po](https://www.youtube.com/watch?v=mjul04ES-Po) | failed_no_chords | 0% | 70s Style Chord Progression 🔥🎹🔥  My 70s Style Chord Pack. Pr |
 | [mK_bSwRtijc](https://www.youtube.com/watch?v=mK_bSwRtijc) | failed_low_ocr | 7% | Chord Presets - Major And Minor Run - Barry Harris Style 🔥🎹🔥 |
+| [mUh8BMIOFtc](https://www.youtube.com/watch?v=mUh8BMIOFtc) | failed_low_ocr | 21% | Freddie Gibbs & The Alchemist “Babies & Fools” Chords 🔥🎹🔥 #m |
 | [mvsFfQ5XRUQ](https://www.youtube.com/watch?v=mvsFfQ5XRUQ) | failed_no_chords | 0% | Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise |
 | [n10LZZ18lp0](https://www.youtube.com/watch?v=n10LZZ18lp0) | failed_no_chords | 0% | A New Breed of Chord Presets - Ripchord VST, Scaler, MPC Pad |
 | [NFsee8D_NcM](https://www.youtube.com/watch?v=NFsee8D_NcM) | failed_low_ocr | 29% | Soulful Lo Fi Chord Presets 🔥🎹🔥 #musicianparadise |
@@ -126,7 +128,9 @@
 | [UDdnyg-Cag4](https://www.youtube.com/watch?v=UDdnyg-Cag4) | failed_no_chords | 0% | Chord Presets Magic #musicianparadise |
 | [udMwuwgJNo8](https://www.youtube.com/watch?v=udMwuwgJNo8) | failed_low_ocr | 46% | Mtume “Love Lock” Chords 🔥🎹🔥 #musicianparadise #musictheory  |
 | [uNCdW8fP9TA](https://www.youtube.com/watch?v=uNCdW8fP9TA) | failed_no_chords | 0% | Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise |
+| [v0g-svRT_nY](https://www.youtube.com/watch?v=v0g-svRT_nY) | failed_low_ocr | 32% | Liquid Chords Behind Roy Ayers' "Liquid Love" 🔥🎹🔥 #musicianp |
 | [VdSKe83qJ58](https://www.youtube.com/watch?v=VdSKe83qJ58) | failed_no_chords | 0% | Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianpa |
+| [vHD8JV-n5J8](https://www.youtube.com/watch?v=vHD8JV-n5J8) | failed_low_ocr | 57% | SWV 'Rain' - Chords Inspired by a Jaco Pastorius tune 🔥🎹🔥 #m |
 | [VrZBixJd2XA](https://www.youtube.com/watch?v=VrZBixJd2XA) | failed_no_chords | 0% | Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #Soulfu |
 | [WaQqlaW-WiA](https://www.youtube.com/watch?v=WaQqlaW-WiA) | failed_no_chords | 0% | Building Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #R |
 | [wKQK6PEd3nA](https://www.youtube.com/watch?v=wKQK6PEd3nA) | failed_low_ocr | 28% | Daft Punk Inspired Chords 🔥🎹🔥 Basically “Voyager” chords but |
