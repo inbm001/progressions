@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 653곡 중 144곡 실패
+총 693곡 중 147곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -59,6 +59,7 @@
 | [gj4sGGD6Cwg](https://www.youtube.com/watch?v=gj4sGGD6Cwg) | failed_low_ocr | 29% | Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianpar |
 | [gKbUbTCgpDw](https://www.youtube.com/watch?v=gKbUbTCgpDw) | failed_no_chords | 0% | Your Keyboard Player Will Hate You for This—Hyper-Realistic  |
 | [gnEInqXSnRg](https://www.youtube.com/watch?v=gnEInqXSnRg) | failed_no_chords | 0% | Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise |
+| [GRPnL98Sk7Q](https://www.youtube.com/watch?v=GRPnL98Sk7Q) | failed_low_ocr | 57% | Daft Punk “Something About Us” Chords 🔥🎹🔥 #musicianparadise |
 | [gYnrQWA7Nf8](https://www.youtube.com/watch?v=gYnrQWA7Nf8) | failed_no_chords | 0% | Minnie Riperton "Inside My Love" Bridge - The most sampled a |
 | [Ha3WSWXIDBQ](https://www.youtube.com/watch?v=Ha3WSWXIDBQ) | failed_no_chords | 0% | Steal These Chords (23) 70s Vibes 🔥🎹🔥 #musicianparadise |
 | [hll08TXjEZA](https://www.youtube.com/watch?v=hll08TXjEZA) | failed_low_ocr | 2% | Big City Chords - Free MIDI + Chord Presets 🔥🎹🔥 #musicianpar |
@@ -98,6 +99,7 @@
 | [NKYOv7zjxrA](https://www.youtube.com/watch?v=NKYOv7zjxrA) | failed_no_chords | 0% | Warm-Sounding Chord Presets on a Cold Day 🔥🎹🔥 #musicianaradi |
 | [NO0cie6GnN4](https://www.youtube.com/watch?v=NO0cie6GnN4) | failed_low_ocr | 45% | Roy Ayers "Sweet Tears" Bridge Chords 🔥🎹🔥 RIP Roy #musicianp |
 | [nP27BzeYmXc](https://www.youtube.com/watch?v=nP27BzeYmXc) | failed_no_chords | 0% | Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianpar |
+| [Nupxeo0pqeU](https://www.youtube.com/watch?v=Nupxeo0pqeU) | failed_low_ocr | 70% | Jill Scott “I Think It’s Better” Chords  #musicianparadise |
 | [nzLIa_8Ga3w](https://www.youtube.com/watch?v=nzLIa_8Ga3w) | failed_no_chords | 0% | Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise |
 | [oQIqugvZbxY](https://www.youtube.com/watch?v=oQIqugvZbxY) | failed_no_chords | 0% | Steal These Rootless Chords 2 Soulful Vibes 🔥🎹🔥 #musicianpar |
 | [Oqv6XdatQEM](https://www.youtube.com/watch?v=Oqv6XdatQEM) | failed_no_chords | 0% | Chord Presets—I assigned Sustain Pedal CC64 and Pitch MIDI F |
@@ -112,6 +114,7 @@
 | [QmHilfMjX50](https://www.youtube.com/watch?v=QmHilfMjX50) | failed_no_chords | 0% | Simple Way To Play Complex Chords Free Ripchord VST 🔥🎹🔥 #mus |
 | [QWSlRcoRM6g](https://www.youtube.com/watch?v=QWSlRcoRM6g) | failed_no_chords | 0% | Chord Presets - Just Add The Sustain Pedal - Ripchord VST, S |
 | [qZURWjXK354](https://www.youtube.com/watch?v=qZURWjXK354) | failed_no_chords | 0% | Imagine A House Beat Along With These Chords 🔥🎹🔥 Steal These |
+| [R0wce71xQLw](https://www.youtube.com/watch?v=R0wce71xQLw) | failed_low_ocr | 43% | Nat King Cole - Christmas Song Remake 🔥🎹🔥 #musicianparadise |
 | [rC83Rs9Wd5g](https://www.youtube.com/watch?v=rC83Rs9Wd5g) | failed_low_ocr | 11% | Steal These Rhodes Chords 🔥🎹🔥 Instant Vibes #musicianparadis |
 | [RqOaZtn9sq8](https://www.youtube.com/watch?v=RqOaZtn9sq8) | failed_no_chords | 0% | Ripchord Chord Presets + Sustain Pedal + Pitch FX - Chord Pr |
 | [s-schzKZejw](https://www.youtube.com/watch?v=s-schzKZejw) | failed_no_chords | 0% | Get Creative With Chord Presets - Ripchord VST, Expressive C |
