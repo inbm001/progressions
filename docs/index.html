@@ -392,6 +392,12 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
 
       <div>
         <div class="bar">
+          <div class="grp">
+            <button id="btnPrev" title="앞 코드 (←)">←</button>
+            <button id="btnPlay" title="재생·멈춤 (스페이스)">▶ 재생</button>
+            <button id="btnNext" title="다음 코드 (→)">→</button>
+          </div>
+          <span class="spacer"></span>
           <button id="btnRaw" aria-pressed="false">화면 원문 함께 보기</button>
         </div>
         <div id="secArea"></div>
@@ -676,9 +682,10 @@ function makePlayer(id) {
     events: {
       onStateChange: e => {
         stopTimer();
-        if (e.data === YT.PlayerState.PLAYING) {
-          timer = setInterval(() => paint(player.getCurrentTime()), 100);
-        }
+        const btn = document.getElementById("btnPlay");
+        const on = e.data === YT.PlayerState.PLAYING;
+        if (btn) btn.textContent = on ? "❚❚ 멈춤" : "▶ 재생";
+        if (on) timer = setInterval(() => paint(player.getCurrentTime()), 100);
       }
     }
   });
@@ -712,15 +719,47 @@ function paint(t) {
     hit._el.scrollIntoView({ block: "center", behavior: "smooth" });
 }
 
+/* 코드를 누르면 그 자리로 옮기기만 한다.
+   재생 중이었으면 이어서 돌고, 멈춰 있었으면 멈춘 채로 둔다. */
 function seek(t) {
-  if (player && player.seekTo) { player.seekTo(t, true); player.playVideo(); }
+  if (player && player.seekTo) {
+    const playing = player.getPlayerState &&
+                    player.getPlayerState() === YT.PlayerState.PLAYING;
+    player.seekTo(t, true);
+    if (!playing && player.pauseVideo) player.pauseVideo();
+  }
   paint(t);
+}
+
+function togglePlay() {
+  if (!player || !player.getPlayerState) return;
+  const s = player.getPlayerState();
+  if (s === YT.PlayerState.PLAYING) player.pauseVideo();
+  else player.playVideo();
+}
+
+function step(dir) {
+  if (!current) { if (items.length) seek(items[0].at); return; }
+  const i = items.indexOf(current) + dir;
+  if (i >= 0 && i < items.length) seek(items[i].at);
 }
 
 document.getElementById("btnRaw").addEventListener("click", e => {
   const on = e.target.getAttribute("aria-pressed") === "true";
   e.target.setAttribute("aria-pressed", String(!on));
   document.body.classList.toggle("show-raw", !on);
+});
+document.getElementById("btnPlay").addEventListener("click", togglePlay);
+document.getElementById("btnPrev").addEventListener("click", () => step(-1));
+document.getElementById("btnNext").addEventListener("click", () => step(1));
+
+addEventListener("keydown", e => {
+  if (!document.body.classList.contains("detail-on")) return;
+  if (e.target.tagName === "INPUT") return;
+  if (e.code === "Space") { e.preventDefault(); togglePlay(); }
+  else if (e.code === "ArrowLeft")  { e.preventDefault(); step(-1); }
+  else if (e.code === "ArrowRight") { e.preventDefault(); step(1); }
+  else if (e.code === "Escape") location.hash = "#admin";
 });
 
 const tag = document.createElement("script");
