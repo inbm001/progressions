@@ -1,6 +1,6 @@
 # 판독 실패 목록
 
-총 493곡 중 94곡 실패
+총 533곡 중 112곡 실패
 
 | ID | 사유 | 판독률 | 제목 |
 |---|---|---|---|
@@ -11,7 +11,9 @@
 | [1PTlVnc_sgg](https://www.youtube.com/watch?v=1PTlVnc_sgg) | failed_no_chords | 0% | Steal These Chords (27) Neo Soul Vibes 🔥🎹🔥 #MusicianParadise |
 | [3DyQ_z8X-xs](https://www.youtube.com/watch?v=3DyQ_z8X-xs) | failed_no_chords | 0% | Steal These Chords (26) Darker Mood 🔥🎹🔥 #musicianparadise |
 | [43lDrzFb-64](https://www.youtube.com/watch?v=43lDrzFb-64) | failed_no_chords | 0% | Chord Presets - Sustain Pedal Triggering MIDI Pitch FX ? Yes |
+| [5bf374rQI3s](https://www.youtube.com/watch?v=5bf374rQI3s) | failed_no_chords | 0% | Soulful Chords That Hit Different 🔥🎹🔥 #musicianparadise #sou |
 | [5vk9_aQMMJA](https://www.youtube.com/watch?v=5vk9_aQMMJA) | failed_no_chords | 0% | Chord Presets On Pads - Free Ripchord VST🔥🎹🔥 #musicianparadi |
+| [6ErJ_dWpEsM](https://www.youtube.com/watch?v=6ErJ_dWpEsM) | failed_no_chords | 0% | Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀 |
 | [7d88SSSAiTw](https://www.youtube.com/watch?v=7d88SSSAiTw) | failed_low_ocr | 2% | Chord Presets Work Anywhere You Can Take Your Notebook 🔥🎹🔥 # |
 | [7mLYoiK-PbQ](https://www.youtube.com/watch?v=7mLYoiK-PbQ) | failed_no_chords | 0% | Chord Preset Heaven 🔥🎹🔥 #musicianparadise |
 | [8MNduZaoy3c](https://www.youtube.com/watch?v=8MNduZaoy3c) | failed_no_chords | 0% | Steal These Chords (19) Neo Soul Vibes 🔥🎹🔥 |
@@ -24,9 +26,11 @@
 | [ACxZV9CwTJU](https://www.youtube.com/watch?v=ACxZV9CwTJU) | failed_no_chords | 0% | Steal These Chords 24 Soulquarians Style 🔥🎹🔥 #MusicianParadi |
 | [AhAOTVTOn9Y](https://www.youtube.com/watch?v=AhAOTVTOn9Y) | failed_no_chords | 0% | Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #music |
 | [AS5IfPzQ__c](https://www.youtube.com/watch?v=AS5IfPzQ__c) | failed_no_chords | 0% | Chord Presets Like You’ve Never Heard Before - Ripchord VST, |
+| [Bimvyzk34OI](https://www.youtube.com/watch?v=Bimvyzk34OI) | failed_no_chords | 0% | Laid-Back Soulful R&B Chords 🔥🎹🔥 #MusicianParadise |
 | [BSc8dmJ1AOg](https://www.youtube.com/watch?v=BSc8dmJ1AOg) | failed_low_ocr | 33% | Steal These Chords (14) Deep House Vibes 🔥🎹🔥 |
 | [bzxWSE6_u_M](https://www.youtube.com/watch?v=bzxWSE6_u_M) | failed_no_chords | 0% | Simple Presets - Complex Chords - Ripchord VST, Scaler, MPC  |
 | [CJJONzfQ9WQ](https://www.youtube.com/watch?v=CJJONzfQ9WQ) | failed_no_chords | 0% | Steal These Chords 12 Soul + House = This 🔥🎹🔥 |
+| [CtjrZPci2Xk](https://www.youtube.com/watch?v=CtjrZPci2Xk) | failed_no_chords | 0% | Steal These Rootless Chords 🔥🎹🔥 #MusicianParadise #rhodes73m |
 | [CW99MgMkMuo](https://www.youtube.com/watch?v=CW99MgMkMuo) | failed_no_chords | 0% | Soulful Chord Presets 🔥🎹🔥 #musicianparadise |
 | [d8EwWj83xvY](https://www.youtube.com/watch?v=d8EwWj83xvY) | failed_no_chords | 0% | Steal These Chords 90s Neo Soul Vibes 🔥🎹🔥#musiciaparadise |
 | [d_3Cq2CkIUk](https://www.youtube.com/watch?v=d_3Cq2CkIUk) | failed_low_ocr | 67% | Erykah Badu “U Don’t Have To Call” Chords 🔥🎹🔥 #MusicianParad |
@@ -37,19 +41,26 @@
 | [eHU9nB7fSOw](https://www.youtube.com/watch?v=eHU9nB7fSOw) | failed_no_chords | 0% | Steal These Chords Dark Neo Soul Vibes 🔥🎹🔥#musiciaparadise |
 | [EQW4-0GOUs8](https://www.youtube.com/watch?v=EQW4-0GOUs8) | failed_no_chords | 0% | Steal These Soulful Chords 29 🔥🎹🔥 Rhodes 73 MKI #musicianpar |
 | [ExrmdoXeVqI](https://www.youtube.com/watch?v=ExrmdoXeVqI) | failed_low_ocr | 11% | Chord Presets With Inner Tension - Ripchord VST, Scaler, MPC |
+| [f3QlKVjIArg](https://www.youtube.com/watch?v=f3QlKVjIArg) | failed_no_chords | 0% | Steal These Soulful R&B Chords (11) 🔥🎹🔥#musicianparadise |
 | [F_3svKe0DdU](https://www.youtube.com/watch?v=F_3svKe0DdU) | failed_no_chords | 0% | Gospel Scripts Chord Presets 🔥🎹🔥 Ripchord, Scaler, Cthulhu,  |
 | [fDmQ5yupf7E](https://www.youtube.com/watch?v=fDmQ5yupf7E) | failed_no_chords | 0% | Dark Neo Soul - Robert Glasper Inspired Chords🔥🎹🔥#musiciapar |
 | [fdR2wHuT8x4](https://www.youtube.com/watch?v=fdR2wHuT8x4) | failed_no_chords | 0% | Steal These Chords (28) Soulful Vibes 🔥🎹🔥 #MusicianParadise |
 | [fNNVAWsooyA](https://www.youtube.com/watch?v=fNNVAWsooyA) | failed_no_chords | 0% | Steal These Chords (16) Soulful Vibes 🔥🎹🔥#MusicianParadise |
+| [fr5hAXffet8](https://www.youtube.com/watch?v=fr5hAXffet8) | failed_no_chords | 0% | These Chords Sound Like a 70s Movie Scene 🎬🎹 #MusicianParadi |
+| [gGqf0jRoWAo](https://www.youtube.com/watch?v=gGqf0jRoWAo) | failed_no_chords | 0% | Steal These Chords 2 🔥🎹🔥 (Deep House) |
 | [gj4sGGD6Cwg](https://www.youtube.com/watch?v=gj4sGGD6Cwg) | failed_low_ocr | 29% | Next Level Chord Presets - Free Ripchord VST🔥🎹🔥 #musicianpar |
 | [gKbUbTCgpDw](https://www.youtube.com/watch?v=gKbUbTCgpDw) | failed_no_chords | 0% | Your Keyboard Player Will Hate You for This—Hyper-Realistic  |
 | [gnEInqXSnRg](https://www.youtube.com/watch?v=gnEInqXSnRg) | failed_no_chords | 0% | Gospel Runs Presets Mode 🔥🎹🔥 Ripchord VST #musicianparadise |
 | [Ha3WSWXIDBQ](https://www.youtube.com/watch?v=Ha3WSWXIDBQ) | failed_no_chords | 0% | Steal These Chords (23) 70s Vibes 🔥🎹🔥 #musicianparadise |
 | [hll08TXjEZA](https://www.youtube.com/watch?v=hll08TXjEZA) | failed_low_ocr | 2% | Big City Chords - Free MIDI + Chord Presets 🔥🎹🔥 #musicianpar |
+| [IabOyduIvxY](https://www.youtube.com/watch?v=IabOyduIvxY) | failed_no_chords | 0% | Steal These Soulful Chords 9 🔥🎹🔥 #MusicianParadise #SoulfulC |
+| [IKCHSxDRbZU](https://www.youtube.com/watch?v=IKCHSxDRbZU) | failed_no_chords | 0% | These “Nice Girls” Chords Were Made to Be Sampled 🔥🎹🔥 |
 | [IwPsRGadHGc](https://www.youtube.com/watch?v=IwPsRGadHGc) | failed_low_ocr | 66% | J Dilla “Ahmad Impresses Me” Ahmad Jamal Chords 🔥🎹🔥 J Dilla  |
 | [IzIesm6FwKk](https://www.youtube.com/watch?v=IzIesm6FwKk) | failed_no_chords | 0% | Wait—Scaler was ported to iPad? I can use my Scaler presets  |
 | [J6YHEaCuezk](https://www.youtube.com/watch?v=J6YHEaCuezk) | failed_no_chords | 0% | Chords That Matters - Chord Presets For Ripchord VST, Scaler |
 | [j7AYDt46FC8](https://www.youtube.com/watch?v=j7AYDt46FC8) | failed_low_ocr | 67% | Tyler, The Creator “Wilshire” Chords 🔥🎹🔥 #musicianparadise |
+| [Jgcx9XmA3fk](https://www.youtube.com/watch?v=Jgcx9XmA3fk) | failed_low_ocr | 45% | The Most Emotional Outro 🎹🤯 Jamiroquai "Virtual Insanity” #J |
+| [jNqBjMK3-C8](https://www.youtube.com/watch?v=jNqBjMK3-C8) | failed_no_chords | 0% | Steal These Chords (7) 🔥🎹🔥 Soulful House Vibes |
 | [JRtX0_B-Ti8](https://www.youtube.com/watch?v=JRtX0_B-Ti8) | failed_no_chords | 0% | Steal These Soulful Chords 33 Neo Soul Vibes 🔥🎹🔥 #musicianpa |
 | [JxwGnZ6mcys](https://www.youtube.com/watch?v=JxwGnZ6mcys) | failed_no_chords | 0% | John Legend “Heaven” - Tyler, The Creator “Heaven To Me” on  |
 | [K3-s5RTY6tg](https://www.youtube.com/watch?v=K3-s5RTY6tg) | failed_no_chords | 0% | Chord Presets on QWERTY + Free Ripchord VST 🔥🎹🔥 #musicianpar |
@@ -58,6 +69,7 @@
 | [KXz44vWGmb4](https://www.youtube.com/watch?v=KXz44vWGmb4) | failed_no_chords | 0% | Hardsoul Chords “Back Together” Bridge - Classic House Chord |
 | [LAIXD_fgBeU](https://www.youtube.com/watch?v=LAIXD_fgBeU) | failed_no_chords | 0% | I'm learning to play a new chord progression every day 🔥🎹🔥 |
 | [Ld2_Eug7krI](https://www.youtube.com/watch?v=Ld2_Eug7krI) | failed_no_chords | 0% | Neo Gospel Chord Presets Demo Test 🔥🎹🔥 #musicianparadise |
+| [lPQG_XSlv-o](https://www.youtube.com/watch?v=lPQG_XSlv-o) | failed_low_ocr | 52% | J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look |
 | [lxPRdZ5iUQ0](https://www.youtube.com/watch?v=lxPRdZ5iUQ0) | failed_no_chords | 0% | I couldn't resist learning these chords from the demo of Swe |
 | [m0hC_mOxow0](https://www.youtube.com/watch?v=m0hC_mOxow0) | failed_no_chords | 0% | Chord Presets For Advanced Taste 🔥🎹🔥 #musicianparadise |
 | [mK_bSwRtijc](https://www.youtube.com/watch?v=mK_bSwRtijc) | failed_low_ocr | 7% | Chord Presets - Major And Minor Run - Barry Harris Style 🔥🎹🔥 |
@@ -72,13 +84,16 @@
 | [oUp6evBLw_Y](https://www.youtube.com/watch?v=oUp6evBLw_Y) | failed_low_ocr | 18% | Playing My Chord Presets on a QWERTY Keyboard 🔥🎹🔥 #musicianp |
 | [Ozg9YvY5LpU](https://www.youtube.com/watch?v=Ozg9YvY5LpU) | failed_no_chords | 0% | Steal These Chords (13) Deep House Vibes 🔥🎹🔥 SmallHouse |
 | [P6Fw_XR_upg](https://www.youtube.com/watch?v=P6Fw_XR_upg) | failed_no_chords | 0% | Steal These Soulful Chords 30 🔥🎹🔥 #musicianparadise |
+| [pDj_kTDzrz4](https://www.youtube.com/watch?v=pDj_kTDzrz4) | failed_no_chords | 0% | Dark Soulful Chords🔥🎹🔥 #MusicianParadise |
 | [QbBphHT64ME](https://www.youtube.com/watch?v=QbBphHT64ME) | failed_no_chords | 0% | Chord Presets Test - Free VST Ripchord 🔥🎹🔥 #musicianparadise |
 | [QmHilfMjX50](https://www.youtube.com/watch?v=QmHilfMjX50) | failed_no_chords | 0% | Simple Way To Play Complex Chords Free Ripchord VST 🔥🎹🔥 #mus |
 | [QWSlRcoRM6g](https://www.youtube.com/watch?v=QWSlRcoRM6g) | failed_no_chords | 0% | Chord Presets - Just Add The Sustain Pedal - Ripchord VST, S |
 | [qZURWjXK354](https://www.youtube.com/watch?v=qZURWjXK354) | failed_no_chords | 0% | Imagine A House Beat Along With These Chords 🔥🎹🔥 Steal These |
+| [rC83Rs9Wd5g](https://www.youtube.com/watch?v=rC83Rs9Wd5g) | failed_low_ocr | 11% | Steal These Rhodes Chords 🔥🎹🔥 Instant Vibes #musicianparadis |
 | [RqOaZtn9sq8](https://www.youtube.com/watch?v=RqOaZtn9sq8) | failed_no_chords | 0% | Ripchord Chord Presets + Sustain Pedal + Pitch FX - Chord Pr |
 | [s-schzKZejw](https://www.youtube.com/watch?v=s-schzKZejw) | failed_no_chords | 0% | Get Creative With Chord Presets - Ripchord VST, Expressive C |
 | [sqLlp1hw1uw](https://www.youtube.com/watch?v=sqLlp1hw1uw) | failed_no_chords | 0% | How I Produce Luxury MIDI & Chord Presets - Ripchord VST, Sc |
+| [TGV10W2liGk](https://www.youtube.com/watch?v=TGV10W2liGk) | failed_no_chords | 0% | Steal These Chords 🔥🎹🔥 #SoulfulHouse #MusicianParadise |
 | [tIQ0pr2tu8Y](https://www.youtube.com/watch?v=tIQ0pr2tu8Y) | failed_no_chords | 0% | Custom Chord Presets 🔥🎹🔥 #musicianparadise |
 | [tshDSa4E1zs](https://www.youtube.com/watch?v=tshDSa4E1zs) | failed_no_chords | 0% | Steal These Rootless Chords 3 🔥🎹🔥 #MusicianParadise |
 | [Tt5DRmLbLiA](https://www.youtube.com/watch?v=Tt5DRmLbLiA) | failed_no_chords | 0% | Advanced Chord Presets - Ripchord VST, Scaler, MPC Pad Perfo |
@@ -89,11 +104,14 @@
 | [UDdnyg-Cag4](https://www.youtube.com/watch?v=UDdnyg-Cag4) | failed_no_chords | 0% | Chord Presets Magic #musicianparadise |
 | [uNCdW8fP9TA](https://www.youtube.com/watch?v=uNCdW8fP9TA) | failed_no_chords | 0% | Late-Night Chord Sessions 🔥🎹🔥 #musicianparadise |
 | [VdSKe83qJ58](https://www.youtube.com/watch?v=VdSKe83qJ58) | failed_no_chords | 0% | Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianpa |
+| [VrZBixJd2XA](https://www.youtube.com/watch?v=VrZBixJd2XA) | failed_no_chords | 0% | Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #Soulfu |
 | [X0QlCzi1oak](https://www.youtube.com/watch?v=X0QlCzi1oak) | failed_no_chords | 0% | This Chord Progression Features Just a Single Chord 🔥🎹🔥 — De |
 | [X99h9OROu-g](https://www.youtube.com/watch?v=X99h9OROu-g) | failed_no_chords | 0% | Custom Scaler Chord Presets - Scaler, Ripchord VST, MPC Pad  |
 | [x_tRtjZpTsQ](https://www.youtube.com/watch?v=x_tRtjZpTsQ) | failed_no_chords | 0% | What if your next track started with THIS sound? 🎹✨ "Soul Du |
 | [Xh3v5H6BpIU](https://www.youtube.com/watch?v=Xh3v5H6BpIU) | failed_low_ocr | 44% | Steal These Chords 18 Simple Smooth Vibes 🔥🎹🔥 #musicianparad |
 | [xmJ7N9qPtY8](https://www.youtube.com/watch?v=xmJ7N9qPtY8) | failed_low_ocr | 20% | Steal These Rootless Chords 4 🔥🎹🔥 #musicianparadise |
+| [xn5Kk7jhpYQ](https://www.youtube.com/watch?v=xn5Kk7jhpYQ) | failed_no_chords | 0% | Steal These Soulful Chords 6 🔥🎹🔥 #musicianparadise |
+| [XO-xgetEBOM](https://www.youtube.com/watch?v=XO-xgetEBOM) | failed_no_chords | 0% | Steal These Chords (10) Deep House Starter 🔥🎹🔥 #MusicianPara |
 | [YUUiEzJ7kzQ](https://www.youtube.com/watch?v=YUUiEzJ7kzQ) | failed_low_ocr | 62% | Patrice Rushen “Remind Me” Chords 🔥🎹🔥 #musicianparadise |
 | [Z4ifRkuaL2k](https://www.youtube.com/watch?v=Z4ifRkuaL2k) | failed_no_chords | 0% | A New Kind Of Chord Presets - Ripchord VST, Scaler, MPC Pad  |
 | [Z80FgYT4Dzk](https://www.youtube.com/watch?v=Z80FgYT4Dzk) | failed_no_chords | 0% | I'm learning a chord progression every day—and you should to |

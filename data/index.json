@@ -1,8 +1,8 @@
 {
-  "count": 493,
-  "ok": 399,
-  "failed": 94,
-  "updated": "2026-09-07 21:42:53",
+  "count": 533,
+  "ok": 421,
+  "failed": 112,
+  "updated": "2026-09-07 22:28:55",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -143,6 +143,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "11-W5Z60InE",
+      "title": "The Jazz-Rock Genius Behind Steely Dan’s “The Royal Scam” 🔥🎹🔥",
+      "n_chords": 18,
+      "duration_sec": 11.0,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "19RheEtfrc8",
@@ -505,6 +515,16 @@
       "status": "ok"
     },
     {
+      "id": "5bf374rQI3s",
+      "title": "Soulful Chords That Hit Different 🔥🎹🔥 #musicianparadise #soulfulchords",
+      "n_chords": 0,
+      "duration_sec": 19.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "5Bn2N8jSE8M",
       "title": "Soulful Chord Presets - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🎁",
       "n_chords": 3,
@@ -605,6 +625,16 @@
       "status": "ok"
     },
     {
+      "id": "6ErJ_dWpEsM",
+      "title": "Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "6FuANvlBN6I",
       "title": "JAY-Z “Dead Presidents II” Chords 🔥🎹🔥 #LonnieListonSmith #NasirJones",
       "n_chords": 12,
@@ -631,6 +661,16 @@
       "duration_sec": 16.0,
       "key": "F major (?)",
       "key_confidence": 0.02,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "6YHdfR1wmYA",
+      "title": "Justin Timberlake Señorita Chords Bridge - Chad Hugo Chords 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 19.75,
+      "key": "A major (?)",
+      "key_confidence": 0.36,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -723,6 +763,26 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "7n4m4pkB2c4",
+      "title": "Erykah Badu “On & On” Uses Just 2 Chords… and It’s Perfect 🔥🎹🔥",
+      "n_chords": 8,
+      "duration_sec": 12.0,
+      "key": "E minor",
+      "key_confidence": 0.71,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "7t5GKsV7YY8",
+      "title": "“Off Rhythm Laughter” - André 3000 abandoned hip-hop to play these chords ?🔥🎹🔥 #MusicianParadise",
+      "n_chords": 5,
+      "duration_sec": 7.75,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "7UXM4kDswRw",
@@ -965,6 +1025,16 @@
       "status": "ok"
     },
     {
+      "id": "_12Rnn61T04",
+      "title": "Tyler’s “Boyfriend” Chords Go Way Deeper Than You Think 🔥🎹🔥",
+      "n_chords": 34,
+      "duration_sec": 35.75,
+      "key": "A major",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "_A11q929imc",
       "title": "Jamiroquai “Light Years” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -1085,6 +1155,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "ACzMEspZROg",
+      "title": "M-Beat & Jamiroquai “Do You Know Where You’re Coming From” (Intro chords breakdown) 🔥🎹🔥",
+      "n_chords": 21,
+      "duration_sec": 27.25,
+      "key": "Gb major",
+      "key_confidence": 0.5,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AhAOTVTOn9Y",
       "title": "Steal These Soulful Chords 31 🔥🎹🔥 Dark Neo Soul Vibes #musicianparadise",
       "n_chords": 0,
@@ -1111,6 +1191,16 @@
       "duration_sec": 23.25,
       "key": "B minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "AqL_vAps3hw",
+      "title": "Tyler’s “Side Street” Chords = Laid-Back Fire  🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 14.25,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.01,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1223,6 +1313,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Bimvyzk34OI",
+      "title": "Laid-Back Soulful R&B Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 25.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "bKBn9BW6Mxg",
@@ -1385,6 +1485,16 @@
       "status": "ok"
     },
     {
+      "id": "cjaHR_TMZmc",
+      "title": "M-Beat & Jamiroquai “Do You Know Where You’re Coming From” Chords Breakdown🔥🎹🔥 #musicianparadise",
+      "n_chords": 41,
+      "duration_sec": 60.0,
+      "key": "G minor",
+      "key_confidence": 0.88,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "CJJONzfQ9WQ",
       "title": "Steal These Chords 12 Soul + House = This 🔥🎹🔥",
       "n_chords": 0,
@@ -1485,6 +1595,16 @@
       "status": "ok"
     },
     {
+      "id": "CtjrZPci2Xk",
+      "title": "Steal These Rootless Chords 🔥🎹🔥 #MusicianParadise #rhodes73mki",
+      "n_chords": 0,
+      "duration_sec": 10.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "CTR2MSr3g5M",
       "title": "Ivan Lins (George Benson) “Dinorah Dinorah” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 23,
@@ -1573,6 +1693,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "dBk-1xmLQm0",
+      "title": "These 80s Synth Chords Were MADE to Be Sampled 🔥🎹🔥 “Nice Girls” by Eye To Eye",
+      "n_chords": 18,
+      "duration_sec": 20.25,
+      "key": "F major (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "Dc3W_tvvHO0",
@@ -1805,6 +1935,16 @@
       "status": "ok"
     },
     {
+      "id": "EpyNHyF7cTU",
+      "title": "Tyler, The Creator “Where This Flower Blooms” Chords 🐝🎹🐝",
+      "n_chords": 17,
+      "duration_sec": 20.25,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "EQW4-0GOUs8",
       "title": "Steal These Soulful Chords 29 🔥🎹🔥 Rhodes 73 MKI #musicianparadise",
       "n_chords": 0,
@@ -1873,6 +2013,16 @@
       "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "f3QlKVjIArg",
+      "title": "Steal These Soulful R&B Chords (11) 🔥🎹🔥#musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 22.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "f64kt28Y6Dw",
@@ -1955,6 +2105,16 @@
       "status": "ok"
     },
     {
+      "id": "FKPzsQM4BEo",
+      "title": "André 3000’s Piano Chords Will Calm Your Soul Or Will Drive You Crazy 🔥🎹🔥 #musicianparadise",
+      "n_chords": 39,
+      "duration_sec": 52.75,
+      "key": "F major",
+      "key_confidence": 0.75,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "fKrrNYMKrXA",
       "title": "How Steely Dan Crafted Perfection: The ‘Black Cow’ Chord Story🔥🎹🔥",
       "n_chords": 44,
@@ -1983,6 +2143,16 @@
       "key_confidence": 0.39,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "fr5hAXffet8",
+      "title": "These Chords Sound Like a 70s Movie Scene 🎬🎹 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 17.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "FRA7TNpaixs",
@@ -2093,6 +2263,16 @@
       "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "gGqf0jRoWAo",
+      "title": "Steal These Chords 2 🔥🎹🔥 (Deep House)",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "gHTyBYA7ULg",
@@ -2222,6 +2402,16 @@
       "key": "D major (?)",
       "key_confidence": 0.12,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "GZewiejU0EY",
+      "title": "These Chords Scream 90s R&B 🔥🎹🔥 Kirk Whalum “Love Is A Losing Game”",
+      "n_chords": 41,
+      "duration_sec": 45.0,
+      "key": "C# minor (?)",
+      "key_confidence": 0.33,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -2415,6 +2605,26 @@
       "status": "ok"
     },
     {
+      "id": "IabOyduIvxY",
+      "title": "Steal These Soulful Chords 9 🔥🎹🔥 #MusicianParadise #SoulfulChords",
+      "n_chords": 0,
+      "duration_sec": 24.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "iCcE340p_iY",
+      "title": "Justin Timberlake Señorita Chords Verse - Chad Hugo Chords 🔥🎹🔥",
+      "n_chords": 12,
+      "duration_sec": 9.75,
+      "key": "Gb major",
+      "key_confidence": 0.61,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "IDGAVohlAIo",
       "title": "Justin Timberlake “Take It From Here” Chords 🔥🎹🔥 The Neptunes Production - Chad Hugo Chords",
       "n_chords": 25,
@@ -2443,6 +2653,16 @@
       "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "IKCHSxDRbZU",
+      "title": "These “Nice Girls” Chords Were Made to Be Sampled 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 20.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ilVIMsTEfLI",
@@ -2493,6 +2713,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "iWS8cosqH28",
+      "title": "Daniel Caesar “Blessed” Chords 🔥🎹🔥 #MusicianParadise #HowToPlayBlessed",
+      "n_chords": 22,
+      "duration_sec": 30.5,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "IwUPtaQfY4w",
@@ -2585,6 +2815,16 @@
       "status": "ok"
     },
     {
+      "id": "Jgcx9XmA3fk",
+      "title": "The Most Emotional Outro 🎹🤯 Jamiroquai \"Virtual Insanity” #Jamiroquai",
+      "n_chords": 7,
+      "duration_sec": 18.25,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "JhX01vU9fqQ",
       "title": "Steely Dan “Aja” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 65,
@@ -2603,6 +2843,16 @@
       "key_confidence": 0.72,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "jNqBjMK3-C8",
+      "title": "Steal These Chords (7) 🔥🎹🔥 Soulful House Vibes",
+      "n_chords": 0,
+      "duration_sec": 15.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "JObCcswShWM",
@@ -2825,6 +3075,16 @@
       "status": "ok"
     },
     {
+      "id": "l7h2zDFiV6k",
+      "title": "Flying Lotus “Tea Leaf Dancers” Chords | Dreamy Sample Breakdown 🔥🎹🔥",
+      "n_chords": 5,
+      "duration_sec": 10.5,
+      "key": "F# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "LAIXD_fgBeU",
       "title": "I'm learning to play a new chord progression every day 🔥🎹🔥",
       "n_chords": 0,
@@ -2883,6 +3143,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "lPQG_XSlv-o",
+      "title": "J Dilla “The Look Of Love” Chords 🔥🎹🔥 Barney Kessel The Look Of Love  🎸 #MusicianParadise",
+      "n_chords": 15,
+      "duration_sec": 24.0,
+      "key": "A minor",
+      "key_confidence": 0.65,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "LThARgYqQaA",
@@ -3285,6 +3555,16 @@
       "status": "ok"
     },
     {
+      "id": "Nwd2R2xRP7E",
+      "title": "These Leon Thomas Chords Are Soul Therapy 🔥🎹🔥 “Yes It Is”",
+      "n_chords": 31,
+      "duration_sec": 31.5,
+      "key": "F minor",
+      "key_confidence": 0.89,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nwkXesb_5Ys",
       "title": "Shanice “It’s For You” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
@@ -3515,6 +3795,16 @@
       "status": "ok"
     },
     {
+      "id": "pDj_kTDzrz4",
+      "title": "Dark Soulful Chords🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "PhaFfpMl6JY",
       "title": "Ghost-Note Ft. Marcus Miller “Yellow Dan” Bridge Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 42,
@@ -3685,6 +3975,16 @@
       "status": "ok"
     },
     {
+      "id": "QP3JjxYWQPQ",
+      "title": "Did H.E.R. Borrow These R&B Chords? 😳 “Could’ve Been” vs. Take 6 “Come Onto Me 🔥🎹🔥",
+      "n_chords": 9,
+      "duration_sec": 18.5,
+      "key": "Db minor",
+      "key_confidence": 0.61,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "QqFF_piuT84",
       "title": "Kazumi Watanabe “Poppy's Walk” Intro Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 25,
@@ -3755,6 +4055,16 @@
       "status": "ok"
     },
     {
+      "id": "rC83Rs9Wd5g",
+      "title": "Steal These Rhodes Chords 🔥🎹🔥 Instant Vibes #musicianparadise",
+      "n_chords": 1,
+      "duration_sec": 30.75,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Rd8blB65rZ4",
       "title": "Metropolis Street Racer “You Can Love Me” Chords 🔥🎹🔥 Composer - Richard Jacques #musicianparadise",
       "n_chords": 22,
@@ -3771,6 +4081,16 @@
       "duration_sec": 15.75,
       "key": "D minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "rdDQYy01ACE",
+      "title": "Don Blackman’s “Heart’s Desire” Chords = Funk Soul Gold 🔥🎹🔥",
+      "n_chords": 11,
+      "duration_sec": 19.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.48,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3935,6 +4255,16 @@
       "status": "ok"
     },
     {
+      "id": "sCLdX3IndnQ",
+      "title": "Ludacris & T-Pain “One More Drink” Chords Brakedown 🔥🎹🔥",
+      "n_chords": 20,
+      "duration_sec": 19.25,
+      "key": "C major",
+      "key_confidence": 0.7,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "SeG37Y2ELcI",
       "title": "Hiatus Kaiyote “Fingerprints” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
@@ -3951,6 +4281,16 @@
       "duration_sec": 44.0,
       "key": "G# minor (?)",
       "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "snvoRs05-HM",
+      "title": "Q-Tip “You” Chords 🔥🎹🔥 #MusicianParadise #chordprogressions",
+      "n_chords": 8,
+      "duration_sec": 10.5,
+      "key": "Eb major",
+      "key_confidence": 0.68,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4103,6 +4443,16 @@
       "key_confidence": 0.8,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "TGV10W2liGk",
+      "title": "Steal These Chords 🔥🎹🔥 #SoulfulHouse #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "THIQvNskZJY",
@@ -4485,6 +4835,16 @@
       "status": "ok"
     },
     {
+      "id": "VrZBixJd2XA",
+      "title": "Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #SoulfulDeepHouseChords",
+      "n_chords": 0,
+      "duration_sec": 15.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "vSPPe1QYpLE",
       "title": "N.E.R.D. “Everyone Nose” Bridge (Chords Breakdown) 🔥🎹🔥",
       "n_chords": 9,
@@ -4531,6 +4891,16 @@
       "duration_sec": 22.75,
       "key": "D minor",
       "key_confidence": 0.74,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "WfrhY8_pLnQ",
+      "title": "Tyler’s “Whoville” Chords Sound Like Jazz From Another Planet 🔥🎹🔥 #chordprogressions",
+      "n_chords": 10,
+      "duration_sec": 24.0,
+      "key": "E major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4705,6 +5075,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "xn5Kk7jhpYQ",
+      "title": "Steal These Soulful Chords 6 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "XN9A8Rx-djk",
       "title": "Rah-o “HawT” (Mr. Church Piano Scene) Chords 🔥🎹🔥",
       "n_chords": 21,
@@ -4715,12 +5095,32 @@
       "status": "ok"
     },
     {
+      "id": "XO-xgetEBOM",
+      "title": "Steal These Chords (10) Deep House Starter 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "xO1ZNriqOcw",
       "title": "Jamiroquai “Virtual Insanity” Final 🔥🎹🔥 The final bit—parts nobody wants to teach.",
       "n_chords": 17,
       "duration_sec": 18.25,
       "key": "Bb minor (?)",
       "key_confidence": 0.39,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Xo7sVd7vsfA",
+      "title": "The Roots Built THIS With Live Chords 🎹🔥 “Proceed” Breakdown (Neo Soul Sauce)",
+      "n_chords": 26,
+      "duration_sec": 32.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
