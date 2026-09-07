@@ -1,8 +1,8 @@
 {
-  "count": 773,
-  "ok": 619,
-  "failed": 154,
-  "updated": "2026-09-08 02:33:00",
+  "count": 813,
+  "ok": 658,
+  "failed": 155,
+  "updated": "2026-09-08 03:13:02",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -195,6 +195,16 @@
       "status": "ok"
     },
     {
+      "id": "0SWjfg8fuzQ",
+      "title": "Unlock the Soul: Leon Ware's 'Rockin' You Eternally' Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 20,
+      "duration_sec": 28.75,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "0tFkriFzg2U",
       "title": "Chord Presets That Spark Inspiration - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -281,6 +291,16 @@
       "duration_sec": 10.25,
       "key": "Bb major",
       "key_confidence": 0.62,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "1_zmsipbK5w",
+      "title": "Lonnie Liston Smith “Night Flower” Chords 🔥🎹🔥#musicianparadise #chordprogressions",
+      "n_chords": 26,
+      "duration_sec": 60.0,
+      "key": "C minor (?)",
+      "key_confidence": 0.47,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -425,12 +445,42 @@
       "status": "ok"
     },
     {
+      "id": "2l_kBWHtb1M",
+      "title": "Happy Birthday, Roy  🎉 ! 10.09. Roy Ayers “Everybody Loves The Sunshine” Chords 🌞🎹🌞",
+      "n_chords": 0,
+      "duration_sec": 27.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "2lzFA9DE_lk",
+      "title": "The Sweetest Chords - Dexter Wansel \"The Sweetest Pain\" Intro Chords 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 16.5,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "2M_nEGaYOYo",
       "title": "Patrice Rushen “Forget Me Nots” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 13,
       "duration_sec": 17.0,
       "key": "F# minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "2oulfJnMAEo",
+      "title": "Sampling Goldmine - Alicia Myers “I Want To Thank You” Chords 🔥🎹🔥 #musicianparadise #chords",
+      "n_chords": 10,
+      "duration_sec": 17.75,
+      "key": "G major",
+      "key_confidence": 0.8,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -625,6 +675,16 @@
       "status": "ok"
     },
     {
+      "id": "4e-zVdk6UKA",
+      "title": "Those Will Give You Chills! Mary J. Blige “Your Child” Chords 🔥🎹🔥",
+      "n_chords": 11,
+      "duration_sec": 14.5,
+      "key": "C# minor (?)",
+      "key_confidence": 0.03,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "4fj6obdIyT8",
       "title": "Djavan \"Samurai\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 24,
@@ -741,6 +801,16 @@
       "duration_sec": 15.25,
       "key": "F minor (?)",
       "key_confidence": 0.2,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "5_jb8GPZzI0",
+      "title": "Linda Clifford \"Runaway Love\" Intro chords 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 19.25,
+      "key": "Bb major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -935,6 +1005,16 @@
       "status": "ok"
     },
     {
+      "id": "6Q6utfPu7Rk",
+      "title": "Michael Jackson P.Y.T. Greg Phillinganes Version Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 37,
+      "duration_sec": 35.5,
+      "key": "Eb major",
+      "key_confidence": 0.76,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "6tNsUDvnFUk",
       "title": "Final Fantasy X-2  Eternity “Memory of Lightwaves” Chords 🔥🎹🔥 Composer Noriko Matsueda",
       "n_chords": 11,
@@ -1101,6 +1181,16 @@
       "duration_sec": 7.75,
       "key": "E minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "7TL05LH8OS8",
+      "title": "Roy Ayers ‘Together Forever’ Exploring the Chord Progression 🔥🎹🔥 136 bpm Am",
+      "n_chords": 27,
+      "duration_sec": 31.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.4,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1405,6 +1495,16 @@
       "status": "ok"
     },
     {
+      "id": "9Omb73ZW8Qk",
+      "title": "Happy Birthday, Michael! 29.08 “I Can’t Help It” Stevie Wonder’s Song 🔥🎹🔥 Greg Phillinganes Chords",
+      "n_chords": 37,
+      "duration_sec": 50.25,
+      "key": "Ab major",
+      "key_confidence": 0.61,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "9RpdzF50614",
       "title": "Michael Jackson \"Someone Put Your Hand Out\" Chords 🔥🎹🔥 Pepsi Is Too Sweet For My Taste But...",
       "n_chords": 27,
@@ -1500,6 +1600,16 @@
       "n_chords": 34,
       "duration_sec": 52.0,
       "key": "D# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "_mCoy0Zbs1M",
+      "title": "Sade \"Maureen\" Chords 🔥🎹🔥 #SadeMaureen #MaureenChords",
+      "n_chords": 12,
+      "duration_sec": 15.0,
+      "key": "Db major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -1665,6 +1775,16 @@
       "status": "ok"
     },
     {
+      "id": "Aq29pLjym_M",
+      "title": "The Funky Chords Behind Canned Heat | Jamiroquai’s Classic Jamiroquai “Canned Heat” Chords 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 7.5,
+      "key": "D minor (?)",
+      "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AqL_vAps3hw",
       "title": "Tyler’s “Side Street” Chords = Laid-Back Fire  🔥🎹🔥",
       "n_chords": 13,
@@ -1765,6 +1885,16 @@
       "status": "ok"
     },
     {
+      "id": "aWqMXYQpJMA",
+      "title": "Contemporary R&B Chords 🔥🎹🔥 #chordprogressions",
+      "n_chords": 14,
+      "duration_sec": 16.5,
+      "key": "D major (?)",
+      "key_confidence": 0.33,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "AxSRAY8KE2c",
       "title": "Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
@@ -1840,6 +1970,16 @@
       "n_chords": 17,
       "duration_sec": 41.75,
       "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bD9D2S5IjxA",
+      "title": "The Gap Band's \"Yearning For Your Love\" Chords = Jodeci \"Love U 4 Life\" ? 🔥🎹🔥 #musicianparadise",
+      "n_chords": 35,
+      "duration_sec": 43.0,
+      "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -2575,6 +2715,16 @@
       "status": "ok"
     },
     {
+      "id": "e-DDMpNAqMo",
+      "title": "Roy Ayers “This Side Of Sunshine” Chords 🔥🎹🔥 #chordprogressions",
+      "n_chords": 19,
+      "duration_sec": 25.75,
+      "key": "Db major",
+      "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "E8aCADQtTBI",
       "title": "Tyler, The Creator “I Don’t Love You Anymore” Bridge Chords 🔥🎹🔥",
       "n_chords": 10,
@@ -2625,6 +2775,16 @@
       "status": "ok"
     },
     {
+      "id": "eFnMDbtN5qI",
+      "title": "H.E.R “Could’ve Been” Part B Chords 🔥🎹🔥#musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 23.0,
+      "key": "Gb minor",
+      "key_confidence": 0.67,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "eG9zGTeG-m0",
       "title": "Enthusia “Allegiance” Chords 🔥🎹🔥 Gaming Sunday Racing OST.",
       "n_chords": 35,
@@ -2671,6 +2831,16 @@
       "duration_sec": 28.25,
       "key": "F# minor (?)",
       "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ENAQyvOOGYI",
+      "title": "This Chord Progression Will Transport You to Space! 🚀 Jamiroquai “Cosmic Girl” Chords 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 24.25,
+      "key": "F# minor (?)",
+      "key_confidence": 0.28,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3335,6 +3505,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "gZDBRUEFqKU",
+      "title": "Neo-Soul Secrets: Decoding The Internet's 'La Di Da' Chords 🔥🎹🔥#musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 18.75,
+      "key": "Db minor (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "GZewiejU0EY",
       "title": "These Chords Scream 90s R&B 🔥🎹🔥 Kirk Whalum “Love Is A Losing Game”",
       "n_chords": 41,
@@ -3575,6 +3755,26 @@
       "status": "ok"
     },
     {
+      "id": "i27z7jlb9bY",
+      "title": "Adriana Evans “Reality” Parallel Reality Chords 🔥🎹🔥 #chordprogression",
+      "n_chords": 14,
+      "duration_sec": 13.0,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "i3J83oWnArw",
+      "title": "House and Hip-Hop Touchstone - Donald Byrd \"Think Twice” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 15.5,
+      "key": "C minor",
+      "key_confidence": 0.52,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "I4ifF8VSBQQ",
       "title": "Prince’s Hidden Funk Gem: The “Jukebox With A Heartbeat” Chords 🔥🎹🔥",
       "n_chords": 16,
@@ -3681,6 +3881,16 @@
       "duration_sec": 10.75,
       "key": "E minor",
       "key_confidence": 0.79,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Ima_BB6pz08",
+      "title": "Hyper Extended Chords - N.E.R.D ‘Run To The Sun’ Chords 🔥🎹🔥 #chordprogression #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 10.0,
+      "key": "Bb major (?)",
+      "key_confidence": 0.44,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3965,6 +4175,16 @@
       "status": "ok"
     },
     {
+      "id": "jhcJy5l5OP0",
+      "title": "Luther Vandross \"You're the Sweetest One\" Chords 🔥🎹🔥 #musicianparadise #chordprogression",
+      "n_chords": 35,
+      "duration_sec": 46.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "JhX01vU9fqQ",
       "title": "Steely Dan “Aja” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 65,
@@ -4091,6 +4311,16 @@
       "duration_sec": 11.75,
       "key": "Eb major (?)",
       "key_confidence": 0.08,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "JxIse_4GS24",
+      "title": "H.E.R “Could’ve Been” Part A Smoothest R&B Chords In The Business 🔥🎹🔥  #chordprogression",
+      "n_chords": 8,
+      "duration_sec": 18.5,
+      "key": "Db minor",
+      "key_confidence": 0.61,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4605,6 +4835,16 @@
       "status": "ok"
     },
     {
+      "id": "MAK8q0CZtp0",
+      "title": "Fonda Rae “Over Like A Fat Rat” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 8.75,
+      "key": "E major (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "mBqwHRKaKus",
       "title": "Breaking Down Tyler’s Chords in ‘Hey Jane’ 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -4885,6 +5125,16 @@
       "status": "ok"
     },
     {
+      "id": "nhyh54Irins",
+      "title": "Unlocking Sonic Wizardry - Tyler, The Creator's \"NEW MAGIC WAND\" Chords 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 27.5,
+      "key": "F# major (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "NJuzhQRO-JE",
       "title": "Kelly Price “Secret Love” Secret Chords 🔥🎹🔥 #musicianparadise #chorchords rogression ds",
       "n_chords": 45,
@@ -5115,6 +5365,16 @@
       "status": "ok"
     },
     {
+      "id": "O_Otg7zWRoc",
+      "title": "Michael Jackson “Rock With You” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 60.0,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ObN0iqdRVU0",
       "title": "Phony Ppl “Way Too Far” 🔥🎹🔥 The bass notes change everything! #musicianparadise",
       "n_chords": 16,
@@ -5202,6 +5462,16 @@
       "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 2,
+      "status": "ok"
+    },
+    {
+      "id": "OmgZU57qRIA",
+      "title": "Unlock the Funk: Don Blackman's 'Heart's Desire' Secrets Chords Revealed 🔥🎹🔥#musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 19.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -5525,6 +5795,16 @@
       "status": "ok"
     },
     {
+      "id": "PTCkBCpRjLU",
+      "title": "Those Chords Will Make You Groove - Jamiroquai ‘Where Do We Go From Here’ Chords Part 1 🔥🎹🔥",
+      "n_chords": 10,
+      "duration_sec": 18.75,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "PwAe6PiFXh0",
       "title": "Adriana Evans “Reality” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 21,
@@ -5665,6 +5945,16 @@
       "status": "ok"
     },
     {
+      "id": "QiS3yNA9Jc0",
+      "title": "Jamiroquai ‘Where Do We Go From Here’ Chords Part 2 🔥🎹🔥 #chordprogressions",
+      "n_chords": 63,
+      "duration_sec": 49.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.42,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Qj3dHMOIE9c",
       "title": "90s R&B Mastery: Decoding Mary J Blidge “Mary's Joint” Chord Progression 🔥🎹🔥",
       "n_chords": 41,
@@ -5761,6 +6051,16 @@
       "duration_sec": 30.25,
       "key": "C# minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qR40dayRedI",
+      "title": "90’s Throwback - Jamiroquai “High Times” Chords 🔥🎹🔥 Em 112.70 bpm #musicianparadise",
+      "n_chords": 19,
+      "duration_sec": 25.25,
+      "key": "E minor",
+      "key_confidence": 0.5,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6115,6 +6415,16 @@
       "status": "ok"
     },
     {
+      "id": "sdj5HEDYa8s",
+      "title": "Modern R&B Classic - Daniel Caesar (ft. Kali Uchis) \"Get You” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 26.0,
+      "key": "A major",
+      "key_confidence": 0.85,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "SDrw6yxSKuM",
       "title": "Unlock the Emotional Power of Mac Miller's “ROS” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 35,
@@ -6375,6 +6685,16 @@
       "status": "ok"
     },
     {
+      "id": "t_aHVZXPAE0",
+      "title": "2Pac “Run Tha Streetz” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 23.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TBA4xWJz69w",
       "title": "D’Angelo “Ex to the Next” chords 🔥🎹🔥 I can sing Benny Golson’s “Killer Joe” over them!",
       "n_chords": 12,
@@ -6595,6 +6915,16 @@
       "status": "ok"
     },
     {
+      "id": "TtiMM17J9JQ",
+      "title": "Why Every Producer Samples “Outstanding” by Gap Band - Funky Chords🔥🎹🔥 #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 21.75,
+      "key": "D# minor (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TtVID10Xr2s",
       "title": "Jill Scott “Cross My Mind” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
@@ -6611,6 +6941,16 @@
       "duration_sec": 64.75,
       "key": "Bb minor",
       "key_confidence": 0.63,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "TVuAwAQWkrg",
+      "title": "Chord Progression That Inspired Generations - Dexter Wansel \"The Sweetest Pain\" Chords 🔥🎹🔥",
+      "n_chords": 31,
+      "duration_sec": 29.25,
+      "key": "A minor",
+      "key_confidence": 0.93,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6775,6 +7115,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "UOpPKZcHmkw",
+      "title": "80s Dance Floor Throwback - D Train \"Keep On\" Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 38,
+      "duration_sec": 35.0,
+      "key": "F# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "uSaT93zaim8",
       "title": "The Chillest Chords in Gaming: Jerry Martin’s “The Sims – Neighborhood 4” 🔥🎹🔥 #musicianparadise",
       "n_chords": 17,
@@ -6791,6 +7141,16 @@
       "duration_sec": 29.5,
       "key": "E minor (?)",
       "key_confidence": 0.41,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "utEWst1Exqs",
+      "title": "How Jamiroquai Made \"Space Cowboy\" a Timeless Groove 🎶 Jamiroquai \"Space Cowboy\" Chords 🔥🎹🔥",
+      "n_chords": 27,
+      "duration_sec": 43.75,
+      "key": "Bb minor",
+      "key_confidence": 0.56,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -7445,6 +7805,16 @@
       "status": "ok"
     },
     {
+      "id": "XYQT6VERwcU",
+      "title": "This SWV “Use Your Heart” Chords Will Give You 90s R&B Chills! Chad Hugo Chords 🔥🎹🔥",
+      "n_chords": 33,
+      "duration_sec": 51.5,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "y3MEH-jF5QM",
       "title": "702 “I Still Love You“ Chords 🔥🎹🔥 By multiple requests - Complete Version  #musicianparadise",
       "n_chords": 26,
@@ -7512,6 +7882,16 @@
       "key": "D minor",
       "key_confidence": 0.98,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "ySJqDpzXVSk",
+      "title": "The Pharcyde's Hidden Chord Gem: The Pharcyde “4 Better Or 4 Worse” (Interlude) Chords 🔥🎹🔥",
+      "n_chords": 21,
+      "duration_sec": 10.25,
+      "key": "G minor (?)",
+      "key_confidence": 0.42,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -7645,12 +8025,32 @@
       "status": "ok"
     },
     {
+      "id": "zCm7NqsFzs8",
+      "title": "The Gap Band's \"Yearning For Your Love\" Bridge Chords 🔥🎹🔥 #musicianparadise #chordprogressions",
+      "n_chords": 33,
+      "duration_sec": 35.0,
+      "key": "E minor",
+      "key_confidence": 0.76,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ZdNJfuKLeZA",
       "title": "Chord Progression That Made Jodeci “Love U 4 Life” A 90s R&B Classic🔥🎹🔥 #musicianparadise",
       "n_chords": 43,
       "duration_sec": 48.75,
       "key": "G minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ZemZTSi7P2M",
+      "title": "The Seductive Chords of Herb Alpert's 'Making Love In The Rain' 🔥🎹🔥 #musicianparadise",
+      "n_chords": 34,
+      "duration_sec": 36.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.45,
       "n_unsure": 0,
       "status": "ok"
     },
