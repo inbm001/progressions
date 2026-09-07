@@ -1,8 +1,8 @@
 {
-  "count": 533,
-  "ok": 421,
-  "failed": 112,
-  "updated": "2026-09-07 22:28:55",
+  "count": 573,
+  "ok": 442,
+  "failed": 131,
+  "updated": "2026-09-07 23:11:22",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -125,6 +125,26 @@
       "status": "ok"
     },
     {
+      "id": "0beHhfQ9ItA",
+      "title": "J Dilla’s Dreamy Chords Came From THIS🔥🎹🔥 Dave Grusin Flip",
+      "n_chords": 0,
+      "duration_sec": 10.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "0k32pn9Wf14",
+      "title": "Floetry “Say Yes” Chords 🔥🎹🔥 I couldn't resist playing these chords on a beautiful Rhodes 73.",
+      "n_chords": 0,
+      "duration_sec": 16.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "0tFkriFzg2U",
       "title": "Chord Presets That Spark Inspiration - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -191,6 +211,16 @@
       "duration_sec": 56.0,
       "key": "F major",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "1G8kkAQ4AwY",
+      "title": "How Tyler, The Creator Built “Sweet, I Thought You Wanted To Dance” Pt.2 Chords🔥🎹🔥",
+      "n_chords": 15,
+      "duration_sec": 25.0,
+      "key": "Db major (?)",
+      "key_confidence": 0.06,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -535,6 +565,16 @@
       "status": "ok"
     },
     {
+      "id": "5i_76w1E5ks",
+      "title": "N.E.R.D “You Know What”🔥🎹🔥 Verse Chords #musicianparadise",
+      "n_chords": 24,
+      "duration_sec": 32.0,
+      "key": "G# minor",
+      "key_confidence": 0.62,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "5IJXbBnf4mU",
       "title": "Tyler, The Creator “SMUCKERS” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 16,
@@ -841,6 +881,16 @@
       "duration_sec": 19.25,
       "key": "A minor (?)",
       "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "8mkzBKt-tmA",
+      "title": "Daft Punk - “Digital Love” Chords - George Duke’s “I Love You More” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 16,
+      "duration_sec": 15.5,
+      "key": "D major (?)",
+      "key_confidence": 0.28,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1295,6 +1345,16 @@
       "status": "ok"
     },
     {
+      "id": "B2hqgOdmGfU",
+      "title": "J Dilla “La La La” Chords 🔥🎹🔥 #jdilla #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 10.25,
+      "key": "D minor (?)",
+      "key_confidence": 0.05,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "Bar3uTGyH2U",
       "title": "Streets Of Rage “Ending Theme” Chords 🔥🎹🔥 Gaming Sunday #MusicianParadise",
       "n_chords": 17,
@@ -1355,12 +1415,32 @@
       "status": "ok"
     },
     {
+      "id": "BNQlMOMQbX0",
+      "title": "Quantum Chord Mechanics Rhodes 73 MK I 🔥🎹🔥 #musicianparadise #chordpresetpacks",
+      "n_chords": 0,
+      "duration_sec": 25.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "BobM4KlfTDA",
       "title": "Robert Glasper’s “Breathing Underwater” Chords Are Pure Neo-Soul Magic 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
       "duration_sec": 14.0,
       "key": "Eb major (?)",
       "key_confidence": 0.19,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "BqjOFHd9NGM",
+      "title": "Robert Glasper & Norah Jones= Chord Heaven 🎶 “Let It Ride” Chords 🔥🎹🔥",
+      "n_chords": 24,
+      "duration_sec": 24.5,
+      "key": "F minor",
+      "key_confidence": 0.92,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1560,6 +1640,16 @@
       "n_chords": 12,
       "duration_sec": 13.25,
       "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CrjF0beWi38",
+      "title": "Kendrick Lamar “Poe Mans Dreams ” 🔥🎹🔥 Gil Scott-Heron & Brian Jackson Sample",
+      "n_chords": 7,
+      "duration_sec": 5.75,
+      "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -1805,6 +1895,16 @@
       "status": "ok"
     },
     {
+      "id": "DXWZ3A0UHhc",
+      "title": "Kendrick Lamar “Untitled 06.30.2014” Chords 🔥🎹🔥 #musicianparadise #musictheory",
+      "n_chords": 22,
+      "duration_sec": 35.0,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "DYqHmF0U_Ao",
       "title": "Jay Z “Allure” Chords 🔥🎹🔥 The Neptunes production #musicianparadise",
       "n_chords": 36,
@@ -1923,6 +2023,16 @@
       "key_confidence": 0.02,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "EPncwpThDUE",
+      "title": "Robert Glasper Inspired Chords 🔥🎹🔥Robert Glasper's 'All I Do' ft. SiR & Bridget Kelly.",
+      "n_chords": 0,
+      "duration_sec": 21.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ePsUt7EG5UM",
@@ -2145,6 +2255,16 @@
       "status": "ok"
     },
     {
+      "id": "foz5xxrc5Pw",
+      "title": "Soulful Deep House Chords You Need to Try 🔥🎹🔥 #deephouse",
+      "n_chords": 0,
+      "duration_sec": 15.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "fr5hAXffet8",
       "title": "These Chords Sound Like a 70s Movie Scene 🎬🎹 #MusicianParadise",
       "n_chords": 0,
@@ -2180,6 +2300,16 @@
       "n_chords": 51,
       "duration_sec": 36.5,
       "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "fvkv14CcyiE",
+      "title": "Tyler, The Creator “Heaven To Me” – John Legend - Heaven sample 🔥🎹🔥",
+      "n_chords": 9,
+      "duration_sec": 11.0,
+      "key": "C major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -2365,6 +2495,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "GPfetp8burc",
+      "title": "The \"Frontin' ” Bridge On A Real Rhodes 🔥🎹🔥 Rhodes 73 MKI Chad Hugo - Pharrell and Jay-Z",
+      "n_chords": 15,
+      "duration_sec": 18.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "GqnLu9EsCdc",
       "title": "The Isley Brothers “Sensuality” Chords 🔥🎹🔥 80s Soul Masterpiece #musicianparadise",
       "n_chords": 44,
@@ -2403,6 +2543,16 @@
       "key_confidence": 0.12,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "gYnrQWA7Nf8",
+      "title": "Minnie Riperton \"Inside My Love\" Bridge - The most sampled and beautiful chords ever! 🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 23.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "GZewiejU0EY",
@@ -2755,6 +2905,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "j-UO4h5chFU",
+      "title": "N.E.R.D “Tape You” Bridge Chords 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
+      "n_chords": 1,
+      "duration_sec": 9.25,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "J29olqzUt7g",
+      "title": "Composing Soulful Chord Progressions 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 19.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "J3i60fBLKpc",
       "title": "Pharrell “Bad Day”(Despicable Me) Chords 🔥🎹🔥 Original Motion Picture Soundtrack #musicianparadise",
       "n_chords": 26,
@@ -2815,6 +2985,16 @@
       "status": "ok"
     },
     {
+      "id": "JcjHt8S9WwM",
+      "title": "Beautiful R&B Chords On A Vintage Rhodes 73 MK I 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 24.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Jgcx9XmA3fk",
       "title": "The Most Emotional Outro 🎹🤯 Jamiroquai \"Virtual Insanity” #Jamiroquai",
       "n_chords": 7,
@@ -2869,6 +3049,16 @@
       "title": "Super Play Action Football “Season Ended, Lose” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 37,
       "duration_sec": 35.25,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "jr_pfpN5uVc",
+      "title": "Freddie Gibbs’ “Cosmo Freestyle” Chords Are Pure Soul-Jazz 🔥🎹🔥 #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 12.5,
       "key": "D minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
@@ -3065,6 +3255,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "L-H_Bhd5SbM",
+      "title": "Tyler, The Creator “Sweet, I Thought You Wanted To Dance” – Chord Progression Breakdown! 🔥🎹🔥",
+      "n_chords": 13,
+      "duration_sec": 12.5,
+      "key": "F major (?)",
+      "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "l6eyqAOOM_4",
       "title": "“Mission Complete” Final Fantasy X-2 Chords 🔥🎹🔥 Composers - Noriko Matsueda, Takahito Eguchi",
       "n_chords": 34,
@@ -3101,6 +3301,16 @@
       "duration_sec": 11.75,
       "key": null,
       "key_confidence": null,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "lemv1izk-Hk",
+      "title": "Kendrick Lamar “These Walls” Chords 🔥🎹🔥 Rhodes 73 MK 1 Rod Temperton ‘Sweet Freedom’ chords",
+      "n_chords": 0,
+      "duration_sec": 35.5,
+      "key": null,
+      "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
     },
@@ -3223,6 +3433,16 @@
       "key_confidence": 1.0,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "M-MrsmCNV4k",
+      "title": "Conscious Rap Inspired Chords 🔥🎹🔥 #musicianparadise #chordpresetpacks #musictheory",
+      "n_chords": 0,
+      "duration_sec": 19.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "m0hC_mOxow0",
@@ -3361,6 +3581,16 @@
       "duration_sec": 37.5,
       "key": "E major (?)",
       "key_confidence": 0.15,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "N-zrVhS0uXI",
+      "title": "Rare! 🔎 Pharrell & Justin Timberlake “Second Chance”  “Tape You” Outro  The Neptunes Secrets 🔥🎹🔥",
+      "n_chords": 14,
+      "duration_sec": 24.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.47,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3595,6 +3825,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "O1hnm8iBnwA",
+      "title": "Jazz Day - Miles Davis “Nardis” Chords 🔥🎹🔥(Joe Henderson 1967) as played by Kenny Barron",
+      "n_chords": 33,
+      "duration_sec": 31.25,
+      "key": "F major",
+      "key_confidence": 0.55,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "O4G6WVzacX4",
+      "title": "Chords I've Never Dared to Use: - Dwele “Truth” 🔥🎹🔥 N.C. No Chord 1: Ab7Maj7(9); 2: Bb7Maj7(9,13)",
+      "n_chords": 12,
+      "duration_sec": 31.75,
+      "key": "E minor",
+      "key_confidence": 0.8,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ObN0iqdRVU0",
       "title": "Phony Ppl “Way Too Far” 🔥🎹🔥 The bass notes change everything! #musicianparadise",
       "n_chords": 16,
@@ -3652,6 +3902,16 @@
       "key": "E minor",
       "key_confidence": 1.0,
       "n_unsure": 2,
+      "status": "ok"
+    },
+    {
+      "id": "op-3Xxz_JWg",
+      "title": "How Tyler, The Creator Built “Noid” Chords! 🔥🎹🔥 #chordpresetpacks #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 26.75,
+      "key": "G minor (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -3905,6 +4165,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "QBe48IRmOUY",
+      "title": "Calm Intensity Mood Chords 🔥🎹🔥 #musicianparadise #chordpresetpacks",
+      "n_chords": 0,
+      "duration_sec": 27.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "QCB--wBT-_U",
+      "title": "Dark Neo Soul Chords 🔥🎹🔥 #musicianparadise #chordpresetpacks #beatmakers",
+      "n_chords": 0,
+      "duration_sec": 20.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "QDkbFzbZX1o",
       "title": "Prince and Q-Tip “The Greatest Romance Ever Sold” (The Neptunes Remix) Chords 🔥🎹🔥",
       "n_chords": 16,
@@ -3953,6 +4233,16 @@
       "key_confidence": 0.07,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "QKYfnEGSIps",
+      "title": "Mos Def \"Umi Says\" Will.i.am and Weldon Irvine Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 20.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "QmHilfMjX50",
@@ -4525,6 +4815,16 @@
       "status": "ok"
     },
     {
+      "id": "tqPr_AA3Xow",
+      "title": "Soulful Finger-Stretching Exercise🔥🎹🔥",
+      "n_chords": 0,
+      "duration_sec": 20.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "tshDSa4E1zs",
       "title": "Steal These Rootless Chords 3 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -4683,6 +4983,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "udMwuwgJNo8",
+      "title": "Mtume “Love Lock” Chords 🔥🎹🔥 #musicianparadise #musictheory  #guitarchords",
+      "n_chords": 8,
+      "duration_sec": 17.75,
+      "key": "F minor",
+      "key_confidence": 0.55,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
     },
     {
       "id": "UjiClsw_dSg",
@@ -4895,6 +5205,16 @@
       "status": "ok"
     },
     {
+      "id": "WFMXDDG_Am0",
+      "title": "How Kendrick Lamar & Terrace Martin Made ‘Untitled 05’ Sound Like a Jazz Masterpiece  🔥🎹🔥",
+      "n_chords": 18,
+      "duration_sec": 25.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "WfrhY8_pLnQ",
       "title": "Tyler’s “Whoville” Chords Sound Like Jazz From Another Planet 🔥🎹🔥 #chordprogressions",
       "n_chords": 10,
@@ -4903,6 +5223,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "wKQK6PEd3nA",
+      "title": "Daft Punk Inspired Chords 🔥🎹🔥 Basically “Voyager” chords but I added some chord extensions.",
+      "n_chords": 4,
+      "duration_sec": 15.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "wntQUx3n7KM",
@@ -4943,6 +5273,16 @@
       "key_confidence": 0.61,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "wv6SV1dCg0c",
+      "title": "70s-Style Chords On A Rhordes 73 MK I 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 27.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "x07AuHc3RBY",
@@ -5065,6 +5405,16 @@
       "status": "ok"
     },
     {
+      "id": "XImFy7gdpKI",
+      "title": "How Bernard Wright Built “Bread Sandwiches” – Funk Chord Breakdown!🔥🎹🔥 #musicianparadise",
+      "n_chords": 64,
+      "duration_sec": 37.5,
+      "key": "F# major (?)",
+      "key_confidence": 0.24,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "xmJ7N9qPtY8",
       "title": "Steal These Rootless Chords 4 🔥🎹🔥 #musicianparadise",
       "n_chords": 1,
@@ -5073,6 +5423,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "XmJs2shoCmQ",
+      "title": "Tyler, The Creator “Sometimes” Chord Secrets – Play ii-V-I’s Like Tyler! 🔥🎹🔥",
+      "n_chords": 7,
+      "duration_sec": 6.5,
+      "key": "Gb major (?)",
+      "key_confidence": 0.1,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "xn5Kk7jhpYQ",
@@ -5145,6 +5505,26 @@
       "status": "ok"
     },
     {
+      "id": "xoJ9jCKf2Pw",
+      "title": "How The Neptunes Crafted Slim Thug's \"Ashy to Classy\" Chords 🔥🎹🔥 #theneptunes",
+      "n_chords": 10,
+      "duration_sec": 10.25,
+      "key": "G minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "XsMjcqri8R0",
+      "title": "Warm Deep House Rhodes Chords You’ll Want to Flip 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "XwC-7uYwxGw",
       "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 57,
@@ -5181,6 +5561,16 @@
       "duration_sec": 42.25,
       "key": "A minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "yun6CVkMQNw",
+      "title": "How Devin Morrison Crafted These Soulful Chords “Pleasures Taboo” Breakdown 🔥🎹🔥",
+      "n_chords": 21,
+      "duration_sec": 31.25,
+      "key": "Eb major (?)",
+      "key_confidence": 0.36,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -5291,6 +5681,16 @@
       "duration_sec": 40.25,
       "key": "A major (?)",
       "key_confidence": 0.38,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "zf031AKk_fg",
+      "title": "Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
+      "n_chords": 4,
+      "duration_sec": 11.0,
+      "key": "Bb minor",
+      "key_confidence": 0.63,
       "n_unsure": 0,
       "status": "ok"
     },
