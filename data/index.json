@@ -1,8 +1,8 @@
 {
-  "count": 413,
-  "ok": 343,
-  "failed": 70,
-  "updated": "2026-09-07 20:15:48",
+  "count": 453,
+  "ok": 373,
+  "failed": 80,
+  "updated": "2026-09-07 21:05:49",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -115,6 +115,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "0YRCl-013bo",
+      "title": "Tom Browne “Funkin’ for Jamaica” Chords That Groove Forever 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 1,
+      "duration_sec": 34.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "19RheEtfrc8",
       "title": "Chord Presets—Mini Keys, Big Chords - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu🔥",
       "n_chords": 0,
@@ -173,6 +183,16 @@
       "key_confidence": 0.81,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "1PTlVnc_sgg",
+      "title": "Steal These Chords (27) Neo Soul Vibes 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "1ZDhRT1VUVY",
@@ -275,6 +295,16 @@
       "status": "ok"
     },
     {
+      "id": "3DyQ_z8X-xs",
+      "title": "Steal These Chords (26) Darker Mood 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 35.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "3nmfHAc7mvw",
       "title": "The J Dilla Sample Comes Alive: Glasper & Mos Def “Stakes Is High” 🔥🎹🔥",
       "n_chords": 19,
@@ -345,12 +375,32 @@
       "status": "ok"
     },
     {
+      "id": "4rCtIE4i314",
+      "title": "Jamiroquai “Alright” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 19,
+      "duration_sec": 36.25,
+      "key": "C major",
+      "key_confidence": 0.87,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "4RhVV4DYLm8",
       "title": "Pharrell Williams and Jay-Z “Frontin'” Bridge Chords 🔥🎹🔥 Happy Birthday, Pharrell April 5.2026",
       "n_chords": 21,
       "duration_sec": 9.5,
       "key": "F major (?)",
       "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4TfklHAc1RM",
+      "title": "Robert Glasper + Lupe + Bilal = Perfection 🔥🎹🔥 | “Always Shine” Live - Chord Breakdown",
+      "n_chords": 48,
+      "duration_sec": 36.0,
+      "key": "Gb major",
+      "key_confidence": 0.61,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -362,6 +412,16 @@
       "key": "F# major",
       "key_confidence": 0.91,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "4YbhquSEqzk",
+      "title": "Tyler, The Creator “Tell Me What It Is” Chords (Final Part)🔥🎹🔥",
+      "n_chords": 28,
+      "duration_sec": 51.0,
+      "key": "C minor (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -482,6 +542,16 @@
       "key": "G minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "6jhFKteZwZ4",
+      "title": "lla J “Timeless” Chords 🔥🎹🔥",
+      "n_chords": 47,
+      "duration_sec": 22.0,
+      "key": "Db minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -665,6 +735,16 @@
       "status": "ok"
     },
     {
+      "id": "8TFAJDjBd9A",
+      "title": "OutKast “Liberation” Chords 🔥🎹🔥 #Andre3000 #MusicianParadise",
+      "n_chords": 10,
+      "duration_sec": 22.75,
+      "key": "E major",
+      "key_confidence": 0.71,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "8TNLi7Z1UHI",
       "title": "Flying Lotus “Heave(n)” Chords 🔥🎹🔥 MIDI Breakdown",
       "n_chords": 7,
@@ -753,6 +833,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "9mJ_Cs7alV0",
+      "title": "Deadmau5 \"Wish You Were There\" - Stunning Yet Unplayable Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 14.5,
+      "key": "G# minor (?)",
+      "key_confidence": 0.12,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "9RpdzF50614",
@@ -845,6 +935,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "a2pISJgmpzs",
+      "title": "J Dilla “Track 18” Chords 🔥🎹🔥",
+      "n_chords": 8,
+      "duration_sec": 22.5,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "A830iwJ_bbA",
       "title": "Randy Jackson & The Gypsys “Not Because Of Me” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -873,6 +973,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ACxZV9CwTJU",
+      "title": "Steal These Chords 24 Soulquarians Style 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "AhAOTVTOn9Y",
@@ -1075,6 +1185,16 @@
       "status": "ok"
     },
     {
+      "id": "BuxpmviuvLU",
+      "title": "Prince “I Wanna Be Your Lover” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 16.25,
+      "key": "E major",
+      "key_confidence": 0.89,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "BVjdFcVSmIA",
       "title": "Stevie Wonder “Overjoyed” Chords 🔥🎹🔥 Testing Rhodes Pianology Plugin #musicianparadise",
       "n_chords": 61,
@@ -1135,11 +1255,31 @@
       "status": "ok"
     },
     {
+      "id": "cE9U2uQobA8",
+      "title": "T-Pain x Toro (keyboard) “Buy U A Drank” Smoothest Tiny Desk Chords Unlocked 🔥🎹🔥",
+      "n_chords": 50,
+      "duration_sec": 49.5,
+      "key": "F minor",
+      "key_confidence": 0.71,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "cFIvA3IxnTo",
       "title": "Jamiroquai “Do It Like We Used To Do” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 23,
       "duration_sec": 12.75,
       "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CjoMJGiMbC4",
+      "title": "The Internet’s “Special Affair/Curse” 🔥🎹🔥 Neo-Soul Chord Secrets",
+      "n_chords": 61,
+      "duration_sec": 57.25,
+      "key": "Db major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -1171,6 +1311,16 @@
       "duration_sec": 29.75,
       "key": "B minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CPXsT0JfPTQ",
+      "title": "Jamiroquai Manifest Destiny Chords Are PURE Cinematic Funk 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 37,
+      "duration_sec": 52.5,
+      "key": "Ab minor",
+      "key_confidence": 0.63,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1605,6 +1755,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "fdR2wHuT8x4",
+      "title": "Steal These Chords (28) Soulful Vibes 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 20.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "FGA_-TJYX2A",
       "title": "Jamiroquai “Virtual Insanity” Intro Chords 🔥🎹🔥 Hard to believe this song turns 30!",
       "n_chords": 8,
@@ -1875,6 +2035,16 @@
       "status": "ok"
     },
     {
+      "id": "gzUNkBEw_tA",
+      "title": "The Weeknd “Sacrifice” Chords Sounds VERY Familiar ? This Is Why! 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 27.25,
+      "key": "B minor",
+      "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "h-n-Jsyx6cg",
       "title": "BigShawnDon \"Kill’n The Stress\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -1905,6 +2075,16 @@
       "status": "ok"
     },
     {
+      "id": "h44NakC-hKU",
+      "title": "Prince’s Funkiest Chord Progression You Never Noticed 🎹💜 “The Ballad of Dorothy Parker” Chords 🔥🎹🔥",
+      "n_chords": 8,
+      "duration_sec": 18.75,
+      "key": "E minor",
+      "key_confidence": 0.91,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "h5J6wd-4xdA",
       "title": "The Soulful Chords of Brenda Russell’s “A Little Bit Of Love” 🔥🎹🔥 Wait For A Bridge!",
       "n_chords": 42,
@@ -1913,6 +2093,16 @@
       "key_confidence": 0.48,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Ha3WSWXIDBQ",
+      "title": "Steal These Chords (23) 70s Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 30.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "hDQibtYTXuk",
@@ -2042,6 +2232,16 @@
       "key": "D major",
       "key_confidence": 0.79,
       "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "IeABWR2AZLM",
+      "title": "90s Hip Hop Harmony: Black Star’s “Thieves in the Night” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 18,
+      "duration_sec": 10.5,
+      "key": "C# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "ok"
     },
     {
@@ -2191,6 +2391,16 @@
       "duration_sec": 60.0,
       "key": "B major (?)",
       "key_confidence": 0.22,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "JiiYjcvRmQg",
+      "title": "How Doechii Brought Boom Bap Back 🔥🎹🔥 (Chord Breakdown)",
+      "n_chords": 47,
+      "duration_sec": 24.5,
+      "key": "G# minor",
+      "key_confidence": 0.72,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -2413,6 +2623,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "Li7wfK3T6vY",
+      "title": "MF DOOM “Arrow Root” Chord Breakdown 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 13,
+      "duration_sec": 10.25,
+      "key": "A# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "LJ-vjiVJ984",
@@ -2755,6 +2975,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "Nl66h4LbwD0",
+      "title": "The Roots “Silent Treatment” Chords #TheRoots #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 23.0,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "NNq4Rqh3TiM",
+      "title": "Stevie Wonder “Passionate Raindrops” – The Soulful Chords You Need To Know 🔥🎹🔥",
+      "n_chords": 54,
+      "duration_sec": 66.25,
+      "key": "Ab major (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nP27BzeYmXc",
       "title": "Late Night Sample Sessions Rhodes 73 Mark 1 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -2763,6 +3003,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "nRaPmUCN6Rg",
+      "title": "Stevie Wonder “Power Flower” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 48,
+      "duration_sec": 55.0,
+      "key": "A major (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "nrwcqnDX0dE",
@@ -2842,6 +3092,16 @@
       "key": "A minor",
       "key_confidence": 0.74,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ol446N55x4A",
+      "title": "João Donato’s “Me Deixa” 🔥🎹🔥  Brazilian Jazz Chord Secrets",
+      "n_chords": 49,
+      "duration_sec": 39.0,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -2953,6 +3213,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "pcog2BhKLs0",
+      "title": "Jamiroquai “Half The Man” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 28,
+      "duration_sec": 23.25,
+      "key": "D major (?)",
+      "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "PhaFfpMl6JY",
@@ -3081,6 +3351,16 @@
       "duration_sec": 23.25,
       "key": "D minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qjOUE_sSQnM",
+      "title": "The Smoothest Neo-Soul Chords? Robert Glasper’s “Heaven’s Here” 🔥🎹🔥 #musicianparadise",
+      "n_chords": 27,
+      "duration_sec": 13.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.07,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3335,6 +3615,16 @@
       "status": "ok"
     },
     {
+      "id": "SaTxkw9KaF8",
+      "title": "Dark Neo Soul Chord Preset Pack ”Deep Chords” preset 🔥🎹🔥",
+      "n_chords": 19,
+      "duration_sec": 20.25,
+      "key": "Bb major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "SeG37Y2ELcI",
       "title": "Hiatus Kaiyote “Fingerprints” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 29,
@@ -3465,6 +3755,16 @@
       "status": "ok"
     },
     {
+      "id": "t6r5qihy8k4",
+      "title": "Blast From the Past - Carl Thomas “I Wish” – The R&B Chords 💔🎹💔",
+      "n_chords": 33,
+      "duration_sec": 42.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.27,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TBA4xWJz69w",
       "title": "D’Angelo “Ex to the Next” chords 🔥🎹🔥 I can sing Benny Golson’s “Killer Joe” over them!",
       "n_chords": 12,
@@ -3555,6 +3855,16 @@
       "status": "ok"
     },
     {
+      "id": "tshDSa4E1zs",
+      "title": "Steal These Rootless Chords 3 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 0,
+      "duration_sec": 21.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "TSO9Ca8z9Ao",
       "title": "Gran Turismo 3 A-Spec “Light Velocity” Chords 🔥🎹🔥 Gaming Sunday. Composer Isamu Ohira",
       "n_chords": 29,
@@ -3613,6 +3923,16 @@
       "key_confidence": 0.41,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "TWb1idylTWU",
+      "title": "Steal These Chords (22) Soulful Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 25.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "TyqTq6exhMY",
@@ -3765,6 +4085,16 @@
       "status": "ok"
     },
     {
+      "id": "Vc8fDYR3ICA",
+      "title": "The Chords Behind Roy Ayers “Everybody Loves the Sunshine” 🔥🎹🔥",
+      "n_chords": 17,
+      "duration_sec": 27.0,
+      "key": "Gb minor (?)",
+      "key_confidence": 0.05,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "VCCpDFsVoRU",
       "title": "Monty Alexander ft. Joe Sample, George Benson and Ramsey Lewis “Love Notes” Jazz Fusion Chords 🔥🎹🔥",
       "n_chords": 22,
@@ -3773,6 +4103,16 @@
       "key_confidence": 0.21,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "VdSKe83qJ58",
+      "title": "Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 14.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "VHXaqEG3xJ4",
@@ -3795,12 +4135,52 @@
       "status": "ok"
     },
     {
+      "id": "VNqBHYvI13Y",
+      "title": "Chance The Rapper “Brain Cells” Chords 🔥🎹🔥 #MusicianParadise",
+      "n_chords": 26,
+      "duration_sec": 50.0,
+      "key": "B major",
+      "key_confidence": 0.95,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "vqDjdJZ4Is8",
       "title": "Jill Scott “Offadaback” Neo Soul Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 50,
       "duration_sec": 48.75,
       "key": "Bb major (?)",
       "key_confidence": 0.43,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "VTZPkGpCwoU",
+      "title": "ScHoolboy Q ft. Kendrick Lamar “Blessed” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 18.5,
+      "key": "Bb major (?)",
+      "key_confidence": 0.33,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "vu5BRAqXcXQ",
+      "title": "George Duke “Statement” Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 36,
+      "duration_sec": 58.0,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "W8DzdacAEyo",
+      "title": "My Attempt to Transcribe the Impossible - Devin Morrison's \"Welcome To Dreamsoul\" Chords 🔥🎹🔥",
+      "n_chords": 38,
+      "duration_sec": 37.25,
+      "key": "E minor (?)",
+      "key_confidence": 0.38,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3895,6 +4275,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "xa34OS0v39E",
+      "title": "Madlib “Flowers” (Horace Silver Sample) Chords 🔥🎹🔥 #musicianparadise",
+      "n_chords": 8,
+      "duration_sec": 10.5,
+      "key": "Eb minor",
+      "key_confidence": 0.76,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "XcZNZXPGMGk",
       "title": "Kendrick Lamar “Sing About Me, I'm Dying Of Thirst” 🔥🎹🔥 Sample - Grant Green \"Maybe Tomorrow\" 1971",
       "n_chords": 24,
@@ -3933,6 +4323,16 @@
       "key_confidence": 0.73,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "xmJ7N9qPtY8",
+      "title": "Steal These Rootless Chords 4 🔥🎹🔥 #musicianparadise",
+      "n_chords": 1,
+      "duration_sec": 12.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "XN9A8Rx-djk",
