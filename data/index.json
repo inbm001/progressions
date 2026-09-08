@@ -1,8 +1,8 @@
 {
-  "count": 1213,
-  "ok": 907,
-  "failed": 306,
-  "updated": "2026-09-08 12:15:23",
+  "count": 1253,
+  "ok": 923,
+  "failed": 330,
+  "updated": "2026-09-08 12:59:52",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -285,6 +285,16 @@
       "status": "ok"
     },
     {
+      "id": "0RY7cXkQ6Rk",
+      "title": "Mos Def Umi Says Style Chords #MosDefChords #UmiSaysChords #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 15.0,
+      "key": "D minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "0SWjfg8fuzQ",
       "title": "Unlock the Soul: Leon Ware's 'Rockin' You Eternally' Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 20,
@@ -312,6 +322,16 @@
       "key": "Gb minor (?)",
       "key_confidence": 0.05,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "0XOYntE-sbY",
+      "title": "ii-V-I substitution using the left hand only 🤯 #neosoul #neosoulchords #musicianparadise",
+      "n_chords": 1,
+      "duration_sec": 6.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -625,6 +645,16 @@
       "status": "ok"
     },
     {
+      "id": "2KcMn3d7KKo",
+      "title": "Beautiful Chords Roy Ayers Style 👌 #musicianparadise #royayers #neosoul #deephouse",
+      "n_chords": 18,
+      "duration_sec": 19.25,
+      "key": "E minor",
+      "key_confidence": 0.58,
+      "n_unsure": 4,
+      "status": "ok"
+    },
+    {
       "id": "2l_kBWHtb1M",
       "title": "Happy Birthday, Roy  🎉 ! 10.09. Roy Ayers “Everybody Loves The Sunshine” Chords 🌞🎹🌞",
       "n_chords": 0,
@@ -813,6 +843,16 @@
       "key_confidence": 0.11,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "3Cbs48rjw0Y",
+      "title": "I Am The Black Gold Of The Sun by Rotary Connection.chords #nuyoricansoulchords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "3DyQ_z8X-xs",
@@ -1895,6 +1935,16 @@
       "status": "ok"
     },
     {
+      "id": "8NoyBw34548",
+      "title": "RnB Chords Smino Style #Smino #HiHopChords #LoFiChords #RnBChords #MusicianParadise",
+      "n_chords": 4,
+      "duration_sec": 15.75,
+      "key": "D minor",
+      "key_confidence": 0.96,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "8nwlkT8z2Tk",
       "title": "Chord Presets That Feel Human 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -2155,6 +2205,16 @@
       "status": "ok"
     },
     {
+      "id": "9Yoqk6F8XVU",
+      "title": "Dark and Moody Parallel Minor Chords #musicianparadise #chordprogression #neosoulchords #royayers",
+      "n_chords": 7,
+      "duration_sec": 20.25,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "_-89UJ6JTBQ",
       "title": "Jamiroquai Music Of The Mind” Chords 🎹🎹 #Jamiroquai #MusicOfTheMindChords #musicianparadise",
       "n_chords": 5,
@@ -2355,6 +2415,16 @@
       "status": "ok"
     },
     {
+      "id": "a_fZylTQ8K8",
+      "title": "Colourful Eb Supported By Deep Chords 👌 #MusicianParadise #HouseMusic #musictheory",
+      "n_chords": 6,
+      "duration_sec": 16.0,
+      "key": "F minor",
+      "key_confidence": 0.64,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "A_gLvT3gTPc",
       "title": "Daft Punk Inspired Chords 🔥🎹🔥 #musicianparadise #DaftPunkChords",
       "n_chords": 16,
@@ -2422,6 +2492,16 @@
       "key": "Gb major",
       "key_confidence": 0.5,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ae72duSajFQ",
+      "title": "Secrets Of Bass Power 🤯 the note on the bass defines the chord #basslines #basspower",
+      "n_chords": 8,
+      "duration_sec": 17.0,
+      "key": "B minor",
+      "key_confidence": 0.56,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -3052,6 +3132,16 @@
       "key": "F minor",
       "key_confidence": 0.92,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "BqJuRZJKS6I",
+      "title": "Deceptive 😲 Chords Smino Style #Smino #HiHopChords #LoFiChords #RnBChords #MusicianParadise",
+      "n_chords": 7,
+      "duration_sec": 15.75,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -3825,6 +3915,16 @@
       "status": "ok"
     },
     {
+      "id": "DIdQHFEEtPc",
+      "title": "Can't get enough of these chords 🎹 #steinway #neosoulchords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 13.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "DIFlUtsNXRY",
       "title": "Mndsgn “Camelblues” Chords 🎹❤️ A min 80 bpm #Camelblues #CamelbluesChords",
       "n_chords": 12,
@@ -3885,6 +3985,26 @@
       "status": "ok"
     },
     {
+      "id": "dKTBen--X_o",
+      "title": "Mos Def Umi Says Chords 👌 #musicianparadise #MosDefChords #UmiSaysChords",
+      "n_chords": 5,
+      "duration_sec": 21.0,
+      "key": "A major (?)",
+      "key_confidence": 0.12,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "dlIETaNq7Ng",
+      "title": "Roy Ayers Style Harmony #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 9.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "dm29w-7C8dw",
       "title": "Jamiroquai “Spend A Lifetime” Chords 🔥🎹🔥 #Jamiroquai #SpendALifetimeChords #musicianparadise",
       "n_chords": 43,
@@ -3932,6 +4052,16 @@
       "key": "A minor",
       "key_confidence": 0.87,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "dr5LAcYHHTU",
+      "title": "J Dilla Style Chords #JDilla #jdilla #JDillaStyleChords #SlumVillageChords #Fantastic",
+      "n_chords": 12,
+      "duration_sec": 10.75,
+      "key": "F minor",
+      "key_confidence": 0.57,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -4343,6 +4473,16 @@
       "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "F352LHUtVek",
+      "title": "Crazy Turnaround 🤪 #musicianparadise #chordprogression #neosoulchords",
+      "n_chords": 17,
+      "duration_sec": 16.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 5,
+      "status": "failed_low_ocr"
     },
     {
       "id": "f3QlKVjIArg",
@@ -5455,6 +5595,16 @@
       "status": "ok"
     },
     {
+      "id": "HwKftXGCBMg",
+      "title": "More Smino Style Chords #Smino #HiHopChords #LoFiChords #RnBChords #MusicianParadise",
+      "n_chords": 9,
+      "duration_sec": 14.5,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "HWRnPM2O_Hc",
       "title": "The Hardest Steely Dan Song? “Your Gold Teeth II” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 33,
@@ -5625,6 +5775,16 @@
       "status": "ok"
     },
     {
+      "id": "iFxTw5h8_so",
+      "title": "Stunning Deep House Chords 👌 #musicianparadise #deephouse #deephousechords",
+      "n_chords": 11,
+      "duration_sec": 16.0,
+      "key": "D major (?)",
+      "key_confidence": 0.26,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "IKCHSxDRbZU",
       "title": "These “Nice Girls” Chords Were Made to Be Sampled 🔥🎹🔥",
       "n_chords": 0,
@@ -5735,6 +5895,16 @@
       "status": "ok"
     },
     {
+      "id": "IReRFAIBYH8",
+      "title": "Vintage Chords 👌 #neosoul #neosoulchordprogressions",
+      "n_chords": 7,
+      "duration_sec": 19.75,
+      "key": "Bb major (?)",
+      "key_confidence": 0.18,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "IrqIyZhS5SY",
       "title": "Jill Scott “I Think It’s Better” Chords 🔥🎹🔥 #IThinkItsBetterChords #JillScott #MusicianParadise",
       "n_chords": 40,
@@ -5765,6 +5935,16 @@
       "status": "ok"
     },
     {
+      "id": "iUPkNTUFOj0",
+      "title": "J. Dilla Estimate Chords Clare Fischer You Call It Madness #JDilla #ClareFischer #SlumVillageChords",
+      "n_chords": 9,
+      "duration_sec": 20.5,
+      "key": "A minor (?)",
+      "key_confidence": 0.13,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "iuSFONehNe4",
       "title": "Unlock the Groove: Roy Ayers 'I Am Your Mind' Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 13,
@@ -5793,6 +5973,16 @@
       "key_confidence": 0.55,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ivg5ec4iODE",
+      "title": "Soulful Split Voicing RnB Chord 🤣 Smino #HipHopChords #LoFiChords #RnBChords #MusicianParadise",
+      "n_chords": 6,
+      "duration_sec": 16.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
     },
     {
       "id": "iW5qlsH-stw",
@@ -6225,6 +6415,16 @@
       "status": "ok"
     },
     {
+      "id": "jQR4hEBOjcQ",
+      "title": "Dark Moody Chords #musicianparadise #chordprogression #deephouse",
+      "n_chords": 1,
+      "duration_sec": 15.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "jr_pfpN5uVc",
       "title": "Freddie Gibbs’ “Cosmo Freestyle” Chords Are Pure Soul-Jazz 🔥🎹🔥 #musicianparadise",
       "n_chords": 6,
@@ -6243,6 +6443,16 @@
       "key_confidence": 0.01,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "jRmZiRByRSk",
+      "title": "Smooth R&B Vibes #musicianparadise #chordprogression #rnb",
+      "n_chords": 4,
+      "duration_sec": 12.0,
+      "key": "F major (?)",
+      "key_confidence": 0.08,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
     },
     {
       "id": "JRtX0_B-Ti8",
@@ -6603,6 +6813,16 @@
       "key_confidence": 0.12,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "KTIELTGhpc0",
+      "title": "Weird Chords 🤯🌶️🌶️🌶️ #musicianparadise #chordprogression #jazzchords",
+      "n_chords": 12,
+      "duration_sec": 17.5,
+      "key": "A major",
+      "key_confidence": 0.67,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "KUA6OCt6uxw",
@@ -7815,6 +8035,16 @@
       "status": "ok"
     },
     {
+      "id": "NzGzb6j7VDI",
+      "title": "Soulful Neo-Soul Chords #neosoul #neosoulchordprogressions #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 12.0,
+      "key": "F minor",
+      "key_confidence": 0.59,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "nzLIa_8Ga3w",
       "title": "Steal These Soulful Chords 32 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -8235,6 +8465,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "OsWBT11jC9Q",
+      "title": "Vintage R&B Chords 🤩 #musicianparadise #chordprogression #rnbchords",
+      "n_chords": 26,
+      "duration_sec": 31.25,
+      "key": "A minor",
+      "key_confidence": 0.71,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "OtqXX518fYM",
       "title": "Roy Ayers' 'Get On Up, Get On Down' Chords 🔥🎹🔥 Joey Negro's Masterful Revibe",
       "n_chords": 5,
@@ -8332,6 +8572,16 @@
       "key": "D major",
       "key_confidence": 0.84,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "Ozyp2Gy_ccA",
+      "title": "Weird And Deceptive Turnaround #musicianparadise #chordprogression #neosoulchords",
+      "n_chords": 5,
+      "duration_sec": 9.0,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.08,
+      "n_unsure": 4,
       "status": "ok"
     },
     {
@@ -8463,6 +8713,16 @@
       "key_confidence": 0.81,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "PFIeBoDAhxo",
+      "title": "Messing with Quartal Harmony #musicianparadise #chordprogression #chordsinfourth",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "PhaFfpMl6JY",
@@ -8632,6 +8892,26 @@
       "key": "E minor (?)",
       "key_confidence": 0.11,
       "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "Q0IQYHDoqco",
+      "title": "Sad 😞 Soulful Chords #musicianparadise #chordprogression #sadchordprogression #neosoulchords",
+      "n_chords": 10,
+      "duration_sec": 19.5,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "q2vX0-XkFEQ",
+      "title": "Smino Style Chords #Smino #HipHop #lofichords",
+      "n_chords": 9,
+      "duration_sec": 18.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -9085,6 +9365,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "R2b0GILHzLA",
+      "title": "Complex Soulful Deep House Chords #musicianparadise #deephousechords #chordprogressions",
+      "n_chords": 11,
+      "duration_sec": 10.0,
+      "key": "D minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "R33x0boLETs",
       "title": "Janet Jackson \"Would You Mind” Chords 🔥🎹🔥 | Jimmy Jam & Terry Lewis production",
       "n_chords": 11,
@@ -9345,6 +9635,16 @@
       "status": "ok"
     },
     {
+      "id": "rutIl9SyPSE",
+      "title": "Crazy 🤯 Turnaround  Roy Ayers Style #musicianparadise #neosoulchords #rnbchords #chordprogression",
+      "n_chords": 0,
+      "duration_sec": 13.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "rvVVFUplzdk",
       "title": "Heart-melting R&B Chords 🔥🎹🔥 #musicianparadise #soulfulbeats Free Chord Presets In the Description",
       "n_chords": 15,
@@ -9393,6 +9693,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "RXuHRinEbu0",
+      "title": "Five Bar Chord Progression that loops seamlessly 🤯 #musicianparadise #chordprogression #neosoul",
+      "n_chords": 7,
+      "duration_sec": 19.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.07,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
     },
     {
       "id": "rYDXpS3nNOQ",
@@ -10375,6 +10685,16 @@
       "status": "ok"
     },
     {
+      "id": "UajoqlK912w",
+      "title": "Roy Ayers Style Exercise 👍 #RoyAyersStyleChords #RoyAyersExercise",
+      "n_chords": 19,
+      "duration_sec": 22.0,
+      "key": "D major (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "uAm38PY1QyY",
       "title": "Roy Ayers “Brand New Feeling” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
@@ -10493,6 +10813,16 @@
       "key_confidence": 0.3,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "UMwVZTdJxb0",
+      "title": "90s RnB Chords #musicianparadise #chordprogression #90sRnBchords",
+      "n_chords": 24,
+      "duration_sec": 11.25,
+      "key": "D major (?)",
+      "key_confidence": 0.29,
+      "n_unsure": 3,
+      "status": "ok"
     },
     {
       "id": "uNCdW8fP9TA",
@@ -11085,6 +11415,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "wNKlaaoo3_s",
+      "title": "Whole lot of Sus Chords 🤔 #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 12.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "wntQUx3n7KM",
       "title": "Wood Brass & Steel “My Darling Baby” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 61,
@@ -11215,6 +11555,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "x2c6FCaOdKE",
+      "title": "Steal Those Soulful Deep House Chords 👌#musicianparadise #DeepHouseChords #ClassicDeepHouseChords",
+      "n_chords": 8,
+      "duration_sec": 15.75,
+      "key": "A major (?)",
+      "key_confidence": 0.02,
+      "n_unsure": 4,
+      "status": "ok"
+    },
+    {
       "id": "X4NqPrm4VGo",
       "title": "Musiq Soulchild “Love” Verse Chords  🎹🔥 Db minor 100 bpm  #MusiqSoulchildLoveChords",
       "n_chords": 17,
@@ -11233,6 +11583,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "x7wSH-w1Evs",
+      "title": "Dreamy Sunday Deep House Chords #musicianparadise #chordprogressions #deephousechords",
+      "n_chords": 8,
+      "duration_sec": 18.0,
+      "key": "D major (?)",
+      "key_confidence": 0.46,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "X8HioHTYoH0",
@@ -11565,6 +11925,16 @@
       "status": "ok"
     },
     {
+      "id": "XVFlJDadxN8",
+      "title": "Kaytranada \"Changes\" Harmonic Rhythm 🤯 #Kaytranada #keytranadachanges #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 17.75,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.15,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "XwC-7uYwxGw",
       "title": "Sonic R Radical City “Living In The City” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 57,
@@ -11685,12 +12055,32 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "YDvdikX28uE",
+      "title": "Kaytranada \"The Worst In Me\" Chords #kaytranadachords #theworstinmechords",
+      "n_chords": 17,
+      "duration_sec": 17.5,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "YfooqDQeOxI",
       "title": "Bob James \"Angela\" Chord Breakdown 🔥🎹🔥 #musicianparadise",
       "n_chords": 61,
       "duration_sec": 48.0,
       "key": "C minor (?)",
       "key_confidence": 0.36,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ygSybvo6zZo",
+      "title": "Changing Eb Colors With Neo Soul Chords 🌈 #royayersstylechords #musicianparadise",
+      "n_chords": 11,
+      "duration_sec": 16.0,
+      "key": "F minor",
+      "key_confidence": 0.8,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -12003,6 +12393,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "ZIqD8UyLJaU",
+      "title": "Roy Ayers Style - Only Minor Seventh and Sus4 chords #musicianparadise #musictheory #royayers",
+      "n_chords": 7,
+      "duration_sec": 15.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "zjx6q0lMkLg",
