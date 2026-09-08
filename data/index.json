@@ -1,8 +1,8 @@
 {
-  "count": 1413,
-  "ok": 948,
-  "failed": 465,
-  "updated": "2026-09-08 15:24:17",
+  "count": 1453,
+  "ok": 951,
+  "failed": 502,
+  "updated": "2026-09-08 16:05:39",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -283,6 +283,16 @@
       "key_confidence": 0.08,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "0Gm82bxHbDg",
+      "title": "Free Neo Soul Chord Progressions Pack Vol.X is out! 😵",
+      "n_chords": 0,
+      "duration_sec": 5.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "0HGRU_1V3jQ",
@@ -665,6 +675,16 @@
       "status": "ok"
     },
     {
+      "id": "20GUtMT1XPo",
+      "title": "Ariana Grande Style Chord Progression #shorts",
+      "n_chords": 1,
+      "duration_sec": 25.75,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "23iFE1cbFo4",
       "title": "The Sweetest Chords Brenda Russel “In The Thick Of It” Chords 🔥🎹🔥 #musicianparadise #chordpresets",
       "n_chords": 42,
@@ -985,6 +1005,16 @@
       "status": "ok"
     },
     {
+      "id": "3B4iLPjAS6g",
+      "title": "Testing 90s RnB Scaler 2 Chord Pack #shorts",
+      "n_chords": 6,
+      "duration_sec": 19.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "3Cbs48rjw0Y",
       "title": "I Am The Black Gold Of The Sun by Rotary Connection.chords #nuyoricansoulchords #musicianparadise",
       "n_chords": 0,
@@ -1063,6 +1093,16 @@
       "key_confidence": 0.17,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "3kV2xPJSBn8",
+      "title": "Making 90s RnB Chord Pack #shorts",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "3nmfHAc7mvw",
@@ -1213,6 +1253,16 @@
       "key_confidence": 0.94,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "4hEkvFdzpyg",
+      "title": "Playing Neo Soul with the wind #shorts",
+      "n_chords": 1,
+      "duration_sec": 24.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "4HoRfC9nHj8",
@@ -1405,6 +1455,16 @@
       "status": "ok"
     },
     {
+      "id": "59w0icJ2wKw",
+      "title": "Free Neo Soul Chord Progressions Vol.X Test Drive 🔥",
+      "n_chords": 0,
+      "duration_sec": 5.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "5_jb8GPZzI0",
       "title": "Linda Clifford \"Runaway Love\" Intro chords 🔥🎹🔥",
       "n_chords": 14,
@@ -1413,6 +1473,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "5ACOrHF-2vc",
+      "title": "MPC Pad Perform + Roland MC 307 - New Jack Swing Chord Pack 🔥🔥🔥",
+      "n_chords": 4,
+      "duration_sec": 17.75,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "5AGlHNB5QdI",
@@ -1533,6 +1603,16 @@
       "key_confidence": 0.28,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "5OZoZe9vDjQ",
+      "title": "Making 90s Style Chord Pack #shorts #90s Chord Pack",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "5pOpEx0OurM",
@@ -2215,6 +2295,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "8qzErh8lEI8",
+      "title": "90s RnB Chord Pack - work in progress #shorts",
+      "n_chords": 0,
+      "duration_sec": 14.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "8swjvs6s1cA",
       "title": "Kendrick Lamar “Untitled 05” LoVibe Remix Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 17,
@@ -2372,6 +2462,16 @@
       "key": "E major (?)",
       "key_confidence": 0.07,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "9fe04hnT_BY",
+      "title": "New Jack Swing 90s RnB Chord Pack #shorts",
+      "n_chords": 17,
+      "duration_sec": 9.5,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -4375,6 +4475,16 @@
       "status": "ok"
     },
     {
+      "id": "DFewWNDrRsk",
+      "title": "New Jack Swing 90s RnB Chord Pack 😎 work in progress #shorts",
+      "n_chords": 0,
+      "duration_sec": 14.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "DFKTI25HOSE",
       "title": "Moonchild “Cure” Part 2 🔥🎹🔥 #musicianparadise #chordprogressions",
       "n_chords": 26,
@@ -4835,6 +4945,16 @@
       "status": "ok"
     },
     {
+      "id": "eL5_jA-E_KU",
+      "title": "Free Neo Soul Vol.X Chord Progression Pack for MPC and Ripchord #shorts",
+      "n_chords": 1,
+      "duration_sec": 5.5,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "ElFWvYcDA_0",
       "title": "70s Groove Mastery: Faze-O \"Riding High\" Chords🔥🎹🔥 Were MJ's Thriller Chords Inspired by This?",
       "n_chords": 6,
@@ -5093,6 +5213,16 @@
       "key_confidence": 0.59,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "F8IChAoCIak",
+      "title": "Making 90s RnB Chord Pack #shorts",
+      "n_chords": 0,
+      "duration_sec": 19.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "f8RJUbadb88",
@@ -5395,6 +5525,16 @@
       "status": "ok"
     },
     {
+      "id": "foHJocHsQRo",
+      "title": "Augmented Keyboard Performance 🤯 #Shorts",
+      "n_chords": 0,
+      "duration_sec": 23.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "foz5xxrc5Pw",
       "title": "Soulful Deep House Chords You Need to Try 🔥🎹🔥 #deephouse",
       "n_chords": 0,
@@ -5443,6 +5583,16 @@
       "key_confidence": 0.97,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "FSAT-vmd6UQ",
+      "title": "Testing Cthulhu 90s RnB Chord Pack #shorts",
+      "n_chords": 0,
+      "duration_sec": 13.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "fTjTcYl1-TE",
@@ -6235,6 +6385,16 @@
       "status": "ok"
     },
     {
+      "id": "hl2XzQME4XU",
+      "title": "New Jack Swing 90s RnB Chord Pack #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "hll08TXjEZA",
       "title": "Big City Chords - Free MIDI + Chord Presets 🔥🎹🔥 #musicianparadise",
       "n_chords": 1,
@@ -6283,6 +6443,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "HQDrXWEO7Pw",
+      "title": "Cooking 90s R&B Chords #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "Ht3JCV8cOnc",
@@ -6455,6 +6625,16 @@
       "status": "ok"
     },
     {
+      "id": "i4XKZ91Pc0g",
+      "title": "Free Neo Soul Chord Progressions Presets Vol.X",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "i5dwL47mrSo",
       "title": "Learning Some Seriously Cool Chords 👌 #deephouse #musicianparadise",
       "n_chords": 0,
@@ -6563,6 +6743,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "if00U_x-lJM",
+      "title": "Free Neo Soul Chord Pack Vol.X OUT NOW",
+      "n_chords": 0,
+      "duration_sec": 5.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "IFnbEB2JhhA",
@@ -7445,6 +7635,16 @@
       "status": "ok"
     },
     {
+      "id": "jzYZgj3mEeQ",
+      "title": "Making 90s RnB Chord Pack #shorts",
+      "n_chords": 5,
+      "duration_sec": 8.75,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Jzzk0xkU97Y",
       "title": "N.E.R.D “Tape You” Bridge Chords 🎹👌 #musicianparadise #tapeyouchords #NERD",
       "n_chords": 0,
@@ -8055,6 +8255,16 @@
       "status": "ok"
     },
     {
+      "id": "liRILiNG4so",
+      "title": "90’s R&B Chord Pack Coming Soon #shorts",
+      "n_chords": 0,
+      "duration_sec": 8.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "LJ-vjiVJ984",
       "title": "Ronnie Laws “Tidal Wave” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 21,
@@ -8093,6 +8303,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "lO-wX5qYVyM",
+      "title": "Free Neo Soul Chord Progression Pack Vol.X",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "LOz4c2ttYP8",
@@ -8645,6 +8865,16 @@
       "status": "ok"
     },
     {
+      "id": "mzR94N_emuM",
+      "title": "Free Neo Soul Chord Progressions Pack Vol.X is ready 🔥🔥🔥",
+      "n_chords": 4,
+      "duration_sec": 5.75,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "N-zrVhS0uXI",
       "title": "Rare! 🔎 Pharrell & Justin Timberlake “Second Chance”  “Tape You” Outro  The Neptunes Secrets 🔥🎹🔥",
       "n_chords": 14,
@@ -8703,6 +8933,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "n3aE7cP5Ac4",
+      "title": "90’s R&B Chord Pack Coming Soon #shorts",
+      "n_chords": 0,
+      "duration_sec": 12.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "n3RYxqhuK3k",
@@ -8933,6 +9173,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "nLeIY5qE12g",
+      "title": "Cooking 90s R&B Chord Pack",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "nLpJpmfOq3k",
@@ -10565,6 +10815,16 @@
       "status": "ok"
     },
     {
+      "id": "qYyWpYhKETI",
+      "title": "90’s R&B Chord Pack Coming Soon #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "qZURWjXK354",
       "title": "Imagine A House Beat Along With These Chords 🔥🎹🔥 Steal These Chords 31 #musicianparadise",
       "n_chords": 0,
@@ -11075,6 +11335,16 @@
       "status": "ok"
     },
     {
+      "id": "SAZbeTfURN4",
+      "title": "Playing amazing Fender Rhodes piano 73 MK I #Shorts",
+      "n_chords": 7,
+      "duration_sec": 21.0,
+      "key": "D minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "SBA0x5RkMGs",
       "title": "Dreamy Deep House Chords 🎹 #DeepHouseChords #RhodesV8",
       "n_chords": 0,
@@ -11285,6 +11555,16 @@
       "status": "ok"
     },
     {
+      "id": "sp16d3EWNrQ",
+      "title": "How to play NAS Illmatic \"The World Is Yours\".Recreating Ahmad Jamal Sample",
+      "n_chords": 2,
+      "duration_sec": 12.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "sp2dtJc-uv8",
       "title": "Breaking Down Tyler’s Instrumental Genius  “Enjoy Right Now, Today\" 🔥🎹🔥 #musicianparadise",
       "n_chords": 10,
@@ -11375,6 +11655,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "SV3JBcVOhzU",
+      "title": "Cthulhu 90s RnB Chord Pack #shorts",
+      "n_chords": 32,
+      "duration_sec": 15.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "SVElq2JGY0A",
       "title": "World Renown “How Nice I Am” Dark Chords 🔥🎹🔥  Sample: Chick Corea \"Tones for Joan's Bones\" (1968)",
       "n_chords": 8,
@@ -11403,6 +11693,16 @@
       "key_confidence": 1.0,
       "n_unsure": 4,
       "status": "ok"
+    },
+    {
+      "id": "sXs9wdaMhzI",
+      "title": "Cooking 90s R&B Chords #shorts",
+      "n_chords": 0,
+      "duration_sec": 7.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "SxyUYP467ds",
@@ -12245,6 +12545,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "UOoR4Gh2cmk",
+      "title": "Free Neo Soul Chord Progressions Pack Vol.10 IS OUT NOW #shorts",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "UOpPKZcHmkw",
       "title": "80s Dance Floor Throwback - D Train \"Keep On\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -12373,6 +12683,26 @@
       "key_confidence": 0.43,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "V5rjbYAjNzk",
+      "title": "Free Neo Soul 2 Chord Progressions Pack Vol.X for MPC One/Live/X/Force, Ripchord, Scaler2, Cthulhu",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "v7euIc2F0yg",
+      "title": "Free Neo Soul Chord Progressions Pack Vol.X Test 008 🔥",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "v_AylytnexY",
@@ -13025,10 +13355,30 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "ww4UOG0JHAw",
+      "title": "Free Neo Soul Chord Progressions Pack Vol.X RELEASED !",
+      "n_chords": 5,
+      "duration_sec": 5.75,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "WWTrLtDp49k",
       "title": "Exploring Soulful Chord Progressions 🔥🎹🔥 #musicianparadise #Rhodes73MKI #FenderRhodes",
       "n_chords": 0,
       "duration_sec": 22.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "WxdUNlOzSdg",
+      "title": "90’s R&B Chord Pack Coming Soon #shorts",
+      "n_chords": 0,
+      "duration_sec": 11.75,
       "key": null,
       "key_confidence": 0.0,
       "n_unsure": 0,
@@ -13255,6 +13605,16 @@
       "status": "ok"
     },
     {
+      "id": "XG5Bs6Rq13A",
+      "title": "Making 90s RnB Chord Pack #shorts",
+      "n_chords": 0,
+      "duration_sec": 8.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "xGE1Azwh2T8",
       "title": "Chord Progression Breakdown: Kanye West ‘Violent Crimes’ 🔥🎹🔥 #musicianparadise #violentcrimes",
       "n_chords": 17,
@@ -13425,6 +13785,16 @@
       "status": "ok"
     },
     {
+      "id": "XR3gZP2rSPE",
+      "title": "90s RnB Chord Pack - Out Now #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "XsMjcqri8R0",
       "title": "Warm Deep House Rhodes Chords You’ll Want to Flip 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -13553,6 +13923,16 @@
       "key_confidence": 0.96,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Y58__co0GQo",
+      "title": "Cooking 90s R&B Chord Pack",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "y74PfFVTSII",
@@ -13815,6 +14195,16 @@
       "status": "ok"
     },
     {
+      "id": "z0tjLTzhuvk",
+      "title": "Cooking 90's R&B Chord Packs #shorts",
+      "n_chords": 0,
+      "duration_sec": 24.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Z1qD9WGbTNg",
       "title": "Luther Vandross \"You're the Sweetest One\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
@@ -13973,6 +14363,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "zhAAbnGrExU",
+      "title": "Simple Neo Soul Chord Progression #Shorts",
+      "n_chords": 0,
+      "duration_sec": 7.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ZhcTsizfXF4",
