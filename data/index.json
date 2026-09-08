@@ -1,8 +1,8 @@
 {
-  "count": 1453,
-  "ok": 951,
-  "failed": 502,
-  "updated": "2026-09-08 16:05:39",
+  "count": 1479,
+  "ok": 952,
+  "failed": 527,
+  "updated": "2026-09-08 16:40:36",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -133,6 +133,16 @@
       "key_confidence": 0.16,
       "n_unsure": 6,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "-P3bVeYJy0E",
+      "title": "Chord Progressions - Complex",
+      "n_chords": 0,
+      "duration_sec": 11.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "-PMNVni3p9s",
@@ -533,6 +543,16 @@
       "key_confidence": 0.06,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "1JMd9NTESJk",
+      "title": "Scaler FREE 80’s Chord Progressions Pack is Released 🎶 🔥 #Shorts",
+      "n_chords": 8,
+      "duration_sec": 15.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "1kU9BXf16bc",
@@ -1983,6 +2003,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "7GuFRb5wHVg",
+      "title": "MPC Rocks! #Shorts",
+      "n_chords": 2,
+      "duration_sec": 27.0,
+      "key": "C major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "7gZhB2bAoEw",
@@ -3965,6 +3995,16 @@
       "status": "ok"
     },
     {
+      "id": "cbOJpTFMPK0",
+      "title": "Making Chord Progressions #Shorts",
+      "n_chords": 0,
+      "duration_sec": 12.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "CCHrR4d12go",
       "title": "Steely Dan “The Royal Scam” Chords 🔥🎹🔥 Jazz Rock Masterpiece #musicianparadise",
       "n_chords": 19,
@@ -4213,6 +4253,16 @@
       "key_confidence": 0.19,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "CSjJVL3nw3Q",
+      "title": "Making chord progressions #Shorts",
+      "n_chords": 0,
+      "duration_sec": 13.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "csndLxxNwxA",
@@ -4793,6 +4843,16 @@
       "key_confidence": 0.91,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "E-gJsf4uzto",
+      "title": "Fluid Chords - Crazy Polyphonic Pitch Bend 😲 #Shorts",
+      "n_chords": 0,
+      "duration_sec": 40.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "e13zYZn5oIQ",
@@ -6615,6 +6675,16 @@
       "status": "ok"
     },
     {
+      "id": "I4bQHlTlkow",
+      "title": "Neo Soul Chords 🎹 #Shorts",
+      "n_chords": 0,
+      "duration_sec": 14.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "I4ifF8VSBQQ",
       "title": "Prince’s Hidden Funk Gem: The “Jukebox With A Heartbeat” Chords 🔥🎹🔥",
       "n_chords": 16,
@@ -7305,6 +7375,16 @@
       "status": "ok"
     },
     {
+      "id": "JewJAityWxE",
+      "title": "Polyphonic Moog Minitaur ? (Ok, it's paraphony) #Short",
+      "n_chords": 0,
+      "duration_sec": 49.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "jfBCja-3vEg",
       "title": "Jamiroquai “Canned Heat” Chords Part A 🎹🔥 #CannedHeatChords #Jamiroquai #CannedHeat",
       "n_chords": 13,
@@ -7855,6 +7935,16 @@
       "status": "ok"
     },
     {
+      "id": "KJmCIhWrHk0",
+      "title": "Cooking Chord Progressions Vol.9 - 80’s coming soon #Shorts",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "KkVGDdGIZ8c",
       "title": "Tom Browne “Thighs High” (Grip Your Hips and Move) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -7993,6 +8083,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "kWrn3uR3pLE",
+      "title": "M4L CHORDimist - Stunning Chord Progression Generator For Ableton Live #Shorts",
+      "n_chords": 5,
+      "duration_sec": 20.25,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "KX9MuHcSr1A",
@@ -8825,6 +8925,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "mvvIUtyuRRo",
+      "title": "Ripchord + Roland R8 = FREE 80’s Chord Progression Pack 😎 #Shorts",
+      "n_chords": 2,
+      "duration_sec": 15.0,
+      "key": "D major",
+      "key_confidence": 0.78,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "MvvyfiTMxPY",
       "title": "Mr. Fingers “What About This Love” Chords 🔥🎹🔥 Deep House Classic #MusicianParadise",
       "n_chords": 16,
@@ -8993,6 +9103,16 @@
       "key_confidence": 0.27,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "N_Uo0eLworA",
+      "title": "Digging Deep Into The Piano",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "nbVk_i9qeso",
@@ -9635,6 +9755,16 @@
       "status": "ok"
     },
     {
+      "id": "OGUk3ngKo4I",
+      "title": "#Short  MPC Giant Steps Chord Progression",
+      "n_chords": 0,
+      "duration_sec": 13.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "oiSkhlNnFOI",
       "title": "Learning Beautiful Neo-Soul Chords #neosoulchords #pianochords #shorts",
       "n_chords": 0,
@@ -10135,6 +10265,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "pdN-2nSJZG0",
+      "title": "Free R&B Chord Progressions For Ripchord #Shorts",
+      "n_chords": 0,
+      "duration_sec": 53.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "pDWeUZhaIII",
       "title": "Incredible Chords Of “Night Vision” Daft Punk 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -10335,6 +10475,16 @@
       "status": "ok"
     },
     {
+      "id": "PzKGg_QRlYo",
+      "title": "MPC-Making Chords Out Of Anything #Shorts",
+      "n_chords": 0,
+      "duration_sec": 28.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "Q00g23_eiCs",
       "title": "Pharrell Williams and Jay-Z “Frontin” Bridge Chords 🔥🎹🔥Happy Birthday Pharrell!",
       "n_chords": 21,
@@ -10343,6 +10493,16 @@
       "key_confidence": 0.39,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Q0ex0WRkSPE",
+      "title": "Testing my 80’s Chord Progression pack for MPC and Ripchord",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "Q0FXNGQ_AkU",
@@ -10705,6 +10865,16 @@
       "status": "ok"
     },
     {
+      "id": "QQu489qWWa4",
+      "title": "Saddest Lo Fi Chord Progression Tutorial #Shorts",
+      "n_chords": 1,
+      "duration_sec": 12.5,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "qQwW0f20uwA",
       "title": "Nu-Disco Beat + 90s Piano House Chords 😎 #ripchord #90sPianoHouse #NuDisco",
       "n_chords": 2,
@@ -10793,6 +10963,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "qXN7zNj-iRE",
+      "title": "Chord Progressions For Oculus Quest 👌",
+      "n_chords": 11,
+      "duration_sec": 15.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "QxSKi40wOwY",
@@ -11023,6 +11203,16 @@
       "key_confidence": 0.7,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "rl9sdu4igqM",
+      "title": "MPC NOTE OFF MAGIC TRICK #Shorts",
+      "n_chords": 2,
+      "duration_sec": 48.25,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "RnE-wbeSZnk",
@@ -11573,6 +11763,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "sP4vSizoxso",
+      "title": "Fluid Chord - Amazing Polyphonic Pitch Bend 🤯 #Shorts",
+      "n_chords": 0,
+      "duration_sec": 28.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "SPm-rrVfSW0",
@@ -12485,6 +12685,16 @@
       "status": "ok"
     },
     {
+      "id": "uHo3oxuPRYQ",
+      "title": "MPC Folder Shortcuts Explained 🧐 #Shorts",
+      "n_chords": 5,
+      "duration_sec": 29.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.4,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Ui4rYvpQFZg",
       "title": "Chords Begs For A Groove! #musicianparadise #neosoulchords",
       "n_chords": 0,
@@ -12632,6 +12842,16 @@
       "key": "A minor",
       "key_confidence": 0.59,
       "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "uyYT5RqXgnM",
+      "title": "80’s Chord Progressions pack for MPC #Shorts",
+      "n_chords": 4,
+      "duration_sec": 8.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -12931,6 +13151,16 @@
       "duration_sec": 24.0,
       "key": "Bb major",
       "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "vq_ItDfMAgg",
+      "title": "Making Chords With The Putty Knife 🙃 🎹 #Shorts",
+      "n_chords": 3,
+      "duration_sec": 21.25,
+      "key": "D major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
     },
@@ -13785,6 +14015,16 @@
       "status": "ok"
     },
     {
+      "id": "xpWYWmfxELA",
+      "title": "Learn This Simple Neo Soul Chords On Piano #Shorts",
+      "n_chords": 0,
+      "duration_sec": 29.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "XR3gZP2rSPE",
       "title": "90s RnB Chord Pack - Out Now #shorts",
       "n_chords": 0,
@@ -14145,6 +14385,16 @@
       "status": "ok"
     },
     {
+      "id": "ywViMyauwa8",
+      "title": "#Shorts MPC Pad Perform Funk Pads",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "yZDoSJoMEkU",
       "title": "Jamiroquai “Smile” Chords part A 102.85 bpm #JamiroquaiSmileChords #Jamiroquai #Smile",
       "n_chords": 5,
@@ -14263,6 +14513,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "z8Y5-o1QEFU",
+      "title": "Chord Progressions Pitch Bending 🧐 MPE power!",
+      "n_chords": 1,
+      "duration_sec": 12.75,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "zAD0804Qjao",
