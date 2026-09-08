@@ -1,8 +1,8 @@
 {
-  "count": 1053,
-  "ok": 836,
-  "failed": 217,
-  "updated": "2026-09-08 08:52:17",
+  "count": 1093,
+  "ok": 852,
+  "failed": 241,
+  "updated": "2026-09-08 09:38:52",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -125,6 +125,16 @@
       "status": "ok"
     },
     {
+      "id": "-XY5AsSGdx8",
+      "title": "Deep House Abstract Chords 🎹 🎛 #DeepHouseChords #HouseMusic #musictheory #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 16.5,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "-yQ86t-2mCw",
       "title": "Roy Ayers “This Side Of Sunshine” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
       "n_chords": 19,
@@ -213,6 +223,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "0o7qEccNqUM",
+      "title": "OutKast “Roses” Chords 🎹🔥 109 bpm Em #Roses #RosesChords #OutKast #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 35.25,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "0OftDAJ32Zg",
@@ -313,6 +333,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "1_apw2lDowI",
+      "title": "Erykah Badu “Other Side Of The Game” chords 🎹🔥 83 bpm Ab #ErykahBadu #OtherSideOfTheGameChords",
+      "n_chords": 7,
+      "duration_sec": 12.0,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
     },
     {
       "id": "1_dCzlY-Mdw",
@@ -541,6 +571,16 @@
       "duration_sec": 15.25,
       "key": "C minor (?)",
       "key_confidence": 0.43,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "2JzNpvGmipM",
+      "title": "Don Blackman “Holding You, Loving You” Intro chords 🔥🎹🤯 #HoldingYouLovingYouChords",
+      "n_chords": 21,
+      "duration_sec": 27.5,
+      "key": "A major",
+      "key_confidence": 0.76,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -1085,6 +1125,16 @@
       "status": "ok"
     },
     {
+      "id": "5jfNtGvJk6w",
+      "title": "Mndsgn “Davibe” Chords 🎹🔥 #DavibeChords #Mndsgn #musicianparadise",
+      "n_chords": 15,
+      "duration_sec": 17.5,
+      "key": "E major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "5Lky5buDurk",
       "title": "Title Tyler, The Creator & Roy Ayers “Find Your Wings” Chords 🔥🎹🔥 Piano part by Jameel Bruner.",
       "n_chords": 55,
@@ -1545,6 +1595,16 @@
       "status": "ok"
     },
     {
+      "id": "8gNjWEXMPDk",
+      "title": "Tank “No Limit” Chords 🎹👌 #NoLimit #NoLimitChords #Tank #musicianparadise",
+      "n_chords": 4,
+      "duration_sec": 21.75,
+      "key": "Ab minor",
+      "key_confidence": 0.71,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "8HY6O4SGD8o",
       "title": "The J Dilla Flip You Need to Study  🔥🎹🔥 “Forth & Back” Slum Village Chords Unlocked",
       "n_chords": 2,
@@ -1703,6 +1763,16 @@
       "key_confidence": 0.66,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "9ai9WNdzkxY",
+      "title": "Jamiroquai “Canned Heat” Refrain Chords 🔥🎹🔥128 bpm #CannedHeatChords #Jamiroquai",
+      "n_chords": 2,
+      "duration_sec": 7.5,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "9bNilHSevOA",
@@ -2055,6 +2125,16 @@
       "status": "ok"
     },
     {
+      "id": "aCK69rH3yTU",
+      "title": "WTF is this chord? This Chord Has No Name Yet 🎹🤯 #MusicTheory #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 15.25,
+      "key": "Bb minor",
+      "key_confidence": 0.64,
+      "n_unsure": 4,
+      "status": "ok"
+    },
+    {
       "id": "ACxZV9CwTJU",
       "title": "Steal These Chords 24 Soulquarians Style 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -2103,6 +2183,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "aj6hR5TTdrQ",
+      "title": "D’Angelo’s “Go Back 2 The Thing” Chords 🎹🔥 #DAngelo #GoBack2TheThingChords  #musicianparadise",
+      "n_chords": 7,
+      "duration_sec": 11.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.46,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "Ak3UFyizDGM",
@@ -2625,6 +2715,16 @@
       "status": "ok"
     },
     {
+      "id": "bQtuyru178A",
+      "title": "Nas “The World Is Yours” Ahmad Jamal Chords 🎹🔥 #TheWorldIsYoursChords #Nas  #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 12.25,
+      "key": "B minor",
+      "key_confidence": 0.7,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "bre6suVCUG0",
       "title": "90s R&B Chords 🔥🎹🔥 #musicianparadise #rnbchords #chordprogression",
       "n_chords": 9,
@@ -2745,6 +2845,16 @@
       "status": "ok"
     },
     {
+      "id": "BZLIXT--uoQ",
+      "title": "8. December 2023",
+      "n_chords": 9,
+      "duration_sec": 34.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "bzxWSE6_u_M",
       "title": "Simple Presets - Complex Chords - Ripchord VST, Scaler, MPC Pad Perform, Xfer Cthulhu 🔥🎹🔥",
       "n_chords": 0,
@@ -2821,6 +2931,16 @@
       "duration_sec": 53.25,
       "key": "E minor (?)",
       "key_confidence": 0.01,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "CbhEEzUm3XQ",
+      "title": "Your requests, Tank “My Body” Chords 🎹👌  #MyBodyChords #Tank",
+      "n_chords": 9,
+      "duration_sec": 15.5,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -3255,6 +3375,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "DCYPY-haD5c",
+      "title": "Anderson .Paak (feat. ScHoolboy Q) “Am I Wrong” Chords 115 bpm Bm #AndersonPaak #AmIWrongChords",
+      "n_chords": 12,
+      "duration_sec": 25.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 6,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "De0eg07tQXQ",
       "title": "Jamiroquai “Love Blind” Chords 🔥🎹🔥 113.2 bpm Ab  #LoveBlindChords #Jamiroquai #musicianparadise",
       "n_chords": 12,
@@ -3313,6 +3443,16 @@
       "key_confidence": 0.48,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "DIYJy8FJAMA",
+      "title": "70s Style Chord Progression 🎹🔥 #70sStyleChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 15.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "dJttZI5yrmg",
@@ -3463,6 +3603,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "dzRIO89eAAA",
+      "title": "D’Angelo “Untitled (How Does It Feel)” Chords 🔥🎹🔥 113 bpm #UntitledHowDoesItFeel #DAngelo",
+      "n_chords": 8,
+      "duration_sec": 28.75,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "e-DDMpNAqMo",
@@ -3721,6 +3871,16 @@
       "duration_sec": 36.5,
       "key": "C minor (?)",
       "key_confidence": 0.39,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "F0grWX2tHIs",
+      "title": "Kaytranada “Vivid Dreams” chords 🎹🔥 #VividDreamsChords #Kaytranada #musicianparadise",
+      "n_chords": 14,
+      "duration_sec": 16.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.18,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4425,6 +4585,16 @@
       "status": "ok"
     },
     {
+      "id": "GV4hKeHnUDk",
+      "title": "Michael Jackson and Justin Timberlake “Love Never Felt So Good” Chords 🎹#LoveNeverFeltSoGoodChords",
+      "n_chords": 15,
+      "duration_sec": 60.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 5,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "gxPomVu24Cg",
       "title": "‘Radio’ by Jamiroquai Decoding the Chord Progression 🔥🎹🔥 #Jamiroquai #Radio #musicianparadise",
       "n_chords": 9,
@@ -4525,6 +4695,16 @@
       "status": "ok"
     },
     {
+      "id": "H-y515wT_go",
+      "title": "I sold this chord progression 🎹💰 #SoulfulChordProgression #SoulfulLoFiChords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "H12sA7KsLrg",
       "title": "Anderson .Paak \"Am I Wrong\" Chords 🔥🎹🔥 #MusicianParadise",
       "n_chords": 21,
@@ -4623,6 +4803,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "HfWrYlqbKmw",
+      "title": "Justin Timberlake’s “Rock Your Body” chords 101 bpm Em  🎹👌 #RockYourBodyChords #JustinTimberlake",
+      "n_chords": 17,
+      "duration_sec": 28.5,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "hJGf1hZ_1s4",
@@ -4742,6 +4932,16 @@
       "key": "Bb major",
       "key_confidence": 0.9,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "I1pJ6GGT7jU",
+      "title": "A Tribe Called Quest “Bonita Applebum” Chords 🔥🎹🔥 #BonitaApplebumChords #ATribeCalledQuest",
+      "n_chords": 16,
+      "duration_sec": 10.5,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 5,
       "status": "ok"
     },
     {
@@ -4933,6 +5133,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "iOPnd9CbWUo",
+      "title": "JAMESDAVIS “Something To Talk About” 🎹👌 Chords #SomethingToTalkAbout #SomethingToTalkAboutChords",
+      "n_chords": 5,
+      "duration_sec": 11.75,
+      "key": "Eb major (?)",
+      "key_confidence": 0.41,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "IoQmHSj3rHg",
@@ -5235,6 +5445,16 @@
       "status": "ok"
     },
     {
+      "id": "jfBCja-3vEg",
+      "title": "Jamiroquai “Canned Heat” Chords Part A 🎹🔥 #CannedHeatChords #Jamiroquai #CannedHeat",
+      "n_chords": 13,
+      "duration_sec": 29.75,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Jgcx9XmA3fk",
       "title": "The Most Emotional Outro 🎹🤯 Jamiroquai \"Virtual Insanity” #Jamiroquai",
       "n_chords": 7,
@@ -5305,6 +5525,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "JKHahShp5-A",
+      "title": "A Tribe Called Quest “Find a Way” Chords 🎹👌 94 bpm #ATCQ #FindAWayChords #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 20.5,
+      "key": "G# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 4,
+      "status": "ok"
+    },
+    {
       "id": "JlVWFl_k4ns",
       "title": "Quantum chord mechanics 🔥🎹🔥 #musicianparadise #musictheory #chordpresetpacks",
       "n_chords": 0,
@@ -5322,6 +5552,16 @@
       "key": "A minor",
       "key_confidence": 0.85,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "jNkjp-3heaw",
+      "title": "R&B Quest Chord Preset Pack Coming Soon 🔥🎹🔥 #FreeRnBChordPresetPack  #RnBChordPresets",
+      "n_chords": 15,
+      "duration_sec": 16.0,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 3,
       "status": "ok"
     },
     {
@@ -5905,6 +6145,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "lD7dAv4HPaM",
+      "title": "Roy Ayers Style Exercise 👌🎹🔥 #royayerschords #neosoul #70smusic #musicianparadise",
+      "n_chords": 12,
+      "duration_sec": 12.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.18,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "lemv1izk-Hk",
       "title": "Kendrick Lamar “These Walls” Chords 🔥🎹🔥 Rhodes 73 MK 1 Rod Temperton ‘Sweet Freedom’ chords",
       "n_chords": 0,
@@ -5913,6 +6163,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "lfvv66RkEGU",
+      "title": "Stunning R&B chords Summer Walker “Unloyal” 🎹🎹 128 bpm Em #Unloyal #UnloyalChords",
+      "n_chords": 10,
+      "duration_sec": 28.25,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "LglzyIFxYU8",
@@ -6083,6 +6343,16 @@
       "key_confidence": 1.0,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "LyXTAdQ5DEM",
+      "title": "Don Blackman “Holding You, Loving You” chords 🎹🤯",
+      "n_chords": 6,
+      "duration_sec": 34.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "M-MrsmCNV4k",
@@ -6585,6 +6855,16 @@
       "status": "ok"
     },
     {
+      "id": "nkP0oAvv5J4",
+      "title": "Lonnie Liston Smith “Night Flower” Chords 🎹 🤯 #NightFlowerChords #LonnieListonSmith",
+      "n_chords": 7,
+      "duration_sec": 58.5,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "NKR4fuUwtoA",
       "title": "Who Sampled This Track? Weldon Irvine “Morning Sunrise” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
@@ -6765,6 +7045,16 @@
       "status": "ok"
     },
     {
+      "id": "NXRvJgxY8bQ",
+      "title": "LA’DY ”Love Me Down” Chords Your Requests Dbm 120 BPM #LADY #LoveMeDownChords #musicianparadise",
+      "n_chords": 22,
+      "duration_sec": 16.0,
+      "key": "Ab major (?)",
+      "key_confidence": 0.06,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "nyLSKMOuaEM",
       "title": "Casiopea “Midnight Rendezvous” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 64,
@@ -6815,6 +7105,16 @@
       "status": "ok"
     },
     {
+      "id": "O4gk1kJYCnI",
+      "title": "Musiq Soulchild “Love” Chorus Chords  🎹🔥 Db minor 100 bpm  #MusiqSoulchildLoveChords",
+      "n_chords": 27,
+      "duration_sec": 38.5,
+      "key": "Ab minor",
+      "key_confidence": 0.7,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "O5etzlMbiN8",
       "title": "Unlock Musiq Soulchild's \"So Beautiful\" Chords in 60 Seconds! 🔥🎹🔥 #musicianparadise",
       "n_chords": 10,
@@ -6833,6 +7133,16 @@
       "key_confidence": 0.42,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "O7aIZUAfUk8",
+      "title": "Mndsgn “Slowdance” Chords ❤️🎹🔥 138 bpm #Mndsgn #SlowdanceChords  #musicianparadise",
+      "n_chords": 6,
+      "duration_sec": 24.25,
+      "key": "G# minor (?)",
+      "key_confidence": 0.45,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "O8LRp5tiYPI",
@@ -7495,6 +7805,16 @@
       "status": "ok"
     },
     {
+      "id": "Q0FXNGQ_AkU",
+      "title": "The Isley Brothers “Baby Hold On” Chords  🎹🔥 #BabyHoldOn #BabyHoldOnChords #TheIsleyBrothers",
+      "n_chords": 12,
+      "duration_sec": 15.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.11,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "q8uEj-Zeq_Q",
       "title": "Sade \"Kiss of Life\" Chords 🔥🎹🔥#musicianparadise #chordprogressions",
       "n_chords": 13,
@@ -7563,6 +7883,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "qbGKEvHlgqA",
+      "title": "Learn the intro to every Vulfpeck song 🤣🔥 What Vulfpeck songs would you like to learn?",
+      "n_chords": 7,
+      "duration_sec": 5.75,
+      "key": "D major",
+      "key_confidence": 0.62,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "QCB--wBT-_U",
@@ -8945,6 +9275,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "TxRgZgI2yDY",
+      "title": "Moloko “Sing It Back” Chords 🎹🎸 Ebm 123 bpm #SingItBackChords #Moloko #musicianparadise",
+      "n_chords": 26,
+      "duration_sec": 31.25,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
+      "id": "tYPKTYc8cRw",
+      "title": "Jamiroquai “Smile” Bridge Chords 102.85 bpm #JamiroquaiSmileBridgeChords #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 28.0,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "TyqTq6exhMY",
       "title": "Dark Neo Soul Chords🔥🎹🔥 \"Soul Dust\" Samples Sample -DarkMatter_F#m_70_bpm #musicianparadise",
       "n_chords": 0,
@@ -9205,6 +9555,16 @@
       "status": "ok"
     },
     {
+      "id": "UZnhxuiw5pw",
+      "title": "A Tribe Called Quest “Jazz (We’ve Got)” Chords 🎹🔥 #JazzWeveGotChords  #ATribeCalledQuest",
+      "n_chords": 8,
+      "duration_sec": 21.0,
+      "key": "Eb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "v0g-svRT_nY",
       "title": "Liquid Chords Behind Roy Ayers' \"Liquid Love\" 🔥🎹🔥 #musicianparadise",
       "n_chords": 8,
@@ -9375,6 +9735,16 @@
       "status": "ok"
     },
     {
+      "id": "Vpbzf2ns4U4",
+      "title": "Can’t Get Enough Of Roy Ayers Style Chords 🎹 ☀️ #musicianparadise #RoyAyersSlyleChords",
+      "n_chords": 6,
+      "duration_sec": 24.0,
+      "key": "Bb major",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "vqDjdJZ4Is8",
       "title": "Jill Scott “Offadaback” Neo Soul Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 50,
@@ -9463,6 +9833,16 @@
       "key_confidence": 0.22,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "vxSqumdAq60",
+      "title": "Aaliyah “Street Thing” Chords A 👌🎹 #StreetThing #StreetThingChords #musicianparadise",
+      "n_chords": 9,
+      "duration_sec": 30.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.17,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "VZxnG8uMFqo",
@@ -9743,6 +10123,16 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "X4NqPrm4VGo",
+      "title": "Musiq Soulchild “Love” Verse Chords  🎹🔥 Db minor 100 bpm  #MusiqSoulchildLoveChords",
+      "n_chords": 17,
+      "duration_sec": 38.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.14,
+      "n_unsure": 7,
+      "status": "failed_low_ocr"
     },
     {
       "id": "X6yJu82MQa4",
@@ -10283,6 +10673,16 @@
       "key_confidence": 0.09,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "yZDoSJoMEkU",
+      "title": "Jamiroquai “Smile” Chords part A 102.85 bpm #JamiroquaiSmileChords #Jamiroquai #Smile",
+      "n_chords": 5,
+      "duration_sec": 18.5,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "yzOzDmlEpVo",
