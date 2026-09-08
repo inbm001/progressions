@@ -1,8 +1,8 @@
 {
-  "count": 1253,
-  "ok": 923,
-  "failed": 330,
-  "updated": "2026-09-08 12:59:52",
+  "count": 1293,
+  "ok": 930,
+  "failed": 363,
+  "updated": "2026-09-08 13:44:11",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -193,6 +193,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "08ygdhQlfVg",
+      "title": "Groovy Chords #housemisic #deephousechords",
+      "n_chords": 0,
+      "duration_sec": 19.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "0_7xWUn0IBI",
@@ -423,6 +433,16 @@
       "key_confidence": 0.47,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "1F1hfUo0xIc",
+      "title": "Colourful Deep House Chords #deephouse #neosoulchords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 9.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "1fccDQiMByk",
@@ -725,6 +745,16 @@
       "status": "ok"
     },
     {
+      "id": "2twS2necwTo",
+      "title": "R&B Smooth Chords #RnBchords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 17.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "2UQ-on6aESY",
       "title": "Unlock Anderson .Paak's \"Am I Wrong\" Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 14,
@@ -865,6 +895,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "3F_6ejE3ulI",
+      "title": "Soulful Saturday Chords #musicianparadise #neosoulchords",
+      "n_chords": 2,
+      "duration_sec": 11.0,
+      "key": "C minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "3H5t-FdqoBk",
       "title": "DECODED: Stevie Wonder's Power Flower Secret Chord Theory 🔥🎹🔥 #musicianparadise",
       "n_chords": 50,
@@ -883,6 +923,16 @@
       "key_confidence": 0.66,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "3iQSG6eA2hs",
+      "title": "I've Got More Chords 😎 #neosoulchords #musicproduction",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "3IVBLCyVoxc",
@@ -1445,6 +1495,16 @@
       "status": "ok"
     },
     {
+      "id": "6aBJ_6AFyvc",
+      "title": "Laid-Back Deep House Chords",
+      "n_chords": 18,
+      "duration_sec": 18.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "6e_jXQBZccs",
       "title": "N.E.R.D “You Know What” 🎹🔥 Verse Chords #NERD #YouKnowWhat #YouKnowWhatChords",
       "n_chords": 12,
@@ -1693,6 +1753,16 @@
       "key_confidence": 0.49,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "7gneaJu69aY",
+      "title": "Colourful Turnaround 🌈🎹 #musicianparadise #chordprogression #90srnb",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "7gZhB2bAoEw",
@@ -2223,6 +2293,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "_-ll5lCjSCk",
+      "title": "Universe of Parallel Chords 😲 #musicianparadise #deephousechords #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "_12Rnn61T04",
@@ -2785,6 +2865,16 @@
       "status": "ok"
     },
     {
+      "id": "aXlJcNs1h1U",
+      "title": "Bright, Sunny Chords 🌞 #neosoul #neosoulchordprogression",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "AxSRAY8KE2c",
       "title": "Jazz Giants Behind J Dilla's “Life” 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
@@ -3272,6 +3362,16 @@
       "key": "Bb minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "bwz31_tTC8k",
+      "title": "Soulful RnB Chord Progression #musicianparadise  #rnbchords #chordprogression",
+      "n_chords": 21,
+      "duration_sec": 32.0,
+      "key": "Ab minor (?)",
+      "key_confidence": 0.46,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -4205,6 +4305,16 @@
       "status": "ok"
     },
     {
+      "id": "e_MM23ZT7gw",
+      "title": "Smooth R&B Chords #rnbchords #shorts",
+      "n_chords": 1,
+      "duration_sec": 14.25,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "eaaqz1DYq3M",
       "title": "Freddie Gibbs & The Alchemist ft. Anderson .Paak “Ensalada” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 9,
@@ -4715,6 +4825,26 @@
       "status": "ok"
     },
     {
+      "id": "FlC8psd5r9Y",
+      "title": "The Power Of Fourths Chords Exploration #musicianparadise #chordprogression",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "fLGQKGIN7YQ",
+      "title": "Name That Song #musicianparadise #discohouse #chordprogression",
+      "n_chords": 9,
+      "duration_sec": 8.75,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "fneDKcLiJGY",
       "title": "Erykah Badu ‘Tyrone’ Chords 🔥🎹🔥  Decoding the Neo Soul Harmony #musicianparadise",
       "n_chords": 17,
@@ -4822,6 +4952,16 @@
       "key": "D minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "fUKJcqvr1CU",
+      "title": "Disco House Chords #musicianparadise #discohousechords",
+      "n_chords": 13,
+      "duration_sec": 14.0,
+      "key": "Bb major (?)",
+      "key_confidence": 0.1,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -5425,6 +5565,16 @@
       "status": "ok"
     },
     {
+      "id": "h85KF63gSyE",
+      "title": "Relaxing Sunday Chords 😎  #musicianparadise #chordprogression #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 20.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "H_A56cFTtuY",
       "title": "Stop Saying Daft Punk ‘Voyager’ Chords are the same as Oliver Cheatham ‘Get Down Saturday Night’ 🎹",
       "n_chords": 16,
@@ -5685,6 +5835,16 @@
       "status": "ok"
     },
     {
+      "id": "i5dwL47mrSo",
+      "title": "Learning Some Seriously Cool Chords 👌 #deephouse #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "i5Lv8QhLgNU",
       "title": "MF DOOM “Lavender Buds” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 14,
@@ -5863,6 +6023,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "iO-doG7_bpg",
+      "title": "Rough Chords #musicianparadise #chordprogression #funkychords",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "iOPnd9CbWUo",
@@ -6083,6 +6253,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "IziRSQgOuWc",
+      "title": "Jazzy Chords #musicianparadise #neosoulchords #musicproduction",
+      "n_chords": 1,
+      "duration_sec": 15.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "J-nNJ7pSWcM",
@@ -6815,6 +6995,16 @@
       "status": "ok"
     },
     {
+      "id": "KSKIkg4pJWQ",
+      "title": "Deep House Beautiful Chords 👌 #musicianparadise #DeepHouseChords",
+      "n_chords": 10,
+      "duration_sec": 8.5,
+      "key": "E minor",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "KTIELTGhpc0",
       "title": "Weird Chords 🤯🌶️🌶️🌶️ #musicianparadise #chordprogression #jazzchords",
       "n_chords": 12,
@@ -7455,6 +7645,16 @@
       "status": "ok"
     },
     {
+      "id": "MjgstRCAScg",
+      "title": "Epic Chords 🤩 #musicianparadise #discohouse",
+      "n_chords": 11,
+      "duration_sec": 16.25,
+      "key": "B minor (?)",
+      "key_confidence": 0.18,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "MJIkONKGdMg",
       "title": "Jeff Lorber Fusion “Lava Lands” Chords 🔥🎹🔥 #chordprogression #musicianparadise",
       "n_chords": 23,
@@ -7765,6 +7965,16 @@
       "status": "ok"
     },
     {
+      "id": "nGdMxN8X_Bs",
+      "title": "Smooth Chord Changes #deephouse #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 29.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "nhyh54Irins",
       "title": "Unlocking Sonic Wizardry - Tyler, The Creator's \"NEW MAGIC WAND\" Chords 🔥🎹🔥",
       "n_chords": 17,
@@ -7773,6 +7983,16 @@
       "key_confidence": 0.07,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "NjJ0XVI1Yuc",
+      "title": "Steal Those Soulful Chords #RnBchords #musicianparadise #soulfulchords",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "NJuzhQRO-JE",
@@ -7793,6 +8013,16 @@
       "key_confidence": 0.92,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "nkK8OjzKRQ8",
+      "title": "Changing Chords Colours 🌈 #musicianparadise #neosoulchords #musicproduction",
+      "n_chords": 0,
+      "duration_sec": 8.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "NKlTkq5Rly0",
@@ -8103,6 +8333,16 @@
       "key_confidence": 0.43,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "O6i3z-v2zvE",
+      "title": "Colourful Chord Progression 👌🎹 #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 10.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "o6qayhRTWcU",
@@ -8635,6 +8875,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "P8xXVN0nbX8",
+      "title": "Chords of Orion 😱 #musicianparadise #DeepHouseChords #chordprogression",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "P8xzkb88LZ4",
       "title": "Inside ‘Igors Theme’ by Tyler, The Creator 🔥🎹🔥 A Look at its Chords #musicianparadise",
       "n_chords": 10,
@@ -8733,6 +8983,16 @@
       "key_confidence": 0.32,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "PHv5O8autig",
+      "title": "Chromatic Exercise with altered chords #musicianparadise #chordprogression #pianochords",
+      "n_chords": 0,
+      "duration_sec": 7.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "PjBrLmQPypg",
@@ -9395,6 +9655,16 @@
       "status": "ok"
     },
     {
+      "id": "R9TacsAYh8g",
+      "title": "Smooth LoFi Chords #musicianparadise #chordprogression #lofichords",
+      "n_chords": 9,
+      "duration_sec": 10.75,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "RaQLGBi6gEQ",
       "title": "Street Fighter III 3rd Strike “Twilight” (Ibuki's Stage) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -9515,6 +9785,16 @@
       "status": "ok"
     },
     {
+      "id": "RkPccXLWBms",
+      "title": "Beautiful Chords #neosoulchords #shorts",
+      "n_chords": 0,
+      "duration_sec": 42.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "RkPNvFzI1i0",
       "title": "SUS Chords Obsession - Breakbot ‘Be Mine Tonight’ Chords 🔥🎹🔥 #BeMineTonight #Delafleur",
       "n_chords": 27,
@@ -9613,6 +9893,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "rtPx9ZNkP6Y",
+      "title": "R&B Sunday Chords #rnbchords #musicianparadise",
+      "n_chords": 5,
+      "duration_sec": 9.25,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "rtrdOycetdA",
@@ -9715,6 +10005,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "rzfirkXYe8s",
+      "title": "Building Tension With Suspended Chords #musicianparadise #neosoulchords",
+      "n_chords": 7,
+      "duration_sec": 12.0,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "s-schzKZejw",
       "title": "Get Creative With Chord Presets - Ripchord VST, Expressive Chords M4L, Scaler, MPC, Cthulhu",
       "n_chords": 0,
@@ -9743,6 +10043,16 @@
       "key_confidence": 0.04,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "s5OmT9L1mKE",
+      "title": "Classic Simple Deep House Chords #deephousechords",
+      "n_chords": 0,
+      "duration_sec": 7.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "S7ns9hslSWk",
@@ -9893,6 +10203,16 @@
       "key_confidence": 0.16,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "siCjjAaWalU",
+      "title": "Soulful R&B Chords",
+      "n_chords": 0,
+      "duration_sec": 13.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "SLekZj1aOhw",
@@ -10053,6 +10373,16 @@
       "key_confidence": 0.97,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "STYgYD-2YCE",
+      "title": "Groovy Soulful Chords #deephouse #musicianparadise #musicproduction",
+      "n_chords": 0,
+      "duration_sec": 9.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "SVElq2JGY0A",
@@ -10265,6 +10595,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "tETGticzGs8",
+      "title": "Deep House Energy #deephouse #musicianparadise",
+      "n_chords": 2,
+      "duration_sec": 14.0,
+      "key": "E major",
+      "key_confidence": 0.78,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Tfr675zZ4xQ",
       "title": "CSR Pretty Mob Chords 🔥🎹🔥 K-popI gem. I believe it was some sampled jazz guitar.",
       "n_chords": 0,
@@ -10445,6 +10785,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "TsELAZADvFg",
+      "title": "Progressive Chord Progression #deephouse #musicianparadise #discohouse",
+      "n_chords": 11,
+      "duration_sec": 14.5,
+      "key": "A minor (?)",
+      "key_confidence": 0.4,
+      "n_unsure": 2,
+      "status": "ok"
+    },
+    {
       "id": "tshDSa4E1zs",
       "title": "Steal These Rootless Chords 3 🔥🎹🔥 #MusicianParadise",
       "n_chords": 0,
@@ -10613,6 +10963,16 @@
       "key_confidence": 0.93,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "u0UG3dGxuDs",
+      "title": "Chord Therapy - Complex Case #neosoulchords #musicianparadise",
+      "n_chords": 0,
+      "duration_sec": 16.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "u3hMzmmG9E0",
@@ -10885,6 +11245,16 @@
       "status": "ok"
     },
     {
+      "id": "uXifIvqLzUo",
+      "title": "Steal Those Deep House Chords #deephouse  #neosoulchords",
+      "n_chords": 1,
+      "duration_sec": 18.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "uXPoqsuph4s",
       "title": "Jill Scott “Cross My Mind” chords 👌🎹👌 #JillScott #CrossMyMindChords #musicianparadise",
       "n_chords": 4,
@@ -10973,6 +11343,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "VA4zfMeqgxU",
+      "title": "Smooth Chords #deephouse #shorts",
+      "n_chords": 0,
+      "duration_sec": 14.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "VbK30k0T26o",
@@ -11263,6 +11643,16 @@
       "key_confidence": 0.82,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "W4EfrUxeiAc",
+      "title": "Jacob Collier Chord Exercise 🙌🎹 #neosoulchords #musicianparadise #jacobcollierpianoexercise",
+      "n_chords": 0,
+      "duration_sec": 26.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "w6Ern-iu5wM",
@@ -12003,6 +12393,16 @@
       "key_confidence": 0.96,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "y74PfFVTSII",
+      "title": "Sequencing Chords Exercise #musicianparadise  #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 7.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "yCcM3Zxr4dw",
