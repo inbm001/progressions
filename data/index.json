@@ -1,8 +1,8 @@
 {
-  "count": 1173,
-  "ok": 887,
-  "failed": 286,
-  "updated": "2026-09-08 11:13:17",
+  "count": 1213,
+  "ok": 907,
+  "failed": 306,
+  "updated": "2026-09-08 12:15:23",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -115,6 +115,16 @@
       "status": "ok"
     },
     {
+      "id": "-o0IRgiB-XI",
+      "title": "Cool Neo Soul Turnaround #musicianparadise #royayers #neosoulchords",
+      "n_chords": 7,
+      "duration_sec": 12.25,
+      "key": "F major (?)",
+      "key_confidence": 0.16,
+      "n_unsure": 6,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "-PoQexEwMj8",
       "title": "Sade \"Maureen\" Chords 🔥🎹🔥 #musicianparadise #sade",
       "n_chords": 12,
@@ -193,6 +203,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "0aPcsZB2js0",
+      "title": "Chord Rainbow 🌈 Colourful Neo Soul Chords #soulfulchords #musicianparadise #steinwaypiano",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "0beHhfQ9ItA",
@@ -745,6 +765,16 @@
       "status": "ok"
     },
     {
+      "id": "3-tiksIRt_c",
+      "title": "N.E.R.D Run To The Sun Chords 🎹👌 #musicianparadise #90smusic #NERDmusic",
+      "n_chords": 4,
+      "duration_sec": 10.0,
+      "key": "A minor (?)",
+      "key_confidence": 0.09,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "32gfz6noFsI",
       "title": "Masashi Hamauzu Final Fantasy X - The Travel Agency Chords 🔥🎹🔥 Gaming Sunday",
       "n_chords": 61,
@@ -863,6 +893,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "4-x5pPDg_tE",
+      "title": "R&B Chords 2000s Style #musicianparadise #ClassicRnBChords",
+      "n_chords": 7,
+      "duration_sec": 17.25,
+      "key": "A minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "43lDrzFb-64",
@@ -1105,6 +1145,16 @@
       "status": "ok"
     },
     {
+      "id": "526HSIZ7ZVc",
+      "title": "R&B Diminished Cadence 🎹👌 #RnBChords #MusicianParadise",
+      "n_chords": 15,
+      "duration_sec": 16.0,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.34,
+      "n_unsure": 5,
+      "status": "ok"
+    },
+    {
       "id": "55gKXtBCT1A",
       "title": "Freddie Gibbs & The Alchemist Ft. Larry June “Feeling” Chords 🔥🎹🔥",
       "n_chords": 13,
@@ -1245,6 +1295,16 @@
       "status": "ok"
     },
     {
+      "id": "5Ot6CGr7OWc",
+      "title": "Bewitching Deep House Chords 🧙‍♂️ #musicianparadise #deephousechords",
+      "n_chords": 20,
+      "duration_sec": 15.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.28,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "5pOpEx0OurM",
       "title": "A Tribe Called Quest – “Bonita Applebum” Chords 🔥🎹🔥 Sample source: Roy Ayers / RAMP – “Daylight”",
       "n_chords": 14,
@@ -1355,6 +1415,16 @@
       "status": "ok"
     },
     {
+      "id": "6ejCAvLtdCE",
+      "title": "Roy Ayers Liquid Love Chords 🎹👌 #royayers #neosoul #musicianparadise",
+      "n_chords": 10,
+      "duration_sec": 26.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "6ErJ_dWpEsM",
       "title": "Outkast “Prototype” Chords Are Out of This World 🚀🎹🚀",
       "n_chords": 0,
@@ -1402,6 +1472,16 @@
       "key": "A minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "6OY04l4_0Mw",
+      "title": "Deep Chords Deep House 🎹 #musicianparadise #deephousechords #neosoulchords #pianochords",
+      "n_chords": 7,
+      "duration_sec": 17.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.23,
+      "n_unsure": 2,
       "status": "ok"
     },
     {
@@ -1563,6 +1643,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "7eEs5K3_jSQ",
+      "title": "Everybody Loves The Sunshine 🌞 Chords  🎹 Roy Ayers #musicianparadise #royayerschords #royayers",
+      "n_chords": 16,
+      "duration_sec": 27.0,
+      "key": "E minor (?)",
+      "key_confidence": 0.49,
+      "n_unsure": 1,
+      "status": "ok"
     },
     {
       "id": "7gZhB2bAoEw",
@@ -2155,6 +2245,16 @@
       "status": "ok"
     },
     {
+      "id": "_jmnY6c9E-s",
+      "title": "Soulful Fender Rhodes Chords 70s Style #musicianparadise #neosoulchords",
+      "n_chords": 3,
+      "duration_sec": 15.75,
+      "key": "Ab major (?)",
+      "key_confidence": 0.11,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "_mCoy0Zbs1M",
       "title": "Sade \"Maureen\" Chords 🔥🎹🔥 #SadeMaureen #MaureenChords",
       "n_chords": 12,
@@ -2213,6 +2313,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "A-31FMi3C2A",
+      "title": "Kendrick Lamar These Walls Amazing Chords #KendrickLamar #TheseWallsChords #ToPimpAButterfly",
+      "n_chords": 49,
+      "duration_sec": 35.5,
+      "key": "D minor (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 38,
+      "status": "failed_low_ocr"
     },
     {
       "id": "a2pISJgmpzs",
@@ -2343,6 +2453,16 @@
       "key_confidence": 0.46,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "AJZlHXvV5Vk",
+      "title": "Lotus Flower Bomb Chords #MusicianParadise #Wale #WaleftMiguel",
+      "n_chords": 0,
+      "duration_sec": 14.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "Ak3UFyizDGM",
@@ -2715,6 +2835,16 @@
       "status": "ok"
     },
     {
+      "id": "BAEop9FQ3Fk",
+      "title": "Daniel Caesar Best Part ft. H.E.R. Chords 🎹👌 #musicianparadise #RnBchords #NeoSoulChords",
+      "n_chords": 10,
+      "duration_sec": 29.75,
+      "key": "A minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 6,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "BanEyqty4sM",
       "title": "Justin Timberlake “Nothin’ Else” Chords 🎹👌 117 bpm Fm  #NothinElseChords #JustinTimberlake",
       "n_chords": 52,
@@ -2823,6 +2953,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "BlVlKebCvzQ",
+      "title": "Classic Deep House Chords 🎹 #DeepHouseChords #DeepHouseTutorial #MusicProduction",
+      "n_chords": 12,
+      "duration_sec": 20.25,
+      "key": "Bb major",
+      "key_confidence": 1.0,
+      "n_unsure": 4,
+      "status": "failed_low_ocr"
     },
     {
       "id": "bmLQjADGpm0",
@@ -3975,6 +4115,16 @@
       "status": "ok"
     },
     {
+      "id": "ee_u2eEvwlQ",
+      "title": "Classic RnB Chords - Floetry “Say Yes” #musicianparadise #ClassicRnBChords #FloetrySayYesChords",
+      "n_chords": 27,
+      "duration_sec": 16.0,
+      "key": "D minor",
+      "key_confidence": 0.79,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "eFnMDbtN5qI",
       "title": "H.E.R “Could’ve Been” Part B Chords 🔥🎹🔥#musicianparadise",
       "n_chords": 14,
@@ -4225,6 +4375,16 @@
       "status": "ok"
     },
     {
+      "id": "f6T8T-9jOcg",
+      "title": "Roy Ayers Style Minor Turnaround #musicianparadise #musictheory #deephouse",
+      "n_chords": 9,
+      "duration_sec": 16.0,
+      "key": "A minor",
+      "key_confidence": 0.59,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "f8RJUbadb88",
       "title": "Patrice Rushen “Didn't You Know” Chords Part 2 🔥🎹🔥 #musicianparadise",
       "n_chords": 38,
@@ -4311,6 +4471,16 @@
       "duration_sec": 10.75,
       "key": "Db minor (?)",
       "key_confidence": 0.34,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "FFjHQrz9smQ",
+      "title": "J Dilla The Look Of Love Chords 🎹🎸 #musicianparadise #jdillachords #jdilla",
+      "n_chords": 24,
+      "duration_sec": 26.25,
+      "key": "A minor (?)",
+      "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -4872,6 +5042,16 @@
       "key": "B minor",
       "key_confidence": 1.0,
       "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "Gp386Ij778A",
+      "title": "Roy Ayers “The Third Eye” Chords #musicianparadise #RoyAyers #NeoSoul",
+      "n_chords": 6,
+      "duration_sec": 16.0,
+      "key": "Bb minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -5565,6 +5745,16 @@
       "status": "ok"
     },
     {
+      "id": "iTtaFXnnt2g",
+      "title": "Healing Deep House Chords 🎹🧙‍♂️ #musicianparadise #deephousechords #rhodespiano",
+      "n_chords": 6,
+      "duration_sec": 17.5,
+      "key": "B minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "IucS--S77M8",
       "title": "The Future Soul Formula Hiatus Kaiyote “Red Room” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 36,
@@ -5603,6 +5793,16 @@
       "key_confidence": 0.55,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "iW5qlsH-stw",
+      "title": "Hypnotic Deep House Chords #musicianparadise #deephousechords",
+      "n_chords": 5,
+      "duration_sec": 10.0,
+      "key": "F minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "IWEnXaPqs68",
@@ -5665,6 +5865,16 @@
       "status": "ok"
     },
     {
+      "id": "IXOrbe5GnPY",
+      "title": "Don't Stop Beanie Sigel Chords #musicianparadise #BeanieSigel #BeanieSigelDon’tStopChords",
+      "n_chords": 5,
+      "duration_sec": 14.75,
+      "key": "A major",
+      "key_confidence": 0.89,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "ixQSlNPZmjY",
       "title": "You Asked For It…Herbie Hancock “Paradise” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 59,
@@ -5683,6 +5893,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_no_chords"
+    },
+    {
+      "id": "J-nNJ7pSWcM",
+      "title": "Cool Turnarounds Roy Ayers Style #musicianparadise #royayers #neosoulchords",
+      "n_chords": 11,
+      "duration_sec": 34.0,
+      "key": "Ab major",
+      "key_confidence": 0.81,
+      "n_unsure": 5,
+      "status": "failed_low_ocr"
     },
     {
       "id": "j-UO4h5chFU",
@@ -6205,6 +6425,16 @@
       "status": "ok"
     },
     {
+      "id": "k_C63XyVEU0",
+      "title": "Roy Ayers Inspired Chords 🎹 #musicianparadise #neosoulchords #royayers",
+      "n_chords": 15,
+      "duration_sec": 32.25,
+      "key": "Bb minor (?)",
+      "key_confidence": 0.4,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "Ka9MmWrgCrg",
       "title": "This Chord Progression Made Fabe 'Quand J'serai Grand' a French Rap Classic!🔥🎹🔥#musisianparadise",
       "n_chords": 8,
@@ -6465,6 +6695,16 @@
       "status": "ok"
     },
     {
+      "id": "L-8Le9EZxfo",
+      "title": "ALLINANITE ft Sophia Duncan Outro Chords 🎹👌 #AllinaniteOutroChords #musicianparadise",
+      "n_chords": 13,
+      "duration_sec": 32.0,
+      "key": "Eb minor (?)",
+      "key_confidence": 0.37,
+      "n_unsure": 3,
+      "status": "ok"
+    },
+    {
       "id": "L-H_Bhd5SbM",
       "title": "Tyler, The Creator “Sweet, I Thought You Wanted To Dance” – Chord Progression Breakdown! 🔥🎹🔥",
       "n_chords": 13,
@@ -6591,6 +6831,16 @@
       "duration_sec": 23.0,
       "key": "F minor",
       "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "LEfH9k2iH3Y",
+      "title": "Whole Lot Of SUS Chords 🤔🎹 Roy Ayers Style #musicianparadise #royayerschords #neosoul",
+      "n_chords": 28,
+      "duration_sec": 26.0,
+      "key": "F minor (?)",
+      "key_confidence": 0.19,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -6803,6 +7053,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "lzQa-KubX3w",
+      "title": "Deep House Turnaround 🤯🎹 Tracklights, Michael De Hey #musicianparadise #deephousechords",
+      "n_chords": 1,
+      "duration_sec": 10.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
     },
     {
       "id": "M-MrsmCNV4k",
@@ -7173,6 +7433,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "N1WWVhGFOcA",
+      "title": "How To Play D7b9#9 Into EbMaj7 🧐 #musicianparadise #neosoulchords",
+      "n_chords": 1,
+      "duration_sec": 19.25,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "n3RYxqhuK3k",
@@ -7635,6 +7905,16 @@
       "status": "ok"
     },
     {
+      "id": "o8P0EYd4cgQ",
+      "title": "Kendrick Lamar Institutionalized Chords 🎹👌 #KendrickLamarInstitutionalizedChords",
+      "n_chords": 22,
+      "duration_sec": 23.75,
+      "key": "F minor",
+      "key_confidence": 0.57,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "o8yIAoZs0cw",
       "title": "Eddie Kendricks “Intimate Friends” I could play those chords all day long! 🔥🎹🔥 #musicianparadise",
       "n_chords": 4,
@@ -7662,6 +7942,16 @@
       "key": "Bb minor (?)",
       "key_confidence": 0.15,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "o_ZxqDrG41E",
+      "title": "How Much A Dollar Cost 🎹👌 #HowMuchADollarCostchords #musicianparadise",
+      "n_chords": 31,
+      "duration_sec": 21.25,
+      "key": "F minor",
+      "key_confidence": 0.83,
+      "n_unsure": 7,
       "status": "ok"
     },
     {
@@ -8555,6 +8845,16 @@
       "status": "ok"
     },
     {
+      "id": "qJl2Pnkmea4",
+      "title": "ALLINANITE ft Sophia Duncan Outro Chords 🎹👌#allinanitechords #allinanite #musicianparadise",
+      "n_chords": 21,
+      "duration_sec": 60.0,
+      "key": "Eb minor",
+      "key_confidence": 0.85,
+      "n_unsure": 5,
+      "status": "ok"
+    },
+    {
       "id": "qjOUE_sSQnM",
       "title": "The Smoothest Neo-Soul Chords? Robert Glasper’s “Heaven’s Here” 🔥🎹🔥 #musicianparadise",
       "n_chords": 27,
@@ -9291,6 +9591,16 @@
       "duration_sec": 22.25,
       "key": "G# minor",
       "key_confidence": 0.99,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "SligUeYCRNg",
+      "title": "Roy Ayers Coffy Is The Color Chords 🎹👌#royayers #musicianparadise #royayerschords",
+      "n_chords": 23,
+      "duration_sec": 17.0,
+      "key": "F major (?)",
+      "key_confidence": 0.01,
       "n_unsure": 0,
       "status": "ok"
     },
@@ -10055,6 +10365,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "U8E99VOH-ZY",
+      "title": "Soulful Roy Ayers Style Chords #musicianparadise #royayers #royayerschords",
+      "n_chords": 13,
+      "duration_sec": 16.25,
+      "key": "F minor (?)",
+      "key_confidence": 0.37,
+      "n_unsure": 3,
+      "status": "ok"
+    },
+    {
       "id": "uAm38PY1QyY",
       "title": "Roy Ayers “Brand New Feeling” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 30,
@@ -10133,6 +10453,16 @@
       "key_confidence": 0.2,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "Ui4rYvpQFZg",
+      "title": "Chords Begs For A Groove! #musicianparadise #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 12.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "UIxrchTaTj0",
@@ -10232,6 +10562,16 @@
       "key": "Bb minor",
       "key_confidence": 0.76,
       "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "UxT2qBfdFvg",
+      "title": "Deep House Classic Warm Chords 🎹👌 #musicianparadise #deephousechords #deephouse",
+      "n_chords": 6,
+      "duration_sec": 16.5,
+      "key": "A minor",
+      "key_confidence": 0.59,
+      "n_unsure": 4,
       "status": "failed_low_ocr"
     },
     {
@@ -10375,6 +10715,16 @@
       "status": "ok"
     },
     {
+      "id": "VIl14hlsQW0",
+      "title": "Learning Beautiful Middle Eight From Minnie Riperton \"Inside My Love\" -Joe Sample Sampled By J Dilla",
+      "n_chords": 34,
+      "duration_sec": 31.0,
+      "key": "F minor",
+      "key_confidence": 0.78,
+      "n_unsure": 8,
+      "status": "ok"
+    },
+    {
       "id": "vjQkQ5pfhgs",
       "title": "Cleo Sol “Go Baby” Chords 🎹❤️ #GoBaby #GoBabyChords #musicianparadise",
       "n_chords": 9,
@@ -10473,6 +10823,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "vQOnuD4qrfc",
+      "title": "J Dilla The Look Of Love Chords  🎹🎸 #JDilla #musicianparadise #jdillachords",
+      "n_chords": 23,
+      "duration_sec": 26.25,
+      "key": "A minor",
+      "key_confidence": 0.6,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "VqVYVRWxUvk",
@@ -11345,6 +11705,16 @@
       "status": "ok"
     },
     {
+      "id": "yh-Ns5emdHg",
+      "title": "Minnie Riperton \"Inside My Love\" - Slum Village \"Look of Love\" Chords 🎹 #InsideMyLove  #LookOfLove",
+      "n_chords": 14,
+      "duration_sec": 10.25,
+      "key": "F major (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "YlKA4y0eB9k",
       "title": "Pastime Paradise Latin Version Ray Barretto 🎹👌 #musicianparadise #pastimeparadise #latinmusic",
       "n_chords": 5,
@@ -11463,6 +11833,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "Z-WzhhIf1uw",
+      "title": "Toni Braxton Hit The Freeway Bridge Chords #90sRnB #90sRnBChords #90sRnBTrowback #musicianparadise",
+      "n_chords": 17,
+      "duration_sec": 23.5,
+      "key": "E minor (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 0,
+      "status": "ok"
     },
     {
       "id": "z0OtYxNUVZ4",
@@ -11635,6 +12015,16 @@
       "status": "ok"
     },
     {
+      "id": "zMahIYKhEWY",
+      "title": "Minor Chords Exercise 🎹👌#musicianparadise #neosoulchords #fenderrhodes",
+      "n_chords": 0,
+      "duration_sec": 13.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "ZOn2R9DszVQ",
       "title": "Learn Rob Araujo’s “Hike” 🔥🎹🔥 #MusicianParadise",
       "n_chords": 5,
@@ -11671,6 +12061,16 @@
       "duration_sec": 20.0,
       "key": "F major (?)",
       "key_confidence": 0.32,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "ZuqGCphCFjo",
+      "title": "Roy Ayers Almost Parallel Harmony 👌 #musicianparadise #neosoulchords #royayers",
+      "n_chords": 10,
+      "duration_sec": 16.0,
+      "key": "A minor",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
     },
