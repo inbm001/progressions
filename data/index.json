@@ -1,8 +1,8 @@
 {
-  "count": 1333,
-  "ok": 936,
-  "failed": 397,
-  "updated": "2026-09-08 14:14:21",
+  "count": 1373,
+  "ok": 942,
+  "failed": 431,
+  "updated": "2026-09-08 14:45:49",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -60,6 +60,16 @@
       "n_chords": 4,
       "duration_sec": 23.25,
       "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "-ILHSm3qKSo",
+      "title": "Amazing Neo-Soul Scale 🤩 #ripchord #neosoulchords",
+      "n_chords": 5,
+      "duration_sec": 10.0,
+      "key": "C major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
@@ -555,6 +565,16 @@
       "status": "ok"
     },
     {
+      "id": "1scyNBCKoDI",
+      "title": "Unlock Your Inner Piano Genius 🤩 #neosoulchords #ripchord #pianochords #catplayngpiano #shorts",
+      "n_chords": 0,
+      "duration_sec": 5.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "1v3ueke757A",
       "title": "Dark Piano Chords #shorts  #darkpianochords",
       "n_chords": 0,
@@ -825,6 +845,16 @@
       "status": "ok"
     },
     {
+      "id": "2yuLXVx0ewA",
+      "title": "Discover Amazing Chords Using Free VST Ripchord 🎉 #shorts #ripchord  #neosoulchords",
+      "n_chords": 0,
+      "duration_sec": 6.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "2Z0V5KPP3tQ",
       "title": "Alexander O'Neal “Sunshine” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 18,
@@ -935,6 +965,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "3flDi-CV6uA",
+      "title": "Emotional 90s Piano House Chord Pack 😁 #shorts",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "3H5t-FdqoBk",
       "title": "DECODED: Stevie Wonder's Power Flower Secret Chord Theory 🔥🎹🔥 #musicianparadise",
       "n_chords": 50,
@@ -1013,6 +1053,16 @@
       "key_confidence": 1.0,
       "n_unsure": 1,
       "status": "ok"
+    },
+    {
+      "id": "3yjl-qfRfi0",
+      "title": "MPC Combine Pad Perform And Arps #musicianparadise #ripchord #neosoulchords #akai #90srnb #shorts",
+      "n_chords": 0,
+      "duration_sec": 12.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "3yZorBC9-_8",
@@ -2475,6 +2525,16 @@
       "status": "ok"
     },
     {
+      "id": "_MhffON0DAY",
+      "title": "INSTANTLY Change The Way You Play Chords 🎹",
+      "n_chords": 0,
+      "duration_sec": 6.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "_N6hOF9aIH4",
       "title": "Breakbot “Be Mine Tonight” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 28,
@@ -2615,6 +2675,16 @@
       "status": "ok"
     },
     {
+      "id": "ABfOl19F50A",
+      "title": "Free 90s Piano House Coming Soon 🤯 #shorts #90sPianoHouse",
+      "n_chords": 0,
+      "duration_sec": 7.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "abGDvFro7C0",
       "title": "Tyler, The Creator “Mother” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 11,
@@ -2665,6 +2735,16 @@
       "status": "ok"
     },
     {
+      "id": "adSVJ8Zv2cM",
+      "title": "The Enigmatic Sound of the C7#9#11/G chord 🧙‍♂️ more in the description #neosoulchords #pianochords",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "ae72duSajFQ",
       "title": "Secrets Of Bass Power 🤯 the note on the bass defines the chord #basslines #basspower",
       "n_chords": 8,
@@ -2703,6 +2783,16 @@
       "key_confidence": 0.46,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "aJhQ7p0XSQ8",
+      "title": "Verify those chord symbols! 🧐 #shorts #pianochords #neosoulchords #RnB",
+      "n_chords": 0,
+      "duration_sec": 11.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "AJZlHXvV5Vk",
@@ -2773,6 +2863,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "AOy-Te265Qk",
+      "title": "Create Relaxing Neo-Soul Chords 😎",
+      "n_chords": 1,
+      "duration_sec": 14.75,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "ap6Bh33D880",
@@ -3415,6 +3515,16 @@
       "status": "ok"
     },
     {
+      "id": "BUakS1CxgHA",
+      "title": "Learning Neo-Soul Piano Lick #neosoulchords #pianochords #shorts",
+      "n_chords": 3,
+      "duration_sec": 9.25,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "BuxpmviuvLU",
       "title": "Prince “I Wanna Be Your Lover” Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 14,
@@ -3575,6 +3685,16 @@
       "status": "ok"
     },
     {
+      "id": "c8Ke5KbCA2o",
+      "title": "Unlock Secret Neo-Soul Chords with Ripchord VST #ripchord  #neosoulchords",
+      "n_chords": 4,
+      "duration_sec": 10.25,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "C9IG8i3qOEg",
       "title": "Nujabes “Flowers” Chords Recreated 🔥🎹🔥 John Hicks ”After The Morning” Sample #musicianparadise",
       "n_chords": 15,
@@ -3593,6 +3713,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "c_QVBlp-ssM",
+      "title": "Ripchord Chord Packs Neo-Soul Chord Obsession 😅 #ripchord  #neosoulchords #shorts",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "cb0-jJzYnsA",
@@ -4115,6 +4245,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "DEr9ZSvxO3A",
+      "title": "How To Play C Major Neo-Soul Scale 🤣 Check the description #shorts #neosoulchords",
+      "n_chords": 6,
+      "duration_sec": 12.25,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "DFKTI25HOSE",
       "title": "Moonchild “Cure” Part 2 🔥🎹🔥 #musicianparadise #chordprogressions",
       "n_chords": 26,
@@ -4189,6 +4329,16 @@
       "title": "70s Style Chord Progression 🎹🔥 #70sStyleChords #musicianparadise",
       "n_chords": 0,
       "duration_sec": 15.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "dJGtCMOxzYQ",
+      "title": "Create Amazing R&B Chords On MPC",
+      "n_chords": 0,
+      "duration_sec": 12.75,
       "key": null,
       "key_confidence": 0.0,
       "n_unsure": 0,
@@ -4805,6 +4955,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "f_xnVcQG0p8",
+      "title": "Beautiful Neo-Soul Scale #shorts #ripchord #chordpresets #neosoulchords #neosoulscale",
+      "n_chords": 0,
+      "duration_sec": 8.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "faL4NVL2uT0",
       "title": "Chords From The Parallel Universe 🤯 the first 4 chords are parallel Maj7(13th) #ParallelHarmony",
       "n_chords": 13,
@@ -4812,6 +4972,16 @@
       "key": "Eb major (?)",
       "key_confidence": 0.03,
       "n_unsure": 10,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "FbDHZClQnsA",
+      "title": "Create Neo Soul Chords Easily 🤯",
+      "n_chords": 5,
+      "duration_sec": 18.25,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -4883,6 +5053,16 @@
       "key_confidence": 0.1,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "FG2dW_k1e9I",
+      "title": "Unlock Neo Soul Chords Instantly using Ripchord 👌",
+      "n_chords": 0,
+      "duration_sec": 20.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "FGA_-TJYX2A",
@@ -4993,6 +5173,16 @@
       "key_confidence": 0.47,
       "n_unsure": 2,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "FmRsBpE_gRQ",
+      "title": "Complex Chords Made Easy 😱 #shorts",
+      "n_chords": 0,
+      "duration_sec": 7.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "fneDKcLiJGY",
@@ -5765,6 +5955,16 @@
       "status": "ok"
     },
     {
+      "id": "hcbwKOQEF5Q",
+      "title": "Verify those chord symbols and name the song #shorts",
+      "n_chords": 0,
+      "duration_sec": 8.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "hDQibtYTXuk",
       "title": "Roland Garros 2005 Smash Court Tennis “Opening” Chords 🔥🎹🔥 Gaming Sunday #musicianparadise",
       "n_chords": 33,
@@ -5825,6 +6025,16 @@
       "status": "ok"
     },
     {
+      "id": "hjwJLFo_mq4",
+      "title": "High Definition Chords For MPC 🧐",
+      "n_chords": 0,
+      "duration_sec": 6.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "HKf4KMcHoEw",
       "title": "Ledisi “Alright” Chords 🔥🎹🔥The Gorgeous Chords Behind Ledisi's Soul Classic #musicianparadise",
       "n_chords": 20,
@@ -5843,6 +6053,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "hmPIkXNXLt4",
+      "title": "Make Neo Soul Chord Effortlessly 🤯",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "hO2t66mG888",
@@ -5933,6 +6153,16 @@
       "key_confidence": 0.33,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "hXUrPx6nHjI",
+      "title": "HQ Chord Packs By Musician Paradise",
+      "n_chords": 0,
+      "duration_sec": 6.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "HXVoLbZktkE",
@@ -6065,6 +6295,16 @@
       "status": "ok"
     },
     {
+      "id": "Ia5FK-VgO7w",
+      "title": "Amazing sound of Rhodes V8 augmented by Ripchord VST #shorts #RhodesV8",
+      "n_chords": 0,
+      "duration_sec": 11.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "IabOyduIvxY",
       "title": "Steal These Soulful Chords 9 🔥🎹🔥 #MusicianParadise #SoulfulChords",
       "n_chords": 0,
@@ -6110,6 +6350,16 @@
       "n_chords": 18,
       "duration_sec": 10.5,
       "key": "C# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "IeK54WWt4iE",
+      "title": "Create Smooth R&B With Free MPC Chord Packs 😎 #R&BChordPack #MPCPadPerform",
+      "n_chords": 11,
+      "duration_sec": 9.25,
+      "key": "A major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -6695,6 +6945,16 @@
       "status": "ok"
     },
     {
+      "id": "JICZv_vXLWY",
+      "title": "Verify the chord symbols! #shorts #pianochords #neosoulchords #learningpiano",
+      "n_chords": 1,
+      "duration_sec": 17.5,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "ok"
+    },
+    {
       "id": "JiiYjcvRmQg",
       "title": "How Doechii Brought Boom Bap Back 🔥🎹🔥 (Chord Breakdown)",
       "n_chords": 47,
@@ -6895,6 +7155,16 @@
       "status": "ok"
     },
     {
+      "id": "jVLvAdUmlxE",
+      "title": "Practice your chords like crazy 🤪 !",
+      "n_chords": 9,
+      "duration_sec": 12.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "JVR02jzAnJI",
       "title": "Akuma's Theme - “Killing Moon” – Street Fighter III 3rd Strike Chords 🔥🎹🔥Composed by Hideki Okugawa",
       "n_chords": 20,
@@ -7013,6 +7283,16 @@
       "key_confidence": 0.56,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "k6WYNvU7HWM",
+      "title": "Beautiful HQ Chord Progressions #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "K9DpFAoi4Qc",
@@ -7233,6 +7513,26 @@
       "key_confidence": 0.13,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "KuGu1usBFco",
+      "title": "Moody Chords Robert Glasper Style #shorts",
+      "n_chords": 1,
+      "duration_sec": 15.0,
+      "key": "D major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "KV2ySDvz5L0",
+      "title": "Neo-Soul Chord Revolution 🤖 #shorts #ripchord #neosoulchords",
+      "n_chords": 2,
+      "duration_sec": 7.75,
+      "key": "E minor (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "Kv5RWlHVZHg",
@@ -7585,6 +7885,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "LQe7l7TKAzw",
+      "title": "Learning Beautiful R&B Chord Progression 🧐",
+      "n_chords": 3,
+      "duration_sec": 14.5,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 3,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "LThARgYqQaA",
       "title": "Soulful Chord Presets for Ripchord VST, Expressive Chords M4L, Scaler, MPC Pad Perform, Cthulhu 🔥🎹🔥",
       "n_chords": 2,
@@ -7783,6 +8093,26 @@
       "key_confidence": 0.34,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "mBzUuWQkRHU",
+      "title": "The Easiest Way To Create Complex Chords 🤯",
+      "n_chords": 1,
+      "duration_sec": 11.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "md_gb9eW8oA",
+      "title": "The Perfect Solution For Soulful R&B Chords 👌",
+      "n_chords": 5,
+      "duration_sec": 13.5,
+      "key": "B major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "MDJJ-dsG0Sg",
@@ -8805,6 +9135,16 @@
       "status": "ok"
     },
     {
+      "id": "oiSkhlNnFOI",
+      "title": "Learning Beautiful Neo-Soul Chords #neosoulchords #pianochords #shorts",
+      "n_chords": 0,
+      "duration_sec": 12.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "OJmZ3j27IvM",
       "title": "George Duke “Someday” - Soulful Jazz-Funk Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 40,
@@ -9222,6 +9562,16 @@
       "key": "B minor (?)",
       "key_confidence": 0.01,
       "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "PcFcTrXuu1I",
+      "title": "Soothing Neo-Soul Chords",
+      "n_chords": 10,
+      "duration_sec": 12.25,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
       "status": "failed_low_ocr"
     },
     {
@@ -9810,6 +10160,16 @@
       "n_chords": 21,
       "duration_sec": 30.25,
       "key": "C# minor",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "qQwW0f20uwA",
+      "title": "Nu-Disco Beat + 90s Piano House Chords 😎 #ripchord #90sPianoHouse #NuDisco",
+      "n_chords": 2,
+      "duration_sec": 17.5,
+      "key": "C major",
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
@@ -11335,6 +11695,16 @@
       "status": "ok"
     },
     {
+      "id": "u5RFFqad9-M",
+      "title": "Free 90s Piano House Chord Pack Coming Soon 🎉 #shorts",
+      "n_chords": 0,
+      "duration_sec": 15.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "U5tCYffvL3s",
       "title": "Sunny Sunday RnB Chords 🌞🎹🌞 #90sRnBChordPresets #90sRnBMIDI #musicianparadise",
       "n_chords": 6,
@@ -11403,6 +11773,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "uAUkAb-9k0o",
+      "title": "Neo-Soul Chord Mastery 🤯 #ripchord #neosoulchords #shorts",
+      "n_chords": 15,
+      "duration_sec": 23.5,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "ubhOh6SRiWo",
@@ -12265,6 +12645,16 @@
       "status": "ok"
     },
     {
+      "id": "X-wCRtJ8iqE",
+      "title": "Verify the chord symbols! #shorts #pianochords #neosoulchords",
+      "n_chords": 6,
+      "duration_sec": 13.75,
+      "key": "A minor (?)",
+      "key_confidence": 0.3,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "X-ZvEvn7SAM",
       "title": "Tyler The Creator “Wharf Talk” Chords 🔥🎹🔥 #musicianparadise #chordprogression",
       "n_chords": 38,
@@ -13103,6 +13493,16 @@
       "key_confidence": 0.38,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "zBlVk5uSAWw",
+      "title": "90s R&B Scaler 2 Free Chord Pack",
+      "n_chords": 0,
+      "duration_sec": 9.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "zCm7NqsFzs8",
