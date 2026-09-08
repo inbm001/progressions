@@ -1,8 +1,8 @@
 {
-  "count": 1373,
-  "ok": 942,
-  "failed": 431,
-  "updated": "2026-09-08 14:45:49",
+  "count": 1413,
+  "ok": 948,
+  "failed": 465,
+  "updated": "2026-09-08 15:24:17",
   "songs": [
     {
       "id": "-2P0EdYcU-c",
@@ -165,6 +165,16 @@
       "status": "ok"
     },
     {
+      "id": "-xSIvVNvetA",
+      "title": "THE BEST R&B CHORD PACK For MPC and Ripchord #shorts",
+      "n_chords": 0,
+      "duration_sec": 14.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "-XY5AsSGdx8",
       "title": "Deep House Abstract Chords 🎹 🎛 #DeepHouseChords #HouseMusic #musictheory #musicianparadise",
       "n_chords": 4,
@@ -192,6 +202,16 @@
       "key": "C minor",
       "key_confidence": 1.0,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "0-NdGqb6lhE",
+      "title": "Learning Beautiful R&B chord progression",
+      "n_chords": 1,
+      "duration_sec": 11.25,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -485,6 +505,16 @@
       "status": "ok"
     },
     {
+      "id": "1ffPq9Q2UzQ",
+      "title": "Beautiful Neo Soul Chord Progression Robert Glasper Style",
+      "n_chords": 1,
+      "duration_sec": 11.75,
+      "key": "F minor (?)",
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "1G8kkAQ4AwY",
       "title": "How Tyler, The Creator Built “Sweet, I Thought You Wanted To Dance” Pt.2 Chords🔥🎹🔥",
       "n_chords": 15,
@@ -645,6 +675,16 @@
       "status": "ok"
     },
     {
+      "id": "25OKq7j2HQw",
+      "title": "👉 Free 90 RnB Chord Preset Pack #shorts #Cthulhu #XferCthulhu",
+      "n_chords": 0,
+      "duration_sec": 8.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "2CZP5SqvV3A",
       "title": "Mick Jenkins' 'Gucci Tried To Tell Me' 🔥🎹🔥 #chords",
       "n_chords": 23,
@@ -723,6 +763,16 @@
       "key_confidence": 0.58,
       "n_unsure": 4,
       "status": "ok"
+    },
+    {
+      "id": "2KYr2sux7no",
+      "title": "Haunting Neo Soul Chords Kamaal Williams Style #shorts",
+      "n_chords": 0,
+      "duration_sec": 13.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "2l_kBWHtb1M",
@@ -1925,6 +1975,16 @@
       "status": "ok"
     },
     {
+      "id": "7Th7Nx3PX1E",
+      "title": "Scaler 2.7 90 RnB Chord Preset Pack",
+      "n_chords": 9,
+      "duration_sec": 14.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "7TL05LH8OS8",
       "title": "Roy Ayers ‘Together Forever’ Exploring the Chord Progression 🔥🎹🔥 136 bpm Am",
       "n_chords": 27,
@@ -2053,6 +2113,16 @@
       "key_confidence": 1.0,
       "n_unsure": 3,
       "status": "ok"
+    },
+    {
+      "id": "8J-FzO0kKlA",
+      "title": "👉 90 RnB Chord Preset Pack 🔥",
+      "n_chords": 2,
+      "duration_sec": 12.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "8JKILl2ajTg",
@@ -2225,6 +2295,16 @@
       "status": "ok"
     },
     {
+      "id": "9_umXMMcg_A",
+      "title": "Soulful Ripchord Chord Packs (Free) 🔥",
+      "n_chords": 0,
+      "duration_sec": 10.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "9ai9WNdzkxY",
       "title": "Jamiroquai “Canned Heat” Refrain Chords 🔥🎹🔥128 bpm #CannedHeatChords #Jamiroquai",
       "n_chords": 2,
@@ -2395,6 +2475,16 @@
       "status": "ok"
     },
     {
+      "id": "9xG80q4Boes",
+      "title": "How To Create Charming Neo Soul Chords Jacob Collier Style",
+      "n_chords": 12,
+      "duration_sec": 19.0,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "9Yoqk6F8XVU",
       "title": "Dark and Moody Parallel Minor Chords #musicianparadise #chordprogression #neosoulchords #royayers",
       "n_chords": 7,
@@ -2553,6 +2643,16 @@
       "key_confidence": 0.2,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "_uBfFVxqdJc",
+      "title": "Learn How to Create Neo Soul Chords Like Jacob Collier",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "_UxYmivirco",
@@ -3235,6 +3335,16 @@
       "status": "ok"
     },
     {
+      "id": "BB9V-tjz4WQ",
+      "title": "Playng Cords From My 90s R&B Chord Pack",
+      "n_chords": 2,
+      "duration_sec": 17.0,
+      "key": "E major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "bcyJD3h0Czw",
       "title": "Mastering the Magic of '70s Style Modal Interchange Chords 🔥🎹🔥 #70Chords #ChordProgressions",
       "n_chords": 8,
@@ -3622,6 +3732,16 @@
       "key": "Bb minor",
       "key_confidence": 1.0,
       "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "bzO89F41e7I",
+      "title": "Nat King Cole Christmas Song performed on MPC (Pad Perform mode) #Shorts",
+      "n_chords": 34,
+      "duration_sec": 55.5,
+      "key": "Db major (?)",
+      "key_confidence": 0.22,
+      "n_unsure": 5,
       "status": "failed_low_ocr"
     },
     {
@@ -4475,6 +4595,16 @@
       "status": "ok"
     },
     {
+      "id": "Du6Pt3dQ5BI",
+      "title": "Amazing Neo Soul Chords Robert Glasper Style",
+      "n_chords": 1,
+      "duration_sec": 22.5,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "dvpPX_I_j0s",
       "title": "Alicia Keys “Feeling U, Feeling Me” (Interlude) Chords 🔥🎹🔥 #musicianparadise",
       "n_chords": 32,
@@ -4655,6 +4785,16 @@
       "status": "ok"
     },
     {
+      "id": "EfeySktktBQ",
+      "title": "Stunning Gospel Chords Robert Glasper Style #shorts",
+      "n_chords": 5,
+      "duration_sec": 14.0,
+      "key": "G major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "eFnMDbtN5qI",
       "title": "H.E.R “Could’ve Been” Part B Chords 🔥🎹🔥#musicianparadise",
       "n_chords": 14,
@@ -4713,6 +4853,16 @@
       "key_confidence": 0.09,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "eMuFRCU1sDY",
+      "title": "My Fav Plugin Of 2022 AKAI Flavor Pro",
+      "n_chords": 0,
+      "duration_sec": 7.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "ENAQyvOOGYI",
@@ -4803,6 +4953,16 @@
       "key_confidence": 0.24,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "eu3LsaVOEkc",
+      "title": "👉 Free Xfer Cthulhu 90 RnB Chord Preset Pack",
+      "n_chords": 2,
+      "duration_sec": 12.5,
+      "key": "F minor (?)",
+      "key_confidence": 0.47,
+      "n_unsure": 2,
+      "status": "failed_low_ocr"
     },
     {
       "id": "EvdCT78aKN8",
@@ -5005,6 +5165,16 @@
       "status": "ok"
     },
     {
+      "id": "FdeIwHkDOU0",
+      "title": "Learn How To Create Beautiful Neo Soul Chords 🎉",
+      "n_chords": 1,
+      "duration_sec": 12.5,
+      "key": "A major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "fDmQ5yupf7E",
       "title": "Dark Neo Soul - Robert Glasper Inspired Chords🔥🎹🔥#musiciaparadise",
       "n_chords": 0,
@@ -5123,6 +5293,16 @@
       "key_confidence": 0.24,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "fJNusHV1ACo",
+      "title": "▶️ Free Neo-Soul Chord Pack Vol.7🔥▶️  Formats: MPC Pad Perform, Ripchord.",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "FKPzsQM4BEo",
@@ -5995,6 +6175,16 @@
       "status": "ok"
     },
     {
+      "id": "hF__5yjYlr4",
+      "title": "Ableton Chord Generator Amazing 😝 M4L CHORDimist #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "hFQUMhZr1Js",
       "title": "This Jodeci Chords Will Take You Back To The 90s - \"My Heart Belongs To You” Chords 🔥🎹🔥",
       "n_chords": 15,
@@ -6051,6 +6241,16 @@
       "duration_sec": 14.75,
       "key": null,
       "key_confidence": null,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "HMOxeVzCLgw",
+      "title": "👉 Ripchord Free 90 RnB Chord Preset Pack 🔥 #shorts",
+      "n_chords": 1,
+      "duration_sec": 10.5,
+      "key": "A major",
+      "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
     },
@@ -6395,6 +6595,16 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "IJf28YIWQag",
+      "title": "Free Neo-Soul Chord Pack Vol.7🔥 Formats: Ripchord VST, MPC Pad Perform👌",
+      "n_chords": 0,
+      "duration_sec": 9.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "IKCHSxDRbZU",
       "title": "These “Nice Girls” Chords Were Made to Be Sampled 🔥🎹🔥",
       "n_chords": 0,
@@ -6411,6 +6621,16 @@
       "duration_sec": 10.5,
       "key": "B minor",
       "key_confidence": 0.84,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
+      "id": "iln5-A__6p8",
+      "title": "Just Some Chords, No Clickbait #shorts",
+      "n_chords": 16,
+      "duration_sec": 18.0,
+      "key": "A major",
+      "key_confidence": 0.5,
       "n_unsure": 0,
       "status": "failed_low_ocr"
     },
@@ -6502,6 +6722,16 @@
       "key": "E minor",
       "key_confidence": 0.62,
       "n_unsure": 0,
+      "status": "ok"
+    },
+    {
+      "id": "iqJGbIZhkwM",
+      "title": "Learning 90s RnB Complex Chord Progression #shorts",
+      "n_chords": 1,
+      "duration_sec": 11.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 1,
       "status": "ok"
     },
     {
@@ -8085,6 +8315,16 @@
       "status": "ok"
     },
     {
+      "id": "MAlPGdBcHq0",
+      "title": "Magical Neo Soul Chords Jacob Collier Style #shorts",
+      "n_chords": 1,
+      "duration_sec": 15.0,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
+    },
+    {
       "id": "mBqwHRKaKus",
       "title": "Breaking Down Tyler’s Chords in ‘Hey Jane’ 🔥🎹🔥 #musicianparadise",
       "n_chords": 12,
@@ -8273,6 +8513,16 @@
       "key_confidence": null,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "mKd-Yp93Dc8",
+      "title": "MPC Pad Perform Modern R&B Free Chord Pack 🔥",
+      "n_chords": 0,
+      "duration_sec": 7.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "mMk-c2MMsT8",
@@ -9275,6 +9525,16 @@
       "status": "ok"
     },
     {
+      "id": "oQHEfomGMps",
+      "title": "Throwback 2022 ▶️ Free Neo-Soul Chord Pack Vol.X👌Scaler 2, Xfer Cthulhu, MPC, Ripchord,",
+      "n_chords": 5,
+      "duration_sec": 11.5,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "oQIqugvZbxY",
       "title": "Steal These Rootless Chords 2 Soulful Vibes 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -9415,6 +9675,16 @@
       "status": "ok"
     },
     {
+      "id": "oxtBmv3DeP8",
+      "title": "👉 Scaler 2.7 90s RnB Chord Pack #shorts #scaler2",
+      "n_chords": 6,
+      "duration_sec": 8.5,
+      "key": "E major (?)",
+      "key_confidence": 0.44,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "oZAbN9V97sY",
       "title": "Lupe Fiasco “Paris, Tokyo” Chords 🔥🎹🔥 Sample Source: Eumir Deodato “San Juan Sunset”",
       "n_chords": 8,
@@ -9533,6 +9803,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "pahmvZJJQ9o",
+      "title": "👉 Xfer Cthulhu 90 RnB Chord Preset Pack 🔥",
+      "n_chords": 0,
+      "duration_sec": 9.5,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "PbByHDiNNXw",
@@ -9663,6 +9943,16 @@
       "key_confidence": 0.14,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "pLjC2-pVSVE",
+      "title": "Free Chord Presets For Ripchord VST #shorts",
+      "n_chords": 17,
+      "duration_sec": 22.75,
+      "key": "F major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "PLncwXBneFI",
@@ -10605,6 +10895,26 @@
       "status": "failed_no_chords"
     },
     {
+      "id": "RUuRsKa8EfA",
+      "title": "90s Piano House Chord Pack ? 🎹🏠 #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "RuWblKY09FA",
+      "title": "Unlocking Jaw-Dropping Chords: Henry Wu style harmony on MPC Pad Perform 🔥",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "rvVVFUplzdk",
       "title": "Heart-melting R&B Chords 🔥🎹🔥 #musicianparadise #soulfulbeats Free Chord Presets In the Description",
       "n_chords": 15,
@@ -11135,6 +11445,16 @@
       "status": "ok"
     },
     {
+      "id": "t-tXZ482zio",
+      "title": "Learning 90s RnB Chord Progressions",
+      "n_chords": 0,
+      "duration_sec": 8.75,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "t1pCX73hbtw",
       "title": "Jamiroquai “Talullah” Chords Part 2 🔥🎹🔥 #musicianparadise",
       "n_chords": 19,
@@ -11163,6 +11483,26 @@
       "key_confidence": 0.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "T3kZkUeaVzY",
+      "title": "Learn How To Create Neo Soul Chords Like Robert Glasper",
+      "n_chords": 0,
+      "duration_sec": 15.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
+      "id": "t3vSL2RlA8Y",
+      "title": "Soulful Chords NEO SOUL Vol.7 Chord Pack For Ripchord VST",
+      "n_chords": 2,
+      "duration_sec": 11.5,
+      "key": "C major (?)",
+      "key_confidence": 0.48,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "t4CYGAb4_bg",
@@ -12105,6 +12445,16 @@
       "status": "ok"
     },
     {
+      "id": "VdgnTwYGkSs",
+      "title": "M4L Chordimist🔥 My Presets Demo #shorts",
+      "n_chords": 1,
+      "duration_sec": 12.5,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "ok"
+    },
+    {
       "id": "VdSKe83qJ58",
       "title": "Steal These Chords (25) Dreamy Soulful Vibes 🔥🎹🔥 #musicianparadise",
       "n_chords": 0,
@@ -12143,6 +12493,16 @@
       "key_confidence": 0.05,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "VI0NxFItk1Y",
+      "title": "Scaler 2 Authentic 90s RnB Chord Pack",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "VIl14hlsQW0",
@@ -12193,6 +12553,16 @@
       "key_confidence": 0.45,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "VmcM6a_9BxM",
+      "title": "Free 90s RnB Chord Pack for Ripchord",
+      "n_chords": 0,
+      "duration_sec": 10.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "vN2pStU2vAE",
@@ -12285,6 +12655,16 @@
       "status": "failed_low_ocr"
     },
     {
+      "id": "vrEOYBhE9Jg",
+      "title": "Post Christmas Blues",
+      "n_chords": 0,
+      "duration_sec": 8.0,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
+    },
+    {
       "id": "VrZBixJd2XA",
       "title": "Steal These Soulful Chords (8) 🔥🎹🔥 #MusicianParadise #SoulfulDeepHouseChords",
       "n_chords": 0,
@@ -12353,6 +12733,16 @@
       "key_confidence": 0.17,
       "n_unsure": 0,
       "status": "failed_low_ocr"
+    },
+    {
+      "id": "VyzSM70PUdI",
+      "title": "2023 First Chord Progression 🔥 #shorts",
+      "n_chords": 0,
+      "duration_sec": 9.25,
+      "key": null,
+      "key_confidence": 0.0,
+      "n_unsure": 0,
+      "status": "failed_no_chords"
     },
     {
       "id": "VZxnG8uMFqo",
@@ -12493,6 +12883,16 @@
       "key_confidence": 1.0,
       "n_unsure": 0,
       "status": "ok"
+    },
+    {
+      "id": "wG0x7beUxFo",
+      "title": "👉 MPC Free 90 RnB Chord Preset Pack 👌",
+      "n_chords": 2,
+      "duration_sec": 7.75,
+      "key": "C major",
+      "key_confidence": 1.0,
+      "n_unsure": 0,
+      "status": "failed_low_ocr"
     },
     {
       "id": "WGaU254w-Fk",
