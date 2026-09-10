@@ -1,0 +1,980 @@
+남은 불확실 45개 · 31곡
+==============================================================================
+
+WTF is this chord? This Chord Has No Name Yet 🤯   [4개]
+http://localhost:8911/#admin/aCK69rH3yTU
+조성 Bb minor   길이 15.25초
+------------------------------------------------------------------------------
+     0.00  0.25  FN.C.                   <- 'F N.C.'
+     0.25  0.25  F13sus                  <- 'F 13 sus'
+     0.50  3.50  F13sus                  <- 'F 13 sUs'
+>>   8.00  2.00  Bbmin91/11 (?)          <- 'Bb mins 91 /11 aj'
+    10.00  2.25  Bbmin/11                <- 'Bb mins 9 /11 aj'
+>>  12.25  1.50  Bbmin91/11 (?)          <- 'Bb mins 91 /11 aj'
+    13.75  0.25  Bbmin/11                <- 'Bb mins 9 /11 aj'
+>>  14.00  0.25  Bbmin91/11 (?)          <- 'Bb mins 91 /11 aj'
+    14.25  0.50  Bbmin/11                <- 'Bb mins 9 /11 aj'
+>>  14.75  0.50  Bbmin91/11 (?)          <- 'Bb mins 91 /11 aj'
+
+Bonita Applebum   [3개]
+http://localhost:8911/#admin/I1pJ6GGT7jU
+조성 Bb minor   길이 10.5초
+------------------------------------------------------------------------------
+     0.00  1.75  Bbmin9                  <- 'Bb min9'
+>>   1.75  1.00  Bbmin139,11 (?)         <- 'Bb min 13 9 ,11) /'
+     2.75  0.75  FMaj6                   <- 'F M aj j6'
+     3.50  0.25  GbMaj9                  <- 'Gb M 1aj9'
+     3.75  0.50  Aisus(b13)              <- 'A ib 13 sUs'
+     4.25  0.25  GbMajAb                 <- 'Gb M aj Ab'
+     4.50  0.50  AbM3rd                  <- 'Ab M lajor 3r rd'
+     5.00  0.25  Bbmin9/Ab               <- 'Bb min9 Ab'
+     5.25  1.75  Bbmin9                  <- 'Bb min9'
+>>   7.00  1.00  Bbmin139,11 (?)         <- 'Bb min 13 9 ,11) /'
+     8.00  0.75  F                       <- 'F M ajc'
+     8.75  0.25  AAbn.c.                 <- 'A Ab n.c.'
+     9.00  0.50  Ab13sus                 <- 'Ab 13 sus'
+     9.50  0.25  GbMajAb                 <- 'Gb M aj Ab'
+>>   9.75  0.50  AAb97 (?)               <- 'A Ab 7 9'
+    10.25  0.25  Ab9sus4                 <- 'Ab 9 SUS 4'
+
+Alien Family   [3개]
+http://localhost:8911/#admin/QaZRo5zSXEQ
+조성 Eb major (?)   길이 11.25초
+------------------------------------------------------------------------------
+     0.75  0.75  Ebadd#5/Cb              <- 'Eb add # 5 Cb'
+     1.50  0.75  Bbmin7                  <- 'Bb min7('
+     2.25  0.25  Eb7                     <- 'Eb 7'
+     2.50  0.25  Eb7sus2                 <- 'Eb 7 sus2'
+     2.75  0.25  Eb7                     <- 'Eb 7'
+     3.00  1.25  AbMaj7sus2              <- 'Ab Mc 1aj7 Sus2'
+>>   4.25  0.75  DAb97 (?)               <- 'DA b 7 9'
+     5.00  0.25  D Major 3rd             <- 'DL Major 3rd'
+     5.25  0.25  DAb7                    <- 'DA b 7'
+     5.50  0.25  D Major 3rd             <- 'DL Major 3rd'
+>>   6.50  0.75  EbMaj7(add#5/Cb (?)     <- 'Eb Maj7( add # 5 Cb'
+     7.25  0.75  Bbmin7                  <- 'Bb min7('
+     8.00  0.25  Eb7sus2                 <- 'Eb 7 sus2'
+     8.25  0.25  Eb7                     <- 'Eb 7'
+     8.50  1.50  AbMaj7sus2              <- 'Ab Mc 1aj7 Sus2'
+>>  10.00  0.75  DAb97 (?)               <- 'DA b 7 9'
+    10.75  0.50  D Major 3rd             <- 'DI Major 3rd'
+
+Gorgeous Jazzy Chords   [3개]
+http://localhost:8911/#admin/ZhcTsizfXF4
+조성 C major   길이 8.25초
+------------------------------------------------------------------------------
+>>   0.00  5.00  C3 (?)                  <- 'C3'
+>>   5.00  0.75  C3 (?)                  <- 'C3 ULLIGTT'
+>>   5.75  2.50  C3 (?)                  <- 'C3'
+
+Beautiful Chords Roy Ayers Style 👌   [2개]
+http://localhost:8911/#admin/2KcMn3d7KKo
+조성 E minor   길이 19.25초
+------------------------------------------------------------------------------
+     0.00  0.75  E13(b9)                 <- 'E b 9 (13)'
+     0.75  1.75  Dmin9                   <- 'D min9'
+     2.50  0.75  F#minb7(b5)             <- 'F # min7b b 5'
+     5.00  0.50  Fmin7                   <- 'F min7'
+     5.50  0.25  EN.C.                   <- 'E N.C.'
+     5.75  1.50  Eminb7(b5)              <- 'E min7b b 5'
+     7.50  0.50  BbMaj13                 <- 'Bb M 1aj9 (13)'
+>>   8.00  1.75  ACbs967(#9) (?)         <- 'A 7 C bs 9#9 6'
+     9.75  0.75  E13(b9)                 <- 'E b 9 (13)'
+    10.50  0.25  Dmin7                   <- 'D min7'
+    10.75  1.50  Dmin9                   <- 'D min9'
+    12.25  0.50  F#minb7(b5)             <- 'F # min7b b 5'
+    14.50  0.75  Fmin7                   <- 'F min7'
+    15.25  1.75  Eminb7(b5)              <- 'E min7b b 5'
+    17.00  0.50  BbMaj13                 <- 'Bb M 1aj9 (13)'
+    17.50  0.25  AN.C.                   <- 'A N.C.'
+    17.75  0.25  Abs9(#9#5)              <- 'A bs 9#9 9# 5'
+>>  18.00  1.25  ACbs967(#9) (?)         <- 'A 7 C bs 9#9 6'
+
+Not Because Of Me   [2개]
+http://localhost:8911/#admin/o9JjF46_CQ8
+조성 E minor   길이 22.0초
+------------------------------------------------------------------------------
+     0.00  1.00  Bmin7                   <- 'B min7'
+     1.00  0.75  Bsus4                   <- 'B Z SUS 4'
+     1.75  1.50  Emin7                   <- 'E min7'
+     3.25  0.50  E9sus4                  <- 'E 9 SUS 4'
+     3.75  0.25  Emin7                   <- 'E min7'
+     4.25  0.25  Eth11                   <- 'E P erfec ect 4th'
+     4.50  0.25  Emin7                   <- 'E min7'
+     4.75  0.75  E9sus4                  <- 'E 9 SUS 4'
+     5.50  1.00  Bmin7                   <- 'B min7'
+     6.50  0.50  B7sus4                  <- 'B 7 SUS 4'
+     7.00  1.50  F#min7                  <- 'F # min7'
+>>   8.50  0.75  FMaj/i27 (?)            <- 'F M aj/ i7 2'
+>>   9.75  0.50  FMaj/i27 (?)            <- 'F M aj/ i7 2'
+    10.25  0.75  FMaj/i7                 <- 'F M aj/ i7'
+    11.00  1.00  Bmin7                   <- 'B min7'
+    12.00  0.25  B7sus4                  <- 'B 7 SUS 4'
+    12.25  0.25  B7                      <- 'B 7'
+    12.50  1.75  Emin7                   <- 'E min7'
+    14.25  0.25  E9sus4                  <- 'E 9 SUS 4'
+    14.75  0.25  Emin7                   <- 'E min7'
+    15.00  0.50  E9sus4                  <- 'E 9 SUS 4'
+    15.50  0.25  Emin7                   <- 'E min7'
+    15.75  0.75  E9sus4                  <- 'E 9 SUS 4'
+    16.50  0.75  Bmin7                   <- 'B min7'
+    17.25  0.75  B7sus4                  <- 'B 7 SUS 4'
+    18.00  0.75  FMaj9                   <- 'F M 1aj9'
+    18.75  0.25  FMaj13                  <- 'F M 1aj9 (13'
+    19.00  0.25  FMaj9(#11)              <- 'F M 1aj9 (#11)'
+    19.25  0.25  FMaj13                  <- 'F M 1aj9 (13'
+    19.50  0.50  FMaj9                   <- 'F M 1aj9'
+    20.00  1.25  FMaj13(#11)             <- 'F M 1aj13 (#11)'
+    21.25  0.25  Amin9/E                 <- 'A min9 E'
+
+You Ain’t Gotta Lie   [2개]
+http://localhost:8911/#admin/UERu7Sxy6O4
+조성 B minor   길이 11.5초
+------------------------------------------------------------------------------
+     0.00  1.25  A13sus                  <- 'A 3 sUs'
+     3.75  1.25  Bmin/7                  <- 'B min/ 7'
+     6.25  0.25  F#n.c.                  <- 'F # n.c.'
+     6.50  1.25  F#7Vb9bo13add5          <- 'F # 7V b 9 b o13 add 5'
+>>   7.75  1.25  A27 (?)                 <- 'A aj 7 2'
+>>   9.00  2.50  Bmin/119 (?)            <- 'B min 9 /11 aj 7'
+
+Inside My Love   [2개]
+http://localhost:8911/#admin/VIl14hlsQW0
+조성 F minor   길이 31.0초
+------------------------------------------------------------------------------
+     0.00  1.75  Bb9sus4                 <- 'Bb 9 SUS 4'
+     1.75  1.00  Bbmin11                 <- 'Bb min9 (11)'
+     2.75  0.50  Ebs9sus                 <- 'Eb 9 suS s4'
+     3.25  1.75  Eb9sus4                 <- 'Eb 9 suS 64'
+     5.00  0.25  Ebs9sus                 <- 'Eb 9 SuS s4'
+     5.25  2.50  F#min9                  <- 'F # min9'
+     9.00  0.75  Ab/9                    <- 'Ab 6/9'
+     9.75  0.50  Bb9sus4                 <- 'Bb 9 SUS 4'
+    10.50  2.50  Ebmin9                  <- 'Eb min9'
+>>  13.00  0.75  Bb64 (?)                <- 'Bb 64'
+    13.75  0.50  F7sus4                  <- 'F 7 SUS 64'
+    14.25  0.25  F7(add4)                <- 'F 7 (add4)'
+    14.50  0.25  F(add4)                 <- 'F Z (add4)'
+    14.75  0.75  F7                      <- 'F 7'
+    15.50  0.25  FN.C.                   <- 'F N.C.'
+    15.75  2.50  F#Maj9                  <- 'F # Mc 1aj9'
+    18.25  0.50  F#Maj/i7                <- 'F # Mc aj/ i7'
+    18.75  0.75  Ebmin9                  <- 'Eb min9'
+    19.50  1.25  F7                      <- 'F 7'
+    20.75  0.75  Bb9sus4                 <- 'Bb 9 suS 64'
+    21.50  0.50  Bbmin11                 <- 'Bb min9 (11)'
+    22.00  1.25  Esus4(b9)               <- 'E b 9 SUS 4'
+    23.25  1.25  F#min9                  <- 'F # min9'
+    25.25  0.25  Ab//9                   <- 'Ab 6/9 /9'
+    25.50  0.50  Bb9sus4                 <- 'Bb 9 suS 64'
+    26.00  1.00  Ebmin9                  <- 'Eb min9'
+    27.00  0.50  Bb11                    <- 'Bb 4'
+>>  27.50  0.25  F647sus (?)             <- 'F 7 Sus 64'
+    27.75  0.25  F(add4)                 <- 'F (add4)'
+    28.00  0.50  F(addll)                <- 'F (addll)'
+    28.50  1.25  F#Maj9                  <- 'F # Mc 1aj9'
+    29.75  0.25  F#Maj/i7                <- 'F # Mc aj/ i7'
+    30.00  0.50  Ebmin9                  <- 'Eb min9'
+    30.50  0.50  F7                      <- 'F 7'
+
+Steal Those Soulful Deep House Chords 👌   [2개]
+http://localhost:8911/#admin/x2c6FCaOdKE
+조성 A minor (?)   길이 15.75초
+------------------------------------------------------------------------------
+     0.00  2.00  Amin11                  <- 'A min9 (11)'
+     2.00  2.00  FMaj13                  <- 'F Mc 1aj9 (13'
+     4.00  2.00  Bmin7                   <- 'B min7'
+>>   6.00  2.00  E9697(b5) (?)           <- 'E 7 969 b 5'
+     8.00  2.00  Amin11                  <- 'A min9 (11)'
+    10.50  1.50  FMaj13                  <- 'F Mc 1aj9 (13'
+    12.00  2.00  Bmin7                   <- 'B min7'
+>>  14.00  1.75  E9697(b5) (?)           <- 'E 7 969 b 5'
+
+Tell Me What It Is   [1개]
+http://localhost:8911/#admin/4YbhquSEqzk
+조성 C minor (?)   길이 51.0초
+------------------------------------------------------------------------------
+     0.00  3.00  C                     
+     3.00  3.00  Gmin7                   <- 'G min7'
+     6.00  1.50  F                     
+     7.50  1.50  F/C                   
+     9.00  2.25  Fmin/Ab                 <- 'F min / Ab'
+    11.25  0.75  Fmin/C                  <- 'F min / C'
+    12.00  2.25  C                     
+    14.25  0.75  Amin7                   <- 'A min7'
+    15.00  1.50  Gmin11                  <- 'G min7(4)'
+    16.50  1.50  F#7(b5)                 <- 'F# 7b5'
+    18.00  3.00  FMo7                  
+    24.00  2.25  C                     
+    26.25  0.75  Amin7                   <- 'A min7'
+    27.00  1.50  C7/G                  
+    28.50  1.50  F#7(b5)                 <- 'F# 7b5'
+    30.00  1.50  FMo7                  
+    31.50  1.50  FMaj9                   <- 'F Mai9'
+    33.00  0.75  Ab                    
+    33.75  0.75  AbMaj7                  <- 'Ab Maj7'
+    34.50  0.50  Bb                    
+    35.00  1.00  BbMaj7                  <- 'Bb Maj7'
+    36.00  3.00  C                     
+    39.00  1.50  C7/G                  
+    40.50  1.50  F#7(b5)                 <- 'F# 7b5'
+>>  42.00  3.00  FMa17 (?)               <- 'FMa17'
+    45.00  1.50  AbMaj7                  <- 'Ab Maj7'
+    46.50  1.25  BbMaj7                  <- 'Bb Maj7'
+    48.00  3.00  C                     
+
+Spend A Lifetime   [1개]
+http://localhost:8911/#admin/8-MJZ6i2NJs
+조성 A minor (?)   길이 62.0초
+------------------------------------------------------------------------------
+     0.00  2.00  C                     
+     2.00  1.75  C7(b9)                  <- 'C 7(b9)'
+     3.75  0.25  C Tritone             
+     4.00  1.75  Amin6/C                 <- 'A min6 6 / C'
+     5.75  1.00  Dmin7                   <- 'D min7'
+     6.75  0.25  E7(b9)                  <- 'E 7(b9)'
+>>   7.00  0.75  E697 (?)                <- 'E 7(69)'
+     7.75  2.00  Amin9                   <- 'A min9'
+     9.75  1.75  Gdim7                   <- 'G dim7'
+    11.50  2.00  F#min7(b5)              <- 'F# min7b5'
+    13.50  0.75  FMaj7                   <- 'F Maj7'
+    14.25  0.25  E7(b9)                  <- 'E 7(b9)'
+    14.50  0.75  E7(b9)                  <- 'E 7(b9'
+    15.25  1.75  Amin9                   <- 'A min9'
+    17.25  2.00  A7(b9)                
+    19.25  2.00  D9                      <- 'D 9'
+    21.25  1.00  Dmin9                   <- 'D min9'
+    22.25  1.00  E7(b9)                  <- 'E 7(b9'
+    23.25  1.75  Amin9                   <- 'A min9'
+    25.25  2.00  Gdim7                   <- 'G dim7'
+    27.25  1.75  F#min7(b5)              <- 'F# min7b5'
+    29.00  1.00  FMaj6                   <- 'F Maj6'
+    30.00  1.00  E7(b9)                  <- 'E 7(b9)'
+    31.00  2.00  CMaj7                   <- 'C Maj7'
+    33.00  2.00  C7(b9)                  <- 'C 7(b9)'
+    35.00  1.75  Amin6/C                 <- 'A min6 6 / C'
+    36.75  1.00  Dmin9                   <- 'D min9'
+    37.75  1.00  E7(b9)                  <- 'E 7(b9)'
+    38.75  2.00  Amin9                   <- 'A min9'
+    40.75  2.00  Gdim7                   <- 'G dim7'
+    42.75  0.75  F#min7(b5)              <- 'F# min7b5'
+    43.50  0.25  F# Tritone            
+    43.75  0.75  D7/F#                   <- 'D7 7 / F#'
+    44.75  0.75  FMaj6                   <- 'F Maj6'
+    45.50  1.00  E7(b9)                  <- 'E 7(b9)'
+    46.50  1.75  Amin9                   <- 'A min9'
+    48.25  0.75  A7(b9)                  <- 'A 7(b9)'
+    49.00  1.25  A7(b9)                
+    50.25  2.00  D9                      <- 'D 9'
+    52.25  1.00  Dmin9                   <- 'D min9'
+    53.25  1.00  E7                      <- 'E 7'
+    54.25  2.00  Amin9                   <- 'A min9'
+    56.25  2.00  Gdim7                   <- 'G dim7'
+    58.25  1.00  F#min7(b5)              <- 'F# min7b5'
+    59.25  1.00  D7/F#                   <- 'D7 7 / F#'
+    60.25  0.75  FMaj6                   <- 'F Maj6'
+    61.00  0.25  F                     
+    61.25  0.75  E7                      <- 'E 7'
+
+Ya Playin Yaself   [1개]
+http://localhost:8911/#admin/8Ya3aU0NFHs
+조성 Ab major   길이 20.25초
+------------------------------------------------------------------------------
+     0.00  0.75  AbMaj9                  <- 'Ab Maj9'
+>>   0.75  0.25  Ab##1l16 (?)            <- 'Ab 6(# (#1l1)'
+     1.00  1.50  AbMaj9                  <- 'Ab Maj9'
+     2.50  1.25  Db13                    <- 'Db 9(13)'
+     3.75  0.50  Eb13(b9#11)             <- 'Eb 13(b9#11)'
+     4.25  0.50  Eb7(b9)                 <- 'Eb 7(b9)'
+     4.75  1.00  AbMaj9                  <- 'Ab Maj9'
+     5.75  0.25  E7(#9)/Ab               <- 'E 7(#9) / Ab'
+     6.00  0.25  Ab#6(#11)               <- 'Ab 6(# (#11)'
+     6.25  1.25  AbMaj9                  <- 'Ab Maj9'
+     7.50  1.25  Db13                    <- 'Db 9(13)'
+     8.75  0.50  Eb13(b9#11)             <- 'Eb 13(b9#11)'
+     9.25  0.50  Eb7(b9)                 <- 'Eb 7(b9)'
+     9.75  1.00  AbMaj9                  <- 'Ab Maj9'
+    10.75  0.25  E7(#9)/Ab               <- 'E 7(#9) / Ab'
+    11.00  0.25  Ab#6(#11)               <- 'Ab 6(# (#11)'
+    11.25  1.25  AbMaj9                  <- 'Ab Maj9'
+    12.50  1.25  Db13                    <- 'Db 9(13)'
+    13.75  0.50  Eb13(b9#11)             <- 'Eb 13(b9#11)'
+    14.25  0.50  Eb7(b9)                 <- 'Eb 7(b9)'
+    14.75  1.00  AbMaj9                  <- 'Ab Maj9'
+    15.75  0.25  E7(#9)/Ab               <- 'E 7(#9) / Ab'
+    16.00  0.25  Ab#6(#11)               <- 'Ab 6(# (#11)'
+    16.25  1.50  AbMaj9                  <- 'Ab Maj9'
+    17.75  1.25  Db13                    <- 'Db 9(13)'
+    19.00  0.25  Eb13(b9#11)             <- 'Eb 13(b9#11)'
+    19.25  1.00  Eb7(b9)                 <- 'Eb 7(b9)'
+
+New Jack Swing 90s RnB Chord Pack   [1개]
+http://localhost:8911/#admin/9fe04hnT_BY
+조성 A major   길이 9.5초
+------------------------------------------------------------------------------
+     0.00  1.25  A/IIC.BECH              <- 'A/ IIC.BECH'
+     1.25  0.25  A/IC.BECH               <- 'A/ IC.BECH'
+     1.50  0.25  A/IIC.BECHS             <- 'A/ IIC.BECHS'
+     1.75  0.25  A/IC.BECH               <- 'A/ IC.BECH'
+>>   2.00  0.25  A/#1IC.BECH (?)         <- 'A/#1I C.BECH'
+     2.25  0.25  G#m/                    <- 'G#m/ ClEECH'
+     3.00  0.25  C..BECH                 <- 'C. .BECH'
+     3.25  1.25  C#                      <- 'C#/'
+     4.50  0.25  C.BECH                
+     4.75  0.25  A/IC.BECH               <- 'A/ I IC.BECH'
+     5.00  0.75  A/IIC.BECH              <- 'A/ IIC.BECH'
+     5.75  1.00  A/IC.BECH               <- 'A/ I IC.BECH'
+     6.75  0.25  C.BECH                
+     7.00  0.25  G#m/                    <- 'G#m/ BECH'
+     7.50  0.25  Gm/LC.BECH              <- 'Gm/L) C.BECH'
+     7.75  0.25  C#/C.BECH               <- 'C#/ C.BECH'
+     8.00  1.50  C#                      <- 'C#/'
+
+Not Because Of Me   [1개]
+http://localhost:8911/#admin/A830iwJ_bbA
+조성 E minor (?)   길이 22.0초
+------------------------------------------------------------------------------
+     0.00  0.25  B min 7Th               <- 'B min7 Th'
+     0.25  0.25  Bmin7                   <- 'B min7 hTho'
+     0.50  0.50  Bmin7                   <- 'B min7'
+     1.00  0.75  B7sus4                  <- 'B 7sus4'
+     1.75  1.50  EminbhTho7              <- 'E min7 bhTho'
+     3.25  0.50  E9sus4                  <- 'E 9sus4'
+     4.25  0.25  E Perfect 4th         
+     4.75  0.75  E9sus4                  <- 'E 9sus4'
+     5.50  1.00  Bmin7                   <- 'B min7'
+     6.50  0.50  B7sus4                  <- 'B 7sus4'
+     7.25  1.25  F#min7                  <- 'F# min7'
+     9.75  0.25  FMaj7sus2               <- 'F Maj7 S Sus2'
+    11.00  1.00  Bmin7                   <- 'B min7'
+    12.00  0.25  B7sus4                  <- 'B 7sus4'
+    12.25  0.25  B7(no3)                 <- 'B 7(no3)'
+    12.50  0.25  Emin7                   <- 'E min7 EAACNIWE'
+    12.75  1.50  Emin7                   <- 'E min7'
+    14.25  0.25  E9sus4                  <- 'E 9sus4'
+    14.75  0.25  Emin7                   <- 'E min7'
+    15.00  0.25  F#min7/E                <- 'F# min7 / E'
+    15.25  0.25  E9sus4                  <- 'E 9sus4'
+    15.50  0.25  Emin7                   <- 'E min7'
+    15.75  0.75  E9sus4                  <- 'E 9sus4'
+    16.50  0.75  Bmin7                   <- 'B min7'
+    17.25  0.75  B7sus4                  <- 'B 7sus4'
+    18.00  0.75  FMaj9                   <- 'F Maj9'
+    18.75  0.25  FMaj13                  <- 'F Maj9(13)'
+    19.00  0.25  FMaj9(#11)              <- 'F Maj9(#1l)'
+    19.25  0.25  FMaj13                  <- 'F Maj9(13)'
+>>  19.50  0.50  FMaj1216 (?)            <- 'F Maj9 1216'
+    20.00  0.25  FMaj9(#11)              <- 'F Maj9(#1l)'
+    20.25  1.00  FMaj13(#11)             <- 'F Maj13(#1l)'
+    21.25  0.25  Amin11/E                <- 'A min9(11) / E'
+
+Nostalgic 70s Style Chords🕺🏻🕺🏻   [1개]
+http://localhost:8911/#admin/azq57u0Sp8g
+조성 E minor   길이 10.0초
+------------------------------------------------------------------------------
+     0.00  2.00  Amin9                   <- 'A min9'
+>>   2.00  0.25  A139,11 (?)             <- 'A mini 13 9 ,11) /'
+     2.25  0.25  E9sus4                  <- 'E 9 SuS 4'
+     2.50  1.50  E9sus4                  <- 'E 9 SUS 4'
+     4.00  2.00  B9sus4                  <- 'B 9 SuS 4'
+     6.00  0.25  Es13sus                 <- 'E 13s sUs'
+     6.25  0.75  E9sus4                  <- 'E 9 SuS 4'
+     7.00  3.00  Emin11                  <- 'E min7( (11)'
+
+Settle For My Love   [1개]
+http://localhost:8911/#admin/c5lIzFDfPc4
+조성 Db minor (?)   길이 61.75초
+------------------------------------------------------------------------------
+     0.75  1.75  Eb9sus4                 <- 'Eb 9sus4'
+     2.50  0.25  DbMaj(add2,#11)/G       <- 'Db Maj(add2,#1l) / G'
+     2.75  0.25  GbMaj(add2)/Ab          <- 'Gb Maj(add2) / Ab'
+     3.00  0.25  Db/G                    <- 'Db / G'
+     3.25  0.25  Ab9sus4                 <- 'Ab 9sus4'
+     3.50  0.25  Db/G                    <- 'Db / G'
+     3.75  0.25  Ab9sus4                 <- 'Ab 9sus4'
+     4.00  0.25  GdimMaj7                <- 'G dim(Maj7)'
+     4.25  0.25  Ab9sus4                 <- 'Ab 9sus4'
+     4.50  2.00  Dbmin9                  <- 'Db min9'
+     6.50  1.00  Cbmin11                 <- 'Cb min9 (11)'
+     7.50  1.00  Bbmin11                 <- 'Bb min9 9(11)'
+     8.50  1.75  Eb13sus4                <- 'Eb 7sus4(13)'
+    10.25  0.25  Ab9sus4                 <- 'Ab 9sus4'
+    10.50  0.25  GN.C.                   <- 'G N.C.'
+    10.75  0.25  Ab9sus4                 <- 'Ab 9sus4'
+    11.00  0.25  GN.C.                   <- 'G N.C.'
+    11.25  1.00  Ab9sus4                 <- 'Ab 9sus4'
+    12.25  2.00  Dbmin11                 <- 'Db min9(11)'
+    14.25  0.25  Cb7sus2                 <- 'Cb 7sus2'
+    14.50  0.50  Cb9sus4                 <- 'Cb 9sus4'
+    15.00  1.00  Bb9sus4                 <- 'Bb 9sus4'
+    16.00  2.00  Ebmin9                  <- 'Eb min9'
+    18.00  1.75  Ab9sus4                 <- 'Ab 9sus4'
+    19.75  0.75  Dbmin11                 <- 'Db min9(11)'
+    20.50  1.00  Dbmin11                 <- 'Db min9 9(11)'
+    21.50  0.25  Dbmin11                 <- 'Db min9(11)'
+    21.75  1.00  Cb13sus                 <- 'Cb 13sus'
+    22.75  1.00  Bb9sus4                 <- 'Bb 9sus4'
+    23.75  1.75  Ebmin9                  <- 'Eb min9'
+    25.50  2.00  Ab9sus4                 <- 'Ab 9sus4'
+    27.50  0.75  Dbmin11                 <- 'Db min9(11)'
+    28.25  1.00  Dbmin11                 <- 'Db min9 9(11)'
+    29.25  1.00  Cb13sus                 <- 'Cb 13sus'
+    30.25  0.25  Gb9sus4                 <- 'Gb 9sus4'
+    30.50  0.25  FN.C.                   <- 'F N.C.'
+    30.75  0.25  EMaj(add2)              <- 'Fb Maj(add2)'
+    31.00  0.25  EMaj/EEb9               <- 'Fb Maj9 /E Eb'
+    31.25  2.00  D9sus4                  <- 'D 9sus4'
+    33.25  1.00  GMaj13(no9)             <- 'G Maj13( (no9'
+>>  34.25  0.75  GMaj313(no9) (?)        <- 'G Maj13( 3(no9'
+    35.00  1.00  C9                      <- 'C 9sus4( (add3)'
+    36.00  2.00  FMaj9                   <- 'F Maj9'
+    38.00  0.75  A7sus2                  <- 'A 7sus2'
+    38.75  1.00  D9sus4                  <- 'D 9sus4'
+    39.75  1.00  D13sus                  <- 'D 13sus'
+    40.75  2.00  GMaj13                  <- 'G Maj9(13)'
+    42.75  1.75  FMaj7                   <- 'F Maj7'
+    44.50  2.00  FMaj9                   <- 'F Maj9'
+    46.50  2.00  Bb13sus                 <- 'Bb 13sus'
+    48.50  1.75  EbMaj13                 <- 'Eb Maj9(13)'
+    50.25  1.00  Ab13sus                 <- 'Ab 13sus'
+    51.25  1.00  DbMaj9                  <- 'Db Maj9'
+    52.25  1.75  DbMaj13                 <- 'Db Maj9(13)'
+    54.00  0.25  Ab/9                    <- 'Ab 6/9'
+    54.25  5.50  Gbmin11                 <- 'Gb min7(11)'
+    59.75  1.25  Gbmin11                 <- 'Gb min9 (11)'
+    61.00  0.75  Bb9sus4                 <- 'Bb 9sus4'
+
+Tomorrow   [1개]
+http://localhost:8911/#admin/D-qkFZZP3KE
+조성 C minor (?)   길이 54.5초
+------------------------------------------------------------------------------
+     0.00  1.50  GbMaj7                  <- 'Gb Maj7'
+     1.50  0.25  Db Perfect 5th        
+     1.75  1.50  DbMaj9                  <- 'Db Maj9'
+     3.25  1.50  FMaj7                   <- 'F Maj7'
+     4.75  1.50  Cmin9                   <- 'C min9'
+     6.25  1.50  GbMaj7                  <- 'Gb Maj7'
+     7.75  1.50  DbMaj9                  <- 'Db Maj9'
+     9.25  1.50  FMaj7                   <- 'F Maj7'
+    11.00  1.50  Cmin9                   <- 'C min9'
+    12.50  1.50  Ebmin9                  <- 'Eb min9'
+    14.00  1.50  Bbmin9                  <- 'Bb min9'
+    15.50  1.50  FMaj7                   <- 'F Maj7'
+    17.00  0.25  D Perfect 5th           <- 'DP Perfect 5th'
+    17.25  1.25  DMaj9                   <- 'D Maj9'
+    18.75  1.50  GbMaj7                  <- 'Gb Maj7'
+    20.25  1.50  DbMaj9                  <- 'Db Maj9'
+    21.75  1.50  AMaj7                   <- 'A Maj7'
+    23.25  1.50  Dmin9                   <- 'D min9'
+    24.75  1.50  GbMaj7                  <- 'Gb Maj7'
+    26.25  0.25  F7(no3)                 <- 'F 7(no3)'
+    26.50  1.25  DbMaj9                  <- 'Db Maj9'
+    28.00  0.50  AMaj7                   <- 'A Maj7'
+    28.50  0.50  EMaj7sus2               <- 'E Maj7 Sus2'
+    29.00  0.75  BMaj7                   <- 'B Maj7'
+    29.75  0.50  GbMaj7                  <- 'Gb Maj7'
+    30.25  0.50  DbMaj7sus2              <- 'Db Maj7 S Sus2'
+    30.75  1.00  EbMaj7sus2              <- 'Eb Maj7 Sus2'
+    31.75  2.25  Cmin/EEb11              <- 'C min9(11) / E Eb'
+    34.00  0.75  AMaj7                   <- 'A Maj7'
+    34.75  0.50  EMaj7sus2               <- 'E Maj7 Sus2'
+    35.25  0.75  BMaj7                   <- 'B Maj7'
+    36.00  0.50  GbMaj7sus2              <- 'Gb Maj7 Sus2'
+    36.50  0.25  DbMaj7                  <- 'Db Maj7'
+    36.75  0.50  EbMaj7                  <- 'Eb Maj7'
+    37.25  0.50  AMaj7                   <- 'A Maj7'
+    37.75  0.50  EdimMaj7                <- 'E dim(Maj7)'
+    38.50  0.50  F/B                     <- 'F / B'
+    39.00  0.50  GMaj7/Gb                <- 'G Maj7 / Gb'
+    39.50  0.50  Ab                    
+    40.00  0.25  DbMaj6                  <- 'Db Maj6'
+    40.25  0.75  AMaj7                   <- 'A Maj7'
+    41.00  0.50  EdimMaj7                <- 'E dim(Maj7)'
+    41.50  0.50  BMaj7sus2               <- 'B 3 Maj7 Sus2'
+    42.00  0.75  GbN.C.                  <- 'Gb N.C.'
+    42.75  0.25  DbMaj7sus2              <- 'Db Maj7 S Sus2'
+    43.00  0.50  C9sus4                  <- 'C S 9sus4'
+    43.50  0.50  AMaj7(#5)               <- 'A Maj7#5'
+    44.00  0.50  D/Gb                    <- 'D / Gb'
+    44.50  0.50  Eb7                     <- 'Eb 7'
+>>  45.00  0.75  Cb37sus4(b9) (?)        <- 'C 7sus4(b9b3)'
+    45.75  0.25  DbN.C.                  <- 'Db N.C.'
+    46.00  0.25  CN.C.                   <- 'C N.C.'
+    46.25  4.00  CMaj13(add4)            <- 'C Maj13(add4)'
+    50.25  4.25  CN.C.                   <- 'C N.C.'
+
+Love Is A Losing Game   [1개]
+http://localhost:8911/#admin/GZewiejU0EY
+조성 C# minor (?)   길이 45.0초
+------------------------------------------------------------------------------
+     0.00  0.25  F# min 3rd              <- 'F# minor 3rd'
+     0.25  0.50  B7(no3)/F#              <- 'B 7(no3) / F#'
+     0.75  0.25  F#min(add2)             <- 'F# min(add2)'
+     1.00  1.25  G#7(#9#5)             
+     2.25  1.50  C##min11                <- 'C# #min9(11)'
+     3.75  0.75  Bmin11                  <- 'B min9(11)'
+     4.50  0.25  E13sus                  <- 'E 13sus'
+     4.75  1.50  AMaj9                   <- 'A Maj9'
+     6.25  1.00  G#7(#5)                 <- 'G# 7#5'
+     7.25  2.75  C#9sus4                 <- 'C# 9sus4'
+    10.00  2.25  F#min11                 <- 'F# min7(4)'
+    12.50  1.00  G#min7                  <- 'G# min7'
+    13.50  1.50  AMaj(add2)              <- 'A Maj(add2)'
+    15.00  1.50  G#min7                  <- 'G# min7'
+    16.50  0.50  E/G#                    <- 'E / G#'
+    17.00  0.25  G#min7                  <- 'G# min7'
+    17.25  1.25  C#7sus4                 <- 'C# 7sus4'
+    18.50  1.50  C#7                     <- 'C# 7'
+    20.00  2.50  F#min11                 <- 'F# min7(4)'
+    22.50  1.00  EMaj(add2)/G#           <- 'E Maj(add2) / G#'
+    23.50  1.00  AMaj(add2)              <- 'A Maj(add2)'
+    24.50  0.50  AMaj(add2,#11)          <- 'A Maj(add2,#11)'
+    25.00  1.00  G#min7                  <- 'G# min7'
+    26.00  1.25  G#min11                 <- 'G# min7(4)'
+    27.25  1.50  C#7sus4                 <- 'C# 7sus4'
+    28.75  0.25  C# Major 3rd            <- 'C# Major 3 3rd'
+    29.00  1.00  C#7                     <- 'C# 7'
+    30.00  1.75  CMaj9                   <- 'C Maj9'
+    31.75  0.25  C Major 3rd           
+    32.00  0.25  C Major 7th           
+    32.25  0.25  CMaj7                   <- 'C Maj7'
+    32.50  1.25  B7                    
+    33.75  1.25  B7(#5)                  <- 'B7#5'
+    35.00  2.50  Emin11                  <- 'E min9(11)'
+    37.50  1.25  Dmin11                  <- 'D min9(11)'
+>>  38.75  1.25  G96 (?)                 <- 'G9 6'
+    40.00  1.75  CMaj7                   <- 'C Maj7'
+    41.75  0.25  Emin7/G                 <- 'E min7 / G'
+    42.00  0.25  A7sus4                  <- 'A 7sus4'
+    42.25  0.75  B9sus4                  <- 'B9 9sus4'
+    43.00  2.00  B Perfect 5th         
+
+Take It From Here   [1개]
+http://localhost:8911/#admin/IDGAVohlAIo
+조성 D major   길이 35.25초
+------------------------------------------------------------------------------
+     0.00  1.25  Amin9                   <- 'A min9'
+     1.25  2.00  Dmin9                   <- 'D min9'
+     3.25  1.25  Bmin7                   <- 'B min7'
+     4.50  2.00  CMaj7                   <- 'C Maj7'
+     6.50  1.25  Amin9                   <- 'A min9'
+     7.75  2.00  Dmin9                   <- 'D min9'
+     9.75  1.00  Bmin7                   <- 'B min7'
+    10.75  2.00  CMaj7                   <- 'C Maj7'
+    12.75  1.50  A13sus                  <- 'A 13sus'
+    14.25  1.75  DMaj7                   <- 'D Maj7'
+    16.00  1.25  G13sus                  <- 'G 13sus'
+    17.25  2.00  CMaj7                   <- 'C Maj7'
+    19.25  1.25  A13sus                  <- 'A 13sus'
+    20.50  0.25  DFPerfect5th            <- 'DF Perfect 5th'
+    20.75  1.50  DMaj7                   <- 'D Maj7'
+>>  22.25  0.25  FMaj(add2)2)/G (?)      <- 'F Maj(add2) 2) / G'
+    22.50  1.25  G13sus                  <- 'G 13sus'
+    23.75  1.75  CMaj7                   <- 'C Maj7'
+    25.75  1.25  A13sus                  <- 'A 13sus'
+    27.00  1.75  DMaj7                   <- 'D Maj7'
+    28.75  1.50  G13sus                  <- 'G 13sus'
+    30.25  1.75  CMaj7                   <- 'C Maj7'
+    32.00  1.25  A13sus                  <- 'A 13sus'
+    33.25  0.25  A Perfect 4th         
+    33.50  1.75  DMaj7                   <- 'D Maj7'
+
+The Secret Behind 'Love Junkee's' Captivating Chor   [1개]
+http://localhost:8911/#admin/jQbSSK3WAN4
+조성 D minor   길이 22.75초
+------------------------------------------------------------------------------
+     0.00  1.75  Amin9                   <- 'A min9'
+     2.75  0.25  Amin11                  <- 'A min7 (11)'
+     3.00  1.50  FMaj13                  <- 'F Mc 1aj9 (13'
+     4.50  0.25  FMaj13(no9)             <- 'F Mc 1aj13 no9'
+     5.75  4.50  D9sus4                  <- 'D 9 suS 4'
+    10.25  1.00  D9sus4                  <- 'D 9 SuS 4'
+    11.50  1.25  Amin9                   <- 'A min9'
+    14.00  1.75  FMaj13                  <- 'F Mc 1aj9 (13'
+>>  16.00  1.00  A6967(b5b13) (?)        <- 'A 7 696 b 5b13)'
+    17.00  2.50  D9sus4                  <- 'D 9 SuS 4'
+    19.50  3.25  D13sus                  <- 'D 13 sus'
+
+R4cin’ All Night   [1개]
+http://localhost:8911/#admin/KAtsTOdqvWA
+조성 B minor   길이 41.25초
+------------------------------------------------------------------------------
+     0.00  0.50  A9sus4                  <- 'A 9 SUS 4'
+     0.50  0.50  A9sus4                  <- 'A 9 SuS 4'
+     1.00  0.50  B7(#9#5)                <- 'B 7 # 9# # 5'
+     1.50  0.25  E9sus4                  <- 'E 9 sus 4'
+     1.75  0.25  E9sus4                  <- 'E 9 SuS 4'
+     2.00  0.25  E7sus4                  <- 'E 7 Sus 4'
+     2.50  0.25  Fi7                     <- 'F Mc ai i7'
+     2.75  0.25  C                       <- 'CUNIENIRUEDBT'
+     3.25  0.25  G                       <- 'GOIENIOIEDBT'
+     3.50  0.50  A9sus4                  <- 'A 9 SUS 4'
+     4.00  1.00  B7(#9#5)                <- 'B 7 # 9# # 5'
+     5.00  0.75  E9sus4                  <- 'E 9 SuS 4'
+     7.00  0.75  B                       <- 'B Mc ai'
+     7.75  0.25  BMaj                    <- 'B Mc aj'
+     8.00  0.25  B7(#9#5)                <- 'B 7 # 9# # 5'
+     8.50  0.25  E9sus4                  <- 'E 9 suS 4'
+     8.75  0.50  Esus4                   <- 'E Z SUS 4'
+     9.25  0.50  Fi7                     <- 'F Mc ai i7'
+    10.00  0.25  C                       <- 'CONIENIEPBT'
+    10.25  0.25  A6sus4                  <- 'A 6 SuS 4'
+    10.50  0.50  A9sus4                  <- 'A 9 SuS 4'
+    11.00  0.25  B7(#9#5)                <- 'B 7 # 9# # 5'
+    11.75  1.00  E6sus4                  <- 'E 6 SuS 4'
+    12.75  0.75  E9sus4                  <- 'E 9 suS 4'
+    13.50  0.25  E9sus4                  <- 'E 9 SuS 4'
+    13.75  1.50  Emin11                  <- 'E min7 4'
+    15.25  0.50  E/9                     <- 'E 6/ 9'
+    15.75  1.50  E6                      <- 'E 6/'
+>>  17.25  1.50  FMi27/E (?)             <- 'F M ai i7 2 E'
+    18.75  0.25  E2                      <- 'E 2'
+    19.00  1.50  B7(#9)(no5)             <- 'B 7 # 9 no 5'
+    20.50  0.75  Emin7                   <- 'E min7 7'
+    21.25  1.00  B9sus4                  <- 'B 9 suS 4'
+    22.25  0.75  Emin7                   <- 'E min7 7'
+    23.75  0.25  Amin11                  <- 'A min7 7 4'
+    24.75  0.25  B9sus4(b13)             <- 'B 9 sus 4 b13'
+    25.00  0.50  B9sus4(b13)             <- 'B 9 Sus 4 b13'
+    25.50  0.25  B9sus4(b13)             <- 'B 9 SuS 4 b13'
+    26.00  0.50  A                     
+    27.25  0.25  C                       <- 'CONTENTRAIEDE'
+    28.00  0.25  Emin7                   <- 'E min7 7'
+    28.25  1.00  B9sus4                  <- 'B 9 SuS 4'
+    29.25  0.75  Emin7                   <- 'E min7 7'
+    30.75  0.25  Amin11                  <- 'A min7 7 4'
+    31.50  0.75  B9sus4(b13)             <- 'B 9 suS 4 b13'
+    32.50  1.75  B9sus4(b13)             <- 'B 9 suS 4 b13'
+    35.00  1.25  B9sus4                  <- 'B 9 sus 4'
+    36.25  1.50  B9sus4                  <- 'B 9 SuS 4'
+    38.50  2.50  B9sus4                  <- 'B 9 sus 4'
+    41.00  0.25  B9sus4                  <- 'B 9 suS 4'
+
+Something In The Way   [1개]
+http://localhost:8911/#admin/Lyf2Gx5XoMo
+조성 C minor   길이 35.75초
+------------------------------------------------------------------------------
+     0.00  5.00  C9sus4                  <- 'C 9sus4'
+     5.00  2.00  Bb9sus4                 <- 'Bb 9sus4'
+     7.00  0.50  Fmin11                  <- 'F min9(11)'
+     7.50  0.25  Ab Perfect 5th        
+     7.75  1.75  Ab9sus4                 <- 'Ab 9sus4'
+     9.50  0.75  G9sus4                  <- 'G 9sus4'
+    10.25  5.00  C7sus4                  <- 'C 7sus4'
+    15.25  4.50  C9sus4                  <- 'C 9sus4'
+    19.75  0.75  Gmin11                  <- 'G min7(11)'
+    20.50  2.50  Bb9sus4                 <- 'Bb 9sus4'
+    23.00  0.50  Fmin11                  <- 'F min9(11)'
+    23.50  0.25  AbMaj9/C                <- 'Ab Maj9 / C'
+>>  23.75  0.25  AbMaj1/C (?)            <- 'Ab Maj9 1 C'
+    24.00  0.25  AbMaj9/C                <- 'Ab Maj9 / C'
+    24.25  0.50  Gmin11                  <- 'G min9(11)'
+    24.75  0.75  BbMaj9/D                <- 'Bb Maj9 / D'
+    25.50  2.00  Fmin7                   <- 'F min7'
+    27.50  0.50  Cmin7                   <- 'C min7'
+    28.00  2.50  Fmin7                   <- 'F min7'
+    30.75  3.00  Fmin7                   <- 'F min7'
+    33.75  0.75  Gmin7                   <- 'G min7'
+    34.50  0.50  AbMaj7                  <- 'Ab Maj7'
+    35.00  0.75  Gmin7                   <- 'G min7'
+
+Epic Chords 🤩   [1개]
+http://localhost:8911/#admin/MjgstRCAScg
+조성 B minor   길이 16.25초
+------------------------------------------------------------------------------
+     0.00  2.00  Bmin7                   <- 'B min7'
+     2.00  2.00  EMajAb                  <- 'E Mc aj Ab'
+     4.00  0.25  Abk7sus(b9#9b13)        <- 'Ab 7 sus b9#9 9k b13'
+     4.25  1.75  AMaj(add2)Db            <- 'A Mc aj (add2) D b'
+     7.25  0.25  F#k7sus(b9#9b13)        <- 'F # 7 sus b9#9 9k b13'
+     7.50  0.25  F#min7                  <- 'F # min7'
+>>   7.75  0.25  F#967sus(b9#9b13) (?)   <- 'F # 7 sus b9#9 96 b13'
+    10.00  2.25  Emin7                   <- 'E min7'
+    12.25  2.00  A9sus4                  <- 'A 9 SUS 4'
+    14.25  0.75  B9sus4                  <- 'B 9 suS 4'
+    15.00  1.25  B9sus4                  <- 'B 9 SuS 4'
+
+Charlie Puth Sings the National Anthem at Super Bo   [1개]
+http://localhost:8911/#admin/qwlDDgBorNI
+조성 A major   길이 55.75초
+------------------------------------------------------------------------------
+     0.00  1.75  A Octave              
+     1.75  0.50  A Perfect 4th         
+     2.25  0.25  Gmin/EBb9               <- 'G min9 /E Bb'
+     2.50  0.75  Gmin/EBb7               <- 'G min7 / E Bb'
+     3.25  0.50  BbMaj6                  <- 'Bb Maj6'
+     3.75  0.25  Emin7                   <- 'E min7'
+     4.00  0.50  EMinor                  <- 'E Minor Pentatonic'
+     4.50  0.50  A9sus4                  <- 'AS 9sus4'
+     5.00  0.25  Emin11/D                <- 'E min7(11) / D'
+     5.25  1.00  D Major 3rd           
+     6.25  1.75  A9sus4                  <- 'AS 9sus4'
+     8.00  1.50  D                     
+     9.50  1.50  A/C#                    <- 'A / C#'
+    11.00  1.50  Bmin11                  <- 'B min7(4)'
+    12.50  0.75  Bmin11                  <- 'B min7(11)'
+    13.25  0.25  F#7                   
+    13.50  0.25  F#7(#9#5)             
+    13.75  0.25  F#7(b9#9#5)           
+    14.00  1.50  Bmin7                   <- 'B min7'
+    15.50  0.75  E9sus4                  <- 'E 9sus4'
+    16.25  0.75  E9                      <- 'E 9'
+    17.00  0.25  G                     
+    17.25  1.25  A9sus4                  <- 'AS 9sus4'
+    18.50  1.75  A7/G                  
+    20.25  1.50  D/F#                  
+    21.75  0.75  Bmin7                   <- 'B min7'
+    22.50  0.75  DMaj6/A                 <- 'D Maj6 / A'
+    23.25  1.50  G#min11                 <- 'G# min7(4)'
+    24.75  0.75  C#7                     <- 'C# 7'
+    25.50  0.75  F#7(b9)                 <- 'F# 7(b9)'
+    26.25  1.50  Bmin7                   <- 'B min7'
+    27.75  0.75  Emin11                  <- 'E min7(11)'
+    28.50  0.75  A13sus4                 <- 'A 7sus4(13)'
+    29.25  0.75  D                     
+    30.25  0.25  E7(no3)/D               <- 'E 7(no3) / D'
+    30.50  0.25  GMaj6/D                 <- 'G Maj6 / D'
+    30.75  0.75  D                     
+    32.25  0.75  D7/C                    <- 'D7/ C'
+    33.00  2.25  D7/C                    <- 'D7 7 / C'
+    35.25  0.25  D7/C                    <- 'D 7 / C'
+    35.50  0.50  B7sus4                  <- 'B 7sus4'
+>>  36.00  0.25  B210087sus4 (?)         <- 'B 7sus4 21008'
+    36.25  0.75  B7sus4                  <- 'B 7sus4'
+    37.00  1.50  Ebdim                   <- 'Eb dim'
+    38.50  0.25  EbN.C.                  <- 'Eb N.C.'
+    38.75  1.50  Emin                    <- 'E min'
+    40.25  1.50  GMaj7/D                 <- 'G Maj7 / D'
+    41.75  1.50  C#min7(b5)              <- 'C# min7b5'
+    43.25  0.25  F#7(#9#5)             
+    43.50  0.50  F#7(b9#5)             
+    44.00  0.25  F#/EBb                  <- 'F# /E Bb'
+    44.25  0.50  F#/EBb7                 <- 'F#7/E Bb'
+    44.75  0.75  Bmin7                   <- 'B min7'
+    45.50  0.75  Bmin9                   <- 'B min9'
+    46.25  0.25  G13(#11)                <- 'GS 9(13)#11'
+    46.50  0.25  G13(#11)                <- 'G S 9(13)#11'
+    46.75  0.25  G13(#11)                <- 'GS 9(13)#11'
+    47.00  0.75  G13                     <- 'G 9(13)'
+    47.75  1.50  F#9sus4                 <- 'F# 9sus4'
+    49.25  0.50  F#/EBb7                 <- 'F#7/E Bb'
+    49.75  0.25  F#/BBb7                 <- 'F#7/B Bb'
+    50.00  0.25  F#7/Bb                  <- 'F#7/ Bb'
+    50.25  0.50  F#/BBb7                 <- 'F#7/B Bb'
+    51.00  1.50  Bmin7                   <- 'B min7'
+    52.50  0.75  E9sus4                  <- 'E 9sus4'
+    53.25  0.75  E9                      <- 'E 7(9)'
+    54.00  1.50  A9sus4                  <- 'AS 9sus4'
+    55.50  0.25  A9                      <- 'A 7(9)'
+
+Differences   [1개]
+http://localhost:8911/#admin/SBkzLkUfXYA
+조성 E major (?)   길이 15.25초
+------------------------------------------------------------------------------
+     1.00  0.50  Esus4(b9)               <- 'E b 9 suS 4'
+     1.50  0.50  GbMaj9                  <- 'Gb Mc 1aj9'
+     2.00  2.00  Ab                    
+     4.75  0.50  GbMaj7/D                <- 'Gb Mc aj i7 D'
+     5.75  2.00  Ebmin                   <- 'E b min'
+     8.50  1.00  Gbbs13                  <- 'Gb 13 bs 9'
+    11.50  1.00  Fmin7                   <- 'F min7'
+>>  12.50  0.75  Bb#67 (?)               <- 'Bb 7 # 6'
+    13.25  0.75  Ebmin9                  <- 'E b min9'
+    14.00  0.25  Ebmin9                  <- 'Ek b min9'
+    14.25  1.00  Ebmin9                  <- 'E b min9'
+
+Sing It Back   [1개]
+http://localhost:8911/#admin/TxRgZgI2yDY
+조성 Eb minor   길이 31.25초
+------------------------------------------------------------------------------
+     0.00  2.00  Ebmin7                  <- 'Eb min7'
+     2.00  2.00  Abmin7                  <- 'Ab min7'
+     4.00  1.00  Fmin7                   <- 'F min7'
+     5.00  1.00  Bb7(#5)                 <- 'Bb 7 # 5'
+     6.00  3.75  Ebmin7                  <- 'Eb min7'
+     9.75  2.00  Abmin7                  <- 'Ab min7'
+    11.75  1.00  Fminb7(b5)              <- 'F min7b b 5'
+    12.75  1.00  Bb7(#5)                 <- 'Bb 7 # 5'
+    13.75  1.75  Ebmin7                  <- 'Eb min7'
+    15.50  2.00  Eb9                     <- 'Eb (9)'
+    17.50  0.50  Abmin9                  <- 'Ab min7 7(9 (9)'
+    18.00  0.50  Ab9                     <- 'Ab (9)'
+    18.50  0.50  Abmin9                  <- 'Ab min7 7(9 (9)'
+    19.00  0.50  Ab9                     <- 'Ab (9)'
+    19.50  1.00  F                     
+    20.50  1.00  Bb7(#5)                 <- 'Bb 7 # 5'
+    21.50  4.00  Eb9                     <- 'Eb (9)'
+    25.50  1.25  Abmin9                  <- 'Ab min7 7 (9)'
+>>  26.75  0.25  Abmin09 (?)             <- 'Ab min7 70 (9)'
+    27.00  0.25  Abmin9                  <- 'Ab min7 7 (9)'
+    27.25  1.00  Fminb7(b5)              <- 'F min7b b 5'
+    28.25  1.00  Bb7(#5)                 <- 'Bb 7 # 5'
+    29.25  0.50  Eb6                     <- 'Eb (6)'
+    29.75  0.25  Eb9                     <- 'Eb (9)'
+    30.00  1.00  Eb6                     <- 'Eb (6)'
+    31.00  0.25  Eb9                     <- 'Eb (9)'
+
+Delicious   [1개]
+http://localhost:8911/#admin/VZxnG8uMFqo
+조성 Ab major   길이 20.5초
+------------------------------------------------------------------------------
+     0.00  0.75  AbMaj13                 <- 'Ab Maj9 (13)'
+     1.00  0.25  AbMaj6                  <- 'Ab Maj6'
+     1.25  0.25  A9(#11)/Eb              <- 'A 9 (#11) Eb'
+     1.50  1.00  Eb7(b9b5)               <- 'Eb 7(b9b5 5'
+     2.50  0.25  AbMaj(add2)             <- 'Ab Maj (add2)'
+     2.75  0.25  Ab/9                    <- 'Ab 6/9'
+     3.00  0.25  AbMaj(add2)             <- 'Ab Maj (add2)'
+     3.25  0.25  AbMaj13                 <- 'Ab Maj9 (13)'
+     3.50  0.25  Ab/9                    <- 'Ab 6/9'
+     3.75  0.75  Eb7(b9b5b13)            <- 'Eb 7(b9b5 5b13)'
+     4.50  0.50  Eb7(b9#5)               <- 'Eb 7(b9#5)'
+     5.00  0.25  Emin6                   <- 'E min6'
+     5.25  0.25  Ab Perfect 5th        
+     5.50  0.25  E7(#9)/Ab               <- 'E 7#9 Ab'
+     5.75  0.25  Bbmin11/Ab              <- 'Bb min7(4) Ab'
+     6.00  0.50  AbN.C.                  <- 'Ab N.C.'
+     6.50  0.25  Eb7sus4(b9b13)          <- 'Eb 7 7sus4(b9b13)'
+     6.75  0.25  Eb7sus4(b9b13)          <- 'Eb 7 7 sus4(b9b13)'
+     7.50  0.25  EMaj7sus2/Eb            <- 'E Maj7 Sus2 Eb'
+     7.75  0.25  E(add2)/Ab              <- 'E Maj C (add2) Ab'
+     8.00  0.25  Ab/9(no3)               <- 'Ab 6/9 no3)'
+     8.25  0.25  Ab Major 2nd          
+     8.50  0.25  AbMajth9(no5)           <- 'Ab Maj9 no 5th'
+     8.75  0.25  AbMaj13                 <- 'Ab Maj9 (13)'
+     9.00  1.00  Abmin11/Eb              <- 'Ab min7(11) Eb'
+    10.00  0.25  Ebs7sus(b9#9b13)        <- 'Eb 7 sUs s(b9#9b13)'
+    10.25  0.75  AbMaj13                 <- 'Ab Maj9 (13)'
+    11.00  0.50  AbMaj6                  <- 'Ab Maj6'
+    11.50  0.25  A9(#11)/Eb              <- 'A 9 (#11) Eb'
+    11.75  1.00  Eb7(b9b5)               <- 'Eb 7(b9b5 5'
+    12.75  0.75  Ab/9                    <- 'Ab 6/9'
+    13.50  0.25  AbMaj13                 <- 'Ab Maj9 (13)'
+    13.75  0.25  Ab/9                    <- 'Ab 6/9'
+    14.00  0.75  Eb7(b9b5b13)            <- 'Eb 7(b9b5 5b13)'
+    14.75  0.50  Eb7(b9#5)               <- 'Eb 7(b9#5)'
+    15.25  0.25  Dbmin#7(#11)/Ab         <- 'Db min7(# (#11) Ab'
+    15.50  0.25  Ab/9                    <- 'Ab 6/9'
+    15.75  0.25  E#7(#9)/Ab              <- 'E 7(# #9 Ab'
+    16.00  0.25  Absus4                  <- 'Ab Sus4'
+    16.25  0.50  AbN.C.                  <- 'Ab N.C.'
+>>  16.75  0.50  Eb97sus4(b9b13) (?)     <- 'Eb 79 7 sus4(b9b13)'
+    17.75  0.25  EMaj7sus2/Eb            <- 'E Maj7 Sus2 Eb'
+    18.00  0.25  Ab Major 2nd          
+    18.25  0.25  Ab/9(no3)               <- 'Ab 6/9 (no3)'
+    18.50  0.50  AbMajth9(no5)           <- 'Ab Maj9 no 5th'
+    19.00  0.25  AbMaj13                 <- 'Ab Maj9 (13)'
+    19.25  0.75  Abmin11/Eb              <- 'Ab min7(11) Eb'
+    20.00  0.50  Ebs7sus(b9#9b13)        <- 'Eb 7 sUs s(b9#9b13)'
+
+We Are Here (to Geek)   [1개]
+http://localhost:8911/#admin/WOebvnatqeQ
+조성 E minor   길이 34.0초
+------------------------------------------------------------------------------
+     0.25  2.00  Emin/9                  <- 'E min6/9'
+     2.25  2.25  E7(#9)(no5)             <- 'E 7#9(no5)'
+     4.50  1.25  Amin9                   <- 'Ar min9'
+     5.75  1.00  Amin9                   <- 'A r min9'
+     6.75  0.25  B7(b9#9)                <- 'B 7(b9#9)'
+     7.00  0.75  B7(b9)                  <- 'B 7(b9)'
+     7.75  0.50  B7(#9)                  <- 'B 7(#9)'
+     8.25  0.25  B7(b9)                  <- 'B 7(b9)'
+     8.50  0.25  BMaj(addb9)             <- 'B Maj(add b9)'
+     8.75  0.25  Emin9                   <- 'E min9'
+     9.00  2.25  Emin/9                  <- 'E min6/9'
+    11.25  2.25  E7(#9)(no5)             <- 'E 7#9(no5)'
+    13.50  2.25  Amin9                   <- 'Ar min9'
+    15.75  0.25  B7(b9#9)                <- 'B 7(b9#9)'
+    16.00  0.75  B7(b9)                  <- 'B 7(b9)'
+    16.75  0.25  B7(#9)                  <- 'B 7(#9)'
+    17.00  0.25  Bmin7                   <- 'B min7'
+    17.25  0.25  B7(b9)                  <- 'B 7(b9)'
+    17.50  0.50  Emin9                   <- 'E min9'
+    18.00  0.25  Emin7                   <- 'E min7'
+    18.25  1.75  E7sus4                  <- 'E 7sus4'
+    20.00  0.50  Bmin11                  <- 'B min7(4)'
+    20.50  2.25  C#7(#5)/B               <- 'C#7#5/ B'
+    22.75  2.25  CMaj7(#5)/B             <- 'C Maj7#5 / B'
+    25.00  2.25  C#7(#5)/B               <- 'C#7#5/ B'
+    27.25  2.25  BminMaj7                <- 'B minMaj7'
+>>  29.50  1.00  B3Aug (?)               <- 'B 3Aug'
+    30.50  1.00  CMaj7(#5)/B             <- 'C Maj7#5 / B'
+    32.50  0.25  Eb Tritone            
+
+Little L   [1개]
+http://localhost:8911/#admin/wooYD7xDPuI
+조성 Ab major (?)   길이 15.75초
+------------------------------------------------------------------------------
+     0.00  1.75  Ebmin7                  <- 'Eb min7'
+     1.75  2.25  AbMaj(add2)             <- 'Ab Maj(add2)'
+>>   4.00  1.75  F19sus4 (?)             <- 'F 19 sus4'
+     5.75  1.50  Cmin/EBb7               <- 'C min7 /E Bb'
+     7.25  0.25  Cmin/EBb7               <- 'C min7 / E Bb'
+     7.50  0.50  Emin7                   <- 'Fb min7'
+     8.00  1.75  Ebmin7                  <- 'Eb min7'
+     9.75  2.00  AbMaj(add2)             <- 'Ab Maj(add2)'
+    11.75  0.50  F7sus4                  <- 'F 7 sus4'
+    12.25  0.75  Fmin11                  <- 'F min7(11)'
+    13.00  0.25  Fmin11                  <- 'F min7(1)'
+    13.25  0.25  F7sus4                  <- 'F 7 sus4'
+    13.50  0.50  Cmin/EBb7               <- 'C min7 /E Bb'
+    14.00  1.25  Bb9sus4                 <- 'Bb 9sus4'
+    15.25  0.50  Emin7                   <- 'Fb min7'
+
+Everybody Loves The Sunshine   [1개]
+http://localhost:8911/#admin/ycUzX7QBDT0
+조성 E minor   길이 27.0초
+------------------------------------------------------------------------------
+     0.25  1.00  Fssus(#13)              <- 'F # 13s sus'
+     1.25  1.25  Eb9sus4                 <- 'Eb 9 sus4'
+     2.50  0.25  Ebs9sus                 <- 'Eb 9 SuS s4'
+     2.75  0.25  EbN.C.                  <- 'Eb N.C.'
+     3.00  1.25  Es9sus                  <- 'E 9 SuS s4'
+     4.25  1.25  E9sus4                  <- 'E 9 sus4'
+     5.50  2.00  Es9sus                  <- 'E 9 SuS s4'
+     7.50  0.25  Emin11                  <- 'E min9 (11)'
+     8.00  0.75  As13sus                 <- 'A 13s sUs'
+>>  10.25  0.50  DAbno.57(#9) (?)        <- 'DA b 7#9 9 no. 5'
+    15.00  1.25  F#min9                  <- 'F # min9'
+    17.75  1.50  Amin9                   <- 'A min9'
+    19.25  1.75  Bmin9                   <- 'B min9'
+    21.25  1.00  F#min9                  <- 'F # min9'
+    22.25  1.00  DAbmin9                 <- 'DA b min9'
+    23.25  0.50  Dbmin9                  <- 'D b min9'
+    23.75  1.75  Amin9                   <- 'A min9'
+    25.50  1.50  Bmin9                   <- 'B min9'
+
+You're the Sweetest One   [1개]
+http://localhost:8911/#admin/Z1qD9WGbTNg
+조성 A minor   길이 46.0초
+------------------------------------------------------------------------------
+     0.50  0.50  A Perfect 5th           <- 'A Pe Perfect 5th'
+     1.00  0.25  A9sus4                  <- 'A 9sus4'
+     1.25  2.75  Amin11                  <- 'A min9 (11)'
+     4.25  0.25  C Major 2nd           
+     4.50  0.50  Dmin7/C                 <- 'D min7 C'
+     5.00  0.75  Cs9sus4                 <- 'C 9s sus4'
+     5.75  1.25  E7(b5)                  <- 'E 7b5'
+     7.00  1.25  En.c.                   <- 'E n.c. 11 1'
+     8.25  0.75  Dmin11                  <- 'D min9 (11)'
+     9.00  4.75  FMaj13                  <- 'F Maj9( (13)'
+    14.50  1.25  E Tritone             
+    15.75  4.50  Ecalt7                  <- 'E 7c alt'
+    21.00  4.25  Amin11                  <- 'A min7 1'
+    25.25  1.00  Cs9sus4                 <- 'C 9s sus4'
+    26.25  0.75  C11                     <- 'C 7(9 (9) 1'
+    27.00  0.25  C11                     <- 'C 7(9 (9) 11'
+    27.25  1.00  FMaj7                   <- 'F Maj7'
+    28.25  0.75  D7sus4                  <- 'D 7 sus4'
+    29.00  0.50  E7(b9#5)                <- 'E 7(b9#5)'
+    29.50  3.75  Amin11                  <- 'A min7 11'
+    33.25  0.25  Amin11                  <- 'A min7(4)'
+>>  33.75  1.00  CsL19sus4 (?)           <- 'C 9s sus4 L1'
+    35.50  1.00  FMaj7                   <- 'F Maj7'
+    36.50  0.75  CMaj/E                  <- 'C Maj / E'
+    37.25  0.50  E7(b9#5)                <- 'E 7(b9#5)'
+    37.75  0.50  Amin7                   <- 'A min7'
+    38.25  3.75  Amin11                  <- 'A min7(1)'
+    42.00  1.00  C13sus                  <- 'C 13sus L'
+    43.75  1.00  FMaj7                   <- 'F Maj7 LO'
+    44.75  0.25  AbMaj7(#5)/E            <- 'Ab Maj7#5 / E'

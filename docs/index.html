@@ -248,9 +248,13 @@ body.detail-on .detail { display: block; }
 body.detail-on .browse { display: none; }
 
 .back {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   margin: 16px 0 12px;
   font-size: 12px;
 }
+.back .spacer { flex: 1; }
 .head2 {
   display: flex;
   flex-wrap: wrap;
@@ -436,6 +440,7 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
         <button data-sort="unsure" aria-pressed="false">불확실순</button>
       </div>
       <span class="spacer"></span>
+      <button id="btnOnlyBad" aria-pressed="false">조성 필요 <em id="badN"></em></button>
       <button id="btnCopyDrop" title="제외·확인 목록을 복사합니다">목록 복사</button>
       <button id="btnShowDropOnly" aria-pressed="false" hidden></button>
       <button id="btnShowDrop" aria-pressed="false">제외한 것 보기 <em id="dropN"></em></button>
@@ -448,7 +453,13 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
 
   <!-- 상세 -->
   <div class="detail">
-    <div class="back"><button id="btnBack">← 목록</button></div>
+    <div class="back">
+      <button id="btnBack">← 목록</button>
+      <span class="spacer"></span>
+      <button id="btnPrevSong">← 앞 곡</button>
+      <span id="songPos" class="lbl"></span>
+      <button id="btnNextSong">다음 곡 →</button>
+    </div>
     <div class="head2">
       <div>
         <div class="titlerow">
@@ -500,7 +511,10 @@ footer { margin-top: 36px; font-size: 11.5px; color: var(--ink-soft); }
 <script>
 const BASE = "data/";
 let INDEX = null, sortMode = "conf", query = "";
+let SONGCACHE = {};        // 한 번 받은 곡은 다시 받지 않는다
+let VIEW = [];             // 지금 화면에 그린 곡 차례. 앞뒤로 넘길 때 쓴다
 let alphaPick = "";        // 고른 첫 글자. 빈 값이면 전체
+let onlyBad = false;       // 오류 있는 곡만 보기
 let shown = 0;             // 지금까지 그린 개수
 const PAGE = 100;          // 한 번에 그리는 개수
 
@@ -553,7 +567,7 @@ async function load() {
   // 파일에 저장된 제외·확인 목록을 먼저 합친다.
   // 브라우저를 바꿔도 유지되고, 스크립트도 같은 파일을 본다.
   try {
-    const rv = await fetch(BASE + "review.json");
+    const rv = await fetch(BASE + "review.json?t=" + Date.now());
     if (rv.ok) {
       const d = await rv.json();
       (d.dropped || []).forEach(x => dropped.add(x));
@@ -565,6 +579,16 @@ async function load() {
   const r = await fetch(BASE + "index.json");
   INDEX = await r.json();
   document.getElementById("upd").textContent = "· " + INDEX.updated + " 기준";
+  render();
+
+  // 오류 있는 곡만 미리 받아 둔다. 확인 표시를 뺀 수를 세려면 필요하다.
+  const bad = INDEX.songs.filter(s => s.unsure > 0);
+  await Promise.all(bad.map(async s => {
+    try {
+      const rr = await fetch(BASE + "songs/" + s.id + ".json");
+      if (rr.ok) SONGCACHE[s.id] = await rr.json();
+    } catch (e) {}
+  }));
   render();
 }
 
@@ -579,7 +603,7 @@ const BAND_NOTE = {
 };
 
 function keyHtml(k) {
-  if (!k) return "—";
+  if (!k) return '<span class="q">—</span>';
   return k.replace(" (?)", ' <span class="q">?</span>');
 }
 
@@ -645,6 +669,21 @@ function render() {
   rows = rows.filter(s => !dropped.has(s.id) ||
                           document.body.classList.contains("show-dropped"));
 
+  // 손볼 곳이 남은 곡 — 판독 오류가 있거나 조성이 안 정해진 것
+  const leftOf = s => {
+    if (!s.unsure) return 0;
+    const rec = SONGCACHE[s.id];
+    if (!rec) return s.unsure;
+    return rec.progression.filter(
+      p => p.unsure && !okSet.has(okId(s.id, p.at))).length;
+  };
+  const needKey = s => (s.key || "").includes("(?)") || !s.key;
+  const needs = s => leftOf(s) > 0 || needKey(s);
+
+  document.getElementById("badN").textContent =
+    rows.filter(needs).length || "";
+  if (onlyBad) rows = rows.filter(needs);
+
   // 글자 색인 — 곡명 첫 글자로 나눈다
   buildAlpha(rows);
   if (alphaPick) {
@@ -691,6 +730,9 @@ function render() {
       render();
     });
   }
+
+  // 앞뒤로 넘길 차례를 기억한다
+  VIEW = [...area.querySelectorAll(".item")].map(b => b.dataset.id);
 
   area.querySelectorAll(".item").forEach(b => {
     b.addEventListener("click", () => { location.hash = "#admin/" + b.dataset.id; });
@@ -754,6 +796,13 @@ document.getElementById("btnCopyDrop").addEventListener("click", async e => {
     prompt("아래를 복사해 주십시오", txt);
   }
 });
+document.getElementById("btnOnlyBad").addEventListener("click", e => {
+  const b = e.currentTarget;
+  onlyBad = b.getAttribute("aria-pressed") !== "true";
+  b.setAttribute("aria-pressed", String(onlyBad));
+  shown = 0;
+  render();
+});
 document.getElementById("btnShowDrop").addEventListener("click", e => {
   const b = e.currentTarget;
   const on = b.getAttribute("aria-pressed") === "true";
@@ -766,6 +815,15 @@ document.getElementById("brand").addEventListener("click", () => {
 document.getElementById("btnBack").addEventListener("click", () => {
   location.hash = "#admin";
 });
+
+function goSong(dir) {
+  const m = location.hash.match(/^#admin\/(.+)$/);
+  if (!m || !VIEW.length) return;
+  const i = VIEW.indexOf(m[1]) + dir;
+  if (i >= 0 && i < VIEW.length) location.hash = "#admin/" + VIEW[i];
+}
+document.getElementById("btnPrevSong").addEventListener("click", () => goSong(-1));
+document.getElementById("btnNextSong").addEventListener("click", () => goSong(1));
 
 /* ---- 상세 ---- */
 let items = [], player = null, timer = null, current = null, total = 0;
@@ -799,9 +857,12 @@ function closeSong() {
 }
 
 async function openSong(id) {
-  const r = await fetch(BASE + "songs/" + id + ".json");
-  if (!r.ok) { location.hash = "#admin"; return; }
-  const rec = await r.json();
+  let rec = SONGCACHE[id];
+  if (!rec) {
+    const r = await fetch(BASE + "songs/" + id + ".json");
+    if (!r.ok) { location.hash = "#admin"; return; }
+    rec = SONGCACHE[id] = await r.json();
+  }
   const meta = (INDEX.songs || []).find(s => s.id === id) || {};
 
   document.body.classList.add("detail-on");
@@ -818,6 +879,14 @@ async function openSong(id) {
     '<div>불확실<b class="u-left">0</b></div>';
 
   paintDropBtn(id);
+
+  // 몇 번째 곡인지, 앞뒤가 있는지 표시한다
+  const i = VIEW.indexOf(id);
+  document.getElementById("songPos").textContent =
+    i >= 0 ? (i + 1) + " / " + VIEW.length : "";
+  document.getElementById("btnPrevSong").disabled = i <= 0;
+  document.getElementById("btnNextSong").disabled = i < 0 || i >= VIEW.length - 1;
+
   total = rec.duration_sec;
   document.getElementById("dur").textContent = total.toFixed(1);
   buildSections(rec);
@@ -913,6 +982,7 @@ function buildSections(rec) {
           b.querySelector(".c").textContent =
             on ? shown.replace(/\s*\(\?\)$/, "") : shown;
           updateUnsureCount();
+          render();      // 목록 숫자도 다시 센다
           return;
         }
         seek(p.at);

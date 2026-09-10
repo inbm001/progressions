@@ -67,9 +67,10 @@ for raw, want in TYPO_CASES:
 print("\n=== 물음표 붙는지")
 
 WANT_Q = {
-    "Cb 7#5 5/ A":    True,    # 5 가 두 번 잡힘
-    "A9 9( #11)":     True,    # 근음이 겹침
-    "Eb Perfect 5th": True,    # 코드가 아님
+    # 아래 셋은 규칙으로 고쳐져 이제 물음표가 안 붙는다
+    "Cb 7#5 5/ A":    False,
+    "A9 9( #11)":     False,
+    "Eb Perfect 5th": False,   # 음정 표기는 오류가 아니다
     "Bb min7":        False,   # 정상
     "Eb 9(13)":       False,   # 정상 변환
     "D 9sus4":        False,

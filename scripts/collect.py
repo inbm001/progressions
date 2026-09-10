@@ -74,6 +74,11 @@ TYPOS = [
     (r"\bMai\b",        "Maj",   True),   # j 를 i 로 읽음
     (r"\bMai(?=[0-9(])", "Maj",  True),
     (r"\bmaior\b",      "Maj",   True),
+    # Maj 가 글자 사이에 잡음이 끼며 쪼개진다. 이 채널에서 가장 흔한 오독.
+    #   'M aj' / 'Mc 1aj' / 'M 1aj' / 'M ajs j' / 'M aj i' 가 전부 Maj 다.
+    (r"\bM\s*c?\s*1?\s*aj\s*[sj]?\s*j?", "Maj", True),
+    (r"\bMaj\s*i(?=[0-9])", "Maj", True),   # 'Maj i7' -> 'Maj7'
+    (r"\bMaji(?=[0-9])",    "Maj", True),
     (r"\bminor\s*7th\b", "min7", True),   # 영어를 기호로
     (r"\bmajor\s*7th\b", "Maj7", True),
     # '3rd minor' 는 음정 표기다. minor -> min 보다 먼저 순서를 바로잡는다.
@@ -92,6 +97,14 @@ TYPOS = [
     (r"\(\s*[A-Za-z]?\s*\((?=[a-z])", "(", True),
     # 괄호 뒤에 낀 숫자 — 'Maj13( 3(#11)' -> 'Maj13(#11)'
     (r"\(\s*\d+\s*\((?=[#b])", "(", True),
+    # 괄호가 안 닫힌 채 뒤에 3 이 낀 것 — '(13 3 #11' -> '(13) #11'
+    (r"\((\d+)\s+3\s+(?=[#b])", r"(\1) ", True),
+    (r"\((\d+)\s+3\s*$",        r"(\1)",  True),
+    (r"\((\d+)\s+(?=[#b])",     r"(\1) ", True),
+    (r"\((\d+)\s*$",            r"(\1)",  True),
+    (r"\((no\s*\d+)\s*$",       r"(\1)",  True),
+    # '# 9# # 5' 처럼 변화음 사이에 공백과 # 이 흩어진 것
+    (r"#\s*(\d)#\s*#\s*(\d)", r"(#\1#\2)", True),
     # Maj·min 뒤에 낀 3 — Maj313 -> Maj13
     (r"\b(Maj|min)3(?=1[0-9])", r"\1", True),
 
@@ -103,14 +116,61 @@ TYPOS = [
     (rf"^({RT})1\s+(?=\d)", r"\1 ", True),         # C1 13sus -> C 13sus
     (rf"^({RT})\s+1(?=1[13])", r"\1 ", True),      # C 113 -> C 13
     (rf"^({RT})\s+1(?=[2-9]\s*$)", r"\1 ", True),  # C 19 -> C 9
+    # sus 뒤에는 4 나 2 만 온다. 두 자리면 앞 숫자가 잡음이다.
+    #   'suS 54' -> 'sus4' / 'SuS 64' -> 'sus4'
+    (r"\bs[uU]S?\s*(\d)?([42])\b", r"sus\2", True),
+    (r"\bS[uU]S\s*(\d)?([42])\b", r"sus\2", True),
+    # 딸림화음에 쓰는 확장음은 7·9·13 뿐이다. 3·5 는 1 을 잃은 13·15 다.
+    #   'A 3 sUs' -> 'A 13sus'
+    (r"(?<![0-9#b])3\s*(?=s[uU]S?s?\b)", "13", True),
+    # S 를 숫자 5 로 읽는 일이 잦다. 'Eb 54' -> 'Eb sus4'
+    (r"(?<![0-9#b])5([42])\b", r"sus\1", True),
+    # 'C1' 은 없는 코드다. 7 의 세로선만 읽힌 것.
+    (rf"^({RT})\s*1\s*$", r"\1 7", True),
+    # '69' 는 b9 다. b 를 6 으로 읽었다. 'E 7 69 b 5' -> 'E 7(b9b5)'
+    (r"(?<![0-9#])69k?(?=\s*b\s*5)", "b9", True),
+    # 'nos 9' 는 no5 뒤에 9 가 붙은 것이 아니라 no9 다. s 는 잡음.
+    (r"\bnos\s+(\d)\b", r"no\1", True),
+    (r"\bno\s+(\d)\b",  r"no\1", True),
+    # 괄호 안 쉼표 — 텐션 구분자다. 높은 쪽만 남기므로 앞을 버린다.
+    (r"\(\s*\d+\s*,\s*(\d+)", r"(\1", True),
+    # 여는 괄호를 잃은 채 쉼표로 나열된 텐션 — '13 9 ,11)' -> '13'
+    (r"\s+\d+\s*,\s*\d+\s*\)\s*$", "", True),
+    # 끝에 남은 슬래시 — 베이스를 못 읽은 것
+    (r"\s*/\s*$", "", True),
+    # 안 닫힌 괄호를 닫는다. 'dim7( add # 5' -> 'dim7(add#5)'
+    (r"\(\s*add\s*([#b]?)\s*(\d+)\s*$", r"(add\1\2)", True),
+    # 확장음이 붙어 나온 것 — 높은 쪽만 남긴다. 'B 79 sus2' -> 'B 9sus2'
+    (r"(?<![0-9#b])7(9|11|13)(?=\s*s[uU]S?)", r"\1", True),
+    # 확장음이 떨어져 나열된 것 — 높은 쪽만 남긴다. 'B 7 9' -> 'B 9'
+    (rf"^({RT})\s+(\d+)\s+(\d+)\s*$", r"\1 \3", True),
+    # sus 는 3음을 뺀 화음이다. add3 이 붙으면 3음이 도로 들어와 sus 가
+    # 아니게 된다. 연주자가 4음을 3음으로 바꾼 순간이므로 sus 를 뗀다.
+    #   'Eb 13gsus4(add3' -> 'Eb 13'
+    (r"[a-z]?sus[42]?\s*\(?\s*add\s*3\s*\)?\s*\d*", "", True),
     # min 뒤에 낀 1 — min17 -> min11, min19 -> min9
     (r"\bmin17\b",      "min11", True),
     (r"\bmin19\b",      "min9",  True),
+    # 'min7 7 4' 처럼 같은 숫자가 겹친 뒤 4 가 붙은 것.
+    # 4 는 괄호 없이 떨어져 있어도 텐션이므로 괄호를 씌운다.
+    (r"\b(min|Maj)(\d+)\s+\2\s+([24])\b", r"\1\2(\3)", True),
+    (r"\b(min|Maj)(\d+)\s+([24])\b",      r"\1\2(\3)", True),
+    # 코드 끝 홀로 선 1 은 11 이 잘린 것. 'min7 1' -> 'min7(11)'
+    # 아래 '높은 쪽만 남긴다' 보다 먼저 봐야 1 이 확장음으로 남지 않는다.
+    (r"\b(min|Maj)(\d+)\s+1\s*(?=/|$)", r"\1\2(11)", True),
+    (r"\b(min|Maj)(\d+)\s*71\b",        r"\1\2(11)", True),
     # 'min9 11' 처럼 확장음이 둘 나열된 것 — 높은 쪽만 남긴다
     (r"\b(min|Maj)(\d+)\s+(\d+)\b", r"\1\3", True),
-    # 1l 은 11 — 소문자 L 을 1 로 읽은 것. min9(1l) / Maj9#1l
+    # 11l 은 11 이다. 1l 규칙보다 먼저 봐야 111 이 되지 않는다.
+    (r"11l(?=[)\s]|$)", "11",    True),
+    # 1l 도 11 — 소문자 L 을 1 로 읽은 것. min9(1l) / Maj9#1l
     (r"1l\b",           "11",    True),
     (r"1l(?=[)\s])",    "11",    True),
+    # '3r rd' 는 3rd 다. 서수가 쪼개진 것.
+    (r"(\d)r\s+rd\b",   r"\1rd", True),
+    (r"(\d)\s+(st|nd|rd|th)\b", r"\1\2", True),
+    # 'Ek b' 는 Eb 다. b 앞에 잡음 글자가 낀 것.
+    (rf"^([A-G])[a-z](?=\s*b\b)", r"\1", True),
     # 괄호 안 홀로 선 1 은 11 이 잘린 것. min7(1) -> min7(11)
     (r"\((1)\)",        r"(11)", True),
     (r"\(#1\)",         "(#11)", True),
@@ -131,6 +191,12 @@ TYPOS = [
     # 근음의 # (F#13sus) 는 건드리면 안 되므로 앞에 글자가 있을 때만 본다.
     (r"(?<=[a-z])#1l(?=\d)", "#11", True),       # Maj#1l9 -> Maj#119
     (r"(?<=[a-z])#1(?=[02-9])", "#11", True),    # Maj#19 -> Maj#119
+    # #1 로 끝나거나 괄호가 닫히는 것도 #11 이다. '9(13)#1' -> '9(13)#11'
+    (r"#1\s*$",         "#11",   True),
+    (r"#1(?=\))",       "#11",   True),
+    # 괄호 안 '1i' 는 11 이다. i 를 1 로 못 읽은 것.
+    (r"\(1i\)",         "(11)",  True),
+    (r"(?<=\d)i(?=\))", "1",     True),
     (r"(?<=[a-z])l(?=\d)", "1",   True),         # Majl3 -> Maj13
     # min 뒤에 붙은 s — 판독 잡음
     (r"\bmins\b",       "min",   True),
@@ -154,6 +220,51 @@ UNSURE = [
 ]
 
 
+# 코드 문법에 쓰이는 낱말. 이것 말고 영문이 길게 붙어 있으면 화면 자막이다.
+CHORD_WORDS = re.compile(
+    r"^(Maj|maj|M|min|m|dim|aug|sus|add|alt|no|n|c|"
+    r"Perfect|Octave|Tritone|Major|Minor|st|nd|rd|th)$", re.I)
+
+
+def strip_caption(s):
+    """코드에 붙은 화면 자막을 뗀다.
+
+    'F# min9 PIANO' -> 'F# min9'
+    'D# 7(b9#5) CIVE ME THE NICHT' -> 'D# 7(b9#5)'
+
+    코드 문법에 없는 세 글자 이상 영문 덩어리를 뗀다. 근음은 건드리지 않는다.
+    """
+    # 근음 뒤에 공백 없이 긴 영문이 붙은 것도 자막이다.
+    #   'ArangedandConductedbyBobJames Maj7' -> 'A Maj7'
+    s = re.sub(rf"^({RT})([A-Za-z]{{6,}})", r"\1 ", s)
+
+    m = re.match(rf"^\s*({RT})", s)
+    if not m:
+        return s
+    head, tail = m.group(1), s[m.end():]
+
+    kept = []
+    for tok in re.split(r"(\s+)", tail):
+        if tok.isspace() or not tok:
+            kept.append(tok)
+            continue
+        # 숫자·괄호·기호가 하나라도 있으면 코드다 (N.C. 의 점 포함)
+        if re.search(r"[0-9()#b/+\-.]", tok):
+            kept.append(tok)
+            continue
+        # 순수 영문. 코드 낱말이면 남긴다.
+        if CHORD_WORDS.match(tok):
+            kept.append(tok)
+            continue
+        # 음이름 한 글자 — 베이스다. 'Maj9 / A' 의 A.
+        if re.fullmatch(r"[A-G]", tok):
+            kept.append(tok)
+            continue
+        # 나머지는 자막이다. 오자 수정 뒤에 부르므로 Maj·min 은 이미 붙어 있다.
+    out = head + "".join(kept)
+    return re.sub(r"\s+", " ", out).strip()
+
+
 def fix_typos(s):
     """글자 오독을 고친다. (고친 문자열, 확신) 를 돌려준다."""
     out, sure = s, True
@@ -162,6 +273,8 @@ def fix_typos(s):
         if new != out:
             out = new
             sure = sure and ok
+    # 자막 제거는 마지막에 한다. Maj·min 이 붙은 뒤라야 조각과 자막이 갈린다.
+    out = strip_caption(out)
     return out, sure
 
 
@@ -220,6 +333,20 @@ def pitch_class(root: str):
 
 MAJOR_SET = [0, 2, 4, 5, 7, 9, 11]
 MINOR_SET = [0, 2, 3, 5, 7, 8, 10]        # 자연단음계
+
+# 선법. 이 채널의 곡은 장조·단조로 안 갈리는 것이 많다.
+#   도리안   — 단조인데 6음이 올라간다 (Bbmin 진행에 Gb 대신 G)
+#   믹솔리디안 — 장조인데 7음이 내려간다 (딸림7 지속)
+#   리디안   — 장조인데 4음이 올라간다
+# 이름은 흔한 것부터 본다. 장·단조와 점수가 같으면 장·단조를 쓴다.
+MODES = [
+    ("major",      [0, 2, 4, 5, 7, 9, 11], 0.00),
+    ("minor",      [0, 2, 3, 5, 7, 8, 10], 0.00),
+    ("dorian",     [0, 2, 3, 5, 7, 9, 10], -0.02),
+    ("mixolydian", [0, 2, 4, 5, 7, 9, 10], -0.02),
+    ("lydian",     [0, 2, 4, 6, 7, 9, 11], -0.03),
+    ("phrygian",   [0, 1, 3, 5, 7, 8, 10], -0.03),
+]
 NAMES_SHARP = ["C", "C#", "D", "D#", "E", "F",
                "F#", "G", "G#", "A", "A#", "B"]
 NAMES_FLAT  = ["C", "Db", "D", "Eb", "E", "F",
@@ -274,11 +401,8 @@ def chord_tones(root_pc, qual):
     return [(root_pc + x) % 12 for x in t]
 
 
-def detect_key(prog):
-    """진행에서 조성을 짚는다. (표기, 확신도 0~1) 를 돌려준다."""
-    if not prog:
-        return None, 0.0
-
+def _rank_keys(prog):
+    """조성 후보를 점수순으로 돌려준다. [(점수, 으뜸음, 선법이름), ...]"""
     weight = [0.0] * 12
     root_w = [0.0] * 12
     for p in prog:
@@ -292,47 +416,97 @@ def detect_key(prog):
 
     total = sum(weight)
     if total <= 0:
-        return None, 0.0
+        return []
 
-    # 곡은 대개 으뜸음으로 시작하거나 끝난다. 그 자리를 따로 본다.
     pcs = [p.get("pc") for p in prog if p.get("pc") is not None]
     first_pc = pcs[0] if pcs else None
     last_pc = pcs[-1] if pcs else None
-
-    # 가장 오래 울린 근음도 으뜸음일 가능성이 높다
     rw_total = sum(root_w) or 1.0
     longest_pc = max(range(12), key=lambda i: root_w[i])
 
-    best = []
+    out = []
     for tonic in range(12):
-        for is_minor, scale in ((0, MAJOR_SET), (1, MINOR_SET)):
+        for name, scale, bias in MODES:
             inside = sum(weight[(tonic + s) % 12] for s in scale)
-            score = inside / total
-            # 으뜸음을 근음으로 쓴 코드가 많으면 그 조일 가능성이 높다
+            score = inside / total + bias
             score += 0.30 * (root_w[tonic] / rw_total)
-            # 딸림음(5도)도 조를 가리킨다
             score += 0.10 * (root_w[(tonic + 7) % 12] / rw_total)
-            # 시작·끝·최장 근음이 으뜸음이면 더 확실하다
             if tonic == first_pc:
                 score += 0.12
             if tonic == last_pc:
                 score += 0.08
             if tonic == longest_pc:
                 score += 0.12
-            best.append((score, tonic, is_minor))
+            out.append((score, tonic, name))
+    out.sort(key=lambda x: -x[0])
+    return out
 
-    best.sort(reverse=True)
-    top, second = best[0], best[1]
-    score, tonic, is_minor = top
 
-    # 이름은 화면에 쓰인 표기를 따른다. b 가 많으면 플랫 이름으로.
+def _key_name(prog, tonic, mode):
+    """화면 표기를 따라 이름을 짓는다. b 가 많으면 플랫 이름으로."""
     flats = sum(1 for p in prog if "b" in (p.get("root") or ""))
     sharps = sum(1 for p in prog if "#" in (p.get("root") or ""))
     names = NAMES_FLAT if flats >= sharps else NAMES_SHARP
-    label = names[tonic] + (" minor" if is_minor else " major")
+    return f"{names[tonic]} {mode}"
 
-    # 확신도 — 1등과 2등의 차이가 크면 확신이 높다
-    gap = score - second[0]
+
+def sus_ratio(prog):
+    """3음을 뺀 화음 비율. 이것이 높으면 장단을 정할 근거가 없다."""
+    if not prog:
+        return 0.0
+    n = sum(1 for p in prog
+            if re.search(r"(sus|no3)", p.get("quality") or "", re.I))
+    return n / len(prog)
+
+
+SUS_ONLY = 0.65       # 이 이상이면 조성 대신 'sus 진행' 으로 적는다
+
+
+def detect_key(prog):
+    """진행에서 조성을 짚는다. (표기, 확신도 0~1) 를 돌려준다.
+
+    셋 중 하나로 적는다.
+      1. 3음을 뺀 화음이 대부분이면 조성 없이 'sus 진행'
+      2. 앞뒤 조가 다르면 'E minor -> F minor'
+      3. 그 밖에는 조성 하나. 확신이 낮으면 (?) 를 붙인다.
+    """
+    if not prog:
+        return None, 0.0
+
+    # 1. sus 로만 된 진행 — 장단을 정하는 것 자체가 틀린 접근이다
+    if sus_ratio(prog) >= SUS_ONLY:
+        return "sus 진행", 1.0
+
+    # 2. 앞뒤로 갈라 조가 바뀌는지 본다
+    n = len(prog)
+    if n >= 8:
+        ra = _rank_keys(prog[: n // 2])
+        rb = _rank_keys(prog[n // 2:])
+        if ra and rb and ra[0][1] != rb[0][1]:
+            # 각 절반 안에서 으뜸음이 뚜렷해야 전조로 본다
+            ga = ra[0][0] - next((x[0] for x in ra if x[1] != ra[0][1]), 0)
+            gb = rb[0][0] - next((x[0] for x in rb if x[1] != rb[0][1]), 0)
+            if ga * 6 >= 0.4 and gb * 6 >= 0.4:
+                a = _key_name(prog, ra[0][1], ra[0][2])
+                b = _key_name(prog, rb[0][1], rb[0][2])
+                return f"{a} → {b}", 1.0
+
+    return _detect_key_single(prog)
+
+
+def _detect_key_single(prog):
+    """조성 하나로 짚는다."""
+    best = _rank_keys(prog)
+    if not best:
+        return None, 0.0
+
+    score, tonic, name = best[0]
+    label = _key_name(prog, tonic, name)
+
+    # 확신도 — 으뜸음이 다른 후보와의 차이로 잰다.
+    # 같은 으뜸음의 다른 선법은 이름만 다르지 자리는 같으므로 제외한다.
+    other = next((b for b in best if b[1] != tonic), None)
+    gap = score - other[0] if other else score
     conf = max(0.0, min(1.0, gap * 6))
     return label, round(conf, 2)
 
